@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+
+<header>
+<h1>中小企業向け支援策オープンデータ</h1>
+<input id=filter placeholder=フィルタ><br>
+</header>
+
+<main id="container"></main>
+
+<footer>
+DATA: <a href=https://j-net21.smrj.go.jp/index.html>J-Net21[中小企業ビジネス支援サイト]</a> → <a href=https://github.com/code4fukui/JNet21>CSV on GitHub by Code for FUKUI</a><br>
+</footer>
+
+
+<script type="module">
+import { CSV } from "https://js.sabae.cc/CSV.js";
+import { create } from "https://js.sabae.cc/stdcomp.js";
+
+onload = async () => {
+  const data = CSV.toJSON(await CSV.fetch("j-net21_support-list.csv"));
+  data.reverse();
+  const show = () => {
+    container.innerHTML = "";
+    const key = filter.value;
+    data.forEach(d => {
+      if (JSON.stringify(d).indexOf(key) == -1) {
+        return;
+      }
+      create("div", container).innerHTML = `
+        <h2><a href=${d.url}>${d.title}</a></h2>
+        <div>${d.date} - ${d.subtitle} - ${d.category}</div>
+        <div>${d.tags.split(",").map(tag => `<span class=tag>${tag}</span>`).join("")}</div>
+        <div class=body>${d.body}</div>`;
+    });
+  };
+  filter.onchange = show;
+  show();
+};
+</script>
+
+<style>
+#container > div {
+  border: 5px solid green;
+  padding: 1em;
+  margin: 1em;
+}
+h2 {
+  margin: 0;
+}
+.body {
+  font-size: 85%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.tag {
+  display: inline-block;
+  margin: .3em .3em .3em 0;
+  padding: .2em 1em;
+  border: 1px solid black;
+}
+</style>
