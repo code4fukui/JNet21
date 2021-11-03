@@ -34,10 +34,12 @@ const scrapeCovid19Support = async (pref, bodyfetch) => {
       const n = a.text.indexOf("：");
       const title = n >= 0 ? a.text.substring(n + 1) : a.text;
       const category = n >= 0 ? a.text.substring(0, n) : "";
+      const date = new Day().toString();
       return {
         url: a.attributes.href,
         category,
         title,
+        date,
       };
     });
     return d;
