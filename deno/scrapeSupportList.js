@@ -4,8 +4,10 @@ import { Day } from "https://js.sabae.cc/DateTime.js";
 import { fetchOrLoad } from "./fetchOrLoad.js";
 import { mergeCSV } from "./mergeCSV.js";
 
+const listfetch = true;
+
 const url = "https://j-net21.smrj.go.jp/support/list.html";
-const html = await fetchOrLoad(url);
+const html = await fetchOrLoad(url, listfetch);
 //const html = await Deno.readTextFile("temp/list.html");
 const dom = HTMLParser.parse(html);
 const lls = dom.querySelectorAll("li.columnItem");

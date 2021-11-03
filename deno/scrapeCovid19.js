@@ -16,7 +16,8 @@ const scrapeCovid19Support = async (pref, bodyfetch) => {
   }
   const url = "https://j-net21.smrj.go.jp/support/covid-19/regional/" + prefen.toLowerCase() + ".html";
 
-  const html = await fetchOrLoad(url);
+  const listfetch = true;
+  const html = await fetchOrLoad(url, listfetch);
   const dom = HTMLParser.parse(html);
   const main = dom.querySelector("main");
   const data = {};
