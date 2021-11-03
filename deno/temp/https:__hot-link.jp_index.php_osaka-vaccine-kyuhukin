@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="/updates/concrete5-8.4.4/concrete/themes/elemental/css/bootstrap-modified.css">
+    <link href="/application/files/cache/css/elemental/main.css?ts=1627628336" rel="stylesheet" type="text/css" media="all">    
+<title>大阪府新型コロナウイルスワクチン接種促進協力金</title>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta name="generator" content="concrete5 - 8.4.4"/>
+<link rel="shortcut icon" href="https://hot-link.jp/application/files/2615/3666/5121/B008236700-HOTLink-favicon.ico" type="image/x-icon"/>
+<link rel="icon" href="https://hot-link.jp/application/files/2615/3666/5121/B008236700-HOTLink-favicon.ico" type="image/x-icon"/>
+<link rel="canonical" href="https://hot-link.jp/index.php/osaka-vaccine-kyuhukin">
+<script type="text/javascript">
+    var CCM_DISPATCHER_FILENAME = "/index.php";
+    var CCM_CID = 1994;
+    var CCM_EDIT_MODE = false;
+    var CCM_ARRANGE_MODE = false;
+    var CCM_IMAGE_PATH = "/updates/concrete5-8.4.4/concrete/images";
+    var CCM_TOOLS_PATH = "/index.php/tools/required";
+    var CCM_APPLICATION_URL = "https://hot-link.jp";
+    var CCM_REL = "";
+    var CCM_ACTIVE_LOCALE = "ja_JP";
+</script>
+
+<style type="text/css" data-area-style-area-handle="Main29" data-block-style-block-id="17847" data-style-set="117">.ccm-custom-style-container.ccm-custom-style-main29-17847{margin-top:50px}</style><style type="text/css" data-area-style-area-handle="Header Site Title" data-block-style-block-id="15117" data-style-set="1303">.ccm-custom-style-container.ccm-custom-style-headersitetitle-15117{margin-top:15px}</style><style type="text/css" data-area-style-area-handle="Header Search" data-block-style-block-id="14375" data-style-set="1188">.ccm-custom-style-container.ccm-custom-style-headersearch-14375{text-align:right}</style><style type="text/css" data-area-style-area-handle="Header Search" data-block-style-block-id="16468" data-style-set="1681">.ccm-custom-style-container.ccm-custom-style-headersearch-16468{margin-left:125px;text-align:right}</style>
+<link href="/packages/hw_back_to_top/css/back-to-top.css" rel="stylesheet" type="text/css" media="all">
+<link href="/updates/concrete5-8.4.4/concrete/css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="/updates/concrete5-8.4.4/concrete/js/jquery.js"></script>
+<!--[if lt IE 9]><script type="text/javascript" src="/updates/concrete5-8.4.4/concrete/js/ie/html5-shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="/updates/concrete5-8.4.4/concrete/js/ie/respond.js"></script><![endif]-->
+<link href="/updates/concrete5-8.4.4/concrete/css/responsive-slides.css" rel="stylesheet" type="text/css" media="all">
+<link href="/updates/concrete5-8.4.4/concrete/blocks/image_slider/view.css" rel="stylesheet" type="text/css" media="all">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-203665511-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-203665511-1');
+</script>    <style type="text/css">#concrete5-brand{
+    display: none;
+}
+
+div.ccm-page h1.page-title {
+    text-transform: none;
+}
+
+@media print {
+a[href]:after {
+content:none;
+}
+}
+</style>
+    <meta name="google-site-verification" content="qoEAJyh4mgEKOItdPUhIZVwWHYXs3KT2gvxEwg-ZCGI" />    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+            var msViewportStyle = document.createElement('style');
+            msViewportStyle.appendChild(
+                document.createTextNode(
+                    '@-ms-viewport{width:auto!important}'
+                )
+            );
+            document.querySelector('head').appendChild(msViewportStyle);
+        }
+    </script>
+</head>
+<body>
+
+<div class="ccm-page page-type-Site-top page-template-full">
+
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4 col-xs-6">
+                
+
+        <div class="ccm-custom-style-container ccm-custom-style-headersitetitle-15117"
+            >
+    <picture><!--[if IE 9]><video style='display: none;'><![endif]--><source srcset="https://hot-link.jp/application/files/1415/3673/1456/HOTLink-Logo.png" media="(min-width: 900px)"><source srcset="https://hot-link.jp/application/files/1415/3673/1456/HOTLink-Logo.png" media="(min-width: 768px)"><source srcset="https://hot-link.jp/application/files/1415/3673/1456/HOTLink-Logo.png"><!--[if IE 9]></video><![endif]--><img src="https://hot-link.jp/application/files/1415/3673/1456/HOTLink-Logo.png" alt="" class="ccm-image-block img-responsive bID-15117"></picture>
+    </div>
+            </div>
+            <div class="col-sm-5 col-xs-6">
+                
+
+    
+            </div>
+                            <div class="col-sm-3 col-xs-12">
+                    
+
+        <div class="ccm-custom-style-container ccm-custom-style-headersearch-14375"
+            >
+    <h4 class="login-logout-link"><a href="https://hot-link.jp/index.php/login">ログイン</a></h4>
+
+    </div>
+                </div>
+                        </div>
+    </div>
+</header>
+
+<main>
+    
+
+<div class="container"><div class="row"><div class="col-sm-12">    <div class="row"><div class="col-sm-2"></div><div class="col-sm-8">
+
+    <p style="text-align: center;"><span style="color:#2980b9;"><span style="font-size:36px;"><strong>大阪府新型コロナウイルスワクチン接種</strong></span></span></p>
+
+<p style="text-align: center;"><span style="color:#2980b9;"><span style="font-size:36px;"><strong>促進協力金</strong></span></span></p>
+
+</div><div class="col-sm-2">
+
+        <a href="#" class="hw-back-to-top">
+        <i class="fa fa-chevron-up"></i>
+    </a>
+
+</div></div>
+</div></div></div>
+
+    <script>
+$(document).ready(function(){
+    $(function () {
+        $("#ccm-image-slider-16749").responsiveSlides({
+            prevText: "",   // String: Text for the "previous" button
+            nextText: "",
+				nav:true,
+		            timeout: 4000,            speed: 500,                                            });
+    });
+});
+</script>
+
+<div class="ccm-image-slider-container ccm-block-image-slider-arrows" >
+    <div class="ccm-image-slider">
+        <div class="ccm-image-slider-inner">
+
+                <ul class="rslides" id="ccm-image-slider-16749">
+                            <li>
+                                                                <div class="ccm-image-slider-text">
+                                                        </div>
+                </li>
+                    </ul>
+                </div>
+
+    </div>
+</div>
+
+
+
+<div class="container"><div class="row"><div class="col-sm-12">    <div class="row"><div class="col-sm-4">
+
+        <div class="ccm-custom-style-container ccm-custom-style-main29-17847"
+            >
+    <h3><span style="font-size:22px">【お問合せはこちら】</span></h3>
+
+<h1><span style="font-size:26px"><span style="font-family:Courier New,Courier,monospace"><strong><span style="color:#2980b9"><span style="text-align:left; text-transform:none; -webkit-text-stroke-width:0px"><span style="letter-spacing:normal"><span style="font-style:normal"><span style="font-variant:normal"><span style="font-weight:400"><span style="text-decoration:none"><span style="word-spacing:0px"><span style="display:inline !important"><span style="white-space:pre"><span style="orphans:2"><span style="float:none"><span style="background-color:#ffffff">接種促進協力金コールセンター</span></span></span></span></span></span></span></span></span></span></span></span></span></strong></span></span></h1>
+
+<p><span style="font-size:20px"><span style="font-family:Arial,Helvetica,sans-serif">TEL　　 ：</span></span><span style="font-size:22px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="color:black"><span style="text-align:left; color:#333333; -webkit-text-stroke-width:0px"><span style="text-transform:none"><span style="letter-spacing:normal"><span style="font-style:normal"><span style="font-variant:normal"><span style="font-weight:400"><span style="text-decoration:none"><span style="word-spacing:0px"><span style="display:inline !important"><span style="white-space:pre-wrap"><span style="orphans:2"><span style="float:none"><span style="overflow-wrap:break-word"><span style="background-color:#ffffff">06-6191-0608</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size:20px"><span style="font-family:Arial,Helvetica,sans-serif"></span></span></p>
+
+<p><span style="font-size:20px">受付時間：月～金(11:00～19:00)</span></p>
+
+<p>　　　　　<span style="font-size:14px">※祝日及び年末年始を除く</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:20px"><span style="color:#2980b9"><strong>&nbsp;</strong></span></span><span style="font-size:16px"><span style="color:#2980b9"><strong><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;">・様式のダウンロードはこちらからお願いします&darr;&darr;</span></span></span></strong></span></span><span style="font-size:20px"><span style="color:#2980b9"><strong><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"></span></span></span></strong></span></span></p>
+
+<p><span style="font-size:18px"></span><span style="font-size:18px;">■<strong>第３期用</strong></span><span style="font-size:14px;"><strong>（令和3年10月3日から12月4日接種分）</strong></span><span style="font-size:22px"></span><span style="color:null"><span style="font-size:14px"></span></span></p>
+
+<p><span style="font-size:16px"></span></p>
+
+<p><span style="font-size:16px"><u><a href="https://hot-link.jp/index.php/download_file/view/7864/1994">【診療所用】実績報告書・請求書(Excel形式)</a></u></span></p>
+
+<p><u><font color="#000012"><span style="font-size:16px"><a href="https://hot-link.jp/index.php/download_file/view/7866/1994">【病院用】実績報告書・請求書(Excel形式)</a></span></font></u></p>
+
+<p><span style="font-size:16px"></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:16px"><a href="https://hot-link.jp/index.php/download_file/view/7863/1994"><u>【診療所用】実績報告書・請求書(PDF形式)</u></a></span></p>
+
+<p><span style="font-size:16px"><a href="https://hot-link.jp/index.php/download_file/view/7865/1994"><u>【病院用】実績報告書・請求書(PDF形式)</u></a></span></p>
+
+<p>&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">　<span style="font-size:16px">実績報告書、</span><span style="font-size:16px">請求書を作成の上、申請手続にお進みください。</span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="color:#2980b9"><span style="color:#2980b9"><span style="color:#2980b9"><strong><span style="font-size:10.5pt"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-size:10.0pt"><span style="font-family:&quot;Meiryo UI&quot;"><span style="font-size:18px"></span></span></span></span></span></span></strong><span style="color:#2980b9"><span style="color:#2980b9"><span style="color:#2980b9"><strong><span style="font-size:10.5pt"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-size:10.0pt"><span style="font-family:&quot;Meiryo UI&quot;"><span style="font-size:18px">　・<u><font color="#000012"><a href="https://hot-link.jp/index.php/download_file/view/7862/1994">【記入例】実績報告書、請求書(Excel形式)</a></font></u></span></span></span></span></span></span></strong></span></span></span></span></span></span></p>
+
+    </div>
+</div><div class="col-sm-8">
+
+    <p><span style="color:#c0392b;"><strong><span style="font-size:18px;"></span></strong></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="color:#c0392b;"><strong><span style="font-size:18px;">　　※第２期分（令和３年８月１日から１０月２日接種分）の申請受付は締め切りました。</span></strong></span></p>
+
+<p><span style="color:#c0392b;"><strong><span style="font-size:18px;">　　　第３期分（令和３年１０月３日から１２月４日接種分）の申請受付は</span></strong></span></p>
+
+<p><span style="color:#c0392b;"><strong><span style="font-size:18px;">　　　</span></strong></span><span style="color:#c0392b;"><strong><span style="font-size:18px;">１２月６日（月曜日）から開始します。</span></strong></span><span style="color:#c0392b;"><strong><span style="font-size:18px;"></span></strong></span></p>
+
+<p><span style="color:#c0392b;"><strong><span style="font-family:Arial,Helvetica,sans-serif;"><span style="text-align: left; text-transform: none; text-indent: 0px; letter-spacing: normal; font-size: 108%; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; display: inline !important; white-space: pre; orphans: 2; float: none; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"></span></span></strong></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<blockquote>
+<p><span style="color:null"><b>事業概要</b></span></p>
+</blockquote>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><font face="Arial,Helvetica,sans-serif"><span style="font-size:16px"><span style="text-align:left; color:#000000; -webkit-text-stroke-width:0px"><span style="text-transform:none"><span style="letter-spacing:normal"><span style="font-style:normal"><span style="font-variant:normal"><span style="font-weight:400"><span style="text-decoration:none"><span style="word-spacing:0px"><span style="display:inline !important"><span style="white-space:pre"><span style="orphans:2"><span style="float:none"><span style="background-color:#ffffff">　大阪府では、新型コロナウイルスワクチン接種回数の増加を図るため、個別接種促進の支援を目的に</span></span></span></span></span></span></span></span></span></span></span></span></span></span></font></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:16px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="text-align:left; color:#000000; -webkit-text-stroke-width:0px"><span style="text-transform:none"><span style="letter-spacing:normal"><span style="font-style:normal"><span style="font-variant:normal"><span style="font-weight:400"><span style="text-decoration:none"><span style="word-spacing:0px"><span style="display:inline !important"><span style="white-space:pre"><span style="orphans:2"><span style="float:none"><span style="background-color:#ffffff">　対象期間(注1)に要件を満たすワクチン接種を行った医療機関(注2)に対して協力金を支給します。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:16px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="text-align:left; color:#000000; -webkit-text-stroke-width:0px"><span style="text-transform:none"><span style="letter-spacing:normal"><span style="font-style:normal"><span style="font-variant:normal"><span style="font-weight:400"><span style="text-decoration:none"><span style="word-spacing:0px"><span style="display:inline !important"><span style="white-space:pre"><span style="orphans:2"><span style="float:none"><span style="background-color:#ffffff">　注1：対象期間は、</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:16px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="text-align:left; color:#000000; -webkit-text-stroke-width:0px"><span style="text-transform:none"><span style="letter-spacing:normal"><span style="font-style:normal"><span style="font-variant:normal"><span style="font-weight:400"><span style="text-decoration:none"><span style="word-spacing:0px"><span style="display:inline !important"><span style="white-space:pre"><span style="orphans:2"><span style="float:none"><span style="background-color:#ffffff">　　　 第1期：令和3年5月9日から7月31日まで</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:16px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="text-align:left; color:#000000; -webkit-text-stroke-width:0px"><span style="text-transform:none"><span style="letter-spacing:normal"><span style="font-style:normal"><span style="font-variant:normal"><span style="font-weight:400"><span style="text-decoration:none"><span style="word-spacing:0px"><span style="display:inline !important"><span style="white-space:pre"><span style="orphans:2"><span style="float:none"><span style="background-color:#ffffff">　　　 第2期：令和3年8月1日から10月2日まで</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:16px"><span style="font-family:Arial,Helvetica,sans-serif"><span style="text-align:left; color:#000000; -webkit-text-stroke-width:0px"><span style="text-transform:none"><span style="letter-spacing:normal"><span style="font-style:normal"><span style="font-variant:normal"><span style="font-weight:400"><span style="text-decoration:none"><span style="word-spacing:0px"><span style="display:inline !important"><span style="white-space:pre"><span style="orphans:2"><span style="float:none"><span style="background-color:#ffffff">　 　　第3期：令和3年10月3日から12月4日までの計3回です。</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="color:null">　<font face="Arial,Helvetica,sans-serif"><font style="background-color:#ffffff"><span style="font-size:16px"><span style="text-align:left; text-transform:none; -webkit-text-stroke-width:0px"><span style="letter-spacing:normal"><span style="font-style:normal"><span style="font-variant:normal"><span style="font-weight:400"><span style="text-decoration:none"><span style="word-spacing:0px"><span style="display:inline !important"><span style="white-space:pre"><span style="orphans:2"><span style="float:none">注2：対象医療機関は、集合契約方式による市町村との委託契約を締結し、</span></span></span></span></span></span></span></span></span></span></span></span></font></font></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="color:null"><font face="Arial,Helvetica,sans-serif"><font style="background-color:#ffffff"><span style="font-size:16px"><span style="text-align:left; text-transform:none; -webkit-text-stroke-width:0px"><span style="letter-spacing:normal"><span style="font-style:normal"><span style="font-variant:normal"><span style="font-weight:400"><span style="text-decoration:none"><span style="word-spacing:0px"><span style="display:inline !important"><span style="white-space:pre"><span style="orphans:2"><span style="float:none">　 　 　ワクチンの配分・供給が受けられる診療所と病院です。</span></span></span></span></span></span></span></span></span></span></span></span></font></font></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:16px">　 ※下記URLの新型コロナウイルス感染症に係るワクチン接種の契約受付システム(V-SYS)に</span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">　　&nbsp; <span style="font-size:16px">登録している医療機関になります。(<a href="https://cont-mhlw.force.com/mhlw/vs_ininjyotouroku">https://cont-mhlw.force.com/mhlw/vs_ininjyotouroku</a>)</span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="color:#c0392b;"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:16px;"><span style="color:#c0392b;">　　</span><span style="color:null;"><strong>※時間外・休日の接種に対する加算（時間外： 730円、休日： 2,130円）は、</strong></span></span><span style="color:null;"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="color:null;"><strong><span style="font-size:16px;">　　　市町村への請求になります。 </span><span style="font-size:16px;">医療機関が所在する市町村へお問い合わせください。</span></strong></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black"></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;">　<span style="color:#3498db"><b>【協力金支給要件】</b></span></span></span></span>　</span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black"><strong>&nbsp; ＜診療所＞</strong></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　①週１００回以上又は週１５０回以上のワクチン接種を</span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　　 各対象期間に４週間以上行った場合</span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<table class="Table" style="border:1pt solid black; width:424px; margin-left:72.35pt; border-collapse:collapse" width="0">
+	<tbody>
+		<tr style="height:15.35pt">
+			<td style="border:1pt solid black; background:#deebf7; padding:3.6pt 7.2pt; width:211px; height:15.35pt" valign="top" width="187">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><strong><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">接種回数</span></span></span></span></span><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">(<span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">1</span></span><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">週間当たり</span></span></span></span></span>)</span></span><span style="font-family:&quot;Meiryo UI&quot;"></span></span></span></span></strong></p>
+			</td>
+			<td style="background:#deebf7; border-width:1pt 1pt 1pt medium; border-style:solid solid solid none; border-color:black black black currentColor; padding:3.6pt 7.2pt; width:209px; height:15.35pt" valign="top" width="187">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><strong><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">協力金単価</span></span></span></span></span><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">(1回当たり)</span></span><span style="font-family:&quot;Meiryo UI&quot;"></span></span></span></span></strong></p>
+			</td>
+		</tr>
+		<tr style="height:14.35pt">
+			<td style="border-width:medium 1pt 1pt; border-style:none solid solid; border-color:currentColor black black; padding:3.6pt 7.2pt; width:211px; height:14.35pt" valign="top" width="187">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">100</span></span><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">回～149回</span></span><span style="font-family:&quot;Meiryo UI&quot;"></span></span></span></span></p>
+			</td>
+			<td style="border-width:medium 1pt 1pt medium; border-style:none solid solid none; border-color:currentColor black black currentColor; padding:3.6pt 7.2pt; width:209px; height:14.35pt" valign="top" width="187">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">2,000</span></span><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">円</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr style="height:14.35pt">
+			<td style="border-width:medium 1pt 1pt; border-style:none solid solid; border-color:currentColor black black; padding:3.6pt 7.2pt; width:211px; height:14.35pt" valign="top" width="187">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">150</span></span><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">回以上</span></span><span style="font-family:&quot;Meiryo UI&quot;"></span></span></span></span></p>
+			</td>
+			<td style="border-width:medium 1pt 1pt medium; border-style:none solid solid none; border-color:currentColor black black currentColor; padding:3.6pt 7.2pt; width:209px; height:14.35pt" valign="top" width="187">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">3,000</span></span><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">円</span></span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　　　注：同一の週を週１００回以上及び週１５０回以上として重複して請求はできません。</span></span><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black"></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　②１日５０回以上のワクチン接種を各対象期間に行った場合</span></span></span></span></span></p>
+
+<table class="Table" style="border:1pt solid black; width:424px; margin-left:72.35pt; border-collapse:collapse" width="0">
+	<tbody>
+		<tr style="height:15.35pt">
+			<td style="background: rgb(222, 235, 247); padding: 3.6pt 7.2pt; border: 1pt solid black; border-image: none; width: 211px; height: 15.35pt; text-align: center;" valign="top" width="187"><strong><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">協力金単価</span></span></span></span></span><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">(1日当たり)</span></span></span></span></span></strong></td>
+		</tr>
+		<tr style="height:14.35pt">
+			<td style="border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentColor black black; padding: 3.6pt 7.2pt; width: 211px; height: 14.35pt; text-align: center;" valign="top" width="187"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">10万円</span></span></span></span></span><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">（定額）</span></span></span></span></span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　　　　　　　　注：①と重複して請求はできません。</span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　<strong>＜病院＞</strong></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　①１日５０回以上のワクチン接種を<span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">各対象期間に</span></span></span></span></span>行った場合</span></span></span></span></span></p>
+
+<table class="Table" style="border:1pt solid black; width:424px; margin-left:72.35pt; border-collapse:collapse" width="0">
+	<tbody>
+		<tr style="height:15.35pt">
+			<td style="background: rgb(222, 235, 247); padding: 3.6pt 7.2pt; border: 1pt solid black; border-image: none; width: 211px; height: 15.35pt; text-align: center;" valign="top" width="187"><strong><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">協力金単価</span></span></span></span></span><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">(1日当たり)</span></span></span></span></span></strong></td>
+		</tr>
+		<tr style="height:14.35pt">
+			<td style="border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentColor black black; padding: 3.6pt 7.2pt; width: 211px; height: 14.35pt; text-align: center;" valign="top" width="187"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">10万円</span></span></span></span></span><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">（定額）</span></span></span></span></span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　➁特別な接種体制を確保した場合<span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">（注1）</span></span></span></span></span>であって、1日50回以上の接種を週１日以上</span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><font face="&quot;Meiryo UI&quot;"><font size="4"><span style="color:null"><span style="text-justify:inter-ideograph">　 　達成する週が、</span></span><span style="color:null"><span style="text-justify:inter-ideograph">各対象期間</span></span></font></font><span style="color:null"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;">に４週間以上ある場合には、</span></span></span></span></span><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">①に加えて、以下の単価による</span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">　　 <span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">所要額を追加で支給します。ただし、対象となる日は、</span></span></span></span></span><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">1日50回以上の接種を行った日に限ります。</span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black"></span></span></span></span></span></p>
+
+<table class="Table" style="border:1pt solid black; width:423px; margin-left:77.95pt; border-collapse:collapse" width="0">
+	<tbody>
+		<tr style="height:9.25pt">
+			<td style="border:1pt solid black; background:#deebf7; padding:3.6pt 7.2pt; width:145px; height:9.25pt" valign="top" width="142">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><b><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">職種</span></span></b><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black"></span></span></span></span></span></p>
+			</td>
+			<td style="background:#deebf7; border-width:1pt 1pt 1pt medium; border-style:solid solid solid none; border-color:black black black currentColor; padding:3.6pt 7.2pt; width:272px; height:9.25pt" valign="top" width="217">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><b><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">協力金単価</span></span></b></span></span></span><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><b><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">（1人1時間当たり）</span></span></b><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black"></span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr style="height:4.85pt">
+			<td style="border-width:medium 1pt 1pt; border-style:none solid solid; border-color:currentColor black black; padding:3.6pt 7.2pt; width:145px; height:4.85pt" valign="top" width="142">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">医師</span></span></span></span></span></p>
+			</td>
+			<td style="border-width:medium 1pt 1pt medium; border-style:none solid solid none; border-color:currentColor black black currentColor; padding:3.6pt 7.2pt; width:272px; height:4.85pt" valign="top" width="217">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">7,550</span></span><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">円</span></span></span></span></span></p>
+			</td>
+		</tr>
+		<tr style="height:4.85pt">
+			<td style="border-width:medium 1pt 1pt; border-style:none solid solid; border-color:currentColor black black; padding:3.6pt 7.2pt; width:145px; height:4.85pt" valign="top" width="142">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">看護師等(注2)</span></span></span></span></span></p>
+			</td>
+			<td style="border-width:medium 1pt 1pt medium; border-style:none solid solid none; border-color:currentColor black black currentColor; padding:3.6pt 7.2pt; width:272px; height:4.85pt" valign="top" width="217">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">2,760</span></span><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">円</span></span></span></span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black"></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　　　　　　　　注1：通常診療とは別に、接種のための特別な人員体制を確保した場合であって、</span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　　　　　　　　　　 　 休日、休診日、時間外、平日診療時間内を問いません。</span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">　　　　　　　&nbsp; 注2：看護師等には、接種業務に従事する方であれば、看護師、薬剤師のほか</span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><font face="&quot;Meiryo UI&quot;"><font size="4"><span style="color:null"><span style="text-justify:inter-ideograph">　　　　　　　　　　&nbsp; 　事務職員も含まれます。</span></span></font></font></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black"></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>　<span style="font-size:20px"> 【協力金の申請から受領までの流れ】</span></strong></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>　　<span style="color:#3498db"><span style="font-size:18px">《 </span><span style="font-size:18px">診療所・病院 》　　</span></span></strong><strong><span style="color:null"><span style="font-size:18px">実績報告書及び請求書を作成（府指定様式）</span></span></strong></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <span style="font-size:24px">&darr;　　</span><span style="font-size:16px">申請書類（実績報告書、請求書及び預金通帳の写し）をWEB又は郵送で提出</span><span style="font-size:24px"></span></strong></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>　<span style="color:#3498db"><span style="font-size:18px">《</span></span><span style="color:#3498db"><span style="font-size:18px"> 大阪府</span></span><span style="color:#3498db"><span style="font-size:18px">新型コロナウイルスワクチン</span></span></strong><strong><span style="color:#3498db"><span style="font-size:18px">接種促進協力金事務局</span></span><span style="color:#3498db"><span style="font-size:18px"> 》　<font color="#001000">書類を</font></span></span></strong><span style="font-size:18px"><span style="font-size:18px"><strong><font color="#001000">審査</font></strong></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <span style="font-size:24px">&darr;　　</span><span style="font-size:18px">VRSの接種記録と突合</span><span style="font-size:24px"></span></strong></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>　　<span style="color:#3498db"><span style="font-size:18px">《 </span></span><span style="color:#3498db"><span style="font-size:18px">診療所・病院 》</span></span></strong></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><b>　　〈審査完了〉協力金受領（審査完了後、速やかに振込通知書を送付します。）<span style="font-size:18px"></span></b></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>　　　　　　　　※振込と通知書の送付が前後する可能性があります。</strong></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>　　〈審査保留〉書類の不備やVRSの未入力等があれば、照会や訂正の依頼を</strong><strong>することがあります。</strong></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &rarr;完了次第、協力金受領</strong></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"></span></p>
+
+<table align="left" class="Table" style="border:1pt solid black; width:682px; margin-right:4.85pt; margin-left:4.85pt; border-collapse:collapse" width="98%">
+	<tbody>
+		<tr style="height:15.35pt">
+			<td style="background: rgb(222, 235, 247); padding: 3.6pt 7.2pt; border: 1pt solid black; border-image: none; width: 319px; height: 15.35pt;" valign="top" width="25%">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><b><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black">ワクチン接種実施時期</span></span></b></span></span></span></p>
+			</td>
+			<td style="background: rgb(222, 235, 247); border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: black black black currentColor; padding: 3.6pt 7.2pt; width: 359px; height: 15.35pt;" valign="top" width="25%">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="color:null"><b><font face="&quot;Meiryo UI&quot;"><font size="4">受付期間</font></font></b></span></p>
+			</td>
+		</tr>
+		<tr style="height:10.05pt">
+			<td style="border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentColor black black; padding: 3.6pt 7.2pt; width: 319px; height: 10.05pt;" valign="top" width="25%">
+			<p align="center" style="text-align:center; margin:0mm 0mm 0pt"><span style="color:null"><font face="&quot;Meiryo UI&quot;"><font size="4">第1期：令和3年5月9日から7月31日</font></font></span></p>
+			</td>
+			<td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor black black currentColor; padding: 3.6pt 7.2pt; width: 359px; height: 10.05pt; text-align: center;" valign="top" width="25%"><span style="color:null"><font face="&quot;Meiryo UI&quot;"><font size="4">令和3年8月6日から9月6日</font></font><span style="color:null"></span><span style="color:#c0392b"><font face="&quot;Meiryo UI&quot;"><font size="4">【受付終了】</font></font></span></span></td>
+		</tr>
+		<tr style="height:12.55pt">
+			<td style="border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentColor black black; padding: 3.6pt 7.2pt; width: 319px; height: 12.55pt; text-align: center;" valign="top" width="25%"><span style="color:null"><font face="&quot;Meiryo UI&quot;"><font size="4">第2期：令和3年</font></font></span><font face="&quot;Meiryo UI&quot;"><font size="4">8月1日から10月2日</font></font></td>
+			<td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor black black currentColor; padding: 3.6pt 7.2pt; width: 359px; height: 12.55pt; text-align: center;" valign="top" width="25%"><span style="color:null"><font face="&quot;Meiryo UI&quot;"><font size="4">令和3年10月4日から10月29日</font></font><span style="color:null"><span style="color:#c0392b"><font face="&quot;Meiryo UI&quot;"><font size="4">【受付終了】</font></font></span></span></span></td>
+		</tr>
+		<tr style="height:14.35pt">
+			<td style="border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentColor black black; padding: 3.6pt 7.2pt; width: 319px; height: 14.35pt; text-align: center;" valign="top" width="25%"><span style="color:null"><font face="&quot;Meiryo UI&quot;"><font size="4">第3期：令和3年</font></font></span><font face="&quot;Meiryo UI&quot;"><font size="4">10月3日から12月4日</font></font></td>
+			<td style="border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentColor black black currentColor; padding: 3.6pt 7.2pt; width: 359px; height: 14.35pt; text-align: center;" valign="top" width="25%"><span style="color:null"><font face="&quot;Meiryo UI&quot;"><font size="4">令和3年12月6日から12月28日(注)</font></font></span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;"><span style="color:black"></span></span></span></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="color:null"><font face="&quot;Meiryo UI&quot;"><font size="4">　（注）第3期の受付期間は、変更する場合があります。</font></font></span></p>
+
+<table align="left" style="border:undefined">
+	<tbody>
+		<tr>
+			<td height="4" width="0">
+			<p><span style="font-size:18px"></span></p>
+
+			<p><span style="font-size:18px"></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td><span style="font-size:18px"></span></td>
+			<td>
+			<p><span style="font-size:18px"></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:18px"></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp;&nbsp; <span style="color:#2980b9"><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16px">・<a href="https://hot-link.jp/index.php/download_file/view/5373/1994">事業概要リーフレット（PDF形式）</a></span></span></strong></span></p>
+
+<p>&nbsp;</p>
+
+<blockquote>
+<p><b>WEB申請手続について</b></p>
+</blockquote>
+
+<p>&nbsp;</p>
+
+<p><span style="color:#c0392b;"><strong><span style="font-size:18px;">　　※第２期分（令和３年８月１日から１０月２日接種分）の申請受付は締め切りました。</span></strong></span></p>
+
+<p><span style="color:#c0392b;"><strong><span style="font-size:18px;">　　　第３期分（令和３年１０月３日から１２月４日接種分）の申請受付は</span></strong></span></p>
+
+<p><span style="color:#c0392b;"><strong><span style="font-size:18px;">　　　</span></strong></span><span style="color:#c0392b;"><strong><span style="font-size:18px;">１２月６日（月曜日）から開始します。</span></strong></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+
+    <p><span style="font-size:20px"><span style="color:#2980b9"><strong><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;">　・様式のダウンロードはこちらからお願いします&darr;&darr;</span></span></span></strong></span></span></p>
+
+<p>&nbsp; &nbsp;&nbsp; <span style="font-size:22px">■<strong>第３期用</strong><span style="font-size:22px"><strong>（令和３年１０月３日から１２月４日接種分）</strong></span></span></p>
+
+<p><span style="font-size:24px">　<u><a href="https://hot-link.jp/index.php/download_file/view/7864/1994">【診療所用】実績報告書・請求書(Excel形式)</a></u></span></p>
+
+<p><span style="font-size:24px">　<u><a href="https://hot-link.jp/index.php/download_file/view/7866/1994">【病院用】実績報告書・請求書(Excel形式)</a></u></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="color:#2980b9"><span style="color:#2980b9"><span style="color:#2980b9"><strong><span style="font-size:10.5pt"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-size:10.0pt"><span style="font-family:&quot;Meiryo UI&quot;"><span style="font-size:18px"></span></span></span></span></span></span></strong><span style="color:#2980b9"><span style="color:#2980b9"><span style="color:#2980b9"><strong><span style="font-size:10.5pt"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-size:10.0pt"><span style="font-family:&quot;Meiryo UI&quot;"><span style="font-size:18px">　・<u><font color="#000012"><a href="https://hot-link.jp/index.php/download_file/view/7862/1994">【記入例】実績報告書、請求書(Excel形式)</a></font></u></span></span></span></span></span></span></strong></span></span></span></span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong><span style="color:null;"><span style="font-size:16px;">　　※時間外・休日の接種に対する加算（時間外： 730円、休日： 2,130円）は、</span></span></strong></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong><span style="color:null;"><span style="font-size:16px;">　　　市町村への請求になります。 </span><span style="font-size:16px;">医療機関が所在する市町村へお問い合わせください。</span></span></strong></p>
+
+<p><span style="color:#2980b9"><span style="color:#2980b9"><span style="color:#2980b9"><strong><span style="font-size:10.5pt"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-size:10.0pt"><span style="font-family:&quot;Meiryo UI&quot;"><span style="font-size:18px"></span></span></span></span></span></span></strong></span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; &nbsp;&nbsp; <span style="font-size:16px"><strong>（参考）</strong></span><span style="font-size:16px">第１期用（令和3年5月9日から7月31日接種分）</span></p>
+
+<p><span style="font-size:16px">　<a href="https://hot-link.jp/index.php/download_file/view/7017/1994"><u>【診療所用】実績報告書・請求書(Excel形式)</u></a></span></p>
+
+<p><span style="font-size:16px">　<u><font color="#000012"><a href="https://hot-link.jp/index.php/download_file/view/5377/1994">【病院用】実績報告書・請求書(Excel形式</a>)</font></u></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;&nbsp; <span style="font-size:16px"><strong>（参考）</strong></span><span style="font-size:16px">第２</span><span style="font-size:16px">期用（令和3年8月1日から10月2日接種分）</span></p>
+
+<p><span style="font-size:16px">　<a href="https://hot-link.jp/index.php/download_file/view/7025/1994"><u>【診療所用】実績報告書・請求書(Excel形式)</u></a></span></p>
+
+<p><span style="font-size:16px">　<u><font color="#000012"><a href="https://hot-link.jp/index.php/download_file/view/7529/1994">【病院用】実績報告書・請求書(Excel形式</a>)</font></u></span></p>
+
+<p>&nbsp;</p>
+
+<p>　※第１期及び第２期分の申請に関するお問合せは、接種促進協力金コールセンター（06-6191-0608）までお願いします。</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>　【郵送で申請される方の送付先】<br />
+　〒530-0051<br />
+　大阪市北区太融寺町3-24 日本生命梅田第二ビル8階<br />
+　大阪府新型コロナウイルスワクチン接種促進協力金事務局</strong></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="color:#2980b9"><strong><span style="font-size:10.5pt"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-size:10.0pt"><span style="font-family:&quot;Meiryo UI&quot;">&nbsp; <span style="font-size:18px">・</span></span></span></span></span></span></strong><span style="color:#2980b9"><strong><span style="font-size:10.5pt"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-size:10.0pt"><span style="font-family:&quot;Meiryo UI&quot;"><span style="font-size:18px"><a href="https://hot-link.jp/index.php/download_file/view/7899/1994"><u>よくある質問（FAQ）</u></a></span></span></span></span></span></span></strong></span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="color:#2980b9"><strong><span style="font-size:10.5pt"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-size:10.0pt"><span style="font-family:&quot;Meiryo UI&quot;">&nbsp; <span style="font-size:18px">・（参考）国事務連絡（令和3年6月23日）</span></span></span></span></span></span></strong></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><font face="&quot;Meiryo UI&quot;"><font color="#b00000">&nbsp;</font><span style="text-justify:inter-ideograph">新型コロナウイルスワクチンの時間外・休日の接種及び個別接種促進のための支援事業の請求について</span></font></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-family:&quot;Meiryo UI&quot;">&nbsp;（<a href="https://www.mhlw.go.jp/content/000797250.pdf"><u>https://www.mhlw.go.jp/content/000797250.pdf</u></a></span></span>）</span></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="color:#2980b9"><strong><span style="font-size:10.5pt"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-size:10.0pt"><span style="font-family:&quot;Meiryo UI&quot;"> <span style="font-size:18px">・（参考）国事務連絡（令和3年8月12日）</span></span></span></span></span></span></strong></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="font-size:18px"><font face="&quot;Meiryo UI&quot;"><span style="text-justify:inter-ideograph">&nbsp;新型コロナウイルスワクチンの時間外・休日の接種及び個別接種促進のための支援事業の請求について </span></font></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;<span style="font-size:18px"><font face="&quot;Meiryo UI&quot;"><span style="text-justify:inter-ideograph">(その２)</span></font></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><font face="&quot;Meiryo UI&quot;">&nbsp; &nbsp; <a href="https://hot-link.jp/application/files/9816/3037/7234/812.pdf"><span style="font-size:18px">（</span></a></font><a href="https://hot-link.jp/application/files/9816/3037/7234/812.pdf"><span style="font-size:18px"><u><font face="&quot;Meiryo UI&quot;">https://hot-link.jp/application/files/9816/3037/7234/812.pdf</font></u><font face="&quot;Meiryo UI&quot;">）</font></span></a></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify">&nbsp;</p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><span style="color:#2980b9"><strong><span style="font-size:10.5pt"><span style="font-family:&quot;游明朝&quot;,serif"><span style="text-justify:inter-ideograph"><span style="font-size:10.0pt"><span style="font-family:&quot;Meiryo UI&quot;"><span style="font-size:18px">・（参考）令和3年度大阪府新型コロナウイルスワクチン接種促進協力金交付要領</span></span></span></span></span></span></strong></span></p>
+
+<p style="margin:0mm 0mm 0pt; text-align:justify"><strong>　</strong><span style="font-size:20px"><span style="font-family:Arial,Helvetica,sans-serif"><a href="https://hot-link.jp/application/files/2716/3037/7266/3.pdf">（<u>https://hot-link.jp/application/files/2716/3037/7266/3.pdf</u>）</a></span></span></p>
+
+</div></div>
+</div></div></div></main>
+
+
+<footer id="footer-theme">
+    
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                                    </div>
+                <div class="col-sm-3">
+                                    </div>
+                <div class="col-sm-3">
+                                    </div>
+            </div>
+        </div>
+    </section>
+</footer>
+
+<footer id="concrete5-brand">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <span>Built with <a href="http://www.concrete5.org" class="concrete5" rel="nofollow">concrete5</a> CMS.</span>
+                <span class="pull-right">
+                    <a href="https://hot-link.jp/index.php/login">ログイン</a>                </span>
+                <span id="ccm-account-menu-container"></span>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+</div>
+
+<script type="text/javascript" src="/packages/hw_back_to_top/js/back-to-top.js"></script>
+<script type="text/javascript" src="/updates/concrete5-8.4.4/concrete/js/picturefill.js"></script>
+<script type="text/javascript" src="/updates/concrete5-8.4.4/concrete/blocks/image/view.js"></script>
+<script type="text/javascript" src="/updates/concrete5-8.4.4/concrete/js/responsive-slides.js"></script>
+
+</body>
+</html>

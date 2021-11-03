@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="ja" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>新型コロナウイルス感染症に伴う各融資制度について（ご案内） | 交野市</title>
+  <meta name="viewport" content="width=device-width" />
+<meta name="format-detection" content="telephone=yes" />
+<link rel="stylesheet" href="/_themes/city/css/normalize.css" />
+<link rel="stylesheet" href="/_themes/city/css/common.css" />
+<link rel="alternate stylesheet" href="/_themes/city/css/colors/white.css" title="white" />
+<link rel="alternate stylesheet" href="/_themes/city/css/colors/blue.css" title="blue" />
+<link rel="alternate stylesheet" href="/_themes/city/css/colors/black.css" title="black" />
+<link rel="stylesheet" href="/_themes/city/css/print.css" media="print" />
+<script src="/_themes/city/js/jquery.min.js"></script>
+<script src="/_themes/city/js/jquery-migrate.min.js"></script>
+<script src="/_themes/city/js/jquery.cookie.min.js"></script>
+<script src="/_themes/city/js/navigation.js"></script>
+<script src="/_themes/city/js/slick.min.js"></script>
+<script src="/_themes/city/js/common.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114682568-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114682568-1');
+</script>
+    
+<link rel="stylesheet" media="screen" href="/_common/js/flatpickr/themes/light.min.css" />
+<link rel="stylesheet" media="screen" href="/_common/js/flatpickr/themes/ja.css" />
+<script src="/_common/js/flatpickr/flatpickr.min.js"></script>
+<script src="/_common/js/flatpickr/l10n/ja.js"></script>
+<script src="/_common/js/flatpickr/plugins/scrollPlugin.js"></script>
+<script src="/_common/js/bowser.min.js"></script>
+
+</head>
+<body id="page-corona-2020042700186-index" class="dir-corona-2020042700186">
+  <div id="container">
+
+<header id="pageHeader">
+<div id="pageHeaderContainer">
+<div id="pageHeaderBody">
+
+<!-- skip reading -->
+<div id="accessibilityTool" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody clearfix">
+
+<a id="nocssread" href="#main">本文へ</a>
+
+<div class="tools clearfix">
+<ul id="accessibility_tool">
+  <li class="tool-ruby"><a href="#navigationRuby" id="navigationRuby">ふりがなをつける</a></li>
+  <li class="tool-talk"><a href="#navigationTalk" id="navigationTalk">よみあげる</a><span id="navigationTalkPlayer"></span></li>
+  <li class="tool-size">文字の大きさ
+  <ul class="fontSize">
+    <li><a href="#fontLarge" id="fontLarge" title="文字のサイズを大きくする">拡大</a></li>
+    <li><a href="#fontMiddle" id="fontMiddle" title="標準の文字サイズに戻す">標準</a></li>
+    <li><a href="#fontSmall" id="fontSmall" title="文字のサイズを小さくする">縮小</a></li>
+  </ul>
+  </li>
+  <li class="tool-color">背景色
+  <ul class="themeColor">
+    <li><a href="#themeBlack" id="themeBlack" title="背景色を黒にする" class="black">黒</a></li>
+    <li><a href="#themeBlue" id="themeBlue" title="背景色を青にする" class="blue">青</a></li>
+    <li><a href="#themeWhite" id="themeWhite" title="背景色を元に戻す" class="white">標準</a></li>
+  </ul>
+  </li>
+</ul>
+
+<div id="google_translate_element"></div>
+<script>
+  function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'ja', includedLanguages: 'en,ko,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</div>
+</div>
+</div>
+</div>
+<!-- /skip reading -->
+<div id="commonHeader" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+
+<h1><a href="/"><img src="/_themes/city/images/header-id.png" srcset="/_themes/city/images/header-id.png 1x, /_themes/city/images/header-id_s.png 2x" alt="交野市" /></a></h1>
+
+<div class="menu-btn">
+  <ul>
+    <li class="menu-btn1"><a href="javascript:void(0);">検索</a></li>
+    <li class="menu-btn2"><a href="javascript:void(0);">支援ツール</a></li>
+  </ul>
+</div>
+
+<div class="menu">
+  <ul>
+    <li class="menu1">
+      <div class="cse-search-box">
+        <form action="https://www.google.com/cse" id="cse-search-box" target="_blank">
+        <input type="hidden" name="cx" value="008838789820683127002:ybpfkjjan7a">
+        <input type="hidden" name="ie" value="UTF-8" />
+        <!--<input type="hidden" value="FORID:10" name="cof" />-->
+        <input type="text" name="q" size="12" id="search-box" />
+        <input type="submit" name="sa" value="サイト内検索" id="search-button" />
+        </form>
+        <script type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+        <a href="/docs/search/">検索方法</a>
+      </div>
+      <ul>
+      <li><a href="/categories/bunya/">分野から探す</a></li>
+      <li><a href="/sitemap.html">サイトマップ</a></li>
+      </ul>
+    </li>
+    <li class="menu2">
+      <div class="accessibility_tool"><p class="message">ふりがなと読み上げ音声は，人名，地名，用語等が正確に発音されない場合があります。</p></div>
+      <div class="google_translate"><p class="message">ページの言語を翻訳</p></div>
+    </li>
+  </ul>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+<!-- end #pageHeaderContainer --></div>
+<!-- end #pageHeader --></header>
+
+<nav id="pageNav">
+<div id="pageNavContainer">
+<div id="pageNavBody">
+
+<div id="globalNavi" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+<ul>
+<li><a href="/navi/kurashi/">くらし</a></li>
+<li><a href="/navi/kosodate/">子育て・教育</a></li>
+<li><a href="/navi/kenko/">健康・福祉</a></li>
+<li><a href="/navi/kanko/">観光・文化・スポーツ</a></li>
+<li><a href="/navi/jigyosha/">事業者の方へ</a></li>
+<li><a href="/navi/shisei/">市政について</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="breadCrumbs" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody"><ol><li><a href="/">ホーム</a></li><li><a href="/categories/">カテゴリ</a></li><li><a href="/categories/kubun/">記事区分</a></li><li><a href="/categories/kubun/shinsei/">申請・届出</a></li></ol><ol><li><a href="/">ホーム</a></li><li><a href="/categories/">カテゴリ</a></li><li><a href="/categories/bunya/">分野</a></li><li><a href="/categories/bunya/chiikishinko/">地域振興</a></li><li><a href="/categories/bunya/chiikishinko/sangyo/">産業振興</a></li></ol><ol><li><a href="/">ホーム</a></li><li><a href="/categories/">カテゴリ</a></li><li><a href="/categories/bunya/">分野</a></li><li><a href="/categories/bunya/chiikishinko/">地域振興</a></li></ol>
+</div>
+</div>
+<!-- end .piece --></div>
+
+
+</div>
+<!-- end #pageNavContainer --></div>
+<!-- end #pageNav --></nav>
+
+<div id="main">
+<div id="mainContainer">
+
+<div id="wrapper" class="col2">
+
+<div id="content">
+<div id="contentContainer">
+<div id="contentBody">
+
+<div id="pageTitle" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody"><h1>新型コロナウイルス感染症に伴う各融資制度について（ご案内）</h1>
+</div>
+</div>
+<!-- end .piece --></div>
+
+<article class="contentGpArticleDoc">
+<div class="date">
+  <p class="publishedAt">公開日 2020年03月02日</p>
+  <p class="updatedAt">更新日 2020年04月23日</p>
+</div>
+
+
+<div class="body">
+  <div class="text-beginning"><p>新型コロナウイルス感染症の発生により、経営に影響を受けている中小企業者を支援するための制度をまとめましたので、事業復旧にご利用ください。</p>
+
+<h2>各機関の経営相談窓口について</h2>
+
+<p><strong><span style="color:null">●</span><a href="https://www.meti.go.jp/covid-19/sodan_madoguchi.html"><span style="color:#0000ff">新型コロナウィルスに関する経営相談窓口【平日の場合】（経済産業省HP）</span></a>　</strong><span style="color:#e60066">※土日・祝日の場合は</span><strong><span style="color:#e60066"><a href="https://www.meti.go.jp/press/2019/02/20200228010/20200228010.html">こちら（経済産業省HP）</a></span></strong></p>
+
+<p>●<a href="http://www.pref.osaka.lg.jp/keieishien/corona/index.html">中小企業・小規模事業者の方を対象とした相談窓口について（大阪府）</a></p>
+
+<p>●<a href="https://www.meti.go.jp/press/2019/03/20200311003/20200311003.html">中小企業金融相談窓口（中小企業庁HP）</a></p>
+
+<p>●<a href="https://www.yorozu-osaka.jp/">大阪府よろず支援援拠点</a></p>
+
+<p>●<a href="https://kocci.or.jp/publics/index/32/">北大阪商工会議所</a></p>
+
+<p>●<a href="https://www.jfc.go.jp/n/release/pdf/topics_200214a.pdf">日本政策金融公庫</a></p>
+
+<p>【参考】<a href="http://www.pref.osaka.lg.jp/shobobosai/ko-rusennta/index.html">大阪府 緊急事態措置について（大阪府HP）</a></p>
+
+<h3>融資制度の種類一覧</h3>
+
+<p><a href="#%E4%BC%91%E6%A5%AD">休業要請支援金（大阪府の制度）</a></p>
+
+<p><a href="#%E5%A4%A7%E9%98%AA%E5%BA%9C">新型コロナウイルス感染症対応緊急資金（大阪府の制度）</a></p>
+
+<p><a href="#%EF%BC%94">セーフティネット保証４号</a></p>
+
+<p><a href="#%EF%BC%95">セーフティネット保証５号</a></p>
+
+<p><a href="#%E5%8D%B1%E6%A9%9F">危機関連保証</a></p>
+
+<p><a href="#%E7%B5%8C%E7%94%A3%E7%9C%81">経済産業省の支援策</a></p>
+
+<p><a href="#%E5%85%AC%E5%BA%AB">新型コロナウイルス感染症特別貸付（日本政策金融公庫の制度）</a></p>
+
+<p><a href="#%E5%B0%8F%E8%A6%8F%E6%A8%A1">小規模事業者持続化補助金（商工会議所の制度）</a></p>
+
+<p><a href="#%E7%B7%8A%E6%80%A5">緊急小口資金（社会福祉協議会の制度</a><a href="#%E7%B7%8A%E6%80%A5">）</a></p>
+
+<h4><span id="休業" name="休業">★休業要請支援金</span></h4>
+
+<p>下記の（１）〜（３）の要件を全て満たす中小企業・個人事業主が対象となります。</p>
+
+<p>（１）大阪府内に主たる事業所を有していること。</p>
+
+<p>（２）緊急事態措置期間中（令和２年４月１４日から５月６日まで）に休業要請等に全面的に協力いただいていること。（ただし、７日間の準備期間等を考慮し、令和２年４月２１日以降休業していれば対象とする。）</p>
+
+<p>（３）令和２年４月の売上が前年同月対比で５０％以上減少していること<a>。</a></p>
+
+<p>●<a href="http://www.pref.osaka.lg.jp/keieishien/kyugyoshienkin/index.html">大阪府のホームページ</a>に詳細が記載されておりますので、ご覧ください。</p>
+
+<h4><span id="大阪府" name="大阪府">★新型コロナウイルス感染症対応緊急資金（大阪府の制度）</span></h4>
+
+<p>（１）〜（３）のいずれかを満たす中小事業者であること。</p>
+
+<p>（１）府内において1年以上継続して事業を営んでおり、新型コロナウイルス感染症により経営に影響を受けており、最近1か月の売上高が前年同月に比して10％以上減少していること。</p>
+
+<p>（２）交野市からセーティネット保証４号の認定を受けており、認定を受けたときから３０日以内に融資申込を行った事業者</p>
+
+<p>（３）交野市からセーティネット保証５号の認定を受けており、認定を受けたときから３０日以内に融資申込を行った事業者<strong><span style="color:#ee0000">（新型コロナウイルス感染症の影響で売上が減少した中小企業者に限ります）</span></strong></p>
+
+<p>●<a href="http://www.pref.osaka.lg.jp/kinyushien/seido001/index.html">大阪府のホームページ</a>に詳細が記載されておりますので、ご覧ください。</p>
+
+<h4><span id="４" name="４">★セーフティネット保証４号</span></h4>
+
+<p>次の（１）と（２）を満たす中小企業者であること。</p>
+
+<p>（１）交野市において1年間以上継続して事業を行っていること。</p>
+
+<p>（２）新型コロナウイルス感染症に起因して、その事業に係る新型コロナウイルス感染症の影響を受けた後、原則として最近1か月間の売上高が前年同月に比して20％以上減少しており、かつ、その後2か月間を含む3か月間の売上高等が前年同期に比して20％以上減少することが見込まれること。</p>
+
+<p>●<a href="/docs/2018100200013/">市のホームページ</a>に詳細を記載しておりますので、ご覧ください。</p>
+
+<p>●<a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_4gou.htm">セーフティネット保証４号（中小企業庁HPへ遷移します）</a></p>
+
+<p><strong><span style="color:#ee0000">※認定書の有効期間が延長されました。</span></strong></p>
+
+<p><strong><span style="color:#ee0000">　５月１日から７月３１日までに発行されたものの有効期間については８月３１日までとします。</span></strong></p>
+
+<p><strong><span style="color:#ee0000">　また、令和２年１月２９日から７月３１日までに認定を取得した中小企業者については、その認定の終期を令和２年８月３１日までします。</span></strong></p>
+
+<h4><span id="５" name="５">★セーフティネット保証５号</span></h4>
+
+<p>次の（イ）もしくは（ロ）を満たす中小企業者であること。</p>
+
+<p>(イ)指定業種に属する事業を行っており、最近3か月間の売上高等が前年同期比5％以上減少していること。</p>
+
+<p>(ロ)指定業種に属する事業を行っており、製品等原価のうち20％を占める原油等の仕入価格が20％以上、上昇しているにもかかわらず、製品等価格に転嫁できていないこと。</p>
+
+<p>●<a href="/docs/2014100100032/">市のホームページ</a>に詳細を記載しておりますので、ご覧ください。</p>
+
+<p>●<a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_5gou.htm">セーフティネット保証５号</a><a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_4gou.htm">（中小企業庁HPへ遷移します）</a></p>
+
+<p><strong><span style="color:#ee0000">※認定書の有効期間が延長されました。</span></strong></p>
+
+<p><strong><span style="color:#ee0000">　５月１日から７月３１日までに発行されたものの有効期間については８月３１日までとします。</span></strong></p>
+
+<p><strong><span style="color:#ee0000">　また、令和２年１月２９日から７月３１日までに認定を取得した中小企業者については、その認定の終期を令和２年８月３１日までします。</span></strong></p>
+
+<h4><span id="危機" name="危機">★危機関連保証</span></h4>
+
+<p>最近１か月間の売上高が前年同月比で１５％以上減少しており、かつその後２か月間を含む３か月間の売上高が前年同期比で１５％以上減少することが見込まれること。</p>
+
+<p>●<a href="/docs/2020031300021/">市のホームページ</a>に詳細を記載しておりますので、ご覧ください。</p>
+
+<p>●<a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_crisis.htm">危機関連保証（</a><a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_4gou.htm">中小企業庁HPへ遷移します</a><a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_crisis.htm">）</a></p>
+
+<p><strong><span style="color:#ee0000">※認定書の有効期間が延長されました。</span></strong></p>
+
+<p><strong><span style="color:#ee0000">　５月１日から７月３１日までに発行されたものの有効期間については８月３１日までとします。</span></strong></p>
+
+<p><strong><span style="color:#ee0000">　また、令和２年３月１３日から７月３１日までに認定を取得した中小企業者については、その認定の終期を令和２年８月３１日までします。</span></strong></p>
+
+<h4><span id="経産省" name="経産省">★経済産業省の支援策</span></h4>
+
+<p>経済産業省でも企業を支援するための施策を案内しておりますので、<a href="https://www.meti.go.jp/covid-19/">経済産業省のホームページ</a>をご覧ください。</p>
+
+<p>※「持続化給付金」も含めた各種支援策も上記のホームページをご参照ください。</p>
+
+<h4><span id="公庫" name="公庫">★新型コロナウイルス感染症特別貸付（日本政策金融公庫の制度）</span></h4>
+
+<p>日本政策金融公庫でも企業を支援するための施策を案内しておりますので、<a href="https://www.jfc.go.jp/">日本政策金融公庫のホームページ</a>をご覧ください。</p>
+
+<h4><span id="小規模" name="小規模">★小規模事業者持続化補助金（商工会議所の制度）</span></h4>
+
+<p><a href="/docs/2020032600052/">市のホームページ</a>および<a href="https://r1.jizokukahojokin.info/">小規模事業者持続化補助金（日本商工会議所）</a>に詳細を記載しておりますので、ご覧ください。</p>
+
+<h4><span id="緊急" name="緊急">★緊急小口資金（社会福祉協議会の制度）</span></h4>
+
+<p>大阪府社会社会福祉協議会では一時的な生活資金にお困りの方に向けた緊急小口資金制度を実施していますので、<a href="http://www.osakafusyakyo.or.jp/sikinbu/20200325.html">大阪府社会福祉協議会のホームページ</a>をご覧ください。</p>
+
+<h3>試算について</h3>
+
+<p>各融資制度（セーフティネット４号、セーフティネット５号、危機関連保証）の数値要件を満たすかは、添付している試算シートをぜひご活用ください！</p>
+
+<p><strong><span style="color:#ee0000">また、本シートで数値要件を満たしている場合、売上高を証明する資料として利用できます（所在地、会社名、代表社名を記載のうえ、実印が必要！）</span></strong></p>
+
+<p><strong><span style="color:#ee0000">ただし、セーフティネット５号においては、１つの指定業種のみを営んでいる場合のみ、本シートを利用できます。</span></strong></p>
+
+<p><a class="iconFile iconXls" href="file_contents/sisan.xlsx">試算シート[XLSX：12.3KB]</a></p>
+</div>
+
+</div>
+
+
+
+
+
+
+<div class="inquiry">
+  <h2>お問い合わせ</h2>
+    <address>
+      <div class="section">地域振興課</div><div class="tel"><span class="label">TEL</span>：072-892-0121</div><div class="email"><span class="label">E-Mail</span>：<a href="mailto:sinkou@city.katano.osaka.jp">sinkou@city.katano.osaka.jp</a></div>
+    </address>
+</div>
+
+<div class="adobeReader">
+  <p>PDFの閲覧にはAdobe System社の無償のソフトウェア「Adobe Acrobat Reader」が必要です。下記のAdobe Acrobat Readerダウンロードページから入手してください。</p>
+  <a href="http://get.adobe.com/jp/reader/" target="_blank" title="Adobe Acrobat Readerダウンロード">Adobe Acrobat Readerダウンロード</a>
+</div>
+
+<!-- end .contentGpArticleDoc --></article>
+
+
+</div>
+<!-- end #contentContainer --></div>
+<!-- end #content --></div>
+
+<aside id="links">
+<div id="linksContainer">
+<div id="linksBody">
+
+
+<div id="usefulNavi" class="piece">
+<div class="pieceContainer">
+<div class="pieceHeader"><h2>便利情報ナビ</h2></div>
+<div class="pieceBody">
+<ul>
+<li><a href="/soshiki/"><img src="/_themes/city/images/useful/ic-soshiki.png" alt="" />組織案内</a></li>
+<li><a href="/map/index_kubun@shiyakusho.html"><img src="/_themes/city/images/useful/ic-shisetsu.png" alt="" />施設マップ</a></li>
+<li><a href="/shisetsuyoyaku/"><img src="/_themes/city/images/useful/ic-yoyaku.png" alt="" />施設予約<br />システム</a></li>
+<li><a href="/categories/kubun/kyujin/"><img src="/_themes/city/images/useful/ic-kyujin.png" alt="" />職員等募集</a></li>
+<li><a href="/docs/2017041000041/"><img src="/_themes/city/images/useful/ic-gomi.png" alt="" />ごみの収集</a></li>
+<li><a href="/contents/2019062400084/"><img src="/_themes/city/images/useful/ic-shohi.png" alt="" />市民相談</a></li>
+<li><a href="https://www.katanotoshokan.jp/" target="_blank"><img src="/_themes/city/images/useful/ic-library.png" alt="" />図書館</a></li>
+<li><a href="/reiki_int/reiki_menu.html"><img src="/_themes/city/images/useful/ic-reiki.png" alt="" />条例・規則<br />（例規集）</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="lifeeventList" class="piece">
+<div class="pieceContainer">
+<div class="pieceHeader"><h2>ライフイベント</h2></div>
+<div class="pieceBody">
+<ul>
+<li><a href="/categories/lifeevent/ninshin/"><img src="/_themes/city/images/life/ic-ninshin.png" alt="" />妊娠・出産</a></li>
+<li><a href="/categories/lifeevent/kosodate/"><img src="/_themes/city/images/life/ic-kosodate.png" alt="" />子育て</a></li>
+<li><a href="/categories/lifeevent/gakko/"><img src="/_themes/city/images/life/ic-school.png" alt="" />学校・教育</a></li>
+<li><a href="/categories/lifeevent/hikkoshi/"><img src="/_themes/city/images/life/ic-hikkoshi.png" alt="" />引越し・住まい</a></li>
+<li><a href="/categories/lifeevent/shushoku/"><img src="/_themes/city/images/life/ic-shushoku.png" alt="" />就職・退職</a></li>
+<li><a href="/categories/lifeevent/kekkon/"><img src="/_themes/city/images/life/ic-kekkon.png" alt="" />結婚・離婚</a></li>
+<li><a href="/categories/lifeevent/korei/"><img src="/_themes/city/images/life/ic-korei.png" alt="" />高齢・介護</a></li>
+<li><a href="/categories/lifeevent/okuyami/"><img src="/_themes/city/images/life/ic-okuyami.png" alt="" />おくやみ</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+<!-- end #linksContainer --></div>
+<!-- end #links --></aside>
+
+<!-- end #wrapper --></div>
+
+<!-- end #mainContainer --></div>
+<!-- end #main --></div>
+
+<footer id="pageFooter">
+<div id="pageFooterContainer">
+<div id="pageFooterBody">
+
+<div id="footerNavi" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+<ul>
+<li><a href="/docs/about-site/">サイトの利用について</a></li>
+<li><a href="/docs/privacy/">個人情報の取扱い</a></li>
+<li><a href="/docs/link/">リンクについて</a></li>
+<li><a href="/docs/copyright/">著作権・免責事項</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="commonFooter" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+
+<div>
+<div class="information">
+<div class="logo"><img src="/_themes/city/images/footer-id.png" alt="交野市" /></div>
+<ul>
+<li><a href="/map/index_kubun@shiyakusho.html">市役所のご案内</a></li>
+<li><a href="/contact/toiawase">ご意見・ご提案・お問い合わせ</a></li>
+</ul>
+</div>
+<address>
+〒576-8501 大阪府交野市私部1丁目1番1号<br />
+<span>電話：<a href="tel:072-892-0121">072-892-0121</a>（代表）</span><br />
+<span>開庁時間：9時00分から17時30分まで</span><span>（土曜日・日曜日・祝日・休日・年末年始を除く）</span>
+</address>
+</div>
+<div class="map"><img src="/_themes/city/images/map.png" alt="交野市所在地" /></div>
+</div>
+</div>
+</div>
+<div id="copyright" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+
+<small>Copyright &copy; Katano City, All rights reserved.</small>
+
+</div>
+</div>
+</div>
+
+</div>
+<!-- end #pageFooterContainer --></div>
+<!-- end #pageFooter --></footer>
+
+</div>
+</body>
+</html>

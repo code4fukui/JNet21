@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja" dir="ltr">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<title>松原商工会議所｜ニュース詳細</title>
+<meta name="robots" content="index, follow" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+
+<meta name="keywords" content="大阪,松原,商工会議所,融資,相談,検定試験,会議室" />
+<meta name="description" content="松原商工会議所は、地域商工業の振興発展の為、経営・金融・法律相談等経営のお役立つ様々なサービスの他、人材育成の為の各種検定試験情報、セミナーの案内や貸会場の提供等を行っています。" />
+<meta name="author" content="株式会社エム企画" />
+
+<link rel="index" href="http://www.matsubara-cci.or.jp/index.html" />
+<link rel="shortcut icon" href="/img/common/favicon.ico" />
+
+<!-- *** stylesheet *** -->
+<link href="/css/import.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/admin/pager.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/admin/cake_reset.css" media="all" />
+
+<!-- *** javascript *** -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="//www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">google.load("jquery", "1.6.1");</script>
+<script type="text/javascript" src="/js/zaccordion/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/js/zaccordion/jquery.zaccordion.js"></script>
+<script type="text/javascript" src="/js/zaccordion/functions.js"></script>
+<script src="/js/share.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" src="/js/prototype.js"></script>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript">
+jQuery.noConflict();
+</script>
+<script type="text/javascript" src="/js/ajaxzip2/ajaxzip2.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/js/jqueryslidemenu/jqueryslidemenu_front.js"></script>
+
+<!-- *** ctl_checkbox *** -->
+<script type="text/javascript" src="/js/ctl_checkbox/ctl_checkbox.js"></script>
+<script type="text/javascript" src="/js/ctl_checkbox/set_ctl_checkbox.js"></script>
+
+<!-- *** lightbox plus *** -->
+<link rel="stylesheet" type="text/css" href="/js/lightbox_plus/lightbox.css" media="screen,tv" />
+<script src="/js/lightbox_plus/lightbox_plus.js" type="text/javascript" ></script>
+
+<!-- IE6透過ピング読み込み -->
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="/js/pngfix.js"></script>
+<![endif]-->
+	
+<!-- IE7以下用印刷設定css -->
+<!--[if lt IE 7]>
+	<style type="text/css" media="print">@import url("http://www.matsubara-cci.or.jp/css/ie_print.css"); </style>
+<![endif]-->
+
+
+</head>
+<body>
+
+<div id="header">
+<h1 id="siteID"><a href="/"><img src="/img/common/mcci_logo002.png" alt="松原商工会議所" width="378" height="60" /></a></h1>
+
+<a href="/admission/admission.html"><img src="/img/common/admission_btn.png" alt="入会のご案内" width="200" height="71" class="imgR btn" /></a>
+
+<div id="siteSearchBox">
+<ul id="utilityNav">
+<li class="arrow3"><a href="https://www.matsubara-cci.or.jp/contacts/register">お問い合せ</a></li>
+<li class="arrow3"><a href="/">ホーム</a></li>
+</ul>
+<dl class="clear" id="siteSearch"><dt class="arrow4">サイト内検索</dt>
+<dd>
+<form action="http://www.google.com/cse" id="cse-search-box">
+<div id="searchArea">
+<input type="hidden" name="cx" value="009134953357250558030:odqrt3l2txe" />
+<input type="hidden" name="ie" value="UTF-8" />
+<input type="text" name="q" size="15" class="txtArea" style="border: 1px solid rgb(0, 0, 0); padding: 2px; background: rgb(255, 255, 255) url(http://www.google.co.jp/cse/intl/ja/images/google_custom_search_watermark.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" />
+<input name="sa" type="image" alt="検索する" src="/img/common/search_02.gif" class="btn" />
+</div>
+</form>
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&lang=ja"></script>
+</dd>
+</dl>
+</div><!-- / #siteSearchBox -->
+
+
+<!-- / #header --></div><div id="gNavi_sub">
+<ul>
+<li><a href="/about/about.html">商工会議所とは</a></li>
+<li><a href="/admission/admission.html">利用のメリット</a></li>
+<li><a href="/about/outline.html">組織概要</a></li>
+<li><a href="/industry/trade.html">松原の産業紹介</a></li>
+<li><a href="/about/access.html">アクセス</a></li>
+<li><a href="/link/link.html">関連リンク集</a></li>
+</ul>
+</div>
+
+<div id="gNavi">
+<div id="myslidemenu" class="jqueryslidemenu">
+<ul><li><a href="/consultation/consultation.html"><img src="/img/common/gbnavi_01.png" alt="経営相談" width="156" height="50" class="btn" /></a>
+  <ul>
+  <li><a href="/consultation/consultation.html">無料相談</a></li>
+  <li><a href="/consultation/marukei.html">マルケイ融資</a></li>
+  <li><a href="/consultation/premium.html">松原プレミアム融資</a></li>
+  <li><a href="/consultation/individual.html">　・法人、個人様向け</a></li>
+  <li><a href="/consultation/corporation.html">　・法人様向け</a></li>
+  </ul></li>
+  <li><a href="/mutual/mutual.html"><img src="/img/common/gbnavi_02.png" alt="共済制度" width="157" height="50" class="btn" /></a></li>
+  <li><a href="/certificates/kentei.html"><img src="/img/common/gbnavi_04.png" alt="検定試験情報" width="156" height="50" class="btn" /></a>
+      <ul>
+  <li><a href="/certificates/kentei.html">各種検定試験 情報</a><!--<ul><li><a href="/certificates/show/1">日商簿記</a></li>
+  <li><a href="/certificates/show/2">日商珠算</a></li>
+  <li><a href="/certificates/show/10">日商販売士</a></li>
+  <li><a href="/certificates/show/5">日商PC（文書作成）</a></li>
+  <li><a href="/certificates/show/6">日商PC（データ活用）</a></li>
+  <li><a href="/certificates/show/9">ビジネス実務法務</a></li>
+  <li><a href="/certificates/show/7">福祉住環境コーディネーター</a></li>
+  <li><a href="/certificates/show/8">カラーコーディネーター</a></li>
+  <li><a href="/certificates/show/11">環境社会（eco検定）</a></li></ul>--></li>
+  <li><a href="/certificates/kentei.html#gokaku">各種検定試験 合格発表</a></li>
+  <li><a href="https://www.kenteishiken.com/matsubara/cc_user_page.cgi?mode=1" target="_blank">日商簿記インターネット申込</a></li>
+  <!--<li><a href="https://www.kenteishiken.com/matsubara/cc_user_page.cgi?mode=2" target="_blank">日商販売士<br />インターネット申込</a></li> -->
+  </ul>
+  <li><a href="/hall/hall.html"><img src="/img/common/gbnavi_03.png" alt="会館貸出のご案内" width="157" height="50" class="btn" /></a>
+    <ul>
+  <li><a href="/hall/hall.html">会館情報</a></li>
+  <!--<li><a href="https://www.matsubara-cci.or.jp/hall/hallsys/user.cgi" target="_blank">会館の予約状況を確認する</a></li>-->
+  <li><a href="/hall/hall.html#application">お申込み方法</a></li>
+  </ul></li>
+    <li><a href="/index.html#top_menber"><img src="/img/common/gbnavi_05.png" alt="会員情報" width="157" height="50" class="btn" /></a>
+        <ul>
+  <li><a href="/index.html#top_menber">会員ホームページ検索</a></li>
+  <li><a href="https://www.matsubara-cci.or.jp/contacts/register">検索に登録したい企業様は…</a></li>
+  <li><a href="/arrival/arrival.html">会員企業様ご紹介</a></li>
+  </ul>
+    </li><li><a href="/jobs/showlist"><img src="/img/common/gbnavi_06.png" alt="求人情報" width="157" height="50" class="btn" /></a>
+        <ul>
+  <li><a href="/jobs/showlist">求人情報を見る</a></li>
+  <li><a href="/corporates/memberloginform">求人情報を登録する</a></li>
+  </ul>
+  </li></ul>
+</div></div>
+<div id="wrapper">
+
+<div id="contents" class="same-height">
+
+<div id="leftBox">
+<h2 class="mb10"><a href="https://www.kenteishiken.com/matsubara/cc_user_page.cgi?mode=1" target="_blank"><img src="/img/common/boki_info_b.gif" alt="日商簿記検定　ネット申込はコチラ" width="200" height="50" class="btn" /></a></h2>
+<h2 class="mb10"><a href="/arrival/arrival.html"><img src="/img/common/officeintro_b.png" alt="会員企業紹介レポート「会員企業様ご紹介」" width="200" height="80" class="btn" /></a></h2>
+<h2 class="mb20"><a href="/mmex/mmex.html"><img src="/img/common/mmex_b.png" alt="松原ものづくりエクセレント企業事業" width="200" height="80" class="btn" /></a></h2>
+
+<h3>Information</h3>
+<ul class="pb10">
+<li><A Href="http://esod-neo.com/intro/cci/matsubara-cci.html" Target="_blank">
+<Img Src="https://kkbrain.co.jp/sod/banner/kbanner480x360.gif " Border="0" Width="200" Height="150">
+</A></li>
+<li><a href="https://www.youtube.com/channel/UCqcfE12wjDr_r1W6d3lxvqw" target="_blank"><img src="/img/common/seminarvideo_b_s.gif" alt="セミナー動画配信中" width="200" height="120" /></a></li>
+<li><a href="http://www.matsubara-cci.or.jp/pdf/aigamo_curry_info2020.pdf" target="_blank"><img src="/img/common/aigamocurry_b2.gif" alt="大阪（松原）で生まれた合鴨カレー" width="200" height="120" /></a></li>
+<li><a href="http://www.matsubara-cci.or.jp/pdf/kawachi_okayu_info2020.pdf" target="_blank"><img src="/img/common/kawachiokayu_b2.gif" alt="河内おかゆ（松原市産ひのひかり使用）" width="200" height="120" /></a></li>
+<li><a href="https://www.matsubara-cci.or.jp/mmex/nintei2019.html" target="_blank"><img src="/img/common/mmex2019_b_S.png" alt="松原ものづくりエクセレント企業認定2019" width="200" height="120" /></a></li>
+<li><a href="https://www.pcci-school.com/school/detail.html?school=71" target="_blank"><img src="/pasocon/banner1.png" alt="松原商工会議所パソコン教室" width="200" height="120" /></a></li>
+<!-- <li><a href="http://www.matsubara-cci.or.jp/pdf/keieisha_rosai2016.pdf" target="_blank"><img src="/img/common/keiei_rosai_b.png" alt="経営者の労災：労働保険事務組合・一人親方（建設業）　特別加入についてはこちら" width="200" height="120" /></a></li> -->
+<li><a href="http://www.matsubara-cci.or.jp/event/matsu_burger/" target="_blank"><img src="/img/common/matsumurger_b.png" alt="まつばらご当地グルメ第４弾まつばらバーガー" width="200" height="120" /></a></li>
+<!--<li><a href="https://www.matsubara-cci.or.jp/hall/hallsys/user.cgi" target="_blank"><img src="/img/common/k_yoyaku_b.gif" alt="松原商工会議所｜会館予約状況の確認はコチラからご覧ください（仮予約できます！）" width="200" height="120" /></a></li>-->
+<li><a href="https://www.matsubara-cci.or.jp/hall/hall.html" target="_blank"><img src="/img/common/k_yoyaku_b2.gif" alt="松原商工会議所｜貸室はこちら3密を避けられる会場をご用意しています" width="200" height="120" /></a></li>
+</ul>
+
+<h3 class="mt20">関連サイト</h3>
+<ul class="pb10">
+<li><a href="http://www.jcci.or.jp/secret/" target="_blank"><img src="/img/bnr/kakuchi_bn180.jpg" alt="商工会議所のヒミツ" width="180" height="47" /></a></li>
+<!-- <li><a href="http://www.ooaana.or.jp/tsushinkyoiku/" target="_blank"><img src="/img/bnr/ban_tsushinkyoiku_b.gif" alt="商工会議所の通信教育" width="200" height="44" /></a></li> -->
+<li><a href="http://www.b-mall.ne.jp/" target="_blank"><img src="http://www.b-mall.ne.jp/img/bmall200-40.jpg" alt="企業情報サイト ザ・ビジネスモール" width="200" height="40" /></a></li>
+<!-- <li><a href="http://www.chamberweb.jp/index.php" target="_blank"><img src="/img/bnr/cw_200.gif" alt="CHAMBERWEB" width="200" height="60"/></a></li> -->
+<!-- <li><a href="http://www.cin.or.jp/cin-cgi/me_list99open.asp" target="_blank"><img src="/img/bnr/cin.gif" alt="CIN" width="145" height="30" /></a></li> -->
+<!-- <li><a href="http://www.jcci.or.jp/sangyo/rouei-hoken/index.html" target="_blank"><img src="/img/bnr/kojin.gif" alt="日商・個人情報漏えい賠償責任保険制度" width="200" height="40" /></a></li> -->
+<li><a href="https://www.jcci.or.jp/it/toritsugi.html" target="_blank"><img src="/img/bnr/bcs_m.gif" alt="ビジネス認証への窓口" width="180" height="38" /></a></li>
+<li><a href="http://www.pref.osaka.jp/mono/oidc/" target="_blank"><img src="/img/bnr/oidc_banner.gif" alt="大阪府産業デザインセンター" width="160" height="48" /></a></li>
+<li><a href="http://bmb.oidc.jp/" target="_blank"><img src="/img/bnr/bmb1607a3.gif" alt="ビジネスマッチングブログ" width="160" height="48" /></a></li>
+<li><a href="http://www.m-osaka.com/jp/" target="_blank"><img src="/img/bnr/btn_mobio120.gif" alt="MOBIO（ものづくりビジネスセンター大阪）" width="120" height="60" /></a></li>
+<li><a href="http://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/kojin_jigyo/index.htm" target="_blank"><img src="/img/bnr/yao_zeimusyo_b.jpg" alt="記帳・帳簿等の保存制度が拡大されます。（国税局・税務署）" width="190" height="46" /></a></li>
+</ul>
+
+
+
+<!-- / #leftBox --></div>
+<div id="rightBox">
+
+<ul id="topicPath">
+<li><a href="/">TOP</a> ></li><!--
+--><li><a href="/news/show/599">ニュース詳細</a> ></li><!--
+--><li>新型コロナウイルス関連に関する融資制度、相談窓口等について【会員・非会員問わず】</li><!--
+--></ul>
+
+<div id="page" class="clear">
+
+<h1 class="txtH1">商工会議所からのお知らせ</h1>
+
+<h2 class="txtH2 mt10">新型コロナウイルス関連に関する融資制度、相談窓口等について【会員・非会員問わず】
+</h2>
+
+<p class="mt5">◆新型コロナウイルスに関するご相談<br />
+ 　当所では、新型コロナウイルスの流行に関する中小企業・小規模事業者向け相談窓口を設置致しております。<br />
+<br />
+ 新型コロナウイルスによる経営面・資金面等事業に対する影響について<br />
+ ご相談がございましたら、下記窓口までお問い合わせください。 <br />
+<br />
+ <u>新型コロナウイルスに関する中小企業・小規模事業者相談窓口</u><br />
+<br />
+お問合せ先：松原商工会議所　中小企業相談所<br />
+相談時間帯：平日　　9時～17時30分 TEL　072-331-0291<br />
+<br />
+<br />
+また、関係機関の制度は次の通りです。<br />
+<br />
+■大阪府営業時間短縮協力金について<br />
+<br />
+<a href="http://www.pref.osaka.lg.jp/keieishien/kyouryokukin_portal/index.html" target="_blank">http://www.pref.osaka.lg.jp/keieishien/kyouryokukin_portal/index.html</a> <br />
+<br />
+<br />
+■経済産業省「家賃支援給付金」について【申請終了】<br />
+<br />
+<a href="https://www.meti.go.jp/covid-19/yachin-kyufu/index.html" target="_blank">https://www.meti.go.jp/covid-19/yachin-kyufu/index.html</a> <br />
+<br />
+<br />
+<br />
+■経済産業省「持続化給付金」について【申請終了】<br />
+<br />
+<br />
+<br />
+■新型コロナウイルス感染症対応休業支援金・給付金について<br />
+<br />
+<a href="https://www.mhlw.go.jp/stf/kyugyoshienkin.html" target="_blank">https://www.mhlw.go.jp/stf/kyugyoshienkin.html</a> <br />
+<br />
+<br />
+■小規模事業者持続化補助金について<br />
+<br />
+<a href="https://jizokukahojokin.info/" target="_blank">https://jizokukahojokin.info/</a>  <br />
+<br />
+<br />
+■大阪府「休業要請外支援金」について（7/14にて終了）<br />
+<br />
+<a href="http://www.pref.osaka.lg.jp/shokosomu/kyuugyouyouseigai/index.html" target="_blank">http://www.pref.osaka.lg.jp/shokosomu/kyuugyouyouseigai/index.html</a> <br />
+<br />
+<br />
+■大阪府「休業要請支援金(府・市町村共同支援金)」について（6/20にて終了）<br />
+<br />
+<a href="http://www.pref.osaka.lg.jp/keieishien/kyugyoshienkin/index.html" target="_blank">http://www.pref.osaka.lg.jp/keieishien/kyugyoshienkin/index.html</a> <br />
+<br />
+■経済産業省<br />
+新型コロナウイルス感染症関連<br />
+<br />
+<a href="https://www.meti.go.jp/covid-19/" target="_blank">https://www.meti.go.jp/covid-19/</a> <br />
+<br />
+<br />
+■大阪府中小企業支援室<br />
+新型コロナウイルス感染症の発生により経営に影響を受けている中小企業者の皆様へ<br />
+<br />
+<a href="http://www.pref.osaka.lg.jp/keieishien/corona/index.html" target="_blank">http://www.pref.osaka.lg.jp/keieishien/corona/index.html</a> <br />
+<br />
+<br />
+■大阪府商工労働部中小企業支援室金融課<br />
+制度融資（信用保証付き）のご案内<br />
+<br />
+<a href="http://www.pref.osaka.lg.jp/kinyushien/seido001/index.html" target="_blank">http://www.pref.osaka.lg.jp/kinyushien/seido001/index.html</a> <br />
+ <br />
+<br />
+<br />
+■厚生労働省「新型コロナウイルス感染症について」<br />
+　<br />
+<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html" target="_blank">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html</a> <br />
+<br />
+<br />
+■経済産業省「新型コロナウイルス感染症で影響を受ける事業者の皆様へ」<br />
+各種制度の取りまとめたパンフです。<br />
+<br />
+<a href="https://www.meti.go.jp/covid-19/pdf/pamphlet.pdf" target="_blank">https://www.meti.go.jp/covid-19/pdf/pamphlet.pdf</a> <br />
+<br />
+<br />
+■外務省「海外安全ホームページ」<br />
+<br />
+<a href="https://www.anzen.mofa.go.jp/" target="_blank">https://www.anzen.mofa.go.jp/</a> <br />
+<br />
+<br />
+■ジェトロ・ビジネス短信「新型コロナウィルス感染拡大の影響」<br />
+<br />
+<a href="https://www.jetro.go.jp/biznews/feature/viruschina.html" target="_blank">https://www.jetro.go.jp/biznews/feature/viruschina.html</a> <br />
+<br />
+<br />
+■近畿運輸局「新型コロナウイルス感染症に関する相談窓口について」<br />
+<br />
+<a href="http://wwwtb.mlit.go.jp/kinki/saigai/kikikanri-coronavirus.html" target="_blank">http://wwwtb.mlit.go.jp/kinki/saigai/kikikanri-coronavirus.html</a> <br />
+<br />
+<br />
+■大阪府HP　新型コロナウイルス感染症について（府民のみなさんへ）<br />
+<br />
+<a href="http://www.pref.osaka.lg.jp/iryo/osakakansensho/corona.html" target="_blank">http://www.pref.osaka.lg.jp/iryo/osakakansensho/corona.html</a> <br />
+<br />
+■厚生労働省　新型コロナウイルス感染症の影響に伴う雇用調整助成金の特例措置の更なる拡大について<br />
+<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/pageL07.html" target="_blank">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/pageL07.html</a> <br />
+<br />
+■大阪労働局　在籍型出向を活用した雇用維持対策について（産業雇用安定助成金等）<br />
+<a href="https://jsite.mhlw.go.jp/osaka-roudoukyoku/zaisekigatasyukkou.html" target="_blank">https://jsite.mhlw.go.jp/osaka-roudoukyoku/zaisekigatasyukkou.html</a> <br />
+<br />
+<br />
+</p>
+
+
+
+<!-- / #page --></div>
+
+<!-- / #rightBox --></div>
+
+<!-- / #contents --></div>
+
+<!-- / #wrapper --></div>
+
+<div id="footer">
+<div id="footer_box">
+<span>
+<img src="/img/common/mcci_footer.gif" alt="松原商工会議所" /><br />
+　　　〒580-0043<br />
+　　　松原市阿保1丁目2番30号<br />
+　　　【TEL】072-331-0291<br />
+　　　【FAX】072-332-5720</span>
+
+<ul>
+  <li><a href="/about/about.html">商工会議所とは</a></li>
+  <li><a href="/admission/admission.html">入会のご案内</a></li>
+  <li><a href="/about/outline.html">松原商工会議所の概要</a></li>
+  <li><a href="/hall/hall.html">会館貸出のご案内</a></li>
+  <li><a href="/about/access.html">アクセス</a></li>
+  </ul>
+<ul>
+  <li><a href="/consultation/consultation.html">無料専門相談</a></li>
+  <li><a href="/consultation/marukei.html">マル経融資制度のご案内</a></li>
+  <li><a href="/consultation/premium.html">松原プレミアム融資のご案内</a></li>
+  <li><a href="/mutual/mutual.html">各種共済制度</a></li>
+  <li><a href="/arrival/arrival.html">会員企業様ご紹介</a></li>
+  </ul>
+<ul>
+  <li><a href="/certificates/kentei.html">検定試験情報</a></li>
+  <li><a href="/certificates/kentei.html#gokaku">検定試験合格者発表</a></li>
+  <li><a href="/jobs/showlist">求人情報</a></li>
+  <li><a href="/corporates/memberloginform">求人情報掲載</a></li>
+  <li><a href="/about/banner.html">広告バナー募集</a></li>
+</ul>
+<ul>
+  <li><a href="/industry/trade.html">松原の産業紹介</a></li>
+  <li><a href="/link/link.html">関連リンク集</a></li>
+  <li><a href="https://www.matsubara-cci.or.jp/contacts/register">お問い合せ</a></li>
+  <li><a href="/sitemap/sitemap.html">サイトマップ</a></li>
+  <li><a href="/privacy/privacy.html">個人情報保護について</a></li>
+  </ul>
+
+
+<p style="margin-top:20px; text-align: center;"><form action="https://sitesealinfo.pubcert.jprs.jp/SiteSealReference" name="SiteSealReference" method="post" target="_blank">
+<!--お客様の証明ページを別ウィンドウにて開きます。-->
+<input type="image" name="Sticker" src="/img/common/jprs_siteseal_120x50_DV.png" alt="クリックして証明書の内容をご確認ください。" oncontextmenu="return false;" />
+<!--ダウンロードしたサイトシール画像のパス名を指定します。-->
+<input type="hidden" name="certificateCn" value="www.matsubara-cci.or.jp" />
+<input type="hidden" name="certificateClass" value="DV" />
+<!--証明書のコモンネーム及び証明書種別（DVもしくはOV）を指定します。-->
+</form></p>
+
+<p class="copyright">Copyright &copy; 1998-2009-2012 松原商工会議所 All Rights Reserved.</p>
+<!-- / #footer_box --></div>
+<!-- / #footer --></div>
+
+<div id="topmenu"><a href="/index.html#mcci_topmenu"><img src="/img/common/icon_menu_link.png" width="28" height="157" /></a></div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12330542-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

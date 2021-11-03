@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" dir="ltr" lang="ja"><![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" dir="ltr" lang="ja"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" dir="ltr" lang="ja"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="ja"><!--<![endif]-->
+
+<head>
+
+<!-- Basic Page Needs
+================================================== -->
+<meta charset="UTF-8" />
+<title>「新型コロナウイルス感染症対応のための経営相談会」開催のお知らせ | 室蘭商工会議所</title>
+
+
+<meta name="keywords" content="メンバーズスクエア,住まいの学校,北海道,学校,生協,生活協同組合,ハウジング協議会,戸建て" />
+<meta name="description" content="&nbsp;【ご相談は事前予約が必要です】【オンラインでの相談も可能です】&nbsp;　新型コロナウイルス感染症により、..." />
+
+
+<!-- Mobile Specific Metas
+================================================== -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="format-detection" content="telephone=no" /><!--電話番号の自動検出をOFFにする-->
+
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.murocci.or.jp/wp/xmlrpc.php" />
+
+<!-- iOS Safari and Chrome -->
+<link rel="icon" sizes="192x192" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/webclip.png"><!-- recommended -->
+<link rel="apple-touch-icon" sizes="192x192" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/webclip.png">
+<!-- Android標準ブラウザ(一部) -->
+<link rel="shortcut icon" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/webclip.png">
+
+<!-- begen css -->
+<link rel="stylesheet" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/css/base.css?1600231649" media="screen" />
+<link rel="stylesheet" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/css/gnavi.css?1383792662" media="screen" />
+<link rel="stylesheet" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/css/contents.css?1384481213" media="screen" />
+
+<!-- begen print css -->
+<link rel="stylesheet" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/css/print/base.css?1383035510" media="print" />
+<link rel="stylesheet" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/css/print/gnavi.css?1383035510" media="print" />
+<link rel="stylesheet" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/css/print/contents.css?1383035510" media="print" />
+
+
+
+
+
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="室蘭商工会議所 &raquo; フィード" href="https://www.murocci.or.jp/feed/" />
+<link rel="alternate" type="application/rss+xml" title="室蘭商工会議所 &raquo; コメントフィード" href="https://www.murocci.or.jp/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.murocci.or.jp\/wp\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.murocci.or.jp/wp/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js' id='jquery-js'></script>
+<link rel="https://api.w.org/" href="https://www.murocci.or.jp/wp-json/" /><link rel="alternate" type="application/json" href="https://www.murocci.or.jp/wp-json/wp/v2/posts/8731" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.murocci.or.jp/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.murocci.or.jp/wp/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="https://www.murocci.or.jp/covid19soudankai2/" />
+<link rel='shortlink' href='https://www.murocci.or.jp/?p=8731' />
+<link rel="alternate" type="application/json+oembed" href="https://www.murocci.or.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.murocci.or.jp%2Fcovid19soudankai2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.murocci.or.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.murocci.or.jp%2Fcovid19soudankai2%2F&#038;format=xml" />
+<link rel="shortcut icon" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/favicon.ico" />
+
+<!--[if IE 6]>
+	<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/DD_belatedPNG_0.0.8a-min.js"></script>
+	<script>
+		DD_belatedPNG.fix('#headerlogo, .f_logoimg, img');
+	</script>
+<![endif]-->
+
+
+<!--[if lt IE 9]>
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/html5shiv.js"></script>
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/respond.src.js"></script>
+<![endif]-->
+
+
+<!-- footer Fixed -->
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/footerFixed.js"></script>
+<!-- smartRollover -->
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/smartRollover.js"></script>
+<!-- jquery watermark -->
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/jquery.watermark.min.js"></script>
+
+
+<!-- contactform7 popup js -->
+<link rel="stylesheet" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/cform7_popup/css/popupwindow.css" />
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/cform7_popup/popupwindow-1.8.1.js"></script>
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/cform7_popup/my_confirm.js"></script>
+
+
+<script>
+// フォーカスで消える文字（ページ上部 検索フォーム）
+jQuery(function () {
+	jQuery("#searchBox form :text").watermark("サイト内検索");
+});
+</script>
+
+
+<!-- fancyBox -->
+<!-- Add mousewheel plugin (this is optional) -->
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/fancyBox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+<!-- Add fancyBox main JS and CSS files -->
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/fancyBox/source/jquery.fancybox.js?v=2.1.5"></script>
+<link rel="stylesheet" href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/fancyBox/source/jquery.fancybox.css?v=2.1.5" media="screen" />
+<script>
+	jQuery(document).ready(function() {
+		jQuery('.fancybox').fancybox({
+			loop : false,
+			helpers : {
+				title : {
+					type : 'inside'
+				}
+			}
+		});
+	});
+</script>
+
+
+<!-- Element height align -->
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/jquery.tile.js"></script>
+<script>
+jQuery(function(){
+	jQuery("#contentNavi .inner li").tile();
+});
+</script>
+
+
+<!-- bxslider -->
+<link href="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/bxslider/jquery.bxslider.css" rel="stylesheet" media="all" />
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/bxslider/jquery.bxslider.min.js"></script>
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/bxslider/jquery.bxslider.js"></script>
+<script>
+jQuery(document).ready(function(){
+	jQuery('.slider').bxSlider({
+		startSlide: 0, //初めのスライドの指定
+		auto: true, //自動スタート再生さるかいなか
+		pause:	8000, //スライドの切り替えの間
+		speed: 1000, //スライドのアニメーションの時間
+		mode: 'horizontal', //スライドのエフェクト horizontal vertical fade
+		pager:true, //ページャーの有無
+		controls: true, //次へ、前へ等のコントロールの有無
+		// slideMargin: 10, //スライドとスライドのマージン
+		infiniteLoop: true, //ループさせるか否か
+		captions: false, //キャプションの設定
+		adaptiveHeight: true //スライドの高さが違う場合、それぞれ調節して合わせるかどうか
+		});
+	});
+</script>
+
+
+
+<!-- 要素 上下左右センター合わせ -->
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/imgLiquid/imgLiquid.js"></script>
+<script>
+jQuery(document).ready(function () {
+	jQuery(".imgLiquidFill").imgLiquid({fill:true});
+	jQuery(".imgLiquidNoFill").imgLiquid({fill:false});
+});
+</script>
+
+
+<!-- アコーディオン（スマートフォン用） -->
+<script type="text/javascript">
+	$(function(){
+		$(".gNavi p, #search_wrap p").on("click", function() {
+			$(this).next().slideToggle();
+			$(this).toggleClass("active");//追加部分
+		});
+	});
+</script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-45770066-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129318085-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129318085-1');
+</script>
+
+</head>
+
+
+<body>
+
+
+<!-- begen wrapper -->
+<div id="wrapper">
+
+
+<!--header start-->
+<header>
+<div id="headContents">
+<div id="headlogo"><a href="http://www.murocci.or.jp/"><img src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/headre_logo.gif" alt="公益社団法人 室蘭地方法人会"></a></div>
+<div id="hMenuBox">
+<ul id="hNavi">
+<li><a href="https://www.murocci.or.jp/about/">室蘭商工会議所について</a></li>
+<li><a href="https://www.murocci.or.jp/inquiry/">お問い合わせ</a></li>
+</ul>
+<!-- searchform -->
+<div id="searchBox">
+<form role="search" method="get" id="searchform" class="searchform" action="https://www.murocci.or.jp/">
+				<div>
+					<label class="screen-reader-text" for="s">検索:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="検索" />
+				</div>
+			</form></div>
+<!-- end searchform -->
+</div>
+</div><!-- end headContents -->
+</header>
+<!-- end header -->
+
+
+<div id="gNavi_wrap">
+<div class="gNavi">
+<p><img src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/sp/gnavi_menu.gif" alt="MENU"></p>
+<ul>
+	<li class="home"><a href="http://www.murocci.or.jp/">HOME</a></li>
+	<li><a href="https://www.murocci.or.jp/support/">経営支援</a></li>
+	<li><a href="https://www.murocci.or.jp/financing/">融資制度</a></li>
+	<li><a href="https://www.murocci.or.jp/kyosai/">共済制度</a></li>
+	<li><a href="https://www.murocci.or.jp/policy/">政策・事業</a></li>
+	<li><a href="https://www.murocci.or.jp/jinzai-kentei/">人材育成・検定</a></li>
+	<li><a href="https://www.murocci.or.jp/business-data/">ビジネスデータ</a></li>
+</ul>
+</div>
+</div>
+<!-- end gNavi_wrap -->
+
+
+<h1 id="pageTitle">メンバーズスクエア</h1>
+
+<div id="pankuzu">
+<div>
+<!-- Breadcrumb NavXT 6.6.0 -->
+<a href="https://www.murocci.or.jp" class="home">HOME</a><span>&gt;</span><a href="https://www.murocci.or.jp/category/news/" class="taxonomy category">メンバーズスクエア</a><span>&gt;</span>「新型コロナウイルス感染症対応のための経営相談会」開催のお知らせ</div>
+</div>
+<!-- #pankuzu -->
+
+
+<!-- begen contentWrap -->
+<div id="contentWrap">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+<div id="mainContents">
+
+
+
+<!-- begen contentsBox -->
+<div class="contentsBox">
+<section>
+<div class="contentsTitle newsTitle"><h1>「新型コロナウイルス感染症対応のための経営相談会」開催のお知らせ<span class="dateInfo">情報登録日：2021年10月26日</span></h1></div>
+
+
+<!-- begen サムネイル画像 -->
+<ul class="imgBox">
+
+
+<li><div><a href="https://www.murocci.or.jp/wp/wp-content/uploads/2021/10/20211115soudankai.pdf" target="_blank"><img width="143" height="200" src="https://www.murocci.or.jp/wp/wp-content/uploads/2021/10/20211115soudankai-pdf-214x300.jpg" class="attachment-0x200 size-0x200 thumb-of-pdf" alt="20211115soudankaiのサムネイル" loading="lazy" srcset="https://www.murocci.or.jp/wp/wp-content/uploads/2021/10/20211115soudankai-pdf-214x300.jpg 214w, https://www.murocci.or.jp/wp/wp-content/uploads/2021/10/20211115soudankai-pdf.jpg 730w" sizes="(max-width: 143px) 100vw, 143px" /></a></div><span><br /><a href="https://www.murocci.or.jp/wp/wp-content/uploads/2021/10/20211115soudankai.pdf" target="_blank">PDFファイル</a></span></li>	
+
+</ul>
+<!-- end サムネイル画像 -->
+
+<div class="textBox"><p>&nbsp;</p>
+<p style="text-align: center;"><span style="color: #0000ff;"><strong><span style="font-size: 14px;">【ご相談は事前予約が必要です】</span></strong></span></p>
+<p style="text-align: center;"><span style="color: #0000ff;"><strong><span style="font-size: 14px;">【オンラインでの相談も可能です】</span></strong></span></p>
+<p>&nbsp;</p>
+<p>　新型コロナウイルス感染症により、経営に影響を受けている、⼜は今後さらなる影響が懸念される中⼩・⼩規模企業の皆様を対象に個別相談会を開催いたします。<br />
+　相談は無料で、商工会議所の会員・非会員問わず、事業を営んでいる方はどなたでもご相談いただけます。ぜご利用ください。</p>
+<p>&nbsp;</p>
+<p><strong>【日　時】</strong>：2021年11月15日（月）10時30分～16時30分<br />
+　　　　　　相談時間は、下記の時間から50分程度です。<br />
+　　　　　　10時30分～・11時30分～・13時30分～<br />
+　　　　　　14時30分～・15時30分～</p>
+<p><strong>【会　場】</strong>：室蘭プリンスホテル　４階 金枝の間</p>
+<table style="height: 175px; width: 79.1659%; border-collapse: collapse; border-color: #000000; background-color: #ffffff; border-style: solid;">
+<tbody>
+<tr style="height: 175px;">
+<td style="width: 100%; height: 175px;">
+<p><strong>【オンラインでの相談も可能です】</strong><br />
+<strong>　　〇オンライン相談はテレビ会議方式(Google Meet)による個別相談となります。</strong><br />
+<strong>　　〇相談者様にご用意いただくもの：パソコン（Webカメラ、マイク、スピーカー付）、<br />
+</strong><strong>　　　スマートフォン、タブ</strong><strong>レットのいずれかの機材が必要となります。</strong><br />
+<strong>　　※Wi-Fi環境での利用を推奨します。通信料についてはご相談者様負担となります。</strong><br />
+<strong>　　※携帯電話でドメイン指定受信を設定されている場合は「@murocci.or.jp」からの<br />
+　　　メールを受け取れるよう</strong><strong>設定をお願いいたします。</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>【内　容】</strong>：①⾦融相談、②経営相談、③労務相談、④給付金相談、⑤感染予防対応、⑥その他</p>
+<p><strong>【相談員】</strong>：・本所 専門相談員（中小企業診断士・社会保険労務士）<br />
+　　　　　　・⽇本政策⾦融公庫室蘭⽀店　担当者<br />
+　　　　　　・北海道胆振総合振興局　担当者<br />
+　　　　　　・室蘭市経済部緊急経済対策室　担当者<br />
+　　　　　　・本所 経営指導員等</p>
+<p><strong>【申　込】</strong>：下記チラシ裏面の申込書により、FAXにて11月9日（火）までにお申し込みください。<br />
+<span style="font-size: 14px;"><strong><span style="color: #3366ff;">　　　　　　詳細は添付チラシをご覧ください。</span>　<a href="https://www.murocci.or.jp/wp/wp-content/uploads/2021/10/20211115soudankai.pdf">チラシ（PDF）</a></strong></span></p>
+<table style="height: 77px; width: 79.1659%; border-collapse: collapse; border-color: #000000; background-color: #ffffff; border-style: solid;">
+<tbody>
+<tr style="height: 77px;">
+<td style="width: 100%; height: 77px;"><strong><span style="color: #ff0000;">新型コロナウイルス感染防止策として、マスクの着用と 入口での体温 の測定、アルコール消毒に ご協力ください。</span></strong><strong><span style="color: #ff0000;">なお、当日体調の悪い方は、ご参加をご遠慮いただく場合もありますのでご了承ください。</span></strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>【お問い合わせ】</strong><br />
+　　室蘭商工会議所　経営支援グループ　室蘭市海岸町１－４－１　むろらん広域センタービル２階<br />
+　　TEL:0120-485-110</p>
+<p style="text-align: left;">（2021年度　日本商工会議所　新型コロナウイルス対応のための経営相談体制強化事業）</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</section>
+</div>
+<!-- end contentsBox -->
+
+
+
+</div>
+<!-- end mainContents -->
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+
+
+
+<div id="sideContents">
+
+<!-- begen sideNavi_info -->
+<div id="sideNavi_info">
+<aside>
+<ul>
+	<li>
+
+
+<a href="https://www.murocci.or.jp/ranran2_stump/">
+<span class="infonew">NEW!</span>「蘭ラングルメ2」を利用してスタンプを集めよう!!...</a>
+<span class="infodate">（2021年11月01日）</span>
+</li>
+	<li>
+
+
+<a href="https://www.murocci.or.jp/covid19soudankai2/">
+「新型コロナウイルス感染症対応のための経営相談会」...<span class="iconImg"><img src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/icon_pdf.gif"></span>
+</a>
+<span class="infodate">（2021年10月26日）</span>
+</li>
+	<li>
+
+
+<a href="https://www.murocci.or.jp/getuji-shien/">
+【10/26更新】緊急事態措置⼜はまん延防⽌等重点...<span class="iconImg"><img src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/icon_pdf.gif"></span>
+</a>
+<span class="infodate">（2021年04月28日）</span>
+</li>
+	<li>
+
+
+<a href="https://www.murocci.or.jp/dai3sya/">
+飲食店における感染防止対策の認証（第三者認証制度）...<span class="iconImg"><img src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/icon_pdf.gif"></span>
+</a>
+<span class="infodate">（2021年10月22日）</span>
+</li>
+	<li>
+
+
+<a href="https://www.murocci.or.jp/ranran-gourmet2-list/">
+【10/20版】むろらん応援プレミアム付飲食券「蘭...<span class="iconImg"><img src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/icon_pdf.gif"></span>
+</a>
+<span class="infodate">（2021年10月21日）</span>
+</li>
+		</ul>
+</aside>
+</div>
+<!-- end sideNavi_info -->
+
+</div>
+<!--  end sideContents-->
+</div>
+<!-- end contentWrap -->
+
+<!-- begen footer -->
+<div id="footer">
+<div id="footContents">
+<div id="btnPagetop"><a href="#">ページの上部へ</a></div>
+
+<div class="footNavi dispNone">
+<div class="fNaviBox"><div class="ftcTitle">経営支援</div><ul><li class="page_item page-item-20"><a href="https://www.murocci.or.jp/support/roudou-kumiai/">労働保険事務組合</a></li>
+<li class="page_item page-item-18 page_item_has_children"><a href="https://www.murocci.or.jp/support/soudan/">各種専門相談</a></li>
+<li class="page_item page-item-16 page_item_has_children"><a href="https://www.murocci.or.jp/support/kaigyo/">新規開業</a></li>
+</ul></div><div class="fNaviBox"><div class="ftcTitle">融資制度</div><ul><li class="page_item page-item-22"><a href="https://www.murocci.or.jp/financing/financing/">融資</a></li>
+<li class="page_item page-item-24"><a href="https://www.murocci.or.jp/financing/marukei/">マル経資金のご案内</a></li>
+</ul></div></div>
+
+<div class="footNavi dispNone">
+<div class="fNaviBox"><div class="ftcTitle">共済制度</div><ul><li class="page_item page-item-334"><a href="https://www.murocci.or.jp/kyosai/seimei/">生命共済</a></li>
+<li class="page_item page-item-26"><a href="https://www.murocci.or.jp/kyosai/taishokukin/">特定退職金共済</a></li>
+<li class="page_item page-item-336"><a href="https://www.murocci.or.jp/kyosai/kakushu/">各種共済</a></li>
+<li class="page_item page-item-28"><a href="https://www.murocci.or.jp/kyosai/shokibo/">小規模企業共済</a></li>
+<li class="page_item page-item-30"><a href="https://www.murocci.or.jp/kyosai/tousanboushi/">中小企業倒産防止共済</a></li>
+</ul></div><div class="fNaviBox"><div class="ftcTitle">政策・事業</div><ul><li class="page_item page-item-5035"><a href="https://www.murocci.or.jp/policy/syoutengai/">むろらん中央商店街･中島商店街</a></li>
+<li class="page_item page-item-8051"><a href="https://www.murocci.or.jp/policy/2021%e5%b9%b4%e5%ba%a6%e3%80%80%e5%ae%a4%e8%98%ad%e5%95%86%e5%b7%a5%e4%bc%9a%e8%ad%b0%e6%89%80%e3%81%ae%e5%8f%96%e3%82%8a%e7%b5%84%e3%81%bf/">２０２１年度の取り組み</a></li>
+</ul></div></div>
+
+<div class="footNavi dispNone">
+<div class="fNaviBox"><div class="ftcTitle">人材育成・検定</div><ul><li class="page_item page-item-38 page_item_has_children"><a href="https://www.murocci.or.jp/jinzai-kentei/shiken/">検定試験</a></li>
+<li class="page_item page-item-36 page_item_has_children"><a href="https://www.murocci.or.jp/jinzai-kentei/haken/">室蘭市産業教育センター 実施事業</a></li>
+<li class="page_item page-item-7779"><a href="https://www.murocci.or.jp/jinzai-kentei/jinzai/">人材募集・採用</a></li>
+</ul></div><div class="fNaviBox"><div class="ftcTitle">ビジネスデータ</div><ul><li class="page_item page-item-3050"><a href="https://www.murocci.or.jp/business-data/statistics/">調査統計資料</a></li>
+</ul></div></div>
+
+<div class="footNavi">
+<ul>
+<li><a href="https://www.murocci.or.jp/about/">室蘭商工会議所について</a></li>
+<li><a href="https://www.murocci.or.jp/about/privacy/">個人情報保護方針</a></li>
+<li><a href="https://www.murocci.or.jp/inquiry/">お問い合わせ</a></li>
+<li><a href="https://www.murocci.or.jp/links/">リンク</a></li>
+</ul>
+</div>
+
+
+<div class="copy">
+<p class="ftLogo"><a href="http://www.murocci.or.jp/"><img src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/images/footer_logo.gif"></a></p>
+<span class="address">〒051-0022 北海道室蘭市海岸町1丁目4−1<br />
+むろらん広域センタービル 2F<br class="fTel" />
+TEL.0143-22-3196　FAX.0143-24-2943 <br class="fTel" />
+<a href="https://www.murocci.or.jp/about/access/">&#187; アクセスマップ</a></span>
+<span class="copyright">Copyright &copy; 2021 The Muroran Chamber of Commerce and<br />Industry All Rights Reserved.</span>
+</div>
+
+
+</div>
+<!-- end footContents -->
+</div>
+<!-- end footer -->
+
+</div>
+<!-- end wrapper -->
+
+
+<!-- smoothscroll -->
+<script src="https://www.murocci.or.jp/wp/wp-content/themes/murocci/js/smoothscroll.js"></script>
+
+
+<script type='text/javascript' src='https://www.murocci.or.jp/wp/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.murocci.or.jp/wp/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+
+</body>
+</html>

@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge, chrome=1">
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="description" content="札幌商工会議所が豊富なサービスで、経営支援します。" />
+<meta name="keywords" content="商工会議所,経営支援,取引拡大,創業,観光振興,人材,各種セミナー" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="robots" content="index, follow" />
+
+
+<title>在籍型出向制度～雇用を守る出向支援プログラム～ | 札幌商工会議所</title>
+
+<!--//// 共通 部品↓ ////-->
+<link rel="stylesheet" type="text/css" href="/web/mt-static/plugins/AForm/theme/theme01.css" />
+<link rel="stylesheet" type="text/css" href="/web/css/common/import.css" />
+<script type="text/javascript" src="/web/js/googleAnalytics.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="/web/js/common.js"></script>
+<!--//// 共通 部品↑ ////-->
+
+<!--//// 個別 部品↓ ////-->
+<link rel="stylesheet" type="text/css" href="/web/css/business/index.css" />
+<script>
+$(function(){
+	$(".box_list ul li:nth-child(2n+1)")
+	.addClass("mr20");
+	
+	$(".box_list ul li:nth-child(2n+3)")
+	.addClass("clear");
+});
+</script>
+<link href="/web/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+<script src="/web/js/jquery.mCustomScrollbar.min.js"></script>
+<script type="text/javascript">
+$(function(){
+  $(window).load(function(){
+     $(".read").mCustomScrollbar();
+  });
+});
+</script>
+<!--//// 個別 部品↑ ////-->
+
+</head>
+
+<body>
+
+<div class="wrap">
+
+<!--  header start -->
+  <div class="header">
+    <div class="header_in">
+      <h1><a href="http://www.sapporo-cci.or.jp/index.html">札幌商工会議所</a></h1>
+      <div class="search">
+        <form action="https://www.google.co.jp/search" method="GET">
+          <input type="text" maxlength="255" class="txt" value="" name="q">
+          <input type="hidden" class="hid" value="ja" name="hl">
+          <input type="hidden" class="hid" value="sapporo-cci.or.jp" name="as_sitesearch">
+          <input type="hidden" class="hid" value="utf-8" name="ie">
+          <input type="hidden" class="hid" value="utf-8" name="oe">
+          <div class="search_btn">
+            <input type="submit" class="btn" value="検索">
+          </div>
+        </form>
+        <div class="lang"><a href="/web/files/profile_english.pdf" target="_blank">SCCI Profile  English</a></div>
+      <div class="join"><a href="/web/admission/index.html">入会のご案内 札幌商工会議所 入会の8大メリット</a></div>
+      </div>
+    </div>
+  </div>
+  <!--  header end --> 
+
+  <!--  nav start -->
+  <div class="nav_second">
+<div class="nav_in">
+      <ul class="drop cFix">
+        <li><a href="http://www.sapporo-cci.or.jp/index.html"><img src="/web/img/common/nav/nav_01.png"></a></li>
+        <li><a href="javascript:void(0);"><img src="/web/img/common/nav/nav_02.png"></a>
+          <div class="drop_in n02bg">
+            <ul>
+              <li><a href="/web/business/bus_m.html">ものづくり支援</a></li>
+              <li><a href="/web/business/bus_hk.html">販路拡大・海外展開支援</a></li>
+              <li><a href="/web/business/bus_sb.html">商談会・物産展等</a></li>
+              <li><a href="/web/business/bus_p.html">ＰＲ支援</a></li>
+              <li><a href="/web/business/bus_ki.html">企業交流・異業種グループ等</a></li>
+              <li><a href="/web/business/bus_hn.html">表彰・認定</a></li>
+              <li><a href="/web/mailmagazine/index.html">メールマガジン</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="javascript:void(0);"><img src="/web/img/common/nav/nav_03.png"></a>
+          <div class="drop_in n03bg">
+            <ul>
+              <li><a href="/web/manage/man_y.html">融資</a></li>
+              <li><a href="/web/manage/man_k.html">経営相談</a></li>
+              <li><a href="/web/manage/man_s.html">創業支援</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="javascript:void(0);"><img src="/web/img/common/nav/nav_04.png"></a>
+          <div class="drop_in n04bg">
+            <ul>
+              <li><a href="http://www.sapporo-cci.or.jp/kenteishiken/exam_index.php" target="_blank">検定試験</a></li>
+              <li><a href="https://www.scci-jcenter.jp/" target="_blank">受験対策講座</a></li>
+              <li><a href="https://shindanshi-yousei.jp/" target="_blank">中小企業診断士養成課程</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="javascript:void(0);"><img src="/web/img/common/nav/nav_05.png"></a>
+          <div class="drop_in n05bg">
+            <ul>
+              <li><a href="/web/service/ser_k.html">共済</a></li>
+              <li><a href="/web/service/ser_tn.html">退職金・年金</a></li>
+              <li><a href="/web/service/ser_h.html">保険</a></li>
+              <li><a href="/web/service/ser_s.html">施設貸出</a></li>
+              <li><a href="/web/service/ser_yw.html">優待・割引</a></li>
+              <li><a href="/web/service/ser_ks.html">各種証明書発行</a></li>
+              <li><a href="/web/service/ser_sk.html">その他</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="javascript:void(0);"><img src="/web/img/common/nav/nav_06.png"></a>
+          <div class="drop_in n06bg">
+            <ul>
+              <li><a href="/web/events/index.html">全てのセミナー・イベント</a></li>
+              <li><a href="/web/events/index.html?c_1=研修・講演会">研修・講演会</a></li>
+              <li><a href="/web/events/index.html?c_2=商談会">商談会</a></li>
+              <li><a href="/web/events/index.html?c_3=企業交流会">企業交流会</a></li>
+              <li><a href="/web/events/index.html?c_4=視察・見学会">視察・見学会</a></li>
+              <li><a href="/web/events/index.html?c_5=就職・採用">就職・採用</a></li>
+              <li><a href="/web/events/index.html?c_6=経営相談会">経営相談会</a></li>
+              <li><a href="/web/events/index.html?c_7=スキルアップ（ビジネス）">スキルアップ(ビジネス)</a></li>
+               <li><a href="/web/events/index.html?c_8=スキルアップ（ＰＣ）">スキルアップ(ＰＣ)</a></li>
+              <li><a href="/web/events/index.html?c_9=その他">その他</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="javascript:void(0);"><img src="/web/img/common/nav/nav_07.png"></a>
+          <div class="drop_in n07bg end">
+            <ul>
+              <li><a href="/web/request/req_t.html">調査</a></li>
+              <li><a href="/web/request/req_yt.html">要望・提言活動</a></li>
+              <li><a href="/web/request/req_g.html">業界振興</a></li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!--  nav end --> 
+
+  <!--  cate_title start -->
+  <div class="cate_title">
+   <div class="cate_title_in">
+    <span class="tit">ビジネスチャンス・企業PR</span><span class="sub">商工会議所のネットワークを活用し、ビジネスチャンス拡大、自社の製品・サービスのPR をサポート。</span>
+   </div>
+  </div>
+  <!--  cate_title end --> 
+  
+  <!--  content start -->
+  <div class="content">
+    <div class="content_in cFix">
+    
+      <!--  cleft start -->
+      <div class="cleft">
+      
+<!--  side_menu start -->
+        <div class="sub_nav">
+          <h3>目的別で探す</h3>
+          <div class="sub_nav_in">
+          
+           <div id="acMenu" class="cFix">
+            <div class="nav_btn">新たな商機や顧客を<br />開拓したい</div>
+            <div class="nav_body">
+             <ul>
+<li><a href="/web/purpose/p1_01.html">海外展開の相談や取引支援を受けたい</a></li>
+              <li><a href="/web/purpose/p1_02.html">商談会・物産展等に参加したい</a></li>
+              <li><a href="/web/purpose/p1_03.html">新商品やサービスのＰＲ支援を利用したい</a></li>
+              <li><a href="/web/purpose/p1_04.html">企業交流・異業種グループに参加したい</a></li>
+              <li><a href="/web/purpose/p1_05.html">証明書を取得したい</a></li>
+             </ul>
+            </div>
+           </div>
+           
+           <div id="acMenu" class="cFix">
+            <div class="nav_btn">経営の悩みを相談したい</div>
+            <div class="nav_body">
+             <ul>
+<li><a href="/web/purpose/p1_06.html">税理士等の専門家に相談したい</a></li>
+              <li><a href="/web/purpose/p1_07.html">事業資金について相談したい</a></li>
+              <li><a href="/web/purpose/p1_08.html">創業について相談したい</a></li>
+              <li><a href="/web/purpose/p1_09.html">ものづくりに関する支援を受けたい</a></li>
+             </ul>
+            </div>
+           </div>
+           
+           <div id="acMenu" class="cFix">
+            <div class="nav_btn">会員割引を利用したい</div>
+            <div class="nav_body">
+             <ul>
+<li><a href="/web/purpose/p1_11.html">会議室等の施設を安く利用したい</a></li>
+              <li><a href="/web/purpose/p1_12.html">優待・割引を利用したい</a></li>
+              <li><a href="/web/purpose/p1_13.html">その他</a></li>
+             </ul>
+            </div>
+           </div>
+
+           <div id="acMenu" class="cFix">
+            <div class="nav_btn">経営リスクに備えたい<br />福利厚生を充実させたい</div>
+            <div class="nav_body">
+             <ul>
+<li><a href="/web/purpose/p1_14.html">共済制度に加入したい</a></li>
+              <li><a href="/web/purpose/p1_15.html">退職金・年金制度に加入したい</a></li>
+              <li><a href="/web/purpose/p1_16.html">各種保険に加入したい</a></li>
+             </ul>
+            </div>
+           </div>
+          
+           <div id="acMenu" class="cFix">
+            <div class="nav_btn">採用・就職支援を受けたい</div>
+            <div class="nav_body">
+             <ul>
+<li><a href="/web/purpose/p1_28.html">新たな人材を採用したい</a></li>
+              <li><a href="/web/purpose/p1_29.html">採用力強化・業界PRにつなげたい</a></li>
+              <li><a href="/web/purpose/p1_30.html">雇用維持・人材確保の支援を受けたい</a></li>
+             </ul>
+            </div>
+           </div>
+           
+           <div id="acMenu" class="cFix">
+            <div class="nav_btn">社員や自分の<br />スキルアップを図りたい</div>
+            <div class="nav_body">
+             <ul>
+<li><a href="/web/events/index.html">セミナー・イベントに参加したい</a></li>
+              <li><a href="/web/purpose/p1_18.html">資格試験・受験対策講座を受講したい</a></li>
+              <li><a href="/web/purpose/p1_19.html">人材育成を図りたい</a></li>
+              <li><a href="/web/purpose/p1_20.html">自己啓発・スキルアップを図りたい</a></li>
+             </ul>
+            </div>
+           </div>
+          
+           <div id="acMenu" class="cFix">
+            <div class="nav_btn">生産性向上を図りたい</div>
+            <div class="nav_body">
+             <ul>
+<li><a href="/web/purpose/p1_25.html">セミナー・研修に参加したい</a></li>
+              <li><a href="/web/purpose/p1_26.html">中小企業の生産性向上の取り組み事例を知りたい</a></li>
+              <li><a href="/web/purpose/p1_27.html">ＩＴの導入・活用、補助金の利用などについて相談したい</a></li>
+              <li><a href="/web/committee/production.html">生産性向上委員会</a></li>
+             </ul>
+            </div>
+           </div>
+           
+           <div id="acMenu" class="cFix">
+            <div class="nav_btn">経営・経済に関する<br />情報を得たい</div>
+            <div class="nav_body">
+             <ul>
+<li><a href="/web/purpose/p1_21.html">景気動向・調査について知りたい</a></li>
+              <li><a href="/web/purpose/p1_22.html">各種調査について知りたい</a></li>
+              <li><a href="/web/purpose/p1_23.html">要望・提言について知りたい</a></li>
+              <li><a href="/web/purpose/p1_24.html">業界の活動について知りたい</a></li>
+             </ul>
+            </div>
+           </div>
+           
+          </div>
+        </div>
+        <!--  side_menu end --> 
+
+        
+      </div>
+      <!--  cleft start --> 
+
+      <!--  cright start -->
+      <div class="cright_s">
+
+       <!--  panlist start -->
+       <div class="panlist">
+        <ul class="cFix">
+         <li><a href="http://www.sapporo-cci.or.jp/index.html">ホーム</a></li>
+         <li><span>在籍型出向制度～雇用を守る出向支援プログラム～</span></li>
+        </ul>
+       </div>
+       <!--  panlist end -->
+      
+       <!--  page_title start -->
+       <div class="page_title">
+       在籍型出向制度～雇用を守る出向支援プログラム～
+       </div>
+       <!--  page_title end -->
+
+       <div class="column">
+       <a href="https://www.sapporo-cci.or.jp/web/business/assets_c/2020/11/%E9%9B%87%E7%94%A8%E3%82%B7%E3%82%A7%E3%82%A2-7374.html" onclick="window.open('https://www.sapporo-cci.or.jp/web/business/assets_c/2020/11/%E9%9B%87%E7%94%A8%E3%82%B7%E3%82%A7%E3%82%A2-7374.html','popup','width=909,height=597,scrollbars=yes,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img alt="雇用シェア.jpg" class="mt-image-center" height="492" src="https://www.sapporo-cci.or.jp/web/business/assets_c/2020/11/%E9%9B%87%E7%94%A8%E3%82%B7%E3%82%A7%E3%82%A2-thumb-750xauto-7374.jpg" style="text-align: center; display: block; margin: 0 auto 20px;" width="750"></a>
+<div style="text-align: center;"><span class="red"><strong><span style="font-size:120%;">雇用シェア（在籍型出向制度）を活用して一時的に休業している労働者の雇用を守ります！</span></strong></span></div>
+<br>
+<a href="https://www.sapporo-cci.or.jp/web/business/assets_c/2020/11/%E9%9B%87%E7%94%A8%E3%82%B7%E3%82%A7%E3%82%A2%E2%91%A1-7377.html" onclick="window.open('https://www.sapporo-cci.or.jp/web/business/assets_c/2020/11/%E9%9B%87%E7%94%A8%E3%82%B7%E3%82%A7%E3%82%A2%E2%91%A1-7377.html','popup','width=898,height=433,scrollbars=yes,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img alt="雇用シェア②.jpg" class="mt-image-center" height="361" src="https://www.sapporo-cci.or.jp/web/business/assets_c/2020/11/%E9%9B%87%E7%94%A8%E3%82%B7%E3%82%A7%E3%82%A2%E2%91%A1-thumb-750xauto-7377.jpg" style="text-align: center; display: block; margin: 0 auto 20px;" width="750"></a>＜注意点＞<br>
+　 ①送出企業、受入企業の条件を基にマッチング支援を行いますので、上記スキームの限りではございません。<br>
+　 ②送出企業、受入企業の情報は厳重に管理し、外部に公表することは一切ございません。<br>
+　 ③必ずマッチングできるという保証はございません。予めご了承ください。<br>
+<br>
+＜制度の流れ・申込み＞<br>
+　 ①札幌商工会議所・（公財）産業雇用安定センターが受入企業・送出企業を募集致します。<br>
+　 ②制度利用・ご相談のお申込は下記の「申込フォーム」から承ります。<br>
+　 ③相談内容を札幌商工会議所が受付し、（公財）産業雇用安定センター／北海道労働局に支援依頼を行います。<br>
+　 ④状況に応じて双方の企業を訪問させて頂き、ヒアリングを実施致します。<br>
+　 ⑤契約サポート（書類関係）を行います。<br>
+　 ⑥担当者同士の面談・マッチング等を適宜セッティングし、マッチングに向けてサポート致します。<br>
+<br>
+<div style="text-align: center;"><ins><strong><span class="red"><span style="font-size: 16.8px;">マッチングに至るまで約１か月を要します。お早めに申込をお願いします！<br>
+送出企業・受入企業ともに募集しております。お気軽にお申込みください！</span></span></strong></ins></div>
+<div>&nbsp;</div>
+<table border="1" cellpadding="1" cellspacing="1" class="hyou_red" style="width: 100%">
+<tbody>
+<tr>
+<td style="font-size: 14px;"><span style="font-size: 16.8px;"><span class="red">≪関連資料≫</span></span>
+<ul>
+<li class="icon_pdf"><strong><a href="http://www.sapporo-cci.or.jp/web/business/files/%E5%9C%A8%E7%B1%8D%E5%9E%8B%E5%87%BA%E5%90%91%E5%88%B6%E5%BA%A6%E3%80%90%E6%A1%88%E5%86%85PDF%E3%80%91.pdf">在籍型出向制度【A4版案内PDF】</a></strong></li>
+<li class="icon_pdf"><strong><a href="https://www.sapporo-cci.or.jp/web/business/files/%E5%9C%A8%E7%B1%8D%E5%9E%8B%E5%87%BA%E5%90%91%E5%88%B6%E5%BA%A6%E3%80%90A3%E7%89%88%E3%83%AA%E3%83%BC%E3%83%95%E3%83%AC%E3%83%83%E3%83%88PDF%E3%80%91.pdf">在籍型出向制度・産業雇用安定助成金【A3版リーフレットPDF】</a></strong></li>
+</ul>
+<div class="icon_pdf"><strong>​</strong></div>
+<span class="red"><span style="font-size:120%;">≪関連情報≫</span></span><br>
+<ul>
+<li><strong><a href="https://www.sapporo-cci.or.jp/web/manage/details/post-138.html ">産業雇用安定助成金（令和3年2月5日創設）</a></strong></li>
+</ul>
+【制度概要】<br>
+新型コロナウイルス感染症の影響により事業活動の一時的な縮小を余儀なくされた事業主が、在籍型出向により労働者の雇用を維持する場合、出向元と出向先の双方の事業主に対して、その出向に要した賃金や経費の一部を助成するものです。</td>
+</tr>
+</tbody>
+</table>
+<div>&nbsp;</div>
+<span style="font-size: 16.8px;"><strong>＜申込フォーム＞　　</strong></span><br>
+　　下記をご入力の上、お申込みください。<br>
+<script type="text/javascript">
+<!--
+aform = new Object;
+aform.id = '1041';
+aform.logger_url = '/web/cgi-bin/mt/plugins/AForm/aform_logger.cgi';
+aform.checker_url = '/web/cgi-bin/mt/plugins/AForm/aform_checker.cgi';
+aform.phrases = {"Input error:": "入力エラー:"};
+aform.static_uri = '/web/mt-static/';
+//-->
+</script>
+
+  <script src="/web/mt-static/plugins/AForm/js/zenhanconv.js" type="text/javascript"></script>
+
+
+
+
+<script src="/web/mt-static/plugins/AForm/js/jquery.js" type="text/javascript"></script>
+<script src="/web/mt-static/plugins/AForm/js/jquery.validate.js" type="text/javascript"></script>
+<script src="/web/mt-static/plugins/AForm/js/jquery.cookie.js" type="text/javascript"></script>
+<script src="/web/mt-static/plugins/AForm/js/jquery.query.js" type="text/javascript"></script>
+
+<script src="/web/mt-static/plugins/AForm/js/aform.js" type="text/javascript"></script>
+<script src="/web/mt-static/plugins/AForm/js/jquery-ui-1.8.4.custom.min.js" type="text/javascript"></script>
+
+<script src="/web/mt-static/plugins/AForm/js/jquery.ui.datepicker-ja.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/web/mt-static/plugins/AForm/style.css" />
+
+<link rel="stylesheet" type="text/css" href="/web/mt-static/plugins/AForm/jquery-ui-1.8.4.custom.css" />
+
+<div id="aform-1041" class="aform ja">
+<div class="aform-header">在籍型出向制度～雇用を守る出向支援プログラム～申込フォーム</div>
+<div class="aform-checking" style="display:none;">フォームの状態を確認しています...</div>
+<div class="aform-content">
+
+携帯電話でドメイン指定受信を設定されている場合は「@sapporo-cci.or.jp」からのメールを受け取れるよう設定をお願いいたします。<br>
+携帯電話の機種や、携帯電話会社によって設定方法が異なります。設定の詳細については、ご利用の携帯電話のマニュアルを参照いただくか、携帯電話会社へお問い合わせください。<br><br>
+<form enctype="multipart/form-data" name="aform-form-1041" id="aform-form-1041" method="post" action="/web/cgi-bin/mt/plugins/AForm/aform_engine.cgi"  novalidate="novalidate">
+    <input type="hidden" name="blog_id" value="5" />
+    <input type="hidden" name="id" value="1041" />
+    <input type="hidden" name="run_mode" value="confirm" />
+    <input type="hidden" name="aform_url" value="https://www.sapporo-cci.or.jp/web/business/details/koyoushare.html" />
+    <input type="hidden" name="aform_path" value="/web/business/details/koyoushare.html" />
+    <input type="hidden" name="entry_id" value="4422" />
+    
+
+
+
+  
+  <div
+        class="aform-input aform-hdln parts-8">在籍型出向制度～雇用を守る出向支援プログラム～利用者情報</div>
+  <p class="aform-error parts-8" id="parts-8-error"></p>
+
+
+
+<dl>
+  <dt><span class="aform-label parts-43">種別<span class="required">必須</span></span>
+  </dt>
+  <dd>
+      <ul class="aform-radio-ul aform-field-14270 parts-43"><li><input
+            class="aform-input aform-radio parts-43 validate-one-required" 
+            id="parts-43-1" 
+            name="aform-field-14270"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="1" 
+            required
+            title="選択してください" /><label for="parts-43-1">受入企業として登録を希望したい</label></li><li><input
+            class="aform-input aform-radio parts-43 validate-one-required" 
+            id="parts-43-2" 
+            name="aform-field-14270"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="2" 
+            required
+            title="選択してください" /><label for="parts-43-2">送出企業として受入先を探したい</label></li></ul>
+      <p class="aform-error parts-43" id="parts-43-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-2" class="aform-label parts-2">企業名<span class="required">必須</span></label>
+  </dt>
+  <dd>
+      <input 
+        id="parts-2"
+        class="aform-input aform-text parts-2 required" 
+        name="aform-field-14253" 
+        type="text" 
+        value="" 
+        size="40" 
+        title="企業名を入力してください"
+        required
+        
+         />
+      <p class="aform-error parts-2" id="parts-2-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-32" class="aform-label parts-32">郵便番号<span class="required">必須</span></label>
+  </dt>
+  <dd><p class="aform-input-example parts-32">入力例:123-4567</p>
+      <input 
+        id="parts-32"
+        class="aform-input aform-zipcode parts-32 hankaku validate-zipcode required" 
+        name="aform-field-14254" 
+        type="text" 
+        value="" 
+        size="40" 
+        title="郵便番号(数字とハイフンのみ)を入力してください 例）123-4567"
+        required
+         />
+      <p class="aform-error parts-32" id="parts-32-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-3" class="aform-label parts-3">事業所住所<span class="required">必須</span></label>
+  </dt>
+  <dd>
+      <input 
+        id="parts-3"
+        class="aform-input aform-text parts-3 required" 
+        name="aform-field-14255" 
+        type="text" 
+        value="" 
+        size="40" 
+        title="事業所住所を入力してください"
+        required
+        
+         />
+      <p class="aform-error parts-3" id="parts-3-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><span class="aform-label parts-24">業種<span class="required">必須</span></span>
+  </dt>
+  <dd><p class="aform-input-example parts-24">※以下から1つ選択ください</p>
+      <ul class="aform-radio-ul aform-field-14258 parts-24"><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-1" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="1" 
+            required
+            title="選択してください" /><label for="parts-24-1">建設業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-2" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="2" 
+            required
+            title="選択してください" /><label for="parts-24-2">住宅・不動産業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-3" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="3" 
+            required
+            title="選択してください" /><label for="parts-24-3">設備工事業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-4" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="4" 
+            required
+            title="選択してください" /><label for="parts-24-4">情報通信業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-5" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="5" 
+            required
+            title="選択してください" /><label for="parts-24-5">製造業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-6" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="6" 
+            required
+            title="選択してください" /><label for="parts-24-6">食品製造業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-7" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="7" 
+            required
+            title="選択してください" /><label for="parts-24-7">運輸・物流業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-8" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="8" 
+            required
+            title="選択してください" /><label for="parts-24-8">卸売業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-9" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="9" 
+            required
+            title="選択してください" /><label for="parts-24-9">小売業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-10" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="10" 
+            required
+            title="選択してください" /><label for="parts-24-10">飲食業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-11" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="11" 
+            required
+            title="選択してください" /><label for="parts-24-11">旅館・ホテル・宿泊業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-12" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="12" 
+            required
+            title="選択してください" /><label for="parts-24-12">サービス業</label></li><li><input
+            class="aform-input aform-radio parts-24 validate-one-required" 
+            id="parts-24-13" 
+            name="aform-field-14258"
+            type="radio" 
+            onchange="aform$(this).valid()"
+            value="13" 
+            required
+            title="選択してください" /><label for="parts-24-13">その他</label></li></ul>
+      <p class="aform-error parts-24" id="parts-24-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-27" class="aform-label parts-27">事業内容<span class="required">必須</span></label>
+  <span class="aform-validation parts-27">(<span class="max-length">30文字以内</span>)</span></dt>
+  <dd><p class="aform-input-example parts-27">入力例:電気製品の製造・販売業、コンピュータシステムの企画・開発　※●●（製品名・サービス名）の▲▲（業種）とご記入ください</p>
+      <textarea 
+        id="parts-27"
+        class="aform-input aform-textarea parts-27 validate-length required" 
+        name="aform-field-14259" 
+        cols="40" 
+        rows="6" 
+        title="事業内容を30文字以内で入力してください"
+        pattern=".{,30}"
+        required
+        maxlength="30"></textarea>
+      <p class="aform-error parts-27" id="parts-27-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-7" class="aform-label parts-7">担当者氏名<span class="required">必須</span></label>
+  </dt>
+  <dd>
+      <ul class="aform-name-ul"><li><label for="parts-7-lastname">姓</label>
+      <input 
+        id="parts-7-lastname"
+        class="aform-input aform-name parts-7 validate-name required" 
+        name="aform-field-14264-lastname" 
+        type="text" 
+        value="" 
+        size="20" 
+        title="担当者氏名(姓)を入力してください"
+        
+        required
+         /></li><li><label for="parts-7-firstname">名</label>
+      <input 
+        id="parts-7-firstname"
+        class="aform-input aform-name parts-7 validate-name required" 
+        name="aform-field-14264-firstname" 
+        type="text" 
+        value="" 
+        size="20" 
+        title="担当者氏名(名)を入力してください"
+        
+        required
+         /></li></ul>
+      <p id="parts-7-lastname-error"></p><p id="parts-7-firstname-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-6" class="aform-label parts-6">担当者部署・役職<span class="required">必須</span></label>
+  </dt>
+  <dd>
+      <input 
+        id="parts-6"
+        class="aform-input aform-text parts-6 required" 
+        name="aform-field-14265" 
+        type="text" 
+        value="" 
+        size="40" 
+        title="担当者部署・役職を入力してください"
+        required
+        
+         />
+      <p class="aform-error parts-6" id="parts-6-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-28" class="aform-label parts-28">職種<span class="required">必須</span></label>
+  </dt>
+  <dd><p class="aform-input-example parts-28">入力例：送出企業⇒送出す人材の現在の職種　／　受入企業⇒受入れ人材が配置されるであろう職種</p>
+      <textarea 
+        id="parts-28"
+        class="aform-input aform-textarea parts-28 required" 
+        name="aform-field-14260" 
+        cols="40" 
+        rows="6" 
+        title="職種を入力してください"
+        
+        required
+        ></textarea>
+      <p class="aform-error parts-28" id="parts-28-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-31" class="aform-label parts-31">連絡事項（送出企業・受入企業）</label>
+  </dt>
+  <dd><p class="aform-input-example parts-31">記入例：送出人数●●名　／　受入人数●●名</p>
+      <textarea 
+        id="parts-31"
+        class="aform-input aform-textarea parts-31" 
+        name="aform-field-14262" 
+        cols="40" 
+        rows="6" 
+        title="連絡事項（送出企業・受入企業）を入力してください"
+        
+        
+        ></textarea>
+      <p class="aform-error parts-31" id="parts-31-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-15" class="aform-label parts-15">会社HP</label>
+  </dt>
+  <dd><p class="aform-input-example parts-15">入力例:http://www.example.com/　（1つのみ掲載可能）</p>
+      <input 
+        id="parts-15"
+        class="aform-input aform-url parts-15 hankaku validate-url" 
+        name="aform-field-14263" 
+        type="url" 
+        value="" 
+        size="40" 
+        title="会社HP(英数記号のみ)を入力してください 例）http://www.example.com/"
+        
+        
+         />
+      <p class="aform-error parts-15" id="parts-15-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-4" class="aform-label parts-4">ご連絡先（TEL）<span class="required">必須</span></label>
+  </dt>
+  <dd><p class="aform-input-example parts-4">※ハイフンなし、数字のみご記入ください</p>
+      <input 
+        id="parts-4"
+        class="aform-input aform-tel parts-4 hankaku validate-tel required" 
+        name="aform-field-14266" 
+        type="tel" 
+        value="" 
+        size="40" 
+        title="ご連絡先（TEL）(数字とハイフンのみ)を入力してください 例）0312345678"
+        required
+        
+         />
+      <p class="aform-error parts-4" id="parts-4-error"></p></dd>
+</dl>
+
+
+
+<dl>
+  <dt><label for="parts-5" class="aform-label parts-5">ご連絡先（Mail）<span class="required">必須</span></label>
+  </dt>
+  <dd><p class="aform-input-example parts-5">入力例:foo@example.com</p>
+      <input 
+        id="parts-5"
+        class="aform-input aform-email parts-5 hankaku validate-email required" 
+        name="aform-field-14267" 
+        type="email" 
+        value="" 
+        size="40" 
+        title="ご連絡先（Mail）(英数記号のみ)を入力してください 例）foo@example.com"
+        required
+        
+         />
+      <p class="aform-error parts-5" id="parts-5-error"></p></dd>
+</dl>
+
+
+
+  
+  <div
+        class="aform-input aform-hdln parts-29">本フォームにご入力いただいた個人情報の取り扱いについて、札幌商工会議所の 「個人情報保護方針（ https://www.sapporo-cci.or.jp/web/etc/peinfo.html）」 をご確認いただき、ご同意いただける場合は下記にチェックをお願いします。</div>
+  <p class="aform-error parts-29" id="parts-29-error"></p>
+
+
+
+<dl>
+  <dt><span class="aform-label parts-26"><span class="required">必須</span></span>
+  </dt>
+  <dd>
+      <ul class="aform-checkbox-ul aform-field-14269 parts-26"><li><input
+            class="aform-input aform-checkbox parts-26 validate-one-required" 
+            id="parts-26-1" 
+            name="aform-field-14269-1"
+            type="checkbox" 
+            onchange="aform$(this).valid()"
+            value="1" 
+            
+            title="選択してください" /><label for="parts-26-1">上記について確認し、同意しました</label></li></ul>
+      <p class="aform-error parts-26" id="parts-26-error"></p></dd>
+</dl>
+
+
+	<div class="submit"><input id="aform_btn_confirm_1041" type="submit" name="Submit" value="確認" /></div>
+</form>
+<div class="tx_C mt40"><p><form action="https://www.login.secomtrust.net/customer/customer/pfw/CertificationPage.do" name="CertificationPageForm" method="post" target="_blank" style="margin:0;"><input type="image" src="https://www.sapporo-cci.or.jp/web/img/B0784818.gif" width="88" height="145" name="Sticker" alt="クリックして証明書の内容をご確認ください" oncontextmenu="return false;" /><input type="hidden" name="Req_ID" value="7364205866" /></form></p></div>
+
+
+
+
+
+<script type="text/javascript">
+<!--
+aform$(document).ready(function() {
+
+
+ postAFormAccessLog('1041');
+ postAFormChecker();
+
+ addAFormValidate();
+ aform$('#aform-form-1041').validate({
+
+   onkeyup: false,
+   wrapper: "div",
+   showErrors: aformValidate_showErrors,
+   errorPlacement: aformValidate_errorPlacement
+ });
+
+});
+//-->
+</script>
+
+</div>
+</div>
+
+
+
+&nbsp;　
+
+
+<!--  p_con start -->
+
+ 
+ 
+ 
+ 
+       <div class="p_con">
+        <div class="pc_tit">このページに関するお問い合わせ先</div>
+        <div class="pc_con">
+札幌商工会議所　人材確保・開発部　人材確保・活用課　電話：011-231-1772　FAX：011-223-7173
+        </div>
+       </div>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+
+<!--  p_con end -->
+       </div>
+
+      </div>
+      <!--  cright end -->
+    
+    </div>   
+  </div>
+  <!--  content end --> 
+
+<!--  footer start -->
+  <div class="footer"> 
+    <!--  footer_in start -->
+    <div class="footer_in">
+      <div class="footer_top"><a href="javascript:backToTop();"><img src="/web/img/common/footer/pageup.png"></a></div>
+      <h3>企業広告バナー</h3>
+      
+      <!--  bnr start -->
+      <div class="bnr"> 
+        <!--  bnr_s start -->
+        <div class="bnr_s">
+          <iframe width="205" height="47" frameborder="0" title="ads" marginwidth="0" marginheight="0" scrolling="no" src="https://www.tateyo.com/banner/GetBanner?user_id=1&amp;frame_id=1&amp;height=47&amp;width=205"> </iframe>
+        </div>
+        <!--  bnr_s end --> 
+        <!--  bnr_s start -->
+        <div class="bnr_s">
+          <iframe width="205" height="47" frameborder="0" title="ads" marginwidth="0" marginheight="0" scrolling="no" src="https://www.tateyo.com/banner/GetBanner?user_id=1&amp;frame_id=2&amp;height=47&amp;width=205"> </iframe>
+        </div>
+        <!--  bnr_s end --> 
+        <!--  bnr_s start -->
+        <div class="bnr_s">
+          <iframe width="205" height="47" frameborder="0" title="ads" marginwidth="0" marginheight="0" scrolling="no" src="https://www.tateyo.com/banner/GetBanner?user_id=1&amp;frame_id=5&amp;height=47&amp;width=205"> </iframe>
+        </div>
+        <!--  bnr_s end --> 
+        <!--  bnr_s start -->
+        <div class="bnr_s">
+          <iframe width="205" height="47" frameborder="0" title="ads" marginwidth="0" marginheight="0" scrolling="no" src="https://www.tateyo.com/banner/GetBanner?user_id=1&amp;frame_id=6&amp;height=47&amp;width=205"> </iframe>
+        </div>
+        <!--  bnr_s end --> 
+        
+        <!--  bnr_s start -->
+        <div class="bnr_b"><iframe src="https://www.tateyo.com/banner/GetBanner?user_id=1&frame_id=7&height=100&width=835" scrolling="no" height="100" width="835" frameborder="0" marginheight="0" marginwidth="0" title="ads"> </iframe></div>
+        <!--  bnr_s end --> 
+        
+        <!--  bnr_t start -->
+        <div class="bnr_t">
+          <ul>
+            <li>
+            <a href="https://dominion-biz.co.jp/career-a/tenshoku-site-recommended" target="_blank" style="color:#0000ff !important; text-decoration: underline !important;">転職サイト　おすすめ</a>
+              <!--<iframe width="780" height="20" frameborder="0" title="ads" marginwidth="0" marginheight="0" scrolling="no" src="https://www.tateyo.com/banner/GetBanner?user_id=1&amp;frame_id=8&amp;fontsize=2"> </iframe>-->
+            </li>
+            <li>
+              <iframe width="780" height="20" frameborder="0" title="ads" marginwidth="0" marginheight="0" scrolling="no" src="https://www.tateyo.com/banner/GetBanner?user_id=1&amp;frame_id=9&amp;fontsize=2"> </iframe>
+            </li>
+            <li>
+              <iframe width="780" height="20" frameborder="0" title="ads" marginwidth="0" marginheight="0" scrolling="no" src="https://www.tateyo.com/banner/GetBanner?user_id=1&amp;frame_id=10&amp;fontsize=2"> </iframe>
+            </li>
+            <li>
+              <iframe width="780" height="20" frameborder="0" title="ads" marginwidth="0" marginheight="0" scrolling="no" src="https://www.tateyo.com/banner/GetBanner?user_id=1&amp;frame_id=11&amp;fontsize=2"> </iframe>
+            </li>
+          </ul>
+        </div>
+        <!--  bnr_t end --> 
+        
+      </div>
+      <!--  bnr end --> 
+    </div>
+    <!--  footer_in end --> 
+    
+    <!--  footer_info start -->
+    <div class="footer_info">
+      <div class="footer_info_in">
+        <div class="logo"><a href="/web/index.html">札幌商工会議所</a></div>
+        <div class="tel"><a href="/web/about/delist.html">担当部署電話一覧</a></div>
+        <div class="link">
+          <ul>
+            <li><a href="/web/etc/caution.html">ご注意ください</a></li>
+            <li><a href="/web/etc/peinfo.html">個人情報保護方針</a></li>
+            <li class="mr0"><a href="/web/about/contact.html">お問い合わせ</a></li>
+            <li><a href="/web/etc/link.html">リンク集</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--  footer_info end --> 
+    
+    <!--  footer_copy start -->
+    <div class="footer_copy"> (c) 2016 The Sapporo Chamber of Commerce and Industry. </div>
+    <!--  footer_copy end --> 
+  </div>
+  <!--  footer end -->
+ 
+</div>
+
+<script id="tagjs" type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=T3dvzMg";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=T3dvzMg" width="1" height="1"
+frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+</body>
+</html>

@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<title>【個人事業主・中小企業向け】新型コロナウイルスにより影響を受けている皆様へ | 大阪府柏原市</title>
+<link href="/_layouts/00001083/style.css" media="all" rel="stylesheet" type="text/css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="initial-scale=1,width=device-width">
+<link rel="stylesheet" type="text/css" href="/_common/themes/material-green/base.css" />
+<link rel="stylesheet" type="text/css" href="/_common/themes/material-green/page.css" />
+<link rel="stylesheet" type="text/css" href="/_common/themes/material-green/white.css" title="white" />
+<link rel="alternate stylesheet" type="text/css" href="/_common/themes/material-green/blue.css" title="blue" />
+<link rel="alternate stylesheet" type="text/css" href="/_common/themes/material-green/black.css" title="black" />
+<link rel="shortcut icon" href="/_common/themes/images/favicon.ico" />
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-45494850-1', 'city.kashiwara.osaka.jp');
+ga('send', 'pageview');
+
+</script></head>
+<body id="page-docs-2020030400012-index" class="dir-docs-2020030400012 unitSangyo cateSangyo attrImportant">
+
+<!-- ヘッダー -->
+<div class="pageHeader">
+<!-- skip reading -->
+<div id="accessibilityTools" class="piece">
+  <div class="pieceBody">
+    
+    <span id="nocssread"><a href="#main">本文へ移動</a></span>
+
+    <script type="text/javascript" src="/_common/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/_common/js/jquery/cookie.js"></script>
+    <script type="text/javascript" src="/_common/js/joruri/accessibility-navi.js"></script>
+    <script type="text/javascript" src="/_common/js/joruri/smart-switch.js"></script>
+    <script type="text/javascript">$(function() { new SmartSwitch('#smartSwitch', '表示の切り替え'); });</script>
+
+    <a href="/use.html" class="riyou" title="ご利用案内">ご利用案内</a>
+
+    <a href="#" class="showMenu">アクセシビリティメニューを表示</a>
+
+    <div class="menu stateOpen">
+
+      <h3>アクセシビリティメニュー</h3>
+
+      <span class="naviTheme menuItem">
+        <span class="label">背景色</span>
+        <span class="white raisedBtn" title="白背景">標準</span>
+        <span class="blue raisedBtn" title="青背景">青</span>
+        <span class="black raisedBtn" title="黒背景">黒</span>
+      </span>
+
+      <span class="naviFont menuItem">
+        <span class="label">文字サイズ</span>
+        <span class="small raisedBtn" title="文字を小さく">小</span>
+        <span class="base raisedBtn" title="標準サイズ">標準</span>
+        <span class="big raisedBtn" title="文字を大きく">大</span>
+      </span>
+
+      <span class="naviRuby menuItem">
+        <span class="ruby raisedBtn" title="ふりがなをつける">ふりがなをつける</span>
+      </span>
+      <span class="naviTalk menuItem">
+        <span class="talk raisedBtn" title="よみあげる">よみあげる</span>
+        <span class="player"></span>
+      </span>    
+    </div>
+    
+  </div>
+</div>
+
+<script>
+  $(function() {
+    $('#accessibilityTools .showMenu').on('click', function() {
+      var $menu = $('#accessibilityTools .menu'),
+          h = $menu.height();
+      if ($menu.hasClass('stateClosed')) {
+        // メニューを開く処理
+        $menu.height(0).removeClass('stateClosed');
+        setTimeout(function() {
+          $menu.addClass('stateOpen').height(h);
+        }, 10);
+        setTimeout(function() {
+          $menu.height('');
+        }, 300);
+      } else {
+        // メニューを閉じる処理
+        $menu.height(h);
+        setTimeout(function() {
+          $menu.removeClass('stateOpen').height(0);
+        }, 10);
+        setTimeout(function() {
+          $menu.addClass('stateClosed').height('');
+        }, 300);
+      }
+    });
+  });
+</script>
+<!-- /skip reading -->  <!-- アクセシビリティツール -->
+<div id="headerLogo" class="piece">
+  <div class="pieceBody">
+    <a href="/" title="柏原市"></a>
+  </div>
+</div>          <!-- ヘッダーロゴ --> 
+<div id="supportTools" class="piece">
+  <div class="pieceBody">
+    <div class="upper">
+      <a class="foreign raisedBtn" href="/docs/2016012100018/">Multilingual</a>
+      <!--<a class="soshiki" href="/soshiki/">組織から探す</a> -->
+      <a class="siteMap raisedBtn" href="/sitemap/">サイトマップ</a>
+      <a class="jigyosha raisedBtn" href="/docs/2014082500080/">事業者情報</a>
+    </div>
+    <div class="lower">
+      <div class="googleSearch">
+        <form action="/search.html">
+          <input type="hidden" value="009642020092740070552:ip5e7fz-go8" name="cx" />
+          <input type="hidden" value="FORID:10" name="cof" />
+          <input type="hidden" value="UTF-8" name="ie" />
+          <input type="hidden" name="hl" value="ja" />
+          <input name="q" type="text" size="40" id="search-box" class="text heightLine-search" title="サイト内検索" value="キーワード検索" onfocus="if (this.value == 'キーワード検索') this.value='';" onblur="if (this.value == '') this.value = 'キーワード検索';" />
+          <input type="submit" name="sa" value="検索" id="search-button" align="middle" class="heightLine-search raisedBtn" />
+        </form>
+      </div>
+    
+      <!-- PC/スマホ表示切替 -->
+      <div id="smartSwitch"></div>
+    </div>
+  </div>
+</div>    
+<script type="text/javascript" src="/_common/js/joruri/smart-switch.js"></script>
+<script type="text/javascript">
+  $(function() {
+    new SmartSwitch('#smartSwitch');
+    $('#smartSwitch a').addClass('raisedBtn');
+  });
+</script>
+        <!-- サポートツール -->
+<div id="globalNav" class="piece">
+  <div class="pieceBody">
+
+    <div class="category kurashi">
+      <h2><a href="/bunya/kurashi_tetsuzuki/">くらし</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryTodokede"><a href="/bunya/todokede/">届出</a></li>
+          <li class="categoryShomei"><a href="/bunya/shomei/">証明</a></li>
+          <li class="categoryMadoguchi"><a href="/bunya/madoguchi/">窓口案内</a></li>
+          <li class="categoryNenkin"><a href="/bunya/nenkin/">年金</a></li>
+          <li class="categoryzeikin"><a href="/bunya/zeikin/">税金</a></li>
+          <li class="categoryJogesuido"><a href="/bunya/jogesuido/">上下水道</a></li>
+          <li class="categoryGomi_recycle"><a href="/bunya/gomi_recycle/">ごみ・リサイクル</a></li>
+          <li class="categoryShisetsu_bus"><a href="/bunya/shisetsu_bus/">公共施設・循環バス</a></li>
+          <li class="categoryBunka_sports"><a href="/bunya/bunka_sports/">文化・スポーツ</a></li>
+          <li class="categorySangyo"><a href="/bunya/sangyo/">産業</a></li>
+          <li class="categorySonota"><a href="/bunya/sonota/">その他</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category midokoro">
+      <h2><a href="/bunya/machinomidokoro/">見どころ</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryGaiyo"><a href="/bunya/gaiyo/">まちの魅力</a></li>
+          <li class="categoryBudou"><a href="/bunya/budou/">柏原ぶどう情報ガイド</a></li>
+          <li class="categorySymbol"><a href="/bunya/symbol/">シンボル</a></li>
+          <li class="categoryEvent"><a href="/bunya/event/">イベント・教室講座</a></li>
+          <li class="categoryGuide"><a href="/bunya/guide/">案内</a></li>
+          <li class="categoryPublication"><a href="/bunya/publication/">刊行物</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category kosodateKyoiku">
+      <h2><a href="/bunya/kosodate_kyoiku/">子育て・教育</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryKosodate"><a href="/bunya/kosodate/">子育て</a></li>
+          <li class="categoryNinteikodomoen"><a href="/bunya/ninteikodomoen/">幼稚園、保育所、認定こども園等</a></li>
+          <li class="categoryKyoiku"><a href="/bunya/kyoiku/">教育</a></li>
+          <li class="categoryKodomoteate"><a href="/bunya/kodomoteate/">子どもの手当・医療費助成</a></li>
+          <li class="categoryOyako_kenko"><a href="/bunya/oyako_kenko/">親と子の健康づくり</a></li>
+          <li class="categoryOyako_kenko"><a href="/bunya/oyako_sodan/">親と子の相談窓口</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category fukushiKenko">
+      <h2><a href="/bunya/kenko_fukushi_iryo/">健康・福祉</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryKenkou"><a href="/bunya/kenkou/">健康</a></li>
+          <li class="categoryChikifukushi"><a href="/bunya/chikifukushi/">福祉</a></li>
+          <li class="categoryIryo"><a href="/bunya/iryo/">医療</a></li>
+          <li class="categoryHoken"><a href="/bunya/hoken/">保険</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category Machizukuri">
+      <h2><a href="/bunya/machizukuri_kankyo/">まちづくり・環境</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryChikimachizukuri"><a href="/bunya/chikimachizukuri/">まちづくり</a></li>
+          <li class="categoryKankyo"><a href="/bunya/kankyo/">環境</a></li>
+          <li class="categoryKouen"><a href="/bunya/kouen/">公園</a></li>
+          <li class="categoryDouro_koutsu"><a href="/bunya/douro_koutsu/">道路・交通</a></li>
+          <li class="categoryKasen_suiro"><a href="/bunya/kasen_suiro/">河川・水路</a></li>
+          <li class="categoryShiminsanka"><a href="/bunya/shiminsanka/">市民参加・男女共同参画・国際交流</a></li>
+          <li class="categoryKanminrenkei"><a href="/bunya/kanminrenkei/">公民連携</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category shisei">
+      <h2><a href="/bunya/shisei/">市政情報</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryKiko"><a href="/bunya/kiko/">機構</a></li>
+          <li class="categoryGyoseikaikaku"><a href="/bunya/gyoseikaikaku/">行政改革</a></li>
+          <li class="categoryZaisei"><a href="/bunya/zaisei/">財政</a></li>
+          <li class="categoryTokei"><a href="/bunya/tokei/">統計</a></li>
+          <li class="categoryJyohokokai"><a href="/bunya/jyohokokai/">情報公開</a></li>
+          <li class="categoryJinji"><a href="/bunya/jinji/">人事・採用</a></li>
+          <li class="categoryKeikaku_sesaku"><a href="/bunya/keikaku_sesaku/">計画・施策</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category bosai">
+      <h2><a href="/bunya/bosaigai/">防災・防犯</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryBosai"><a href="/bunya/bosai/">防災</a></li>
+          <li class="/bunya/categorySaigai"><a href="/bunya/bohan/">防犯</a></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  $(function() {
+
+    // キーボード操作でカテゴリー名がフォーカスを受け取ったら、アクティブクラスを付与して
+    // サブカテゴリーを展開する。
+    $('#globalNav .category h2 a').on('focus', function() {
+      $('#globalNav .stateActive').removeClass('stateActive');
+      $(this).parents('.category').addClass('stateActive');
+    });
+
+    // 最後のカテゴリーのサブカテゴリーからフォーカスが外れたら、サブカテゴリーを閉じる
+    $('#globalNav .category.bosai a').last().on('blur', function() {
+      $('#globalNav .stateActive').removeClass('stateActive');
+    });
+
+    // マウス操作の場合は付与されているアクティブクラスを除去
+    $('#globalNav .category').on('mouseover', function() {
+      $('#globalNav .stateActive').removeClass('stateActive');
+    });
+
+  });
+</script>           <!-- グローバルナビ -->
+</div> <!-- end .pageHeader -->
+
+<!-- メイン -->
+<div id="main" class="pageBody contentDoc paper">
+<div id="snsShare">
+
+<!-- フェイスブック　シェアボタン -->
+<div class="child">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v3.2';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-like" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+</div>
+
+<!-- ライン　LINEで送る -->
+<div class="child">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-ver="2" data-url="https://social-plugins.line.me/ja/how_to_install#lineitbutton" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+</div>
+
+<!-- ツイッター　ツイートボタン -->
+<div class="child">
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="柏原市" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+</div>      <!-- SNSシェア -->
+<div id="breadCrumbs" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody"><ol><li><a href="/">TOP</a></li> 
+ <li><a href="/soshiki/">組織および各課のページ</a></li> 
+ <li><a href="/soshiki/sangyo/">産業振興課</a></li></ol><ol><li><a href="/">TOP</a></li> 
+ <li><a href="/bunya/">分野</a></li> 
+ <li><a href="/bunya/sangyo/">産業</a></li></ol><ol><li><a href="/">TOP</a></li> 
+ <li><a href="/zokusei/">属性</a></li> 
+ <li><a href="/zokusei/important/">重要なお知らせ</a></li></ol>
+</div>
+</div>
+<!-- end .piece --></div>
+   <!-- パンくず -->
+<div class="contentArticleDoc">
+
+<div class="header">
+  <h1>【個人事業主・中小企業向け】新型コロナウイルスにより影響を受けている皆様へ</h1><div class="publishedAt">2021年11月1日</div>
+</div>
+
+<div class="body">
+  <p>　新型コロナウイルスの流行による中小企業への経営・資金面の影響を緩和するための各種支援制度を掲載いたします。随時更新してまいりますのでご活用ください。</p>
+
+<h2><strong>更新状況</strong></h2>
+
+<ul>
+	<li><a href="https://www.pref.osaka.lg.jp/shogyoshien/ichiji/index.html">【事業者向け】大阪府中小法人・個人事業者等に対する一時支援金</a></li>
+	<li><a href="http://www.meti.go.jp/covid-19/getsuji_shien/index.html">【事業者向け】月次支援金のご案内</a></li>
+	<li><a href="/docs/2021011300024/">【飲食店向け】大阪府営業時間短縮協力金のご案内</a></li>
+</ul>
+
+<p style="padding: 10px; border: 1px solid rgb(153, 153, 153); border-image: none;"><strong>【各種給付金】</strong></p>
+
+<ul>
+	<li><a href="https://www.pref.osaka.lg.jp/shogyoshien/ichiji/index.html"><font color="#0066cc">大阪府中小法人・個人事業者等に対する一時支援金</font></a>&nbsp;<br />
+	《問い合わせ先》<br />
+	　大阪府中小法人・個人事業者等に対する一時支援金コールセンター<br />
+	　電話番号：０６－６６５４－３３１４<br />
+	　受付時間：９時００分～１８時００分<br />
+	　※土曜日、日曜日及び祝日を除く。　</li>
+	<li><a href="https://www.pref.osaka.lg.jp/keieishien/kyouryokukin_portal/index.html">大阪府営業時間短縮協力金</a>&nbsp;<br />
+	《問い合わせ先》<br />
+	　大阪府営業時間短縮協力金に関するコールセンター<br />
+	　電話番号：（第１期～第４期）０６－７１６６－９９８９<br />
+	　　　　　　（第５期～第６期）０６－７１６６－９９８７<br />
+	　　　　　　（第７期～第９期）０６－７１７８－１３４２<br />
+	　受付時間：平日９時００分～１８時００分<br />
+	　※日曜日及び祝日を除く。但し、令和３年１１月３日（水曜日・祝日）は開設します。</li>
+	<li><a href="http://www.mhlw.go.jp/stf/kyugyoshienkin.html">【労働者向け】新型コロナウイルス感染症対応休業支援金・給付金</a> 　<br />
+	《問い合わせ先》<br />
+	&nbsp;&nbsp;新型コロナウイルス感染症対応休業支援金・給付金コールセンター<br />
+	　電話番号：０１２０－２２１－２７６<br />
+	　受付時間：月～金 ８時３０分～２０時００分<br />
+	　　　　　　土日祝 ８時３０分～１７時１５分</li>
+	<li><a href="https://www.meti.go.jp/covid-19/getsuji_shien/index.html">月次支援金</a><br />
+	《問い合わせ先》<br />
+	　事務局　相談窓口<br />
+	&nbsp;【申請者専用】<br />
+	　電話番号：０１２０－２１１－２４０　IP電話専用回線：０３－６６２９ー０４７９<br />
+	&nbsp;【登録確認機関専用】<br />
+	　電話番号：０１２０ー８８６－１４０　IP電話専用回線：０３－４３３５－７４７５<br />
+	　受付時間：８時３０分～１９時００分（土日祝含む全日）&nbsp;</li>
+	<li><a href="https://www.pref.osaka.lg.jp/energy/daikibo_toppage/index.html">大阪府大規模施設等協力金</a><br />
+	《問い合わせ先》<br />
+	　大阪府大規模施設等協力金コールセンター<br />
+	　電話番号：０６－７１７８－１３９６<br />
+	　受付時間：９時００分～１８時００分（土日祝を除く）&nbsp;</li>
+	<li><a href="https://www.pref.osaka.lg.jp/ryutai/shuruihanbai_shien/index.html">大阪府酒類販売事業者支援金</a><br />
+	《問い合わせ先》<br />
+	　大阪府酒類販売事業者支援金コールセンター<br />
+	　電話番号：０６－６６５４－３３４６<br />
+	　受付時間：９時３０分～１７時３０分（平日のみ）&nbsp;</li>
+	<li><a href="http://www.shokokai.or.jp/jizokuka_r1h/"><font color="#0066cc">持続化補助金〈一般型〉</font></a></li>
+</ul>
+
+<p style="padding: 10px; border: 1px solid rgb(153, 153, 153); border-image: none;"><strong>【経済産業省支援策パンフレット】</strong></p>
+
+<p><a class="iconPDF" href="https://www.meti.go.jp/covid-19/pdf/pamphlet.pdf">経済産業省支援策パンフレット</a>　<font color="#ee0000">　</font>※随時更新されていきます。</p>
+
+<p style="padding: 10px; border: 1px solid rgb(153, 153, 153); border-image: none;"><strong>【資金繰りに関する施策】</strong></p>
+
+<p><a href="https://www.meti.go.jp/covid-19/pdf/shikinguri_list.pdf"><font color="#0066cc">資金繰り支援内容一覧表（経済産業省）</font></a><font color="#ee0000">　</font>※ご自身が使えそうなメニューが分かりましたら、詳しい情報を上記「経済産業省支援策パンフレット」でご確認ください 。</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:700px">
+	<tbody>
+		<tr>
+			<td>　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《資金繰り支援全般に係るお問合せ先》　<br />
+			<br />
+			&nbsp;&nbsp;　&nbsp; &nbsp; ◆中小企業金融相談窓口：０５７０－７８３１８３　<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※平日・休日９時００分～１７時００分
+			<p>　　&nbsp;&nbsp; ◆金融庁相談ダイヤル：０１２０－１５６８１１（フリーダイヤル）&nbsp;&nbsp;<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ※平日１０時００分～１７時００分<br />
+			　　　&nbsp;※IP電話からは０３－５２５１－６８１３におかけください。</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>政府系金融機関における無利子・無担保融資</strong></p>
+
+<ul>
+	<li><a href="http://www.jfc.go.jp/n/finance/search/covid_19_m.html">新型コロナウイルス感染症特別貸付</a>（日本政策金融公庫） <span style="color:rgb(238, 0, 0)">　</span></li>
+	<li>特別利子補給制度　<br />
+	&rArr;　<a href="https://www.jfc.go.jp/n/finance/saftynet/pdf/covid_19_faq_jisshitsumurishika.pdf">【国民生活事業】「実質無利子化」（主に個人企業・小規模事業者の方）</a>（日本政策金融公庫）<br />
+	<br />
+	&rArr;　<a href="https://www.jfc.go.jp/n/finance/saftynet/pdf/covid_19_faq_jisshitsumurishika_chusho.pdf">【中小企業事業】「実質無利子化」（主に中小企業の方） </a>（日本政策金融公庫）</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>民間金融機関における実質無利子・無担保融資</strong>　</p>
+
+<ul>
+	<li><a class="iconPDF" href="/_files/00256353/bansousien.pdf">新型コロナウイルス感染症伴走支援型資金</a></li>
+	<li><a href="/docs/2020022800141/">新型コロナウイルス感染症対応緊急資金・セーフティネット保証4号（大阪府）</a></li>
+	<li><a href="http://www.city.kashiwara.osaka.jp/docs/2014060600054/">新型コロナウイルス感染症対応緊急資金・セーフティネット保証5号（大阪府）</a></li>
+	<li><a href="http://www.city.kashiwara.osaka.jp/docs/2020031600039/">危機関連保証</a><span style="color:rgb(238, 0, 0)">　</span></li>
+	<li><a class="iconPDF" href="./files/20200312112354.pdf">マル経融資の金利引き下げ（日本政策金融公庫）</a>　</li>
+	<li><a href="https://www.jfc.go.jp/n/finance/search/07_keieisien_m.html" target="_blank">セーフティネット貸付（日本政策金融公庫）</a></li>
+	<li><a href="https://www.jfc.go.jp/n/finance/search/47_gekihen_2_m.html" target="_blank">衛生環境激変対策特別貸付（日本政策金融公庫）</a></li>
+	<li><a href="https://www.shokochukin.co.jp/disaster/corona.html" target="_blank">危機対応業務（商工中金）</a></li>
+	<li><a href="https://www.mhlw.go.jp/stf/newpage_10106.html" target="_blank">生活福祉資金貸付制度における緊急小口資金等の特例貸付（厚生労働省）</a><span style="color:rgb(238, 0, 0)">　</span></li>
+</ul>
+
+<p style="padding: 10px; border: 1px solid rgb(153, 153, 153); border-image: none;"><strong>【設備投資・販路開拓】</strong></p>
+
+<ul>
+	<li><a href="https://www.meti.go.jp/covid-19/jigyo_saikoutiku/index.html">事業再構築補助金（経済産業省）</a>　</li>
+	<li><a href="http://portal.monodukuri-hojo.jp/">ものづくり・商業・サービス補助金</a>（全国中小企業団体中央会サイト）</li>
+	<li><a href="https://www.it-hojo.jp/">IT導入補助金（中小企業庁）</a></li>
+</ul>
+
+<p style="padding: 10px; border: 1px solid rgb(153, 153, 153); border-image: none;"><strong>【経営環境の整備】</strong></p>
+
+<ul>
+	<li><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/pageL07.html" target="_blank">雇用調整助成金</a><br />
+	《問合せ先》<br />
+	コールセンター<br />
+	電話番号：０１２０－６０－３９９９（問合せのみ）<br />
+	受付時間：９時００分～２１時００分（土日・祝日含む）<br />
+	<br />
+	大阪労働局 助成金センター ※相談は完全予約制<br />
+	雇用調整助成金相談予約コールセンター<br />
+	電話番号：０１２０－８０５－２１８</li>
+	<li><a href="https://www.pref.osaka.lg.jp/koyotaisaku/koyoushienkin/index.html">大阪府雇用促進支援金</a><br />
+	《問合せ先》<br />
+	大阪府雇用促進支援金事務局<br />
+	電話番号：０６－４７９４－７０５０ ※平日９時００分～１８時００分</li>
+	<li><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000082805_00008.html" target="_blank">産業雇用安定助成金</a><br />
+	《問合せ先》<br />
+	コールセンター<br />
+	電話番号：０１２０－６０－３９９９（問合せのみ）※９時００分～２１時００分（土日・祝日含む）<br />
+	最寄りの<a href="https://www.mhlw.go.jp/kouseiroudoushou/shozaiannai/roudoukyoku/index.html" target="_blank">都道府県労働局</a>もしくは<a href="https://www.mhlw.go.jp/kyujin/hwmap.html" target="_blank">ハローワーク</a></li>
+	<li><a href="https://www.mhlw.go.jp/stf/newpage_09999.html" target="_blank">ＰＣＲ検査に取り組む企業等の相談窓口</a></li>
+</ul>
+
+<p style="padding: 10px; border: 1px solid rgb(153, 153, 153); border-image: none;"><strong>【受付が終了した補助金・支援金・融資】</strong></p>
+
+<ul>
+	<li><a href="https://www.meti.go.jp/covid-19/jizokuka-kyufukin.html"><font color="#0066cc">持続化給付金</font></a>　　&nbsp;&nbsp;&nbsp; ※受付終了いたしました<br />
+	《問い合わせ先》<br />
+	持続化給付金事業コールセンター<br />
+	電話番号：０１２０－１１５ー５７０　IP電話専用回線：０３－６８３１－０６１３<br />
+	受付時間：８時３０分~１９時００分<br />
+	※７～８月（毎日）、９～１２月（土・祝日を除く）</li>
+	<li><a href="https://www.meti.go.jp/covid-19/yachin-kyufu/index.html"><font color="#0066cc">家賃支援給付金</font></a>　　※受付終了いたしました<br />
+	《問い合わせ先》<br />
+	家賃支援給付金　コールセンター<br />
+	電話番号：０１２０－６５３－９３０<br />
+	受付時間：平日・土日祝日８時３０分～１９時００分</li>
+	<li><a href="https://ichijishienkin.go.jp/"><font color="#0066cc">一時支援金</font></a>　※受付終了いたしました<br />
+	《問い合わせ先》<br />
+	一時支援金事務局　相談窓口<br />
+	　【申請者専用】<br />
+	　電話番号：０１２０－２１１－２４０　IP電話専用回線：０３－６６２９－０４７９<br />
+	　【登録確認機関専用】<br />
+	　電話番号：０１２０－８８６－１４０　IP電話専用回線：０３－４３３５－７４７５<br />
+	　受付時間：８時３０分～１９時００分（土日祝含む全日対応）</li>
+	<li><a href="http://www.city.kashiwara.osaka.jp/docs/2020050500020/"><font color="#0066cc">大阪府新型コロナウイルス感染症対応資金(保証料等補助型)</font></a>　※受付終了しました</li>
+	<li><a href="http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/syokubaisikitelework.html"><font color="#0066cc">働き方改革推進支援助成金（テレワークコース）</font></a>　※受付終了いたしました<br />
+	《問合せ先》　テレワーク相談センター：０１２０－９１－６４７９<br />
+	※上記フリーダイヤルが繋がらない場合には以下の番号でも受け付けます。<br />
+	電話番号：０３－５５７７－４７２４、０３－５５７７－４７３４（５月３１日まで）</li>
+	<li><a href="http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/jikan/syokubaisiki.html"><font color="#0066cc">働き方改革推進支援助成金（職場意識改善特例コース）</font></a>&nbsp; ※受付終了いたしました<br />
+	《問合せ先》<br />
+	大阪労働局 雇用環境・均等部企画課<br />
+	電話番号：０６－６９４１－４６３０<br />
+	〒５４０－８５２７ 大阪市中央区大手前４ー１ー６７ 大阪合同庁舎第２号館８階<br />
+	受付時間：８時３０分～１７時１５分（月～金・祝日を除く）</li>
+	<li><a href="https://www.pref.osaka.lg.jp/shogyoshien/settisiennkinn/index.html"><font color="#0066cc">大阪府飲食店等感染症対策備品設置支援金</font></a>　※受付終了いたしました<br />
+	《問い合わせ先》<br />
+	　大阪府飲食店等感染症対策備品設置支援金コールセンター<br />
+	　電話番号：０６－７７３９－４３７６<br />
+	　受付時間：平日午後９時～午後６時まで</li>
+	<li><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/pageL07_00002.html" target="_blank"><font color="#0066cc">小学校休業等対応助成金（労働者を雇用する事業主の方向け）</font></a>　※受付終了いたしました<br />
+	《問合せ先》<br />
+	学校等休業助成金・支援金、雇用調整助成金コールセンター<br />
+	電話番号：０１２０－６０－３９９９<br />
+	受付時間：９時００分～２１時００分（土日・祝日含む）</li>
+	<li><a href="https://www.mhlw.go.jp/stf/newpage_10231.html" target="_blank"><font color="#0066cc">小学校休業等対応支援金（委託を受けて個人で仕事をする方向け）</font></a>　※受付終了いたしました<br />
+	《問合せ先》<br />
+	学校等休業助成金・支援金、雇用調整助成金コールセンター<br />
+	電話番号：０１２０－６０－３９９９<br />
+	受付時間：９：００～２１：００（土日・祝日含む）<br />
+	<a href="https://www.mhlw.go.jp/stf/newpage_10259.html" target="_blank"><font color="#0066cc">※小学校休業等対応助成金・支援金の申請受付が開始されました。</font></a></li>
+	<li><a href="https://www.pref.osaka.lg.jp/toshimiryoku/shukuhaku-kansenhojo/index.html">大阪府宿泊事業者感染症拡大防止対策等支援事業</a>　※受付終了いたしました</li>
+	<li><font color="#0066cc">新型コロナウイルス感染症対応緊急資金（大阪府制度融資）</font>※受付終了いたしました</li>
+</ul>
+
+<p style="padding: 10px; border: 1px solid rgb(153, 153, 153); border-image: none;"><strong>【経営に関する相談窓口】</strong></p>
+
+<table border="1" cellpadding="1" cellspacing="1">
+	<thead>
+		<tr>
+			<th scope="col">機関名</th>
+			<th scope="col">住所</th>
+			<th scope="col">TEL</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="http://www.kashiwara-sci.org/" target="_blank">柏原市商工会</a></td>
+			<td>柏原市上市1-2-2 アゼリア5階</td>
+			<td>072-972-0881</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.yorozu-osaka.jp/" target="_blank">大阪府よろず支援拠点</a></td>
+			<td>大阪市中央区本町1-4-5 大阪産業創造館2階</td>
+			<td>06-4708-7045</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.maido.or.jp/index.php/seminar_form/496" target="_blank">大阪府中小企業団体中央会</a></td>
+			<td>大阪市中央区本町橋2-5 マイドームおおさか6階</td>
+			<td>06-6947-4370</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.smrj.go.jp/org/info/press/2019/favgos000000biav-att/20200129_press01.pdf" target="_blank">独立行政法人中小企業基盤整備機構近畿本部</a></td>
+			<td>大阪市中央区安土町2-3-13 大阪国際ビルディング27階</td>
+			<td>06-6264-8613</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.cgc-osaka.jp/" target="_blank">大阪信用保証協会東大阪支店</a></td>
+			<td>東大阪市御厨中2-1-1</td>
+			<td>06-6781-9511</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.jfc.go.jp/n/finance/saftynet/covid_19.html" target="_blank">日本政策金融公庫東大阪支店</a></td>
+			<td>東大阪市高井田元町2-9-2</td>
+			<td>
+			<p>06-6787-2661（中小企業事業）</p>
+
+			<p>06-6787-1321（国民生活事業）</p>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.shokochukin.co.jp/victims/index.html" target="_blank">大阪商工中金東大阪支店</a></td>
+			<td>東大阪市長田中2-1-32</td>
+			<td>06-6746-1221</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.jetro.go.jp/world/covid-19/" target="_blank">日本貿易振興機構（ジェトロ）</a></td>
+			<td>東京都港区赤坂1-12-32 アーク森ビル</td>
+			<td>03-3582-4953</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>関連サイト</h3>
+
+<p>経済産業省：<a href="https://www.meti.go.jp/covid-19/">https://www.meti.go.jp/covid-19/</a><br />
+大阪府：<a href="http://www.pref.osaka.lg.jp/keieishien/corona/index.html">http://www.pref.osaka.lg.jp/keieishien/corona/index.html</a></p>
+
+</div>
+
+
+
+
+
+
+
+<div class="back"><a href="javascript:history.back()">戻る</a></div>
+
+<!-- end .contentArticleDoc --></div>
+              <!-- コンテンツ -->
+</div> <!-- end .pageBody -->
+
+<!-- フッター -->
+<div class="pageFooter">
+<div id="address" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+〒582-8555　大阪府柏原市安堂町1番55号<br />
+電話：072-972-1501（代表）　午前8時45分から午後5時15分まで（土日祝、12月29日から1月3日を除く）<a href="/docs/2014062700202/">アクセスはこちら</a><br />
+</div>
+</div>
+</div>        <!-- 連絡先 -->
+<div id="footerNav" class="piece">
+<a href="/docs/2014062300044/">個人情報の取り扱い</a>
+<a href="/docs/2014062300020/">リンク</a>
+<a href="/docs/2014062300013/">著作権</a>
+<a href="/docs/2014062300037/">免責事項</a>
+<a href="/rss.html">RSSについて</a>
+<a href="/docs/2015022000080/">ウェブアクセシビリティ</a>
+<a href="/inquiry/10/">お問い合わせ</a>
+</div>     <!-- フッターナビ -->
+</div><!-- end .pageFooter -->
+
+
+</body>
+</html>

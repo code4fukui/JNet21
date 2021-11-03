@@ -1,0 +1,324 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	
+	<title>室蘭市／新型コロナウイルス感染症に関する情報</title>
+<meta name="keywords" content="新型コロナウイルス" />
+	
+	
+	<link href="/shared/style/leaf/structure_s.css" rel="stylesheet" type="text/css" />
+	<link href="/shared/style/navigation/navigation.css" rel="stylesheet" type="text/css" />
+	<link href="/shared/style/controll/controll_s.css" rel="stylesheet" type="text/css" />
+	<link href="/shared/style/locus/locus.css" rel="stylesheet" type="text/css" />
+	<link href="/shared/style/to_top/to_top.css" rel="stylesheet" type="text/css" />
+	<link href="/shared/style/i_footer.css" rel="stylesheet" type="text/css" />
+	<link href="/shared/style/i_left/i_left.css" rel="stylesheet" type="text/css" />
+	<link href="/shared/templates/i_leaf/style/sp.css" rel="stylesheet" type="text/css" />
+	
+	<link rel="stylesheet" type="text/css" href="/shared/templates/i_leaf/style/edit.css" />
+	
+	
+	<link id="tmp_changecss" rel="stylesheet" type="text/css" href="/shared/style/color/color0.css" />
+	
+	
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	
+	
+	<script type="text/javascript" src="/shared/js/shared.js"></script>
+	<script type="text/javascript" src="/shared/js/jquery.js"></script>
+	<script type="text/javascript" src="/shared/js/sp-distinction.js"></script>
+	<script type="text/javascript">jQuery.noConflict();</script>
+<!--[if lte IE 8]>
+	<script type="text/javascript" src="/shared/js/PIE_IE678.js"></script>
+	<script type="text/javascript" src="/shared/js/respond.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+	<script type="text/javascript" src="/shared/js/PIE_IE9.js"></script>
+<![endif]-->
+	<script type="text/javascript" src="/shared/js/translate.js"></script>
+	<script type="text/javascript" src="/shared/js/to_top.js"></script>
+	
+	<!--[if lte IE 6.0]><script type="text/javascript" src="/shared/js/ie6_style_edit.js"></script><![endif]-->
+</head>
+<body>
+<div id="tmp_wrapper">
+<script type="text/javascript">
+<!--
+	$j('#tmp_wrapper').hide();
+	
+	function distShow() {
+		$j('#tmp_wrapper').show();
+		$j("#sp_menu").height($j("#tmp_wrapper").height());
+	}
+	
+	if (window.addEventListener) {
+		window.addEventListener("load", distShow, false);
+	} else if (window.attachEvent) {
+		window.attachEvent("onload", distShow);
+	} else {
+		window.onload = distShow;
+	}
+-->
+</script>
+<div id="tmp_container">
+<div id="tmp_header_i">
+	<p id="logo"><a href="/index.html"><img src="/shared/image/logo_i_ja.jpg" width="227" height="145" alt="室蘭市" /></a></p>
+	<script type="text/javascript" src="/shared/js/random_head.js"></script>
+</div>
+<div id="tmp_navigation"><ul class="shinai_re">
+	<li id="nav_shinai"><a href="/index.html"><img src="/shared/image/navigation/shinai_re_ja_on.gif" width="214" height="59" alt="くらしの情報 市民の方へ" /></a></li>
+	<li id="nav_shigai"><a href="http://muro-kanko.com/"><img src="/shared/image/navigation/shigai_re_ja.gif" width="214" height="59" alt="観光・移住情報 市外の方へ" class="imgover" /></a></li>
+	<li id="nav_jigyosya"><a href="/main/jigyousya/index.html"><img src="/shared/image/navigation/jigyosya_re_ja.gif" width="214" height="59" alt="まちづくり・入札情報 事業者の方へ" class="imgover" /></a></li>
+	<li id="nav_syusyoku"><a href="/main/syusyoku/index.html"><img src="/shared/image/navigation/syusyoku_re_ja.gif" width="214" height="59" alt="就職・採用情報" class="imgover" /></a></li>
+</ul></div>
+<div id="tmp_controll_panel">
+	<p style="font-size: 16px;">
+		<img src="/shared/image/controll/font_size_ja.gif" width="32" height="25" alt="文字サイズ" /> <a href="javascript:void(0)" onclick="textSizeUp(); return false"><img src="/shared/image/controll/enlarge_ja.gif" width="41" height="25" alt="拡大" /></a><a href="javascript:void(0)" onclick="textSizeDown(); return false"><img src="/shared/image/controll/ensmall_ja.gif" width="39" height="25" alt="縮小" /></a><a href="javascript:void(0)" onclick="textSizeReset(); return false"><img src="/shared/image/controll/reset_ja.gif" width="57" height="25" alt="元に戻す" /></a>
+		<img src="/shared/image/controll/colors_ja.gif" width="35" height="25" alt="配色" /> <a href="javascript:changeCSS('color0.css');"><img src="/shared/image/controll/defaultcolor_ja.gif" width="26" height="25" alt="背景色: 元の色" /></a><a href="javascript:changeCSS('color1.css');"><img src="/shared/image/controll/blue_ja.gif" width="26" height="25" alt="背景色: 青" /></a><a href="javascript:changeCSS('color2.css');"><img src="/shared/image/controll/black_ja.gif" width="26" height="25" alt="背景色: 黒" /></a>
+		<a href="/main/common/translation/index_en.php"><img src="/shared/image/controll/en.gif" width="54" height="25" alt="English" /></a><a href="/main/common/translation/index_cn.php"><img src="/shared/image/controll/cn.gif" width="69" height="25" alt="Chinese" /></a><a href="/main/common/translation/index_ko.php"><img src="/shared/image/controll/kr.gif" width="46" height="25" alt="Korean" /></a>
+		<!--<a href="#" title="印刷する" onclick="window.open('/print.php?url='+window.location.href.replace(/[#\\?].+$/, '') , '_blank');return(false)"><img src="/shared/image/controll/print_ja.gif" width="60" height="24" alt="印刷" /></a>-->
+		<form id="cse-search-box" action="http://www.google.com/cse">
+			<p><label for="tmp_query"><img src="/shared/image/controll/site_search_ja.gif" width="80" height="25" alt="サイト内検索" /></label></p>
+			<p id="tmp_search_hidden">
+				<input name="q" id="tmp_query" type="text" value="キーワードを入力" />
+				<input type="image" value="検索" src="/shared/image/controll/search_ja.gif" width="45" height="25" alt="検索" />
+				<input type="hidden" name="cx" value="003223284571253159362:eqe0tddd1su" />
+				<input type="hidden" name="ie" value="UTF-8" />
+			</p>
+		</form>
+		<script type="text/javascript">
+		<!--
+		//サイト内検索切り替え
+		var googleSearchSetUp = function(){
+		
+			var resultHtmlPath = 'http://www.city.muroran.lg.jp/main/result.html';	//結果を表示するHTMLのパス
+			var hiddenBoxId = 'tmp_search_hidden';										//パラメータをhiddenで設定しているinputタグを内包している親要素のID名
+			var inputCof = 'FORID:9';													//google検索の広告の表示位置（表示させなければ、特に変更しなくてもよし）
+			
+			//===========================================================
+			
+			var sBox = 'cse-search-box';
+			
+			if(document.getElementById(sBox)){
+				var form = document.forms[sBox];
+				form.action = resultHtmlPath;
+				
+				var p = document.getElementById(hiddenBoxId);
+				var ele = document.createElement('input');
+				ele.type = 'hidden';
+				ele.name = 'cof';
+				ele.value = inputCof;
+				
+				if(p) p.appendChild(ele);
+			}
+		};
+		googleSearchSetUp();
+		-->
+		</script>
+	</p>
+</div>
+<div id="tmp_locus_block">
+	<p id="locus"><a href="/index.html">ホーム</a> &gt; 新型コロナウイルス感染症に関する情報</p>
+</div>
+<div id="tmp_the_text">
+<div id="tmp_left_column">
+<div class="new_tmp_corona_l"><a href="http://www.city.muroran.lg.jp/main/org1400/coronavirus.html">新型コロナウイルス<br />
+感染症に関する情報</a></div>
+<div id="tmp_urgency"><dl><dt><a href="/main/org8850/sinryotaisei.html"><img alt="もしものときは" width="180" height="35" src="/shared/image/i_left/mosimo_ja.gif" /></a> </dt><dd>
+<ul>
+    <li><a href="/main/org8850/sinryotaisei.html">休日・夜間 病院情報</a> </li>
+    <li><a href="/main/kurashi/syobo.html">消防・救急</a> </li>
+</ul>
+</dd><dt><a href="/main/saigai.html"><img alt="緊急災害・防災情報" width="180" height="35" src="http://www.city.muroran.lg.jp/shared/image/i_left/bousai_ja.gif" /></a> </dt><dd>
+<p class="rss"><a href="/kinkyu.xml"><img alt="RSS" width="44" height="14" src="http://www.city.muroran.lg.jp/shared/templates/i_index/image/rss.gif" /></a></p>
+<div class="cms8341-autolink-div">
+<ul>
+   <li><a href="/main/org3250/jouhou.html">平成30年北海道胆振東部地震に関する情報</a></li>
+</li>
+</ul>
+</div>
+</dd></dl></div>
+<div id="tmp_i_menu">
+<ul class="menu_list">
+    <li><a href="/main/common/gaiyou_index.html">室蘭市概要</a> </li>
+    <li><a href="http://www.city.muroran.lg.jp/main/index_org.html">各課の情報・連絡先</a> </li>
+    <li><a href="/main/org8450/index.html">市議会のホームページ</a> </li>
+    <li><a href="/main/common/hokkaido.html">北海道庁からのお知らせ</a> </li>
+</ul>
+<ul>
+    <li><a href="/main/org3300/calender.html"><img alt="ゴミ収集カレンダー" width="190" height="60" src="/shared/image/i_left/gomi_calendar_ja.gif" /></a> </li>
+    <li><a href="/main/shisetsu/"><img alt="公共施設一覧" width="190" height="60" src="/shared/image/i_left/kokyoshisetsu_ja.gif" /></a> </li>
+    <li><a href="/main/faq/index.html"><img alt="よくある質問 Q&amp;A" width="190" height="60" src="/shared/image/i_left/faq_ja.gif" /></a> </li>
+</ul>
+</div>
+<div id="tmp_e-office">
+<p><img alt="オンラインサービス" width="180" height="34" src="/shared/image/i_left/online_service_ja.gif" /></p>
+<ul>
+    <li><a href="/main/common/shinsei.html">電子申請・申請書</a> </li>
+    <li><a href="https://yoyacool.e-harp.jp/muroran/">公共施設予約システム</a> </li>
+    <li><a href="http://lib.nishi-iburi.jp/">図書館情報システム</a> </li>
+    <li><a href="/main/org2260/mailmagazine.html">生活情報メール配信</a> </li>
+    <li><a href="/main/common/gikai/index.php">議会中継</a> </li>
+</ul>
+</div>
+<div class="sepalator">&nbsp;</div>
+<div id="tmp_left_banner">
+<ul>
+    <li><a href="/main/org1200/furusato_ja.html"><img alt="ふるさと応援寄付金" width="180" height="55" src="/shared/image/i_left/furusato_ja.jpg" /></a> </li>
+    <li><a href="/main/org6200/kansanportal/index.html"><img alt="室蘭の環境産業" width="180" height="55" src="/shared/image/i_left/kankyou_ja.gif" /></a> </li>
+    <li><a href="/main/common/link/index.html"><img alt="リンク" width="180" height="55" src="/shared/image/i_left/link_ja.gif" /></a> </li>
+</ul>
+<p><a href="/im/index.html"><img alt="携帯サイトはこちらから [http://www.city.muroran.lg.jp/im/index.html]" width="180" height="156" src="/shared/image/i_left/qr_ja.gif" /></a></p>
+</div>
+<p class="dummy">&nbsp;</p>
+<div></div>
+<p class="dummy">&nbsp;</p>
+</div>
+<div id="tmp_right_column">
+<div id="tmp_main">
+<div id="tmp_contents">
+<h1>新型コロナウイルス感染症に関する情報</h1>
+<ul>
+    <li><a href="/main/org4600/coronavirus_shinaijyoukyou.html"><span class="big">市内の発生状況</span></a><span class="small">R3.9.20更</span><span class="small">新</span> </li>
+    <li><span class="big"><a href="/main/org4620/coronavaccine_hospital.html">新型コロナワクチン情報</a></span><span class="small">R3.11.1更新</span> </li>
+    <li><a href="#minasan"><span class="big">市民の皆様へ</span></a><span class="small">R3.11.1更新</span> </li>
+    <li><a href="#kyuufu"><span class="big">給付金など（個人・企業・労働者への支援）</span></a><span class="small">R3.10.29更新</span> </li>
+    <li><a href="#noufu"><span class="big">市税・保険料等・市営住宅家賃の納付</span></a><span class="small">R3.6.22更新</span> </li>
+    <li><a href="#syoumeisyo"><span class="big">証明書等の手続き</span></a><span class="small">R2.4.27更新</span> </li>
+    <li><a href="#gakkou"><span class="big">学校・保育等</span></a><span class="small">R3.9.1更新</span> </li>
+</ul>
+<p>&nbsp;</p>
+<h2><a id="minasan">市民の皆様へ</a></h2>
+<ul>
+    <li><a href="/main/org1300/message.html">市長メッセージ</a><span class="small">R3.11.1更新</span> </li>
+    <li><a href="/main/org4600/coronavirus_kansenyobou.html">感染予防のために</a><span class="small">R3.11.1更新</span> </li>
+    <li><a href="/main/org4600/coronavirus_soudan.html">症状などの相談窓口</a><span class="small">R3.11.1更新</span> </li>
+    <li><a href="/main/org3300/coronavirusgomi.html">使用済みマスクなどの捨て方</a><span class="small">R2.7.16更新</span> </li>
+    <li><a href="/main/org3210/korona-akutokusyouhou.html">新型コロナワクチン詐欺にご注意を</a><span class="small">R3.6.21更新</span> </li>
+    <li><a href="/main/org3210/20331coronatyuui.html">消費者として注意していただきたいこと</a><span class="small">R2.3.31更新</span> </li>
+    <li><a href="/main/org1400/koukyoushisetsurinjikyuukan.html">公共施設等の再開情報</a><span class="small">R3.9.30更新</span> </li>
+    <li><a href="/main/org3230/kasoba.html">神代火葬場を利用される方へ</a><span class="small">R3.5.18更新</span> </li>
+    <li><span class="small"></span><a href="/main/org5000/020227kyuukou2.html">市立室蘭看護専門学院体育館を利用される方へ</a><span class="small">R3.10.15更新</span> </li>
+</ul>
+<p>&nbsp;</p>
+<h2><a id="kyuufu">給付金など（個人・企業・労働者への支援）</a></h2>
+<ul>
+    <li><a href="/main/org6100/syouhinken.html">むろらん応援プレミアム付商品券・飲食券</a><span class="small">R3.9.2更新</span> </li>
+    <li><a href="/main/org6100/ranrangurume2.html">むろらん応援プレミアム付飲食券（蘭ラングルメ2）</a><span class="small">R3.10.21更新</span> </li>
+    <li><a href="/main/org6100/syoukiboshien.html">室蘭市小規模事業者等支援給付金</a><span class="small">R3.10.14更新</span> </li>
+    <li><a href="/main/org6100/raneatskigyou.html">室蘭市テイクアウト代行支援事業(RanEats)</a><span class="small">R3.10.29</span> </li>
+    <li><a href="/main/org6100/kinkyujitaisengen_yousei.html">市内事業者向け緊急事態宣言の発出に伴う北海道からの要請等</a><span class="small">R3.9.13更新</span> </li>
+    <li><a href="/main/org4200/teigakukyuuhukinuketsukesyuuryou.html">特別定額給付金(申請受付終了)</a><span class="small">R2.8.13更新</span> </li>
+    <li><a href="/main/org4400/juutakuteate.html">住居確保給付金</a><span class="small">R2.6.9更新</span> </li>
+    <li><a href="/main/org6100/coronavirus_shien.html">中小企業支援</a><span class="small">R3.10.29更新</span> </li>
+    <li><a href="/main/org6100/machizukuri.html">事業者向け新型コロナウイルス対策の取組み補助事業（室蘭商工会議所の事業）</a><span class="small">R3.8.5更新</span> </li>
+    <li><a href="/main/org6230/hosyouseido.html">セーフティネット保証制度</a><span class="small">R2.5.20更新</span> </li>
+    <li><span class="small"></span><a href="/main/org1200/gakusei.html">「学生ふるさと応援便」</a><span class="small">R2.10.8更新</span> </li>
+    <li><a href="/main/org6100/goto_campaign_biz.html">GoToキャンペーン(事業者向け情報)</a><span class="small">R2.11.11更新</span> </li>
+    <li><a href="/main/org4500/r3kosodatekyuuhukin.html">低所得の子育て世帯に対する子育て世帯生活支援特別給付金（ひとり親世帯分）</a><span class="small">R3.4.28更新</span> </li>
+    <li><a href="/main/org4500/kosodatekyuuhukin-sonota.html">低所得の子育て世帯に対する子育て世帯生活支援特別給付金（ひとり親世帯以外の低所得の子育て世帯分）</a><span class="small">R3.</span><span class="small">7.20</span><span class="small">更新</span> </li>
+    <li><a href="/main/org4400/seikatukonkyusienkin.html">新型コロナウイルス感染症生活困窮者自立支援金</a><span class="small">R3.7.1更新</span> </li>
+</ul>
+<p>&nbsp;</p>
+<h2><a id="noufu">市税・保険料・市営住宅家賃の納付</a></h2>
+<ul>
+    <li><a href="/main/org2600/covid-19_yuyotokurei.html">市税における徴収猶予の特例制度</a><span class="small">R2.9.24更新</span> </li>
+    <li><a href="/main/org1400/documents/yuuyoseido.pdf">市税・各保険料等の猶予制度（PDF：208KB）</a> </li>
+    <li><a href="/main/org7500/korona.html">市営住宅の家賃</a><span class="small">R2.3.27更新</span> </li>
+    <li><a href="/main/org3500/corona_exemption.html">国民健康保険料及び後期高齢者医療保険料の減免措置</a><span class="small">R3.6.22更新</span> </li>
+    <li><a href="/main/org4220/kaigokoronagenmen.html">介護保険料の減免措置</a><span class="small">R2.6.18更新</span> </li>
+</ul>
+<p>&nbsp;</p>
+<h2><a id="syoumeisyo">証明書等の手続き</a></h2>
+<ul>
+    <li><a href="/main/org3600/coronavirus_jyuuminhyou.html">住民票の手続き</a><span class="small">R2.4.27更新</span> </li>
+    <li><a href="/main/org3550/kokuhokorona.html">国民健康保険加入・喪失の手続き</a><span class="small">R2.3.23更新</span> </li>
+    <li><a href="/main/org2500/zeisyoumei.html">課税・所得証明書等の取得手続き</a><span class="small">R2.3.18更新</span> </li>
+</ul>
+<p>&nbsp;</p>
+<h2><a id="gakkou">学校・保育等</a></h2>
+<ul>
+    <li><a href="/main/org9100/coronavirus.html">室蘭市立小中学校の新型コロナウイルス感染症について</a><span class="small">R3.8.31更新</span> </li>
+    <li><a href="/main/org9200/coronagakkou.html">小中学校</a><span class="small">R3.9.1更新</span> </li>
+    <li><a href="/main/org4510/koronahoikusyo.html">認可保育園</a><span class="small">R3.6.21更新</span> </li>
+    <li><a href="/main/org4510/coronavirus_youchien.html">私立幼稚園</a><span class="small">R3.6.21更新</span> </li>
+    <li><a href="/main/org4550/gakudoukorona.html">学童保育施設</a><span class="small">R2.11.26更新</span> </li>
+</ul>
+<p>&nbsp;</p>
+</div>
+<div id="tmp_page_info">
+
+<div class="plugin">
+<p class="plugin_img"><a href="http://www.adobe.com/go/JP-H-GET-READER"><img src="/shared/images/plugin/get_reader.gif" alt="Adobe Readerのダウンロードページへ" width="112" height="33" /></a></p>
+<p>PDF形式のファイルをご覧いただく場合には、Adobe Readerが必要です。Adobe Readerをお持ちでない方は、バナーのリンク先から無料ダウンロードしてください。</p>
+</div>
+
+
+<div id="tmp_inquiry">
+<div id="tmp_inquiry_ttl">
+<p>お問い合わせ</p>
+</div>
+<div id="tmp_inquiry_cnt">
+<p>
+<a href="/main/org1400.html">総務部広報課広報係</a>
+<br />住所：〒051-8511&nbsp;室蘭市幸町1番2号
+<br />電話：0143-25-2193&nbsp;&nbsp;
+ファクス：0143-25-2835
+<br />Eメール：<a href="mailto:shimintaiwa&#64;city.muroran.lg.jp">shimintaiwa&#64;city.muroran.lg.jp</a>
+</p>
+</div>
+</div>
+
+<div id="tmp_enquete">
+<div id="tmp_enquete_ttl">
+<p>より良いウェブサイトにするためにみなさまのご意見をお聞かせください</p>
+</div>
+<div id="tmp_enquete_cnt">
+<form id="enquete" action="/cgi-bin/feedback/feedback.cgi" method="post">
+    <input type="hidden" name="page_id" value="11752" /> <input type="hidden" name="page_title" value="新型コロナウイルス感染症に関する情報" /> <input type="hidden" name="page_url" value="http://www.city.muroran.lg.jp/main/org1400/coronavirus.html" /> <input type="hidden" name="item_cnt" value="2" /> <dl><dt>質問：このページの情報は役に立ちましたか？ （必須）</dt><dd>
+    <p><input id="que1_1" type="radio" name="item_1" value="役に立った" /><label for="que1_1">1：役に立った</label></p>
+    <p><input id="que1_2" type="radio" name="item_1" value="ふつう" /><label for="que1_2">2：ふつう</label></p>
+    <p><input id="que1_3" type="radio" name="item_1" value="役に立たなかった" /><label for="que1_3">3：役に立たなかった</label></p>
+    <input type="hidden" name="label_1" value="質問：このページの情報は役に立ちましたか？" /> <input type="hidden" name="nes_1" value="1" /> <input type="hidden" name="img_1" /> <input type="hidden" name="img_alt_1" /> <input type="hidden" name="mail_1" value="0" />
+    <p>&nbsp;</p>
+    </dd><dt>質問：このページの情報は見つけやすかったですか？（必須） </dt><dd>
+    <p><input id="que2_1" type="radio" name="item_2" value="見つけやすかった" /><label for="que2_1">1：見つけやすかった</label></p>
+    <p><input id="que2_2" type="radio" name="item_2" value="ふつう" /><label for="que2_2">2：ふつう</label></p>
+    <p><input id="que2_3" type="radio" name="item_2" value="見つけにくかった" /><label for="que2_3">3：見つけにくかった</label></p>
+    <input type="hidden" name="label_2" value="質問：このページの情報は見つけやすかったですか？" /> <input type="hidden" name="nes_2" value="1" /> <input type="hidden" name="img_2" /> <input type="hidden" name="img_alt_2" /> <input type="hidden" name="mail_2" value="0" />
+    <p>&nbsp;</p>
+    </dd></dl>
+    <p class="submit"><input type="image" alt="送信" src="/shared/templates/free/images/main/transmit_btn.gif" /></p>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="to_top"><p id="to_top-inner"><a href="#tmp_wrapper"><img src="/shared/image/page_top.gif" width="150" height="35" alt="ページトップへ" class="imgover" /></a></p></div>
+</div>
+<div id="tmp_footer">
+<ul>
+	<li><a href="https://www.harp.lg.jp/4420WFUY">お問い合わせ・ご意見</a></li>
+	<li><a href="/main/privacy.html">個人情報の取り扱い</a></li>
+	<li><a href="/main/sitepolicy.html">サイトポリシー</a></li>
+	<li><a href="/main/handle.html">ご利用について</a></li>
+	<li><a href="/main/rss.html">RSSについて</a></li>
+	<li><a href="/main/sitemap.html">サイトマップ</a></li>
+</ul>
+<address>
+室蘭市 法人番号8000020012050<br />
+室蘭市役所（<a href="/main/common/access.php">地図</a>）<br />
+住所: 051-8511 北海道室蘭市幸町1番2号<br />
+電話: 0143-22-1111&nbsp;&nbsp;&nbsp;&nbsp;ファクス: 0143-24-7601<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>Eメール: <a href="mailto:info&#64;city.muroran.lg.jp">info&#64;city.muroran.lg.jp</a>
+</address>
+<p id="license"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" src="/shared/image/88x31.png" style="border-width:0;" /></a></p>
+</div>
+</div>
+</div>
+</body>
+</html>

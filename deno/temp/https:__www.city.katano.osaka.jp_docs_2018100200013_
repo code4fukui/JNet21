@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="ja" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>新型コロナウイルス感染症によるセーフティネット４号保証について | 交野市</title>
+  <meta name="viewport" content="width=device-width" />
+<meta name="format-detection" content="telephone=yes" />
+<link rel="stylesheet" href="/_themes/city/css/normalize.css" />
+<link rel="stylesheet" href="/_themes/city/css/common.css" />
+<link rel="alternate stylesheet" href="/_themes/city/css/colors/white.css" title="white" />
+<link rel="alternate stylesheet" href="/_themes/city/css/colors/blue.css" title="blue" />
+<link rel="alternate stylesheet" href="/_themes/city/css/colors/black.css" title="black" />
+<link rel="stylesheet" href="/_themes/city/css/print.css" media="print" />
+<script src="/_themes/city/js/jquery.min.js"></script>
+<script src="/_themes/city/js/jquery-migrate.min.js"></script>
+<script src="/_themes/city/js/jquery.cookie.min.js"></script>
+<script src="/_themes/city/js/navigation.js"></script>
+<script src="/_themes/city/js/slick.min.js"></script>
+<script src="/_themes/city/js/common.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114682568-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114682568-1');
+</script>
+    
+<link rel="stylesheet" media="screen" href="/_common/js/flatpickr/themes/light.min.css" />
+<link rel="stylesheet" media="screen" href="/_common/js/flatpickr/themes/ja.css" />
+<script src="/_common/js/flatpickr/flatpickr.min.js"></script>
+<script src="/_common/js/flatpickr/l10n/ja.js"></script>
+<script src="/_common/js/flatpickr/plugins/scrollPlugin.js"></script>
+<script src="/_common/js/bowser.min.js"></script>
+
+</head>
+<body id="page-docs-2018100200013-index" class="dir-docs-2018100200013">
+  <div id="container">
+
+<header id="pageHeader">
+<div id="pageHeaderContainer">
+<div id="pageHeaderBody">
+
+<!-- skip reading -->
+<div id="accessibilityTool" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody clearfix">
+
+<a id="nocssread" href="#main">本文へ</a>
+
+<div class="tools clearfix">
+<ul id="accessibility_tool">
+  <li class="tool-ruby"><a href="#navigationRuby" id="navigationRuby">ふりがなをつける</a></li>
+  <li class="tool-talk"><a href="#navigationTalk" id="navigationTalk">よみあげる</a><span id="navigationTalkPlayer"></span></li>
+  <li class="tool-size">文字の大きさ
+  <ul class="fontSize">
+    <li><a href="#fontLarge" id="fontLarge" title="文字のサイズを大きくする">拡大</a></li>
+    <li><a href="#fontMiddle" id="fontMiddle" title="標準の文字サイズに戻す">標準</a></li>
+    <li><a href="#fontSmall" id="fontSmall" title="文字のサイズを小さくする">縮小</a></li>
+  </ul>
+  </li>
+  <li class="tool-color">背景色
+  <ul class="themeColor">
+    <li><a href="#themeBlack" id="themeBlack" title="背景色を黒にする" class="black">黒</a></li>
+    <li><a href="#themeBlue" id="themeBlue" title="背景色を青にする" class="blue">青</a></li>
+    <li><a href="#themeWhite" id="themeWhite" title="背景色を元に戻す" class="white">標準</a></li>
+  </ul>
+  </li>
+</ul>
+
+<div id="google_translate_element"></div>
+<script>
+  function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'ja', includedLanguages: 'en,ko,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</div>
+</div>
+</div>
+</div>
+<!-- /skip reading -->
+<div id="commonHeader" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+
+<h1><a href="/"><img src="/_themes/city/images/header-id.png" srcset="/_themes/city/images/header-id.png 1x, /_themes/city/images/header-id_s.png 2x" alt="交野市" /></a></h1>
+
+<div class="menu-btn">
+  <ul>
+    <li class="menu-btn1"><a href="javascript:void(0);">検索</a></li>
+    <li class="menu-btn2"><a href="javascript:void(0);">支援ツール</a></li>
+  </ul>
+</div>
+
+<div class="menu">
+  <ul>
+    <li class="menu1">
+      <div class="cse-search-box">
+        <form action="https://www.google.com/cse" id="cse-search-box" target="_blank">
+        <input type="hidden" name="cx" value="008838789820683127002:ybpfkjjan7a">
+        <input type="hidden" name="ie" value="UTF-8" />
+        <!--<input type="hidden" value="FORID:10" name="cof" />-->
+        <input type="text" name="q" size="12" id="search-box" />
+        <input type="submit" name="sa" value="サイト内検索" id="search-button" />
+        </form>
+        <script type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+        <a href="/docs/search/">検索方法</a>
+      </div>
+      <ul>
+      <li><a href="/categories/bunya/">分野から探す</a></li>
+      <li><a href="/sitemap.html">サイトマップ</a></li>
+      </ul>
+    </li>
+    <li class="menu2">
+      <div class="accessibility_tool"><p class="message">ふりがなと読み上げ音声は，人名，地名，用語等が正確に発音されない場合があります。</p></div>
+      <div class="google_translate"><p class="message">ページの言語を翻訳</p></div>
+    </li>
+  </ul>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+<!-- end #pageHeaderContainer --></div>
+<!-- end #pageHeader --></header>
+
+<nav id="pageNav">
+<div id="pageNavContainer">
+<div id="pageNavBody">
+
+<div id="globalNavi" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+<ul>
+<li><a href="/navi/kurashi/">くらし</a></li>
+<li><a href="/navi/kosodate/">子育て・教育</a></li>
+<li><a href="/navi/kenko/">健康・福祉</a></li>
+<li><a href="/navi/kanko/">観光・文化・スポーツ</a></li>
+<li><a href="/navi/jigyosha/">事業者の方へ</a></li>
+<li><a href="/navi/shisei/">市政について</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="breadCrumbs" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody"><ol><li><a href="/">ホーム</a></li><li><a href="/categories/">カテゴリ</a></li><li><a href="/categories/kubun/">記事区分</a></li><li><a href="/categories/kubun/shinsei/">申請・届出</a></li></ol><ol><li><a href="/">ホーム</a></li><li><a href="/categories/">カテゴリ</a></li><li><a href="/categories/bunya/">分野</a></li><li><a href="/categories/bunya/chiikishinko/">地域振興</a></li><li><a href="/categories/bunya/chiikishinko/sangyo/">産業振興</a></li></ol><ol><li><a href="/">ホーム</a></li><li><a href="/categories/">カテゴリ</a></li><li><a href="/categories/bunya/">分野</a></li><li><a href="/categories/bunya/chiikishinko/">地域振興</a></li></ol><ol><li><a href="/">ホーム</a></li><li><a href="/soshiki/">組織</a></li><li><a href="/soshiki/somubu/">総務部</a></li><li><a href="/soshiki/somubu/tiikisinkou/">地域振興課</a></li></ol>
+</div>
+</div>
+<!-- end .piece --></div>
+
+
+</div>
+<!-- end #pageNavContainer --></div>
+<!-- end #pageNav --></nav>
+
+<div id="main">
+<div id="mainContainer">
+
+<div id="wrapper" class="col2">
+
+<div id="content">
+<div id="contentContainer">
+<div id="contentBody">
+
+<div id="pageTitle" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody"><h1>新型コロナウイルス感染症によるセーフティネット４号保証について</h1>
+</div>
+</div>
+<!-- end .piece --></div>
+
+<article class="contentGpArticleDoc">
+<div class="date">
+  <p class="publishedAt">公開日 2018年10月09日</p>
+  <p class="updatedAt">更新日 2021年10月28日</p>
+</div>
+
+
+<div class="body">
+  <div class="text-beginning"><h3>概要</h3>
+
+<p>自然災害等の突発的事由（噴火、地震、台風等）により経営の安定に支障が生じている中小企業者への資金供給の円滑化を図るため、信用保証協会が通常の保証限度額とは別枠で保証（１００％保証）を行う制度。</p>
+
+<p><a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_4gou.htm"><span style="color:#ee0000">中小企業庁のホームページにて詳細が記載されておりますので、ご覧ください。</span></a></p>
+
+<div class="smph-mt">
+<div class="h2bg">
+<div>&nbsp;</div>
+
+<div>
+<h4><strong><span style="color:#ee0000">認定書の指定期間が延長されました。(令和３年12月１日まで）</span></strong></h4>
+
+<p>　詳細は下記「指定期間」にてご確認ください。</p>
+
+<p><span style="color:#ee0000"><strong>　※指定期間内に市区町村に認定申請を行った場合には、認定書の発行、及び金融機関又は信用保証協会へのセーフティネット保証の申し込みが指定期間後であった場合でも、セーフティネット保証の対象となります。</strong></span></p>
+</div>
+</div>
+
+<h4><strong><span style="color:#ee0000">比較対象月が前年から前前年へと変更する場合があります。</span></strong></h4>
+
+<p>最近1か月とその後2か月を含む3か月の前年同期のいずれかの月に同感染症の影響を受けた後の期間が含まれる場合、当該月に代えて同感染症の影響を受ける直前同期の月を比較対象とします。</p>
+
+<div class="h3bg">
+<div>
+<p>例 <span style="color:#ee0000"><strong>申請月が令和3年1月</strong></span>であり、<strong><span style="color:#ee0000">同感染症の影響を受けたのが令和2年2月以降</span></strong>の場合</p>
+</div>
+</div>
+
+<p>最近1か月は「令和2年12月」、その後の2か月間は「令和3年1月と2月」とします。比較する前年同期は、「令和元年12月」、「令和2年1月」と<strong class="text-color-blue"><span class="text-color-blue">「<span style="color:#ee0000">平成31年2月</span>」</span></strong>とします。これは、「令和2年2月」は既に同感染症の影響を受けているため比較対象とできず、その直前同期である<strong class="text-color-blue"><span class="text-color-blue">「<span style="color:#ee0000">平成31年2月</span>」</span></strong>を比較対象とするためです。</p>
+
+<p>詳細は下記「認定書事前確認書」にてご確認をお願いいたします。</p>
+
+<p>また、ご申請前に必ずご確認をお願いいたします。</p>
+</div>
+
+<p><a class="iconFile iconPdf" href="file_contents/kakuninsyo.pdf">認定書事前確認書[PDF：246KB]</a></p>
+
+<p><img alt="" src="file_contents/kakuninsyo.jpg" title="認定書事前確認書" /></p>
+
+<p>&nbsp;</p>
+
+<h4><strong><span style="color:#ee0000">※１２月８日付けで売上高の減少要件が緩和をされました。</span></strong></h4>
+
+<p><span style="color:#ee0000">　</span>具体的には、現行の「直近1ヶ月」の売上高の対前年同月比の比較に加え、最大で「直近6ヶ月平均」の売上高の対前年同期の比較もできることとします。</p>
+
+<p>　直近の１カ月の比較では２０％を越えていない場合は今年度と昨年度の売上高が分かる資料等をご用意いただき地域振興課へご相談ください。</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h3>対象事業者</h3>
+
+<p><span style="color:#ee0000">下記の（１）と（２）を満たす事業者</span></p>
+
+<p>（１）交野市において、１年間以上継続して事業を行っていること。</p>
+
+<p>（２）新型コロナウイルス感染症の発生に起因して、原則として最近１ヶ月の売上高等が前年同月に比して２０％以上減少しており、かつ、その後２ヶ月を含む最近３ヶ月間の売上等が前年同期に比して２０％以上減少することが見込まれること。</p>
+
+<p><span style="color:#ee0000"><strong class="text-color-red">※「最近3カ月間」とは、原則申請月の前月から起算して3カ月間です。</strong></span></p>
+
+<p><strong><span style="color:#ee0000">※ただし、業歴が３ヶ月以上１年１ヶ月未満の事業者や前年以降の店舗増加により売上高の前年比較が困難な事業者において、認定要件が緩和されており、様式が異なりますので、お問い合わせください。</span></strong></p>
+
+<p>&nbsp;</p>
+
+<h3>手続きの流れ</h3>
+
+<p>１）対象事業者は、地域振興課（交野市役所本庁２階）にて、指定期間内に必要書類を提出。</p>
+
+<p>２）地域振興課にて、必要書類を確認の上、認定書を返却。</p>
+
+<p>&nbsp;</p>
+
+<h3>注意事項</h3>
+
+<p>本認定とは<span style="color:#ee0000">別に信用保証協会または金融機関で審査</span>がございます。</p>
+
+<p>交野市長から認定を受けた後、信用保証協会または金融機関に対して、申し込みを行うことが必要です。</p>
+
+<p>本認定を受けた事業者は、大阪府制度融資「新型コロナウイルス感染症対応緊急資金」の融資対象者にもなります（詳細は<a href="http://www.pref.osaka.lg.jp/kinyushien/korona/index.html">大阪府のHP</a>をご覧ください）</p>
+
+<p>&nbsp;</p>
+
+<h3>指定期間</h3>
+
+<p><strong><span style="color:#ee0000">令和３年12月１日</span></strong>まで</p>
+
+<p><strong><span style="color:#ee0000">※指定期間が令和３年9月１日までとなっておりましたが、期間が３ヶ月延長され、令和３年12月１日までになりました。</span></strong></p>
+
+<p><span style="color:#ee0000"><strong>※指定期間は３ヶ月ごとに調査の上、必要に応じて延長されます。 </strong></span></p>
+
+<p><span style="color:#ee0000"><strong>※指定期間内に市区町村に認定申請を行った場合には、認定書の発行、及び金融機関又は信用保証協会へのセーフティネット保証の申し込みが指定期間後であった場合でも、セーフティネット保証の対象となります。</strong></span></p>
+
+<p>詳細は<a href="https://www.chusho.meti.go.jp/kinyu/2021/210519_4gou.html">中小企業庁HP</a>にてご確認ください。</p>
+
+<p>&nbsp;</p>
+
+<h3>提出書類</h3>
+
+<p>（１）認定申請書（第４号）１通</p>
+
+<p><strong><span style="color:#ee0000">※申請する場合、認定申請書の注１には、必ず新型コロナウイルス感染症と記載してください。</span></strong></p>
+
+<p><strong><span style="color:#ee0000">※減少率は小数点第2位を切り捨てて記入してください。</span></strong></p>
+
+<p><strong><span style="color:#ee0000">（例）14.987%は14.9%となります。</span></strong></p>
+
+<p>（２）指定地域(※1)において１年間以上事業を営んでいることがわかる書類（確定申告書の写し、履歴事項全部証明書等）</p>
+
+<p>（※１）指定地域＝４７都道府県</p>
+
+<p><strong><span style="color:#ee0000">※事業所の所在地の分かる書類</span></strong></p>
+
+<p>（３）当該災害の影響を受けた後、直近1カ月の売上高等が確認できる資料（損益計算書、計算表等）</p>
+
+<p><span style="color:#ee0000"><strong class="text-color-red">※「直近１カ月」とは、原則申請月の前月です</strong><strong class="text-color-red">。</strong></span></p>
+
+<p><strong class="text-color-red">　</strong><span style="color:#ee0000"><strong class="text-color-red">８月にご申請の場合は原則７月の実績となります。</strong></span></p>
+
+<p>【例】</p>
+
+<table border="1" style="width:624px">
+	<tbody>
+		<tr>
+			<td style="text-align:center">申請月</td>
+			<td style="text-align:center">最近３ヶ月</td>
+			<td style="text-align:center">前年同月</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<p>令和２年8月申請の場合</p>
+			</td>
+			<td>
+			<p>・売上実績：令和２年7月</p>
+
+			<p>・売上見込み：令和２年8月、9月</p>
+			</td>
+			<td>
+			<p>・売上実績：令和元年７月、８月、９月</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">令和２年９月申請の場合</td>
+			<td>
+			<p>・売上実績：令和２年８月</p>
+
+			<p>・売上見込み：令和２年９月、１０月</p>
+			</td>
+			<td>・売上実績：令和元年８月、９月、１０月</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>（４）（３）の期間後2ヶ月間の売上高等の見込み値が確認できる資料（損益計算書、計算表等）</p>
+
+<p>（５）（3）および（4）の期間に対応する前年同期3ヶ月分の売上高等が確認できる資料（任意の様式）</p>
+
+<p>※（３）〜（５）に対応する書類がない場合は、下記の計算表をご利用ください。</p>
+
+<p>　ただし、実績に関しては決算書と相違なきようお願いいたします。</p>
+
+<p>（６）委任状（金融機関等ご本人様以外が申請の場合）</p>
+
+<p>&nbsp;</p>
+
+<h3>様式</h3>
+
+<p><a class="iconFile iconPdf" href="file_contents/sn04-0801.pdf">様式第４号　（８月修正版）[PDF：142KB]</a></p>
+
+<p><a class="iconFile iconDocx" href="file_contents/keisanhyou.docx">計算表[DOCX：15.9KB]</a></p>
+
+<p><span style="color:#ee0000">※計算表及び委任状については、様式は自由です。下記もご参照ください。</span></p>
+
+<p><a class="iconFile iconDocx" href="file_contents/sn4-ininjyou.docx">ＳＮ４号委任状[DOCX：12.9KB]</a></p>
+
+<h3>業歴3ヶ月以上1年1ヶ月未満の事業者対象</h3>
+
+<p><span style="color:null">業歴が３ヶ月以上１年１ヶ月未満の事業者や前年以降の店舗増加により売上高の前年比較が困難な事業者において、認定要件が緩和されており、様式が異なります。下記の表をご確認ください。</span></p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<p style="text-align:center">認定運用緩和</p>
+
+			<p style="text-align:center">申請書様式</p>
+			</td>
+		</tr>
+		<tr>
+			<td>ア</td>
+			<td>
+			<p>・最近1か月の売上高等と最近1ヶ月を含む最近3ヶ月の平均売上高等を比較</p>
+			<a class="iconFile iconDocx" href="file_contents/sougyousyayou-a.docx">様式第４号（様式ア）[DOCX：13.8KB]</a></td>
+		</tr>
+		<tr>
+			<td>イ</td>
+			<td>
+			<p>・最近1ヶ月の売上高等と令和元年12月の売上高等を比較</p>
+
+			<p>・その後2ヶ月間（見込み）を含む3ヶ月の売上高等と令和元年12月の売上高等の3倍を比較</p>
+
+			<p><a class="iconFile iconDocx" href="file_contents/sougyousyayou-i.docx">様式第４号（様式イ）[DOCX：15.2KB]</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td>ウ</td>
+			<td>
+			<p>・最近1か月の売上高等と令和元年10～12月の平均売上高等を比較</p>
+
+			<p>・その後2ヶ月間（見込み）を含むヶ月月の売上高等と令和元年10～12月の3ヶ月を比較</p>
+
+			<p><a class="iconFile iconDocx" href="file_contents/sougyousyayou-u.docx">様式第４号（様式ウ）[DOCX：15.5KB]</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>　上記ア・イ・ウの計算表　<a class="iconFile iconXls" href="file_contents/keisanshi-to.xlsx">試算シート（創業者用等）[XLSX：12.3KB]</a></p>
+</div>
+
+</div>
+
+
+
+
+
+
+<div class="inquiry">
+  <h2>この記事に関するお問い合わせ</h2>
+    <address>
+      <div class="section">地域振興課</div><div class="tel"><span class="label">TEL</span>：072-892-0121</div><div class="email"><span class="label">E-Mail</span>：<a href="mailto:sinkou@city.katano.osaka.jp">sinkou@city.katano.osaka.jp</a></div>
+    </address>
+</div>
+
+<div class="adobeReader">
+  <p>PDFの閲覧にはAdobe System社の無償のソフトウェア「Adobe Acrobat Reader」が必要です。下記のAdobe Acrobat Readerダウンロードページから入手してください。</p>
+  <a href="http://get.adobe.com/jp/reader/" target="_blank" title="Adobe Acrobat Readerダウンロード">Adobe Acrobat Readerダウンロード</a>
+</div>
+
+<!-- end .contentGpArticleDoc --></article>
+
+
+</div>
+<!-- end #contentContainer --></div>
+<!-- end #content --></div>
+
+<aside id="links">
+<div id="linksContainer">
+<div id="linksBody">
+
+
+<div id="usefulNavi" class="piece">
+<div class="pieceContainer">
+<div class="pieceHeader"><h2>便利情報ナビ</h2></div>
+<div class="pieceBody">
+<ul>
+<li><a href="/soshiki/"><img src="/_themes/city/images/useful/ic-soshiki.png" alt="" />組織案内</a></li>
+<li><a href="/map/index_kubun@shiyakusho.html"><img src="/_themes/city/images/useful/ic-shisetsu.png" alt="" />施設マップ</a></li>
+<li><a href="/shisetsuyoyaku/"><img src="/_themes/city/images/useful/ic-yoyaku.png" alt="" />施設予約<br />システム</a></li>
+<li><a href="/categories/kubun/kyujin/"><img src="/_themes/city/images/useful/ic-kyujin.png" alt="" />職員等募集</a></li>
+<li><a href="/docs/2017041000041/"><img src="/_themes/city/images/useful/ic-gomi.png" alt="" />ごみの収集</a></li>
+<li><a href="/contents/2019062400084/"><img src="/_themes/city/images/useful/ic-shohi.png" alt="" />市民相談</a></li>
+<li><a href="https://www.katanotoshokan.jp/" target="_blank"><img src="/_themes/city/images/useful/ic-library.png" alt="" />図書館</a></li>
+<li><a href="/reiki_int/reiki_menu.html"><img src="/_themes/city/images/useful/ic-reiki.png" alt="" />条例・規則<br />（例規集）</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="lifeeventList" class="piece">
+<div class="pieceContainer">
+<div class="pieceHeader"><h2>ライフイベント</h2></div>
+<div class="pieceBody">
+<ul>
+<li><a href="/categories/lifeevent/ninshin/"><img src="/_themes/city/images/life/ic-ninshin.png" alt="" />妊娠・出産</a></li>
+<li><a href="/categories/lifeevent/kosodate/"><img src="/_themes/city/images/life/ic-kosodate.png" alt="" />子育て</a></li>
+<li><a href="/categories/lifeevent/gakko/"><img src="/_themes/city/images/life/ic-school.png" alt="" />学校・教育</a></li>
+<li><a href="/categories/lifeevent/hikkoshi/"><img src="/_themes/city/images/life/ic-hikkoshi.png" alt="" />引越し・住まい</a></li>
+<li><a href="/categories/lifeevent/shushoku/"><img src="/_themes/city/images/life/ic-shushoku.png" alt="" />就職・退職</a></li>
+<li><a href="/categories/lifeevent/kekkon/"><img src="/_themes/city/images/life/ic-kekkon.png" alt="" />結婚・離婚</a></li>
+<li><a href="/categories/lifeevent/korei/"><img src="/_themes/city/images/life/ic-korei.png" alt="" />高齢・介護</a></li>
+<li><a href="/categories/lifeevent/okuyami/"><img src="/_themes/city/images/life/ic-okuyami.png" alt="" />おくやみ</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+<!-- end #linksContainer --></div>
+<!-- end #links --></aside>
+
+<!-- end #wrapper --></div>
+
+<!-- end #mainContainer --></div>
+<!-- end #main --></div>
+
+<footer id="pageFooter">
+<div id="pageFooterContainer">
+<div id="pageFooterBody">
+
+<div id="footerNavi" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+<ul>
+<li><a href="/docs/about-site/">サイトの利用について</a></li>
+<li><a href="/docs/privacy/">個人情報の取扱い</a></li>
+<li><a href="/docs/link/">リンクについて</a></li>
+<li><a href="/docs/copyright/">著作権・免責事項</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="commonFooter" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+
+<div>
+<div class="information">
+<div class="logo"><img src="/_themes/city/images/footer-id.png" alt="交野市" /></div>
+<ul>
+<li><a href="/map/index_kubun@shiyakusho.html">市役所のご案内</a></li>
+<li><a href="/contact/toiawase">ご意見・ご提案・お問い合わせ</a></li>
+</ul>
+</div>
+<address>
+〒576-8501 大阪府交野市私部1丁目1番1号<br />
+<span>電話：<a href="tel:072-892-0121">072-892-0121</a>（代表）</span><br />
+<span>開庁時間：9時00分から17時30分まで</span><span>（土曜日・日曜日・祝日・休日・年末年始を除く）</span>
+</address>
+</div>
+<div class="map"><img src="/_themes/city/images/map.png" alt="交野市所在地" /></div>
+</div>
+</div>
+</div>
+<div id="copyright" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+
+<small>Copyright &copy; Katano City, All rights reserved.</small>
+
+</div>
+</div>
+</div>
+
+</div>
+<!-- end #pageFooterContainer --></div>
+<!-- end #pageFooter --></footer>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+
+<title>新型コロナウイルスに関する緊急情報／箕面市</title>
+<meta name="keywords" content="箕面市,防災,緊急,災害,新型コロナウイルス" />
+<meta name="description" content="箕面市が更新する緊急情報に関するページ" />
+
+<meta name="author" content="箕面市" />
+<meta property="og:title" content="新型コロナウイルスに関する緊急情報" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="箕面市が更新する緊急情報に関するページ" />
+<meta property="og:url" content="https://www.city.minoh.lg.jp/bousai/20200228.html" />
+<meta property="og:image" content="https://www.city.minoh.lg.jp/shared/rn/images/ogp.jpg" />
+<meta property="og:site_name" content="箕面市" />
+<meta property="og:locale" content="ja_jp" />
+<meta name="viewport" content="width=device-width, maximum-scale=3.0" />
+<meta name="format-detection" content="telephone=no" />
+<link href="/shared/rn/style/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/shared/rn/style/shared.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/shared/rn/style/color/color0.css" rel="stylesheet" type="text/css" media="all" id="tmp_color" title="default" class="tmp_color" />
+<link href="/shared/rn/style/color/color1.css" rel="alternate stylesheet" type="text/css" media="all" title="darkblue" class="tmp_color" />
+<link href="/shared/rn/style/color/color2.css" rel="alternate stylesheet" type="text/css" media="all" title="yellow" class="tmp_color" />
+<link href="/shared/rn/style/color/color3.css" rel="alternate stylesheet" type="text/css" media="all" title="black" class="tmp_color" />
+<link href="/shared/rn/style/font/normal.css" rel="stylesheet" type="text/css" id="tmp_font" media="all" title="default" class="tmp_font" />
+<link href="/shared/rn/style/font/small.css" rel="alternate stylesheet" type="text/css" media="all" title="small" class="tmp_font" />
+<link href="/shared/rn/style/font/big.css" rel="alternate stylesheet" type="text/css" media="all" title="big" class="tmp_font" />
+<link href="/shared/templates/free_rn/style/edit.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/shared/rn/style/smartphone.css" rel="stylesheet" media="only screen and (max-width : 640px)" type="text/css" id="tmp_smartphone_css" />
+<link href="/shared/templates/free_rn/style/edit_sp.css" rel="stylesheet" media="only screen and (max-width : 640px)" type="text/css" id="tmp_smartphone_editcss" />
+<link href="/shared/rn/images/favicon/favicon.ico" rel="shortcut icon"  type="image/vnd.microsoft.icon" />
+<link href="/shared/rn/images/favicon/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<script type="text/javascript" src="/shared/rn/js/jquery.js"></script>
+<script type="text/javascript" src="/shared/rn/js/gd.js"></script>
+<script type="text/javascript" src="/shared/rn/js/setting_head.js"></script>
+
+
+
+
+
+<script type="text/javascript" src="/shared/js/ga.js"></script>
+<script type="text/javascript" src="/shared/js/ga_social_tracking.js"></script>
+<script type="text/javascript">
+window.twttr = (function (d,s,id) {
+var t, js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+js.src='//platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs);
+return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+}(document, 'script', 'twitter-wjs'));
+// Wait for the asynchronous resources to load
+twttr.ready(function(twttr) {
+_ga.trackTwitter(); //Google Analytics tracking
+});
+</script>
+</head>
+<body class="format_free no_javascript">
+<script type="text/javascript" src="/shared/rn/js/setting_body.js"></script> 
+<div id="fb-root"></div>
+<script type="text/javascript">
+var publish = true;
+var userAgent = window.navigator.userAgent.toLowerCase();
+var appVersion = window.navigator.appVersion.toLowerCase();
+if(publish){
+window.fbAsyncInit = function() {
+_ga.trackFacebook(); //Google Analytics tracking
+};
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.11';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+}
+</script>
+<noscript>
+<p>JavaScriptが無効なため一部の機能が動作しません。動作させるためにはJavaScriptを有効にしてください。またはブラウザの機能をご利用ください。</p>
+</noscript>
+<div id="tmp_wrapper">
+<p><a href="#tmp_honbun" class="skip">本文へジャンプします。</a></p>
+<div id="tmp_head_contents">
+<div id="tmp_wrap_header" class="clearfix">
+<div id="tmp_header" class="clearfix">
+<div id="tmp_hlogo">
+<p><a href="/index.html"><span>大阪府箕面市 Minoh City</span></a></p>
+</div>
+<div class="menulink menu--collapsed animated fadeInDown js_menu open">
+<a href="javascript:void(0)" class="menu_title menu_on">
+<span class="menu_name">メニュー</span> 
+<span class="menu_close">閉じる</span>
+<span class="menu_bar"></span>
+</a>
+</div>
+<div id="tmp_means">
+
+<div>
+<ul id="tmp_hnavi">
+    <li><span class="arrow_right">&nbsp;</span><a href="/shisei/kakukaannai/index.html">組織のご案内</a> </li>
+    <li><span class="arrow_right">&nbsp;</span><a href="/sitemap.html">サイトマップ</a> </li>
+    <li><span class="arrow_right">&nbsp;</span><a href="/otoiawase/index.html">お問い合わせ</a>&nbsp;</li>
+    <li><span class="arrow_right">&nbsp;</span><a href="/multilingual/index.html">Multilingual</a> </li>
+</ul>
+</div>
+<div id="tmp_means_secondary">
+<form id="tmp_gsearch" action="/search/result.html" name="tmp_gsearch">
+    <div id="tmp_search"><label for="tmp_query" class="btn_search"><img alt="サイト内検索" width="18" height="18" src="/shared/templates/top_rn/images/icon/icn_search.gif" /></label>
+    <div id="tmp_wrap_query"><input id="tmp_query" size="31" name="q" />
+    <p class="query_submit"><input id="tmp_func_sch_btn" alt="検索" type="submit" name="sa" value="検索" /> </p>
+    </div>
+    <p id="tmp_search_hidden"><input type="hidden" name="cx" value="017750771091613507406:p3b6n_hrpbk" /> <input type="hidden" name="ie" value="UTF-8" /><input type="hidden" name="cof" value="FORID:9" /> </p>
+    </div>
+</form>
+<a href="/about_site/kensaku.html" class="means_how_search">検索の仕方</a> <a href="/ac/index.html" class="means_font">文字サイズ・色合いの変更</a> </div>
+
+
+<div id="tmp_means_gnavi" class="clearfix">
+<ul class="clearfix">
+    <li class="fist_menu"><a href="/index.html">ホーム</a> </li>
+    <li><a href="/bosai/index.html">防災・防犯</a> </li>
+    <li><a href="/kurashi/index.html">くらし・環境</a> </li>
+    <li><a href="/kenko/index.html">健康・医療<br />
+    <span class="pc_none">・</span>福祉</a> </li>
+    <li><a href="/kyoiku/index.html">子育て・教育<br />
+    <span class="pc_none">・</span>文化</a> </li>
+    <li><a href="/business/index.html">産業<br />
+    <span class="pc_none">・</span>まちづくり</a> </li>
+    <li><a href="/shisei/index.html">市政</a> </li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div id="tmp_wrapper2">
+<div id="tmp_wrapper3">
+<div id="tmp_wrap_pankuzu">
+<div id="tmp_pankuzu">
+<p><a href="/index.html">箕面市</a> &gt; <a href="/kenko/index.html">健康・医療・福祉</a> &gt; <a href="/kurashi/kenkou/index.html">健康・医療</a> &gt; 新型コロナウイルスに関する緊急情報</p>
+</div>
+
+<p id="tmp_update">更新日：2021年11月2日</p>
+
+
+<ul id="tmp_wrap_social_button">
+    <li><div class="social_media_btn twitter_btn">
+<a href="https://twitter.com/share" data-url="https://www.city.minoh.lg.jp/bousai/20200228.html" data-text="新型コロナウイルスに関する緊急情報" data-lang="ja" class="twitter-share-button">ツイート</a>
+<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+</li>
+    <li><div class="social_media_btn facebook_btn">
+<div data-href="https://www.city.minoh.lg.jp/bousai/20200228.html" data-width="120" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false" class="fb-like"></div>
+</div></li>
+    <li><div class="social_media_btn line_btn">
+<div data-lang="ja" data-type="share-a" data-url="https://www.city.minoh.lg.jp/bousai/20200228.html" style="display: none;" class="line-it-button"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+</div></li>
+</ul>
+
+</div>
+<div id="tmp_wrap_main" class="column_rnavi">
+<div id="tmp_main">
+<div class="wrap_col_main">
+<div class="col_main">
+<p id="tmp_honbun" class="skip">ここから本文です。</p>
+<div id="tmp_contents">
+
+<h1>新型コロナウイルスに関する緊急情報</h1>
+<p>新型コロナウイルスに関するお問い合わせは、箕面市新型コロナウイルス対策本部までお願いします。<br />・電話番号：072-724-5000（平日午前9時から午後5時まで）<br />・ファクス番号：072-724-6376（聴覚障害のあるかた用ファクス番号：072-727-3539）</p>
+<h2 align="center">新型コロナワクチンの接種について</h2>
+<ul>
+    <li><a href="https://www.city.minoh.lg.jp/kenkou/covid19vaccine/index.html">新型コロナワクチンの接種について</a> </li>
+    <li><a href="https://www.city.minoh.lg.jp/kenkou/c19v/index.html">新型コロナワクチン接種の予約について</a> </li>
+</ul>
+<h2>市民の皆さまへ</h2>
+<p>&nbsp; </p>
+<div>
+<p>大阪府では、感染状況・療養状況が落ち着いてきていることから、要請内容が緩和されます。新たな要請期間は10月25日(月曜日)から11月30日(火曜日)までです。<br />
+しかしながら、夜間滞留人口は10月1日以降、急拡大しており、感染拡大の恐れがあります。また、ワクチン接種には、発症や重症化予防効果が期待されますが、感染に気づかないまま周囲に感染を広げる可能性があるため、ワクチン接種後も感染対策の徹底をお願いします。&nbsp; </p>
+</div>
+<div>
+<p>本市への要請内容は次のとおりです。 </p>
+</div>
+<table cellspacing="1" cellpadding="3" width="100%" summary="" border="1">
+    <tbody>
+        <tr>
+            <td>
+            <p><span class="txt_red">【要請内容】</span></p>
+            <ul>
+                <li>感染対策(3密の回避、マスク着用、手洗い、こまめな換気等)の徹底 </li>
+                <li>会食を行う際は、4ルールに留意すること </li>
+            </ul>
+            <ol>
+                <li>同一テーブル4人以内 ※1 </li>
+                <li>2時間程度以内の飲食 </li>
+                <li>ゴールドステッカー認証店舗推奨 </li>
+                <li>マスク会食の徹底　※2 </li>
+            </ol>
+            <p>※1　同居家族や乳幼児・子ども、高齢者・障がい者の介助者などはこの限りではない<br />
+            ※2　疾患等によりマスクの着用が困難な場合などはこの限りでない</p>
+            <ul>
+                <li>ハロウィン等の主催者がいない集まりへの参加を控えること&nbsp; </li>
+            </ul>
+            <p>その他要請内容について </p>
+            <ul>
+                <li><a href="/bousai/documents/ibentohenoyousei.pdf">イベントに関する要請内容（PDF：1,180KB）</a> </li>
+                <li><a href="/bousai/documents/inshokuten.pdf">飲食店などへの要請内容（PDF：1,163KB）</a> </li>
+                <li><a href="/bousai/documents/inshoukigai.pdf">施設への要請内容（PDF：1,169KB）</a><br />
+                &nbsp; </li>
+            </ul>
+            <p>■<a href="/bousai/documents/mozuyan-masukukaisyoku.pdf">マスク会食について（PDF：1,125KB）</a></p>
+            <p>■<a href="https://www.pref.osaka.lg.jp/kikaku/kinkyuzitai-20210425/index.html">大阪府の令和3年4月25日以降の要請内容（緊急事態措置及びまん延防止など重点措置）( 外部サイトへリンク )</a></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p>特措法に基づく要請等コールセンター</p>
+<ul>
+    <li>電話番号：06-7178-1398&nbsp; </li>
+    <li>受付時間：平日午前9時30分から午後5時30分まで </li>
+</ul>
+<h4>11月3日(水曜日)&nbsp;の新型コロナウイルス感染症患者について</h4>
+<table cellspacing="1" cellpadding="5" summary="" border="1">
+    <tbody>
+        <tr>
+            <td valign="middle" width="150" class="clc10">　</td>
+            <td valign="middle" width="142" align="left" class="clc10">
+            <p align="center">11月3日(水曜日)</p>
+            </td>
+            <td valign="middle" width="120" align="left" class="clc10">
+            <p align="center">1週間前</p>
+            </td>
+            <td valign="middle" width="100" align="left" class="clc11">
+            <p align="center">増減</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="150" align="left" class="clc11">
+            <p align="center">大阪府の陽性者数</p>
+            </td>
+            <td valign="middle" width="142" align="left" class="clc12">
+            <p align="right">53名</p>
+            </td>
+            <td valign="middle" width="120" align="left" class="clc13">
+            <p align="right">66名</p>
+            </td>
+            <td valign="middle" width="100" align="left" class="clc14">
+            <p align="right">▲ 13</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="150" align="left" class="clc11">
+            <p align="center">大阪府の陽性率</p>
+            </td>
+            <td valign="middle" width="142" align="left" class="clc15">
+            <p align="right">0.6％</p>
+            </td>
+            <td valign="middle" width="120" align="left" class="clc13">
+            <p align="right">0.7％</p>
+            </td>
+            <td valign="middle" width="100" align="left" class="clc16">
+            <p align="right">▲ 0.1</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="150" align="left" class="clc11">
+            <p align="center">箕面市の陽性者数</p>
+            </td>
+            <td valign="middle" width="142" align="left" class="clc13">
+            <p align="right">2名</p>
+            </td>
+            <td valign="middle" width="120" align="left" class="clc12">
+            <p align="right">1名</p>
+            </td>
+            <td valign="middle" width="100" align="left" class="clc14">
+            <p align="right">1</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>感染者の一日も早い回復を祈念いたします。&nbsp;&nbsp;&nbsp;<br />
+また、医療従事者の皆さまに心から感謝を申しあげます。&nbsp; </p>
+<h4>箕面市における&nbsp;10月31日(日曜日)&nbsp;時点のワクチン接種済数</h4>
+<table cellspacing="1" cellpadding="3" width="100%" summary="" border="1">
+    <tbody>
+        <tr>
+            <td>&nbsp;</td>
+            <td colspan="2">
+            <p align="center">1回目</p>
+            </td>
+            <td colspan="2">
+            <p align="center">2回目</p>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>
+            <p align="center">接種数</p>
+            </td>
+            <td>
+            <p align="center">接種率</p>
+            </td>
+            <td>
+            <p align="center">接種数</p>
+            </td>
+            <td>
+            <p align="center">接種率</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p align="center">65歳以上</p>
+            </td>
+            <td>
+            <p align="right">32,602</p>
+            </td>
+            <td>
+            <p align="right">92.75％</p>
+            </td>
+            <td>
+            <p align="right">30,875</p>
+            </td>
+            <td>
+            <p align="right">87.84％</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p align="center">65歳未満</p>
+            </td>
+            <td>
+            <p align="right">64,800</p>
+            </td>
+            <td>
+            <p align="right">62.46％</p>
+            </td>
+            <td>
+            <p align="right">59,360</p>
+            </td>
+            <td>
+            <p align="right">57.22％</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p align="center">市全体</p>
+            </td>
+            <td>
+            <p align="right">97,402</p>
+            </td>
+            <td>
+            <p align="right">70.13％</p>
+            </td>
+            <td>
+            <p align="right">90,235</p>
+            </td>
+            <td>
+            <p align="right">64.97％</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>　※接種対象人数（接種率の分母）には、政府CIOポータルの「新型コロナワクチンの接種状況」の数字を使用<br />
+　　<a tabindex="581" href="https://cio.go.jp/c19vaccine_dashboard">https://cio.go.jp/c19vaccine_dashboard</a>　（9月1日より、令和3年の人口を採用しています。）</p>
+<p>◎引き続き、「マスクの着用」や「手洗い・消毒」、「3密（密接・密集・密閉）回避」など、感染症対策の徹底をお願いします！！&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<h2>ページ内 目次</h2>
+<h5 class="clear">項目をクリックすれば、目的の位置に移動できます。</h5>
+<h3><span class="txt_small"><a href="/bousai/20200228.html#siminnnominasama"><span class="txt_big">市内の感染症患者の発生状況 </span></a></span></h3>
+<h3><span class="txt_small"><a href="#vaccine"><span class="txt_big">新型コロナウイルス感染症のワクチン接種について</span></a></span></h3>
+<h3><span class="txt_small"><a href="#escape"><span class="txt_big">相談窓口について </span></a></span></h3>
+<h3><span class="txt_big"><a href="#kakusyushienseido"><span class="txt_small">各種支援制度（市民向け、事業者向け）について </span></a></span></h3>
+<h3><span class="txt_big"><a href="#kyuukou"><span class="txt_small">開校・開園情報 </span></a></span></h3>
+<h3><span class="txt_small"><span class="txt_big"><a href="#koukyou">公共施設の利用情報</a></span> </span></h3>
+<h3><span class="txt_small"><span class="txt_big"><a href="#event">市主催のイベントの開催・中止・延期情報</a></span> </span></h3>
+<h3><span class="txt_small"><span class="txt_big"><a href="#sonota">その他</a></span> </span></h3>
+<h3><span class="txt_small"><a href="#information"><span class="txt_big">ホームページ以外の情報発信について</span></a> </span></h3>
+<h3><span class="txt_big"><a href="/bunka/coronavirus_english.html"><span class="txt_small">English Information Regarding the Coronavirus Disease</span></a></span> </h3>
+<h2><a id="siminnnominasama">&nbsp;</a>市内の感染症患者の発生状況</h2>
+<ul>
+    <li><a href="/bousai/documents/1103youseikanja-jouhou.pdf">市内の感染症患者の状況（11月3日時点）（PDF：108KB）</a></li>
+</ul>
+<p>　※大阪府が、新型コロナウイルス感染症患者に関するホームページの公表内容を、令和2年11月16日から変更(個票による事例番号、年代、性別などの公表を廃止）したことを受け、公表内容などを変更しています。</p>
+<ul>
+    <li><a href="/syokuin/covid19kansenjoho/covid19kansenjoho.html">本市職員の新型コロナウイルス感染について</a> </li>
+    <li><a href="http://www.pref.osaka.lg.jp/iryo/osakakansensho/corona.html">大阪府の最新情報( 外部サイトへリンク )</a> </li>
+</ul>
+<p>市民の皆さまにおかれましては、引き続き、咳エチケットや手洗いの徹底などの通常の感染症対策に努めていただくようお願いいたします。<br />
+※不確実な情報に惑わされず、国、大阪府や市から発信されます正確な情報を基に、冷静な対応を心がけていただきますようお願いいたします。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>市民安全政策室 </li>
+    <li>電話番号：072-724-5000 </li>
+    <li>ファクス番号：072-724-6376 </li>
+</ul>
+<h3>市内のクラスター発生状況（令和3年8月18日以降分）</h3>
+<p>令和3年10月19日更新</p>
+<table cellspacing="0" cellpadding="5" width="90%" summary="" border="1" class="datatable">
+    <tbody>
+        <tr>
+            <th scope="row">
+            <p align="center">大阪府公表日</p>
+            </th>
+            <th scope="row">
+            <p align="center">施設種別</p>
+            </th>
+            <th scope="row">
+            <p align="center">陽性者（累計）</p>
+            </th>
+        </tr>
+        <tr>
+            <td>
+            <p align="center">令和3年8月18日</p>
+            </td>
+            <td>児童施設関連</td>
+            <td>
+            <p align="center">7</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p align="center">令和3年8月18日</p>
+            </td>
+            <td>児童施設関連（2）</td>
+            <td>
+            <p align="center">9</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p align="center">令和3年10月4日</p>
+            </td>
+            <td>医療機関関連（2）</td>
+            <td>
+            <p align="center">29</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p align="center">令和3年10月4日</p>
+            </td>
+            <td>高齢者施設関連（3）</td>
+            <td>
+            <p align="center">12</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p align="center">令和3年10月18日</p>
+            </td>
+            <td>集合住宅関連</td>
+            <td>
+            <p align="center">16</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p align="center">令和3年10月19日</p>
+            </td>
+            <td>行政機関関連</td>
+            <td>
+            <p align="center">8</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h3>市公共施設での発生状況</h3>
+<p><a href="/katudou/covid19_1.html">市民活動センター利用者の新型コロナウイルス感染について（令和3年9月10日）</a></p>
+<p><a href="/jinken/corona_20210415.html">らいとぴあ21利用者の新型コロナウイルス感染について（令和3年4月15日）</a></p>
+<p><a href="/katudou/covid19.html">グリーンホール利用者の新型コロナウイルス感染について（令和3年4月14日）</a></p>
+<p><a href="/jinken/corona_20210414.html">ヒューマンズプラザ利用者の新型コロナウイルス感染について（令和3年4月14日）</a></p>
+<p>お問い合わせについては、上記リンク先ページの下部に記載されている連絡先にご連絡願います。</p>
+<p>体調に不安があるかたは、下記連絡先へご相談ください。</p>
+<h4><a href="http://www.pref.osaka.lg.jp/iryo/osakakansensho/corona-denwa.html">府民向け相談窓口(外部サイトへリンク)</a></h4>
+<ul>
+    <li>電話番号：06-6944-8197 </li>
+    <li>ファクス番号：06-6944-7579 </li>
+    <li>受付時間：午前9時から午後6時まで（土曜日・日曜日・祝日も対応） </li>
+</ul>
+<h2><a id="vaccine">新型コロナウイルス感染症のワクチン接種について</a></h2>
+<p>新型コロナワクチン接種について、詳しくは、<a href="/kenkou/covid19vaccine/index.html">新型コロナワクチンの接種についてのページ</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>新型コロナワクチン接種コールセンター </li>
+    <li>電話番号：072-727-6865 </li>
+    <li>ファクス番号：072-727-3539 </li>
+    <li>受付時間：月曜日から土曜日（祝日を除く）、午前9時から午後5時まで<br />
+    </li>
+</ul>
+<h4>厚生労働省新型コロナワクチンコールセンター</h4>
+<ul>
+    <li>電話番号：0120-761770（フリーダイヤル） </li>
+    <li>受付時間：午前9時から午後9時まで（土曜日・日曜日・祝日も実施） <br />
+    </li>
+</ul>
+<h2><a id="escape">相談窓口について</a></h2>
+<h3>発熱などの受診相談窓口</h3>
+<h4>発熱患者などの受診相談</h4>
+<p>まずは、かかりつけ医へ</p>
+<p>かかりつけ医などの身近な医療機関に受診相談する体制にかわりました。<br />
+夜間・休日やかかりつけ医のいないときは、【<a href="http://www.pref.osaka.lg.jp/iryo/osakakansensho/corona-denwa.html">新型コロナ受診相談センター( 外部サイトへリンク )</a>】にご相談ください。</p>
+<ul>
+    <li>電話番号：06-7166-9911 </li>
+    <li>ファクス番号：06-6944-7579 </li>
+    <li>受付時間：終日（土曜日・日曜日・祝日も対応） </li>
+</ul>
+<h4>医療機関を受診</h4>
+<ul>
+    <li>相談窓口にて紹介された医療機関を受診してください。 </li>
+</ul>
+<p align="center"><strong></strong></p>
+<h5 align="center"><strong>《相談・受診の流れ》</strong></h5>
+<p align="center">&nbsp;</p>
+<p><img alt="相談の流れ2" width="800" height="526" src="/bousai/images/soudannonagare2.jpg" /><br />
+</p>
+<h3>すでに下記の症状があるかた</h3>
+<h4>症状の確認</h4>
+<p>少なくとも以下のいずれかに該当する場合には、すぐに電話などでご相談ください。（これらに該当しない場合の相談も可能です。）</p>
+<ul>
+    <li>息苦しさ（呼吸困難）、強いだるさ（倦怠感）、高熱などの強い症状のいずれかがある場合 </li>
+    <li>重症化しやすいかた（※）で、発熱や咳などの比較的軽い風邪の症状がある場合<br />
+    （※）高齢者、糖尿病、心不全、呼吸器疾患（COPDなど）などの基礎疾患があるかたや透析を受けているかた、免疫抑制剤や抗がん剤などを用いているかた </li>
+    <li>上記以外のかたで発熱や咳など比較的軽い風邪の症状が続く場合<br />
+    （症状が4日以上続く場合は必ずご相談ください。症状には個人差がありますので、強い症状と思う場合にはすぐに相談してください。解熱剤などを飲み続けなければならないかたも同様です。） </li>
+</ul>
+<p><strong>（妊婦のかたへ）<br />
+</strong>妊婦については、念のため、重症化しやすいかた（2つ上の項目）と同様に、早めにかかりつけ医に電話などでご相談ください。</p>
+<p><strong>（お子様がいるかたへ）<br />
+</strong>小児については、小児科医による診察が望ましいため、かかりつけ小児医療機関に電話などでご相談ください&nbsp;。</p>
+<p>&nbsp;</p>
+<h3 align="left">&nbsp;LINEによる相談（大阪府-新型コロナ対策パーソナルサポート）</h3>
+<ul>
+    <li>「<a href="http://www.pref.osaka.lg.jp/hokeniryokikaku/corona-soudan/">大阪府-新型コロナ対策パーソナルサポート(外部サイトへリンク)</a>」において、LINEによる新型コロナウイルスに関する情報発信などを行っております。 </li>
+</ul>
+<h3>大阪府こころのほっとライン（新型コロナ専用）</h3>
+<p>新型コロナウイルス感染症に関する不安やストレスなど、こころの健康に関する相談にLINE（文字チャット）で回答します。</p>
+<p>詳細は、<a href="http://www.pref.osaka.lg.jp/chikikansen/singatakoronasnssoda/index.html">大阪府のホームページ(外部サイトへリンク)</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<ul>
+    <li>受付時間：午後5時30分から午後10時（水曜日・土曜日・日曜日） </li>
+    <li>QRコードから、LINEアプリの「友だち登録」をしてください。 </li>
+</ul>
+<p><img alt="こころのほっとライン" width="122" height="122" src="/bousai/images/kokoronohotline.jpg" /></p>
+<h3>新型コロナウイルス接触確認アプリ(COCOA)について</h3>
+<p>接触確認アプリは、本人の同意を前提に、スマートフォンの近接通信機能（ブルートゥース）を利用して、互いに分からないようプライバシーを確保して、新型コロナウイルス感染症の陽性者と接触した可能性について通知を受けることができます。<br />
+利用者は、陽性者と接触した可能性が分かることで、検査の受診など保健所のサポートを早く受けることができます。利用者が増えることで、感染拡大の防止につながることが期待されます。</p>
+<p>アプリのインストール方法など詳細は、<a target="_blank" href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html">新型コロナウイルス接触確認アプリ(COCOA)について（厚生労働省ホームページ）( 外部サイトへリンク )</a>をご覧ください。</p>
+<h3>感染防止認証ゴールドステッカーについて</h3>
+<p>大阪府では、感染症に強い強靭な社会・経済の形成を図っていくため、飲食店における感染防止対策のさらなる促進や府民が安心して利用できる環境整備につながる、新たな認証制度を創設しました。詳しくは、<a target="_blank" href="https://www.pref.osaka.lg.jp/shobobosai/gold-sticker/index.html">府の感染防止認証ゴールドステッカーについてのホームページ( 外部サイトへリンク )</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+【お問い合わせ先】
+<p>&nbsp;</p>
+<ul>
+    <li>府感染防止認証ゴールドステッカーコールセンター </li>
+    <li>電話番号：06-7178-1371 </li>
+    <li>受付時間：午前9時30分から午後5時30分まで（月曜日から金曜日） </li>
+</ul>
+<h3>感染防止宣言ステッカーについて</h3>
+<p>大阪府では、事業者のみなさまを対象とし、ガイドラインを遵守している施設（店舗）であることを府民のみなさまに示す「感染防止宣言ステッカー」を発行しています。ガイドラインを遵守している事業者のみなさまが、必要事項（ガイドライン遵守宣言など）を登録していただくことで「感染防止宣言ステッカー」を取得できる仕組みです。詳しくは、<a target="_blank" href="https://www.pref.osaka.lg.jp/shobobosai/sengensticker/index.html">府の感染予防宣言ステッカーについてのホームページ( 外部サイトへリンク )</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】 </p>
+<ul>
+    <li>府感染防止宣言ステッカーコールセンター </li>
+    <li>電話番号：06-7178-1398 </li>
+    <li>受付時間：午前9時30分から午後5時30分まで（月曜日から金曜日） </li>
+</ul>
+<p>&nbsp;</p>
+<h3>&nbsp;一般的なお問い合わせ</h3>
+<h4>厚生労働省の電話相談窓口（新型コロナワクチン以外の新型コロナウイルス感染症について）</h4>
+<ul>
+    <li>電話番号：0120-565653（フリーダイヤル） </li>
+    <li>受付時間：下記参照（土曜日・日曜日・祝日も実施） <br />
+    ・日本語、英語、中国語、韓国語、ポルトガル語、スペイン語：午前9時から午後9時まで<br />
+    ・タイ語 ： 午前9時から午後6時まで<br />
+    ・ベトナム語 ： 午前10時から午後7時まで </li>
+</ul>
+<p>聴覚に障害のあるかたや電話での相談が難しいかた向けのファクス番号：03-3595-2756</p>
+<h4><a href="http://www.pref.osaka.lg.jp/iryo/osakakansensho/corona-denwa.html">府民向け相談窓口(外部サイトへリンク)</a></h4>
+<ul>
+    <li>電話番号：06-6944-8197 </li>
+    <li>ファクス番号：06-6944-7579 </li>
+    <li>受付時間：午前9時から午後6時まで（土曜日・日曜日・祝日も対応） </li>
+</ul>
+<h3>コロナ差別にお悩みのかたへ　－人権相談窓口－</h3>
+<p>新型コロナウイルス感染症に関連して、感染者や医療従事者、またこれらのご家族などに対する誤解や偏見に基づく差別を行うことは許されません。公的機関の提供する正確な情報を入手し，冷静な行動に努め、新型コロナウイルス感染症に関する差別や偏見をなくしましょう。<br />
+詳しくは、<a target="_blank" href="https://www.city.minoh.lg.jp/jinken/covid19_jinken.html">新型コロナウイルス感染症に関する人権への配慮についてのページ</a>をご覧ください。</p>
+<h3>インターネット上の情報について</h3>
+<p>インターネット上には、新型コロナウイルス関連肺炎に係るさまざまな情報が流れていますが、中には事実と異なる情報もあります。市民のみなさまは、厚生労働省や大阪府が発信する正確な情報に基づき、落ち着いて行動してください。</p>
+<ul>
+    <li><a tabindex="586" href="http://www.pref.osaka.lg.jp/iryo/osakakansensho/corona.html">新型コロナウイルス感染症について（大阪府ホームページ）(外部サイトへリンク)</a> </li>
+    <li><a tabindex="587" href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html">新型コロナウイルス感染症について(厚生労働省ホームページ)(外部サイトへリンク)</a> </li>
+    <li><a tabindex="588" href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html">新型コロナウイルス感染症に関するQ＆A（厚生労働省ホームページ）(外部サイトへリンク)</a> </li>
+</ul>
+<h2><a id="kakusyushienseido">&nbsp;</a>各種支援制度（市民向け、事業者向け）について</h2>
+<ul>
+    <li><a href="#ninsanpu">妊産婦のかたへ</a> </li>
+    <li><a href="#kosodatesetai">子育て世帯のかたへ</a> </li>
+    <li><a href="#shigotoyasumu">新型コロナウイルスの影響により、仕事を休む必要があるかたへ</a> </li>
+    <li><a href="#seikatushikindeokomari">収入減や、休業・失業により、生活資金などでお困りのかたへ</a> </li>
+    <li><a href="#jigyousya">事業者のかたへ（お問い合わせ窓口）</a> </li>
+</ul>
+<h3><a id="ninsanpu">&nbsp;</a>妊産婦のかたへ</h3>
+<h4>市役所の相談窓口</h4>
+<p align="left"><span class="space_lft1"><strong>妊娠生活の不安や出産後の体調、子どもの健康などに関すること</strong></span></p>
+<ul>
+    <li>子どもすこやか室 </li>
+    <li>受付時間：平日午前8時45分から午後5時15分まで </li>
+    <li>電話番号：072-724-6768 </li>
+    <li>ファクス番号: 072-721-9907 </li>
+</ul>
+<h4 align="left">府の相談窓口</h4>
+<ul>
+    <li>受付時間　平日午前9時から午後5時まで </li>
+    <li>電話番号　06-6775-8894 </li>
+</ul>
+<p><span class="space_lft1">詳細は、</span><a href="http://www.pref.osaka.lg.jp/kenkozukuri/boshi/ninsanpudenwasoudan.html">大阪府のホームページ( 外部サイトへリンク )</a>をご覧ください。</p>
+<p align="left">&nbsp;</p>
+<p align="left">【お問い合わせ先】</p>
+<ul>
+    <li>子どもすこやか室 </li>
+    <li>電話番号：072-724-6768 </li>
+    <li>ファクス番号：072-721-9907 </li>
+</ul>
+<h3><a id="kosodatesetai">&nbsp;</a>子育て世帯のかたへ</h3>
+<h4>【給付】低所得の子育て世帯に対する子育て世帯生活支援特別給付金（ひとり親世帯分）について</h4>
+<p>新型コロナウイルス感染症の影響がひろがる中でのひとり親への支援として、低所得の子育て世帯に対する子育て世帯生活支援特別給付金（ひとり親世帯分）を支給します。<br />
+詳細については、<a target="_blank" href="https://www.city.minoh.lg.jp/kodomo/teishotoku-hitorioya.html">低所得の子育て世帯に対する子育て世帯生活支援特別給付金（ひとり親世帯分）についてのページ</a>をご覧ください。</p>
+<p><br />
+【お問い合わせ先】</p>
+<ul>
+    <li>子育て支援室 </li>
+    <li>電話番号：072-724-6738 </li>
+    <li>ファクス番号：072-721-9907 <br />
+    </li>
+</ul>
+<h4>母子・父子・寡婦福祉資金の貸付について</h4>
+<p>母子・父子家庭と寡婦のかたを対象に経済的自立をはかるために必要な資金（お子さんの進学、親自身の技能習得や転宅など）の貸付を行っています。詳細については、<a href="/kodomo/boshihogo/bosikasituke.html">母子・父子・寡婦福祉資金の貸付のページ</a>をご確認願います。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>子育て支援室 </li>
+    <li>電話番号：072-724-6738 </li>
+    <li>ファクス番号：072-721-9907 </li>
+</ul>
+<h4 align="left">市役所の相談窓口</h4>
+<p align="left"><strong>子どもの健康・病気・発達などに関すること</strong></p>
+<ul>
+    <li>子どもすこやか室 </li>
+    <li>受付時間：平日午前8時45分から午後5時15分まで </li>
+    <li>電話番号：072-724-6768 </li>
+    <li>ファクス番号：072-721-9907 </li>
+</ul>
+<p align="left"><strong>子育て支援センター（おひさまルーム）</strong></p>
+<ul>
+    <li>子どもとの関わりかたや育児への不安や悩みに関すること </li>
+    <li>受付時間：平日午前10時から午後4時まで </li>
+    <li>電話番号：072-721-8845 </li>
+    <li>ファクス番号：072-723-5433 </li>
+</ul>
+<h4>乳幼児健康診査（4か月児、1歳6か月児、3歳6か月児）及びBCG予防接種の実施について</h4>
+<p><a href="https://www.city.minoh.lg.jp/kurashi/ninshin/b05.html">4か月児健診、1歳6か月児健診、3歳6か月児健診の全ての乳幼児健診</a>及び<a href="/kenkou/yobousessyu.html#BCGsessyu">BCG予防接種</a>は、感染防止対策を講じた上で、予定どおり実施いたします。</p>
+<p>なお、6月から4か月児健診とBCG予防接種は、船場生涯学習センターが休館中でも予定どおり実施いたします。</p>
+<p>引き続きお困りごとや相談がありましたら、子どもすこやか室までお電話ください。<br />
+&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>子どもすこやか室 </li>
+    <li>電話番号：072-724-6768 </li>
+    <li>ファクス番号：072-721-9907 </li>
+</ul>
+<h3><a id="shigotoyasumu">&nbsp;</a>新型コロナウイルスの影響により、仕事を休む必要があるかたへ</h3>
+<h4>傷病手当の支給について</h4>
+<h5><strong>国民健康保険または<strong>後期高齢者医療</strong>に加入のかた</strong></h5>
+<p>新型コロナウィルス感染症に感染した場合、または発熱などの症状があり、感染が疑われた場合に、その療養のため労務に服することができなかった期間（一定の要件を満たした場合に限る）、傷病手当金を支給します。</p>
+<p>詳しくは、各ホームページでご確認願います。</p>
+<ul>
+    <li>国民健康保険加入者：<a href="/kokuho/kokuho/kyuufu/syoubyouteatekinn.html">傷病手当金の支給（新型コロナウィルス感染症関連）について</a> </li>
+    <li>後期高齢者医療加入者：<a href="https://www.kouikirengo-osaka.jp/longlife/corona-syobyo-teate.html">大阪府後期高齢者医療広域連合のホームページ(外部サイトへリンク)</a> </li>
+</ul>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<p><strong><span class="space_lft1">国民健康保険加入者</span></strong></p>
+<ul>
+    <li>国民健康保険室 </li>
+    <li>電話番号：072-724-6734 </li>
+    <li>ファクス番号：072-724-6040 </li>
+</ul>
+<p><strong><strong><span class="space_lft1">後期高齢者医療加入者</span></strong></strong></p>
+<ul>
+    <li>介護・医療・年金室 </li>
+    <li>電話番号：072-724-6739 </li>
+    <li>ファクス番号：072-724-6040 </li>
+</ul>
+<p><strong><strong><span class="space_lft1">社会保険加入者</span></strong></strong></p>
+<ul>
+    <li>ご加入の健康保険にお問い合わせください </li>
+</ul>
+<h3><a id="seikatushikindeokomari">&nbsp;</a>収入減や、休業・失業により、生活資金などでお困りのかたへ</h3>
+<h4>【給付】住居確保給付金について</h4>
+<p>住居を失ったかた、または失うおそれが高いかたに、家賃相当額（上限あり）を一定期間家主に対して支給します。資産や収入などの受給要件がありますので、詳しくは、<a href="/chiiki/jkakuho.html">住居確保給付金のページ</a>をご確認いただくか、箕面市生活相談窓口にご相談ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>箕面市生活相談窓口（箕面市立総合保健福祉センター1階） </li>
+    <li>電話番号：072-727-9515 </li>
+    <li>ファクス番号：072-727-3539 </li>
+</ul>
+<h4>【給付】大学などの授業料の減免・奨学金の給付について</h4>
+<p>新型コロナウイルス感染症の影響で家計が急変し、学費などの支援が必要になった学生については、「高等教育修学支援新制度」により、授業料の減免や奨学金の給付が受けられる場合がありますので、詳細については、<a href="https://www.mext.go.jp/kyufu/student/daigaku.html">文部科学省のホームページ(外部サイトへリンク)</a>をご確認ください。</p>
+<h4>【減免】介護保険料、後期高齢者医療保険料の減免、納付について</h4>
+<p>各保険料の納付が困難なかたについて、減免や分割納付などの対応を行います。詳しくは、<a href="https://www.city.minoh.lg.jp/iryouseido/kaigohoken/koronagenmen.html">介護保険料の減免についてのページ</a>、<a href="https://www.kouikirengo-osaka.jp/longlife/insreduction.html">後期高齢者医療保険料の減免についてのページ(外部サイトへリンク)</a>をご確認いただくか、お電話にてお問い合わせください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<p><strong><span class="space_lft1">介護保険について</span></strong></p>
+<ul>
+    <li>介護・医療・年金室介護保険グループ </li>
+    <li>電話番号：072-724-6860 </li>
+    <li>ファクス番号：072-724-6040 </li>
+</ul>
+<p><strong><span class="space_lft1">後期高齢者医療保険について</span></strong></p>
+<ul>
+    <li>後期高齢者医療グループ </li>
+    <li>電話番号：072-724-6739 </li>
+    <li>ファクス番号：072-724-6040 </li>
+</ul>
+<h4>【減免】国民健康保険料の減免、納付について</h4>
+<p>国民健康保険料の納付が困難なかたについて、減免や分割納付などの対応を行います。詳しくは、<a href="https://www.city.minoh.lg.jp/kokuho/kokuho/kyuufu/korona_genmen_hokenryo.html">国民健康保険料の減免についてのページ</a>をご確認いただくか、お電話にてお問い合わせください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<p><strong><span class="space_lft1">減免について</span></strong></p>
+<ul>
+    <li>国民健康保険室 </li>
+    <li>電話番号：072-724-6734 </li>
+    <li>ファクス番号：072-724-6040 </li>
+</ul>
+<p><strong><span class="space_lft1">納付について</span></strong></p>
+<ul>
+    <li>債権管理機構 </li>
+    <li>電話番号：072-724-7036 </li>
+    <li>ファクス番号：072-724-6040 </li>
+</ul>
+<h4>【減免】国民年金保険料の免除について</h4>
+<p>国民年金保険料の納付が困難なかたについて、保険料を免除します。詳しくは、お電話にてお問い合わせください。制度については、<a href="https://www.nenkin.go.jp/oshirase/taisetu/2020/202003/20200312.html">日本年金機構のホームページ(外部サイトへリンク)</a>でもご覧いただけます。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<p><strong><strong><span class="space_lft1">豊中年金事務所</span></strong></strong></p>
+<ul>
+    <li>電話番号：06-6848-6831 </li>
+    <li>ファクス番号：06-6854-3638 </li>
+</ul>
+<p><strong><strong><span class="space_lft1">介護・医療・年金室</span></strong></strong></p>
+<ul>
+    <li>電話番号：072-724-6735 </li>
+    <li>ファクス番号：072-724-6040 </li>
+</ul>
+<h4>新型コロナウイルス感染症対応休業支援金・給付金について</h4>
+<p>新型コロナウイルス感染症及びそのまん延防止の措置の影響により休業させられた中小企業の労働者のうち、休業中に賃金（休業手当）を受けることができなかったかたに対して、国では当該労働者の申請により、新型コロナウイルス感染症対応休業支援金・給付金を支給します。</p>
+<p>詳しくは、<a target="_blank" href="http://www.mhlw.go.jp/stf/kyugyoshienkin.html">厚生労働省のホームページ( 外部サイトへリンク )</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>新型コロナウイルス感染症対応休業支援金・給付金コールセンター </li>
+    <li>電話番号：0120-221-276 </li>
+    <li>受付時間：午前8時30分から午後8時まで（月曜日から金曜日）<br />
+    　　　　　午前8時30分から午後5時15分まで（土曜日・日曜日・祝日） </li>
+</ul>
+<h4>【支払期限の延長】公共料金の支払期限の延長について</h4>
+<h5><strong>上下水道料金について</strong></h5>
+<p>新型コロナウイルス感染拡大の影響で、休業や失業、収入の減少などにより上下水道料金のお支払いが困難となった場合、お支払いの猶予や分割納付などの相談をお受けいたします。詳しくは、<a href="/service/documents/koronasiharai.html">新型コロナウイルス感染症の影響により上下水道料金の支払いが困難なかたへ</a>をご確認願います。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>上下水道局料金センター </li>
+    <li>電話番号：072-724-6756 </li>
+    <li>ファクス番号：072-722-7416 </li>
+</ul>
+<p>&nbsp;</p>
+<h5><strong>NHK受信料について</strong></h5>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>北大阪営業センター </li>
+    <li>電話番号：06-6835-8001 </li>
+</ul>
+<p><span class="space_lft1">お問い合わせ方法などについては、<a href="https://www.nhk.or.jp/css/">NHKのホームページ(外部サイトへリンク)</a>からも確認ができます。</span></p>
+<p>&nbsp;</p>
+<h5><strong>電気料金、ガス料金、電話料金について</strong></h5>
+<p>ご契約の各事業者へお問い合わせください。</p>
+<h4>【支払期限の延長】国税、市税のお支払いが困難な場合の納税猶予について</h4>
+<p>新型コロナウイルス感染症の影響により、国税や市税を一時に納付することが困難な場合、申請により1年間納税の猶予や分割納付が認められる場合があります。</p>
+<p>詳しくは、各ホームページでご確認いただくか、お電話でご相談ください。</p>
+<ul>
+    <li>国税について：<a href="https://www.nta.go.jp/taxes/nozei/nofu_konnan.htm">新型コロナウイルス感染症の影響により納税が困難なかたへ(外部サイトへリンク)</a> </li>
+    <li>市税について：<a href="/somushuno/soudancrona.html">新型コロナウイルス感染症の影響により、市税のお支払いが困難な場合の猶予制度について</a> </li>
+</ul>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<p><strong><span class="space_lft1">国税について</span></strong></p>
+<ul>
+    <li>大阪国税局猶予相談センター </li>
+    <li>電話番号：06-6630-3680 </li>
+</ul>
+<p><strong><span class="space_lft1">市税について</span></strong></p>
+<ul>
+    <li>債権管理機構 </li>
+    <li>電話番号：072-724-6713 </li>
+    <li>ファクス番号：072-723-5538 </li>
+</ul>
+<h4>【貸付】生活福祉資金制度における緊急小口資金などの貸付（新型コロナウイルス感染症特例貸付）について</h4>
+<p>新型コロナウイルス感染症の影響で収入の減少や休業・失業により、日常生活の維持が困難となっているかたを対象にした貸付制度です。</p>
+<p>貸付要件の詳細については、<a tabindex="657" href="http://www.osakafusyakyo.or.jp/sikinbu/20200325.html">大阪府社会福祉協議会ホームページ(外部サイトへリンク)</a>でご確認ください。</p>
+<p>また、相談・申請受付は予約制となっていますので、事前に箕面市社会福祉協議会にご連絡ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>箕面市社会福祉協議会（箕面市船場西1丁目11-35 箕面市立総合保健福祉センター分館） </li>
+    <li>電話番号：072-749-1575 </li>
+    <li>ファクス番号：072-727-3590 </li>
+    <li>受付時間：月曜日から金曜日の午前8時45分から午後5時15分（日曜日・祝日を除く） </li>
+</ul>
+<h4>【証明書の無料発行】新型コロナウイルス感染症の影響による各種貸付などに必要となる証明書の手数料を無料にします</h4>
+<p>新型コロナウイルス感染症の影響による各種貸付や融資などの手続きに必要となる住民票の写しなどの証明書について、令和2年4月20日（月曜日）から手数料を無料にします。</p>
+<h5>【対象となる手数料】</h5>
+<p>住民票の写し</p>
+<p>住民票記載事項証明書</p>
+<p>印鑑登録申請</p>
+<p>印鑑登録証明書</p>
+<p>課税証明書</p>
+<p>納税証明書</p>
+<p>詳しくは、<a tabindex="655" href="https://www.city.minoh.lg.jp/kurashi/koseki/syoumei_muryou2020.html">住民票の写しなどの証明書の手数料無料化についてのページ</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<p><strong><span class="space_lft1">住民票、印鑑登録について</span></strong></p>
+<ul>
+    <li>窓口課 </li>
+    <li>電話番号：072-724-6726 </li>
+    <li>ファクス番号：072-724-0853 </li>
+</ul>
+<p><strong><strong><span class="space_lft1">課税証明、納税証明について</span></strong></strong></p>
+<ul>
+    <li>税務課 </li>
+    <li>電話番号：072-724-6709 </li>
+    <li>ファクス番号：072-723-5538 </li>
+</ul>
+<h4>【届出期間の延長】年金の支給に関する届け出の提出期限の延長について</h4>
+<p>現況届などの提出が遅れた場合も、年金、年金生活者支援給付金が受けられます。詳しくは、お電話にてご相談ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<p><strong><strong><span class="space_lft1">豊中年金事務所</span></strong></strong></p>
+<ul>
+    <li>電話番号：06-6848-6831 </li>
+    <li>ファクス番号：06-6854-3638 </li>
+</ul>
+<p><strong><strong><span class="space_lft1">介護・医療・年金室</span></strong></strong></p>
+<ul>
+    <li>電話番号：072-724-6735 </li>
+    <li>ファクス番号：072-724-6040 </li>
+</ul>
+<h3><a id="jigyousya">&nbsp;</a>事業者のかたへ</h3>
+<h4>【給付・助成】月次支援金について</h4>
+<p>国において、2021年の4月以降に実施される緊急事態措置又はまん延防止など重点措置に伴う「飲食店の休業・時短営業」や「外出自粛等」により、売り上げが減少した中小法人・個人事業者等に対して、月次支援金を給付します。</p>
+<p>詳しくは、<a href="https://www.meti.go.jp/covid-19/getsuji_shien/index.html">経済産業省のホームページ( 外部サイトへリンク )</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】 </p>
+<ul>
+    <li>月次支援金事務局 </li>
+    <li>電話番号：0120-211-240（IP電話からの場合：03-6629-0479） </li>
+    <li>受付時間：午前8時30分から午後7時まで（土曜日・日曜日・祝日も対応） </li>
+</ul>
+<h4>【給付・助成】大阪府中小法人・個人事業者等に対する一時支援金</h4>
+<p>大阪府において、新型コロナウイルス感染症拡大の影響を受けており、現在協力金や支援金を受給できていない事業者に対し、事業継続等を支援するため「一時支援金」を支給する予定です。詳しくは、<a target="_blank" href="http://www.pref.osaka.lg.jp/shogyoshien/ichiji/index.html">大阪府中小法人・個人事業者等に対する一時支援金のホームページ( 外部サイトへリンク )</a>をご覧ください。</p>
+<ul>
+    <li>対象者：令和3年4月から8月のいずれかの月について国の「月次支援金」を受け取っている府内の中小法人・個人事業者等<br />
+    ※月時支援金の申請をしていない事業者については、8月分の申請が令和3年10月31日までなので、お早めに申請ください。<br />
+    ※《対象外》営業時間短縮等協力金、大規模施設等協力金の支給対象者及び酒類販売事業者支援金受給者 </li>
+</ul>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>中小法人・個人事業者等に対する一時支援金コールセンター </li>
+    <li>電話番号：06-6654-3314 </li>
+    <li>受付時間：午前9時から午後6時まで(土曜日・日曜日・祝日は除く） </li>
+</ul>
+<h4>&nbsp;【給付・助成】大阪府酒類販売事業者支援金</h4>
+<p>大阪府において、緊急事態措置による飲食店の休業又は酒類の提供停止を伴う時短営業の影響を受けている府内の酒類販売事業者のかたに、国の月次支援金に上乗せして支援金を支給します。</p>
+<p>詳しくは、<a href="https://www.pref.osaka.lg.jp/ryutai/shuruihanbai_shien/index.html">大阪府ホームページ( 外部サイトへリンク )</a>をご覧ください。<br />
+</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】 </p>
+<ul>
+    <li>大阪府酒類販売事業者支援金コールセンター　 </li>
+    <li>電話番号：06-6654-3346 </li>
+    <li>受付時間：午前9時30分から午後5時30分（土曜日・日曜日・祝日は除く） </li>
+</ul>
+<h4>【給付・助成】事業再構築補助金について</h4>
+<p>国において、新型コロナウイルス感染症の影響が長期化し、当面の需要や売上の回復が期待し難い中、ウィズコロナ・ポストコロナの時代の経済社会の変化に対応するために新分野展開、業態転換、事業・業種転換、事業再編又はこれらの取組を通じた規模の拡大など、思い切った事業再構築に意欲を有する中小企業等の挑戦を支援します。</p>
+<p>詳しくは、<a href="https://jigyou-saikouchiku.jp">事業再構築補助金事務局ホームページ( 外部サイトへリンク )</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】 </p>
+<ul>
+    <li>事業再構築補助金事務局 </li>
+    <li>電話番号：0570-012-088（IP電話からの場合：03-4216-4080） </li>
+    <li>受付時間：午前9時から午後6時まで（土曜日・日曜日・祝日は除く） </li>
+</ul>
+<h4>【給付・助成】大阪府営業時間短縮協力金について</h4>
+<p>大阪府において、新型コロナウイルス感染症の再拡大防止に向けて、営業時間短縮等の要請に協力した事業者に対して、国・大阪府で共同して協力金を支給します。</p>
+<p>詳しくは、大阪府の<a target="_blank" href="https://www.pref.osaka.lg.jp/keieishien/kyouryokukin_portal/index.html">大阪府営業時間短縮協力金のホームページ( 外部サイトへリンク )</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】&nbsp;&nbsp; </p>
+<ul>
+    <li>大阪府営業時間短縮協力金に関するコールセンター </li>
+    <li>電話番号：06-6210-9525 </li>
+    <li>ファクス番号：06-6210-9481（聴覚障害のあるかた用） </li>
+    <li>時間：午前9時から午後7時まで（日曜日及び祝日を除く）&nbsp;&nbsp; </li>
+</ul>
+<h4>【給付・助成】雇用調整助成金について</h4>
+<p>経済上の理由により、事業活動の縮小を余儀なくされた事業主が、雇用の維持をはかるための休業手当に要した費用を助成する制度です。詳しくは、<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/pageL07.html">厚生労働省のホームページ(外部サイトへリンク)</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<p><strong><span class="space_lft1">大阪労働局雇用保険課助成金センター</span></strong></p>
+<ul>
+    <li>電話番号：06-7669-8900 </li>
+</ul>
+<p><strong><span class="space_lft1"><a href="https://jsite.mhlw.go.jp/osaka-hellowork/list/ikeda/_119927.html">ハローワーク池田(外部サイトへリンク)</a></span></strong></p>
+<ul>
+    <li>電話番号：072-751-2595 </li>
+    <li>ファクス番号：072-751-5848 </li>
+</ul>
+<h4>【給付・助成】大阪府大規模施設等協力金</h4>
+<p>&nbsp;大阪府において、緊急事態措置に係る休業要請等に応じていただいた大規模施設の運営事業者等に対して、協力金を支給します。詳しくは、<a href="https://www.pref.osaka.lg.jp/energy/daikibo_toppage/index.html">大阪府ホームページ( 外部サイトへリンク )</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】 </p>
+<ul>
+    <li>大阪府時短・大規模施設等協力金コールセンター </li>
+    <li>電話番号：06-7166-9987 </li>
+    <li>受付時間：午前9時から午後6時（土曜日、日曜日及び祝日を除く） </li>
+</ul>
+<h4>【給付・助成】大阪府雇用促進支援金</h4>
+<p>大阪府内に住所がある求職者を新たに雇い入れ、3か月間雇用した事業者に支援金を支給しています。詳しくは、<a target="_blank" href="https://www.pref.osaka.lg.jp/koyotaisaku/koyoushienkin/index.html">大阪府ホームページ( 外部サイトへリンク )</a>をご覧ください。<br />
+</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】 </p>
+<ul>
+    <li>大阪府雇用促進支援金事務局 </li>
+    <li>電話番号：06-4794-7050 </li>
+    <li>受付時間：午前9時30分から午後5時30分まで（土曜日、日曜日及び祝日を除く）&nbsp; </li>
+</ul>
+<h4>【給付・助成】小学校休業等対応助成金について</h4>
+<p>新型コロナウイルスの感染拡大防止策として、小学校等が臨時休業した場合などに、その小学校等に通う子の保護者である労働者の休職に伴う所得の減少に対応するため、正規雇用・非正規雇用を問わず、有給の休暇（年次有給休暇を除く。）を取得させた企業に対する助成金です。詳しくは、<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/pageL07_00002.html">厚生労働省のホームページ(外部サイトへリンク)</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>小学校休業等対応助成金・支援金コールセンター </li>
+    <li>電話番号：0120-60-3999 </li>
+    <li>受付時間：午前9時から午後9時まで（土曜日・日曜日・祝日も対応） </li>
+</ul>
+<h4>【保証】危機関連保証、セーフティネット保証4号、セーフティネット保証5号について</h4>
+<p>新型コロナウイルス感染症の発生により、経営に影響を受けている中小企業者を支援するための融資制度です。詳しくは、<a href="http://www.pref.osaka.lg.jp/kinyushien/korona/index.html">大阪府のホームページ(外部サイトへリンク)</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>大阪信用保証協会 </li>
+    <li>電話番号：06-6260-1730 </li>
+</ul>
+<h4>【貸付】新型コロナウイルス感染症特別貸付、生活衛生新型コロナウイルス特別貸付、旅館・飲食店・喫茶店向け衛生環境激変対策特別貸付について</h4>
+<p>新型コロナウイルス感染症の影響により、売上が減少するなど業況が悪化しているかたを対象とした融資制度です。詳しくは、日本政策金融公庫の各ホームページをご覧ください。</p>
+<ul>
+    <li><a href="https://www.jfc.go.jp/n/finance/search/covid_19_t.html">新型コロナウイルス感染症特別貸付(外部サイトへリンク)</a> </li>
+    <li><a href="https://www.jfc.go.jp/n/finance/search/covid_19_seiei_m.html">生活衛生新型コロナウイルス特別貸付(外部サイトへリンク)</a> </li>
+    <li><a href="https://www.jfc.go.jp/n/finance/search/47_gekihen_2_m.html">衛生環境激変対策特別貸付(外部サイトへリンク)</a> </li>
+</ul>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>日本政策金融公庫 </li>
+    <li>電話番号：（平日）0120-154-505、（土日・祝日）国民生活事業 0120-112-476、中小企業事業 0120-327-790 </li>
+</ul>
+<h4>【貸付】商工中金・危機対応融資について</h4>
+<p>新型コロナウイルス感染症による影響を受け業況が悪化した事業者に対する資金繰り支援のための危機対応融資制度です。詳しくは、<a href="https://www.shokochukin.co.jp/disaster/corona.html">商工中金のホームページ(外部サイトへリンク)</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>商工中金 </li>
+    <li>電話番号：0120-542-711 </li>
+</ul>
+<h4>【貸付】新型コロナウイルス対策マル経融資について</h4>
+<p>商工会議所・商工会・都道府県商工会連合会の経営指導員による経営指導を受けた小規模事業者に対して、日本政策金融公庫などが無担保・無保証人で融資を行う制度です。詳細については、<a href="https://www.jfc.go.jp/n/finance/search/kaizen_m.html">日本政策金融公庫のホームページ(外部サイトへリンク)</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>箕面商工会議所 </li>
+    <li>電話番号：072-721-1300 </li>
+    <li>ファクス番号：072-721-1305 </li>
+</ul>
+<h4>【その他】新型コロナウイルス感染症対応緊急資金等の認定書の発行について</h4>
+<p>箕面市では、新型コロナウイルス感染症により、経営に影響を受けている市内中小企業者・小規模事業者向けに、緊急資金申込みにかかる認定書の発行を行っています。<br />
+また、国や大阪府による各種支援策の情報をご紹介しています。<br />
+各種認定の申請や支援策の詳細は<a tabindex="651" href="https://www.city.minoh.lg.jp/eigyou/korona/kinnkyuusikin.html">「【事業者のみなさまへ】新型コロナウイルス感染症対応緊急資金について」</a>をご覧ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>箕面営業室 </li>
+    <li>電話番号：072-724-6727 </li>
+    <li>ファクス番号：072-722-7655 </li>
+</ul>
+<h2><a id="kyuukou">&nbsp;</a>開校・開園情報</h2>
+<h3>市立小中学校について</h3>
+<h4>市立小中学校</h4>
+<p><strong>期間：10月25日以降</strong></p>
+<p>&nbsp;</p>
+<p><strong>○感染予防に留意のうえ、開校しています。</strong></p>
+<p><strong>○オンライン授業の実施について</strong></p>
+<ul>
+    <li>現在の感染状況をふまえ、登校に対して不安があるご家庭においては、保護者のご判断により自宅でのオンライン授業を選択していただくことができますので、学校までご連絡ください。 </li>
+    <li>オンライン授業を実施した場合、「特例の授業（出席停止）」の扱いとなり、欠席の扱いにはしません。 </li>
+    <li>2学期から、<a href="https://www.city.minoh.lg.jp/edugakkou/houdou24.html">新たな学習支援ソフト（tomoLinks）を導入し</a>、授業に使用する教材の提示・配布・提出等がオンライン上で可能になることから、自宅でも学校での授業に近い形で授業が受けられるようになります。 </li>
+    <li>新たなシステムによるオンライン授業を9月1日から実施していますが、児童生徒のシステムの習熟状況を見極めつつ順次実施していくことになり、ZOOMによるオンライン授業と併用することになりますので、ご了承ください。 </li>
+</ul>
+<p><strong>○電子連絡帳システムについて</strong></p>
+<ul>
+    <li>2学期から、電子連絡帳システムを導入し、家庭との連絡や各種お知らせの配布等もスマートフォン等を通じて行うことができるようになるため、登校しない場合の連絡もよりスムーズになります。 </li>
+</ul>
+<p><strong>○マスクの着用について</strong></p>
+<ul>
+    <li>学校では、原則、マスクを着用して、子ども達の安全を最優先に考え教育活動を実施しています。 </li>
+    <li>ただし、運動時など、熱中症などの健康被害が発生するリスクが高い場合は、身体的距離を確保するなどの感染対策を徹底したうえで、子ども達にマスクを外すよう指導しています。 </li>
+</ul>
+<p><strong>○修学旅行等、泊や府県間の移動を伴う行事について</strong></p>
+<ul>
+    <li>感染防止策を徹底したうえで実施します。 </li>
+</ul>
+<p><strong>○学校行事（文化祭・体育祭）について</strong></p>
+<ul>
+    <li>来場者（保護者等）も含めて感染防止対策を徹底したうえで実施します。 </li>
+</ul>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】 </p>
+<ul>
+    <li>学校教育室 </li>
+    <li>電話番号：072-724-6761 </li>
+    <li>ファクス番号：072-724-6010 </li>
+</ul>
+<h4>部活動について</h4>
+<ul>
+    <li>感染防止策を徹底しながら実施します。 </li>
+    <li>部活動前後での生徒どうしによる飲食を控えるとともに、更衣時に身体的距離を確保するよう指導します。&nbsp;&nbsp; </li>
+</ul>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】 </p>
+<ul>
+    <li>児童生徒指導室 </li>
+    <li>電話番号：072-724-6752 </li>
+    <li>ファクス番号：072-724-6010 </li>
+</ul>
+<h4>自由な遊び場開放について</h4>
+<p>感染予防に留意のうえ、実施します。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】 </p>
+<ul>
+    <li>放課後子ども支援室 </li>
+    <li>電話番号：072-724-6736 </li>
+    <li>ファクス番号：072-724-6010 </li>
+</ul>
+<h4>学童保育について</h4>
+<p>感染予防に留意のうえ、開室しています。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】&nbsp; </p>
+<ul>
+    <li>放課後子ども支援室 </li>
+    <li>電話番号：072-724-6736 </li>
+    <li>ファクス番号：072-724-6010 </li>
+</ul>
+<h3>保育園、認定こども園、幼稚園について</h3>
+<h4>公立保育園</h4>
+<p>感染予防に留意のうえ、開園しています。園庭開放については、感染予防に留意のうえ、予約制で実施しています。詳細は各園へお問い合わせください。</p>
+<h4>民間保育園</h4>
+<p>感染予防に留意のうえ、開園しています。園庭開放については、各園へお問い合わせください。</p>
+<h4>公立幼稚園</h4>
+<p>感染予防に留意のうえ、開園しています。園庭開放については、感染予防に留意のうえ、予約制で実施しています。</p>
+<p>詳細は各園へお問い合わせください。</p>
+<h4>認定こども園（みすず学園森町こども園・牧落幼稚園・アサンプション国際幼稚園・ひじりひがし幼稚園・箕面学園附属幼稚園・粟生幼稚園）</h4>
+<p>【保育コース】</p>
+<p>感染予防に留意のうえ、開園しています。</p>
+<p>【幼稚園コース及び幼稚園コース（預かり保育）】</p>
+<p>各園へお問い合わせください。</p>
+<h4>私立幼稚園（若葉幼稚園・箕面桜ヶ丘幼稚園）</h4>
+<p>【児童（教育）及び児童（預かり保育）】</p>
+<p>各園へお問い合わせください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>子ども総合窓口 </li>
+    <li>電話番号：072-724-6791 </li>
+    <li>ファクス番号：072-721-9907 </li>
+</ul>
+<h2><a id="koukyou">&nbsp;</a>公共施設の利用情報<br />
+</h2>
+<h4>大阪府の方針を踏まえて、一部利用に制限をかけています。</h4>
+<ul>
+    <li>公共施設などの利用に際しては、感染防止対策を実施し、「COCOA」や「大阪コロナ追跡システム」を登録のうえ、感染予防の観点から人と人との十分な間隔（できるだけ2mを目安）を確保するなどして利用してください。 </li>
+    <li>主催者(利用者)は、業種別ガイドラインの遵守を徹底してください。特に感染リスクの高いもの（演奏や合奏、演劇などの練習で、発声したり、息を強く吐き出したり吸ったりする活動）については、受付時に、業種別ガイドラインに記載している項目について実践するよう、チェックシートを用いて確認してください。&nbsp;&nbsp; </li>
+    <li>西南生涯学習センターは、新型コロナワクチン集団接種実施のため、利用休止しています。また、東生涯学習センター及び船場生涯学習センターも一部の部屋を休止しています。 </li>
+    <li>各公共施設の利用貸し出しなどの詳細については、各施設へお問い合わせください。 </li>
+</ul>
+<h2><a id="event">市主催のイベントの開催・中止・延期情報</a></h2>
+<p>イベント情報は<a tabindex="585" href="https://www.minoh.net/event.php">イベントカレンダー(外部サイトへリンク)</a>からご確認いただけます。</p>
+<p>&nbsp;&nbsp;</p>
+<p>上記に掲載のイベントなどの開催予定は、今後、変更となる場合がありますので、ご了承ください。</p>
+<p>※詳しい情報を確認されたいかたは、各イベントの問い合わせ先にご連絡ください。</p>
+<p>&nbsp;</p>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>市民安全政策室 </li>
+    <li>電話番号：072-724-5000 </li>
+    <li>ファクス番号：072-724-6376 </li>
+</ul>
+<h2><a id="sonota">&nbsp;</a>その他</h2>
+<h3>業種別の感染拡大防止ガイドライン・取組み事例について</h3>
+<p>新型コロナウイルス感染防止のため、各関係団体や大阪府などにおいて、業種や施設の種別ごとにガイドラインを策定し、また、感染拡大防止の参考として、事業者などが実際に行っている新型コロナウイルス対策の取組み事例を掲載しています。</p>
+<p>ガイドラインや事業者などの取組み事例について詳しくは、<a href="http://www.pref.osaka.lg.jp/kikaku/kansenboushi/index.html">大阪府のホームページ( 外部サイトへリンク )</a>をご覧ください。&nbsp;</p>
+<h3>郵送での転出届について</h3>
+<div>
+<p>お引越しの手続きなど窓口には多くのかたが来庁するため、新型コロナウイルス感染症の拡大防止の観点から、転出届は郵送による手続きをご利用ください。</p>
+<p>なお、転入届は本人確認が必要ですので、市役所まで来ていただくことになります。</p>
+<p>通常、転入届は引越しした日から14日以内に届出が必要ですが、新型コロナウイルス感染症予防のため繁忙期の市役所への来庁を避けたことにより届出期間を経過してしまった場合については、通常の届出期間内の届出と同様の取り扱いを行います。</p>
+<p>詳しくは、<a href="https://www.city.minoh.lg.jp/koseki/hikosi.html">郵送による転出届について（お願い）</a>のページをご覧ください。</p>
+<p>&nbsp;</p>
+</div>
+<p>【お問い合わせ先】</p>
+<ul>
+    <li>戸籍住民異動室 </li>
+    <li>電話番号：072-724-6725 </li>
+    <li>ファクス番号：072-724-0853 </li>
+</ul>
+<h2><a id="information">ホームページ以外でも緊急情報を発信しています</a></h2>
+<ul>
+    <li><a href="http://www.minoh.net/netradio/">タッキー816（FMラジオ81.6MHz）(外部サイトへリンク)</a> で、最新情報を定期的に放送しています。 </li>
+</ul>
+<p><span class="space_lft1">月曜日から金曜日：午前9時40分、正午、午後5時20分</span></p>
+<p><span class="space_lft1">土曜日：午前11時50分、午後4時</span></p>
+<p><span class="space_lft1">日曜日：午前10時、午後0時55分</span></p>
+<ul>
+    <li><a href="http://anzen.minoh.net/pc.html">市民安全メール(外部サイトへリンク)</a> </li>
+    <li><a target="_blank" href="https://www.city.minoh.lg.jp/bousai/anzen/siminanzenmail/anzenline.html">市民安全LINE（ID:minohcity）</a> </li>
+    <li><a href="https://twitter.com/Minoh_Anzen">市民安全Twitter（&#64;Minoh_Anzen）(外部サイトへリンク)</a> </li>
+    <li><a href="https://www.city.minoh.lg.jp/seibi/app.html">無料スマホアプリ「箕面くらしナビ」</a> </li>
+</ul>
+<p>&nbsp;</p>
+<p><br />
+</p>
+<h2>最新情報（みのおドットネット）</h2>
+<script type="text/javascript" src="/shared/system/js/emergency/exec.js">&nbsp;</script>
+<div id="alert_area">&nbsp;</div>
+<script language="JavaScript1.2">
+<!--
+var alert_area = new loadDisasterAlert();
+//-->
+</script>
+<p>情報は<a href="http://www.minoh.net/saigai/pc.php" target="_blank">みのおドットネット</a>でもご覧いただけます。</p>
+
+
+
+
+
+</div>
+<div class="plugin">
+<p class="plugin_img"><a href="https://get.adobe.com/jp/reader/"><img src="/shared/images/plugin/get_reader.png" alt="Adobe Readerのダウンロードページへ" width="158" height="39" /></a></p>
+<p>PDF形式のファイルをご覧いただく場合には、Adobe Readerが必要です。Adobe Readerをお持ちでない方は、バナーのリンク先から無料ダウンロードしてください。</p>
+</div>
+<div id="tmp_inquiry">
+<div id="tmp_inquiry_ttl">
+<h2>お問い合わせ</h2>
+</div>
+<div id="tmp_inquiry_cnt">
+<form method="post" action="https://www.city.minoh.lg.jp/cgi-bin/simple_faq/form.cgi">
+<div class="inquiry_parts">
+<p>所属課室：総務部市民安全政策室　</p>
+<p>箕面市西小路4‐6‐1</p>
+<p>電話番号：072-724-6750</p>
+<p>ファックス番号：072-724-6376</p>
+<p><input type="submit" value="お問い合わせフォーム" class="inquiry_btn" /></p>
+</div>
+<p>
+<input type="hidden" name="code" value="900010010" />
+<input type="hidden" name="dept" value="9504:9172:9670:8259:8010:9089:5271:9006:8010:9255:8923:8342:3777:8176:8674:9587:10002:3777:9006:8674:9089:9172:8591:3777:8923:8508:3777:8757:9255" />
+<input type="hidden" name="page" value="/bousai/20200228.html" />
+<input type="hidden" name="ENQ_RETURN_MAIL_SEND_FLG" value="1" />
+<input type="hidden" name="publish_ssl_flg" value="1" />
+</p>
+</form>
+<div class="inquiry_memo">
+<p>新型コロナウイルスに関するお問い合わせは、箕面市新型コロナウイルス対策本部までお願いします。<br />・電話番号：072-724-5000（平日午前9時から午後5時まで）<br />・ファクス番号：072-724-6376（聴覚障害者用ファクス番号：072-727-3539）</p>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="wrap_col_rgt_navi">
+<div class="col_rgt_navi">
+
+<div id="tmp_cnavi">
+<p><a href="/brand/index.html"><img alt="Ready to move? 箕面に住む？" width="322" height="72" src="/shared/rn/images/navi/rnavi_001.gif" /></a></p>
+<p><a href="/kids/index.html"><img alt="妊娠から育児、学校のことまで ぜんぶわかるみのお子育て情報" width="322" height="72" src="/shared/rn/images/navi/rnavi_002.gif" /></a></p>
+</div>
+<div id="tmp_cnavi2">
+<p><a href="http://minohkankou.net/"><img alt="見どころいっぱい 楽しみ方いろいろ ぷらっと 箕面さんぽ" width="320" height="70" src="/shared/rn/images/navi/rnavi_003.jpg" /></a></p>
+<p><a href="http://www.minoh.net/"><img alt="箕面の情報を「イマだけ、ココだけ、あなただけに！」 みのおどっとネット" width="320" height="70" src="/shared/rn/images/navi/rnavi_004.jpg" /></a></p>
+</div>
+
+
+<div id="tmp_lnavi">
+<div id="tmp_lnavi_ttl">
+<p><a href="/kurashi/kenkou/index.html">健康・医療</a></p>
+</div>
+<div id="tmp_lnavi_cnt">
+<ul>
+<li><a href="/kenkou/covid19vaccine/shomeisho.html">新型コロナワクチン予防接種済証明書について</a></li>
+<li><a href="/kenkou/infuru-tirashi/infuru.html">令和3年度(2021年度)高齢者インフルエンザ予防接種(定期接種)について</a></li>
+<li><a href="/kenkou/kouza/karadasika.html">令和3年度　からだの健康セミナー歯科</a></li>
+<li><a href="/sports/0100dance_project.html">0100 DANCE（ゼロヒャクダンス）プロジェクト</a></li>
+<li><a href="/kenkou/c19v/line.html">新型コロナワクチン予約システム（LINE版）操作説明</a></li>
+<li><a href="/kenkou/c19v/web.html">新型コロナワクチン予約システム（Web版）操作説明</a></li>
+<li><a href="/kenkou/c19v/seinan.html">新型コロナワクチン集団接種会場（西南生涯学習センター）</a></li>
+<li><a href="/kenkou/c19v/higashi.html">新型コロナワクチン集団接種会場（東生涯学習センター）</a></li>
+<li><a href="/kenkou/c19v/lifeplaza.html">新型コロナワクチン集団接種会場（総合保健福祉センター）</a></li>
+<li><a href="/kenkou/covid19vaccine/index.html">新型コロナワクチンの接種について</a></li>
+<li><a href="/kenkou/c19v/index.html">新型コロナワクチン接種の予約について</a></li>
+<li><a href="/kenkou/h31kourei_haiennkyuukinn/r3_kourei_haikuy.html">令和3年度(2021年度)高齢者の肺炎球菌予防接種（定期接種）について</a></li>
+<li><a href="/kenkou/ge-toki-pa-.html">ゲートキーパー養成講座</a></li>
+<li><a href="/kenkou/karadanokenkousemina.html">令和3年度からだの健康セミナー</a></li>
+<li><a href="/kenkou/judoukitsuentaisaku.html">受動喫煙対策</a></li>
+<li><a href="/kenkou/kinen.html">禁煙支援</a></li>
+<li><a href="/bousai/20200228.html">新型コロナウイルスに関する緊急情報</a></li>
+<li><a href="/kenkou/harunokodomofes2020.html">春のこどもフェスティバルin箕面について</a></li>
+<li><a href="/kenkou/judoukituenhojokin.html">事業所のみなさまへ</a></li>
+<li><a href="/kenkou/kenkatu_ten.html">健活10（ケンカツテン）</a></li>
+<li><a href="/kenkou/asumairu.html">おおさか健活マイレージ「アスマイル」</a></li>
+<li><a href="/kenkou/fuusinnyobousessyujosei.html">令和3年度風しんの抗体検査および予防接種の助成について</a></li>
+<li><a href="/sports/walkingmap.html">箕面市ウォーキング・ジョギングMAP～マップを活用してウォーキング・ジョギングをしよう！～</a></li>
+<li><a href="/kenkou/kansensyouyobou.html">海外渡航前に予防接種を受けてください</a></li>
+<li><a href="/kenkou/zyouhousyuuti/ibennto.html">健康関連イベントなどの情報</a></li>
+<li><a href="/kenkou/tabako.html">たばこと健康</a></li>
+<li><a href="/kenkou/masinnityuui.html">麻しん（はしか）に注意してください！</a></li>
+<li><a href="/kenkou/sika.html">箕面市民歯科健診</a></li>
+<li><a href="/sukoyaka/kodomoyobousessyu.html">子どもの予防接種</a></li>
+<li><a href="/kenkou/kenkoutecho.html">健康手帳、お薬手帳</a></li>
+<li><a href="/kenkou/kaori/hairyo.html">アレルギー疾患について</a></li>
+<li><a href="/kenkou/kabaikaikannsennsyou.html">デング熱など、蚊による感染症にご注意ください</a></li>
+<li><a href="/kenkou/kenkousports.html">ラジオ体操・滝道週末ウォーキングをはじめよう！</a></li>
+<li><a href="/kenkou/madanikansenshou.html">マダニによる感染症に対する注意喚起について</a></li>
+<li><a href="/kenkou/kokoro.html">こころの健康</a></li>
+<li><a href="/kenkou/nettyuusyo/nettyuusyo.html">熱中症にご注意ください！</a></li>
+<li><a href="/kenkou/kenkousoudan-houmon.html">健康に関する相談</a></li>
+<li><a href="/kurashi/kenkou/shikkan/index.html">インフルエンザ</a></li>
+<li><a href="/kurashi/kenkou/shinsa/index.html">健康診断（がん検診・生活習慣病健診）</a></li>
+<li><a href="/kurashi/kenkou/josei/index.html">医療費助成</a></li>
+<li><a href="/lifeplaza/kenketu.html">献血にご協力を</a></li>
+<li><a href="/kurashi/kenkou/keikaku/index.html">健康計画</a></li>
+<li><a href="/lifeplaza/kasikan/kasikan.html">総合保健福祉センター貸館のご案内</a></li>
+<li><a href="/kenkou/houmonsika.html">在宅訪問歯科健診</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="tmp_footer">
+<div id="tmp_fnavi">
+<div class="container"><a id="btn_to_top" href="#tmp_header">このページの先頭へ戻る</a>
+<div class="how_to_get"><a href="/shisei/access/index.html">市役所への行き方</a> </div>
+<ul class="fnavi_connect">
+    <li><a href="/about.html">このサイトの使い方・考え方</a> </li>
+    <li><a href="/about_site/privacy.html">個人情報保護</a> </li>
+    <li><a href="/rss.html">RSS配信について</a> </li>
+    <li><a href="/jigyou/kengen/jyouhou2/jyouhounotice.html">メールアドレスに関する注意事項</a> </li>
+</ul>
+<div class="ftrain"><span class="ftrain_road"><span class="ftrain_move">&nbsp;</span></span></div>
+</div>
+</div>
+<div id="tmp_footer_cnt">
+<div class="container">
+<p class="tmp_title_address">箕面市役所</p>
+<address>
+<p class="tmp_address"><span>法人番号：1000020272205</span></p>
+<p class="tmp_address">〒562-0003大阪府箕面市西小路4丁目6番1号　<span>電話：072-723-2121（代表）</span></p>
+<p class="tmp_address">業務時間：午前8時45分から午後5時15分<span>（祝日、休日、12月29日から1月3日を除く月曜日から</span><span>金曜日・一部窓口は土曜日も開庁）</span></p>
+</address>
+</div>
+</div>
+<div id="tmp_footer_copy">
+<p id="tmp_copyright" lang="en" xml:lang="en">copyright <span>&copy;</span> Minoh City. All rights reserved.</p>
+</div>
+</div>
+
+</div>
+<script type="text/javascript" src="/shared/rn/js/setting_responsive.js"></script> 
+<script type="text/javascript" src="/shared/rn/js/setting_onload.js"></script>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'ja', includedLanguages: 'en,ja,ko,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+}
+</script>
+</body>
+</html>

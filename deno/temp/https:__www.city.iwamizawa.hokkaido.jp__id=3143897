@@ -1,0 +1,1137 @@
+
+
+
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">-->
+<!DOCTYPE html>
+
+<html prefix="og: http://ogp.me/ns#" lang="ja" class="font-m">
+<head>
+<script src="//msta.j-server.com/MSTA/LUC2IWAMI/js/msta.js" defer ></script>
+<meta charset="UTF-8">
+<meta name="format-detection" content="telephone=no"/>
+<meta name="copyright" content="Copyright Iwamizawa City All Rights Reserved.">
+<meta name="keywords" content="岩見沢市">
+<meta name="description" content="岩見沢市ホームページ">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.city.iwamizawa.hokkaido.jp/?id=3143897">
+<meta property="og:title"  content="岩見沢市ホームページ" />
+<meta property="og:image"  content="http://www.city.iwamizawa.hokkaido.jp/common/img/iwamizawa_og_picture.png" />
+<meta name="format-detection" content="telephone=no">
+
+<!-- 互換表示グレーアウト -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<script type="text/javascript"  src="/common/js/respond.min.js?202111037065"  defer></script>
+<link rel="stylesheet" media="screen" href="/common/css/style.css?202111037065">
+<link rel="stylesheet" media="screen and (max-width: 990px)" type="text/css" href="/common/css/smart.css?202111037065">
+<link rel="stylesheet" media="screen and (max-width: 990px)" type="text/css" href="/common/css/menu_tabs_smp.css?202111037065">
+<link rel="stylesheet" media="screen and (max-width: 990px)" type="text/css" href="/common/css/index_contents_smp.css?202111037065" />
+<link rel="stylesheet" href="/common/css/print.css?202111037065" type="text/css" media="print" />
+<link rel="stylesheet" href="/common/css/showcase.css?202111037065">
+<link rel="stylesheet" type="text/css" href="/common/css/cassette.css?202111037065">
+<link rel="stylesheet" type="text/css" href="/common/css/parts.css?202111037065">
+<link rel="stylesheet" type="text/css" href="/common/css/parts_top_side.css?202111037065">
+<link rel="stylesheet" href="/common/css/print.css?202111037065" type="text/css" media="print" />
+<link rel="stylesheet" type="text/css" href="/common/css/color.css?202111037065">
+<link rel="stylesheet" type="text/css" href="/common/js/slimmenu/slimmenu.css?202111037065">
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css?202111037065" rel="stylesheet">
+
+<script async="" src="//cse.google.com/adsense/search/async-ads.js?202111037065"></script>
+<script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=014342315340464774476:yjlfrafjmem"></script>
+<script type="text/javascript" async="" src="https://www.google-analytics.com/ga.js?202111037065"></script>
+<script type="text/javascript" src="/common/js/jquery-1.8.3.min.js?202111037065"></script>
+<script type="text/javascript" src="/common/js/jquery.corner.js?202111037065"></script>
+<script type="text/javascript"  src="/common/js/main.js?202111037065"></script>
+<script type="text/javascript"  src="/common/js/jquery.aw-showcase.js?202111037065"></script>
+<script type="text/javascript"  src="/common/js/jquery-ui-1.10.3.custom.min.js?202111037065"  defer></script>
+<script type="text/javascript"  src="/common/js/common.js?202111037065"></script>
+<script type="text/javascript"  src="/common/js/detail.js?202111037065"></script>
+<script type="text/javascript" src="/common/js/cassette-gallery.js?202111037065"></script>
+<script type="text/javascript" src="/common/js/slimmenu/jquery.slimmenu.js?202111037065"></script>
+<script src="//f1-as.readspeaker.com/script/3/webReader/webReader.js?pids=wr&amp;forceAdapter=ioshtml5&amp;disable=translation,lookup" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $(window).bind("load", function(){
+        if(document.URL.match(/\?id|\?content/)) {
+            //記事の場合はスマートフォン用メニューの初期値は閉じる
+          $.getScript("/common/js/sp.js", function(){});
+        }else{
+          //トップページの場合はスマートフォン用メニューの初期値は開く
+          $.getScript("/common/js/sp_top.js", function(){});
+            }
+    });
+</script>
+<title>岩見沢市ホームページ</title>
+<script type="text/javascript"  src="/common/js/opacity-rollover2.1.js?202111037065"></script>
+<script type="text/javascript">
+     var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-23207881-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function(){
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<link type="text/css" href="https://www.google.com/cse/static/style/look/v2/default.css?202111037065" rel="stylesheet">
+<link type="text/css" href="/common/css/slick.css?202111037065" rel="stylesheet">
+<link type="text/css" href="/common/css/index.css?202111037065" rel="stylesheet">
+
+<script type="text/javascript" src="/common/js/jquery.cookie.js?202111037065"></script>
+<script type="text/javascript" src="/common/js/fontsize.js?202111037065"></script>
+<script type="text/javascript" src="/common/js/color.js?202111037065"></script>
+<script type="text/javascript" src="/common/js/slick.js?202111037065"></script>
+<script type="text/javascript" src="/common/js/index.js?202111037065"></script>
+</head>
+<body id="main_body">
+
+<header>
+<!-- 本文へスキップボタン(ギャラリー用) -->
+<!-- 目次ページ、個別記事用 -->
+<div id="blockSkip">
+  <ul>
+    <li><a href="#article_title" tabIndex="1" title="本文へスキップするボタン" class="skipContent_article">本文へスキップ</a></li>
+  </ul>
+</div>
+<!-- 本文へスキップボタン end -->
+<input id="switch" value="2" type="hidden">
+  <div class="lock">
+    <div id="header-area">
+        <ul class="list nav_sns">
+          <li class="reload"> <a id="tabIndex1" href="/content/detail/1500657/" tabIndex="3003">Facebook</a> </li>
+          <li> <a id="tabIndex2" href="/content/detail/3158632/" tabIndex="3004">Twitter</a> </li>
+          <li> <a id="tabIndex3" href="/content/sitemap/" tabIndex="3005">サイトマップ</a> </li>
+          <li> <a id="tabIndex4" href="/content/detail/3110647/" tabIndex="3006">利用方法</a> </li>
+        </ul>
+
+      <div class="header-inner">
+        <dl class="letter_size">
+          <dt>文字サイズ</dt>
+          <dd id="font-m"><a href="#" title="default" tabIndex="3007">標準</a></dd>
+          <dd id="font-l"><a href="#" title="large" tabIndex="3007">拡大</a></dd>
+        </dl>
+        <ul id="msta_langArea">
+          <li id="msta_lang_ja"><a id="tabIndex5" href="#" tabIndex="3007">日本語</a></li>
+          <li>|</li>
+          <li id="msta_lang_en"><a id="tabIndex6" href="#" tabIndex="3007" lang="en">English</a></li>
+          <li>|</li>
+          <li id="msta_lang_zh"><a id="tabIndex7" href="#" tabIndex="3007" lang="zh-cmn-Hans">简体中文 </a></li>
+          <li>|</li>
+          <li id="msta_lang_tw"><a id="tabIndex8" href="#" tabIndex="3007" lang="zh-cmn-Hant">繁體中文</a></li>
+          <li>|</li>
+          <li id="msta_lang_ko"><a id="tabIndex9" href="#" tabIndex="3007" lang="ko">한국어</a></li>
+          <li>|</li>
+          <li id="msta_lang_vi"><a id="tabIndex10" href="#" tabIndex="3007" lang="vi">Việt</a></li>
+        </ul>
+        <dl class="read_btn">
+          <dt>音声読み上げ</dt>
+          <dd id="autoRead"><a id="tabIndex11" href="#" title="default" tabIndex="3007">読み上げ</a></dd>
+        </dl>
+
+        <dl class="color_btn">
+          <dt>背景色</dt>
+          <dd class="color-white"><a href="#" title="default" tabIndex="3008">白</a></dd>
+          <dd class="color-blue"><a href="#" title="large" tabIndex="3008">青</a></dd>
+          <dd class="color-black"><a href="#" title="large" tabIndex="3008">黒</a></dd>
+        </dl>
+      </div>
+    </div>
+    <h1>
+      <div class="sp_none">      <a id="tabIndex13" href="/" tabIndex="3009"> <img src="/common/img/h1_main_title.png" alt="岩見沢市"> </a>
+      </div>    </h1>
+    <h2 class="h2_subttl"> <img src="/common/img/h2_sub_title.png" alt="CITY OF IWAMIZAWA" lang="en"> </h2>
+      <!-- トップページの場合、メニューボタン表示 -->
+      <div class="sp_none">      <div id="sp_menu">
+        <a id="tabIndex12" href="#" class="firstChild lastChild" title="スマートフォン用メニューボタン" tabIndex="3008"> <span class="firstChild empty"></span> <span class="empty"></span> <span class="lastChild empty"></span> <p>メニュー</p> </a>
+      </div>
+      </div>    <div class="main_menu">
+      <div class="main_menu_inner clearfix">
+        <div class="sp_none">        <div class="header_menu_set">
+          <div class="moduletable">
+            <div class="header_text main_menu_inner_left" id="header_category">
+              カテゴリ
+            </div>
+            <div class="custom">
+              <ul id="menu" class="list menu_linkbox clearfix slimMenu">
+                <li id="citizen" class="main_menu_box"> <a id="tabIndex14" href="/content/citizen/" tabIndex="3010" class="lv1" lv="1" first="1"><span class="title">暮らす</span></a>
+                <ul class='lv2' lv='2' ><li last='0'><a href='/content/citizen/15/' tabIndex='3010' class='lv2' lv='2'  last='0' first='1'  >戸籍・住民票・各種証明書</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/1500526/' tabIndex='3010' class='lv3' lv='3'  last='0' first='1'  >戸籍・住民票等</a></li><li last='0'><a href='/content/detail/3105717/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >マイナンバー</a></li><li last='1'><a href='/content/detail/1500471/' tabIndex='3010' class='lv3' lv='3'  last='1' first='0'  >印鑑証明・登録各種証明書</a></li></ul></li><li last='0'><a href='/content/citizen/16/' tabIndex='3010' class='lv2' lv='2'  last='0' first='0'  >税金・保険・年金</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600000/' tabIndex='3010' class='lv3' lv='3'  last='0' first='1'  >税金</a></li><li last='0'><a href='/content/detail/1500198/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >国民健康保険</a></li><li last='0'><a href='/content/detail/1500224/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >介護保険</a></li><li last='1'><a href='/content/detail/1500521/' tabIndex='3010' class='lv3' lv='3'  last='1' first='0'  >国民年金</a></li></ul></li><li last='0'><a href='/content/citizen/17/' tabIndex='3010' class='lv2' lv='2'  last='0' first='0'  >衛生</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600001/' tabIndex='3010' class='lv3' lv='3'  last='0' first='1'  >環境・ごみ</a></li><li last='0'><a href='/content/detail/2000137/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >犬・猫を飼うときは</a></li><li last='1'><a href='/content/detail/2600003/' tabIndex='3010' class='lv3' lv='3'  last='1' first='0'  >霊園・墓地、火葬場</a></li></ul></li><li last='0'><a href='/content/citizen/18/' tabIndex='3010' class='lv2' lv='2'  last='0' first='0'  >住まい・上下水道</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600004/' tabIndex='3010' class='lv3' lv='3'  last='0' first='1'  >住宅</a></li><li last='0'><a href='/content/detail/1500315/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >土地</a></li><li last='1'><a href='/content/detail/2600005/' tabIndex='3010' class='lv3' lv='3'  last='1' first='0'  >水道・下水道</a></li></ul></li><li last='0'><a href='/content/citizen/19/' tabIndex='3010' class='lv2' lv='2'  last='0' first='0'  >道路・都市計画・除雪</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600006/' tabIndex='3010' class='lv3' lv='3'  last='0' first='1'  >道路・橋梁</a></li><li last='0'><a href='/content/detail/2600007/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >都市計画</a></li><li last='1'><a href='/content/detail/2600008/' tabIndex='3010' class='lv3' lv='3'  last='1' first='0'  >冬の暮らし</a></li></ul></li><li last='0'><a href='/content/citizen/20/' tabIndex='3010' class='lv2' lv='2'  last='0' first='0'  >安全・安心</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600009/' tabIndex='3010' class='lv3' lv='3'  last='0' first='1'  >防災・消防</a></li><li last='0'><a href='/content/detail/2600010/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >交通・防犯</a></li><li last='0'><a href='/content/detail/1500531/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >各種相談窓口</a></li><li last='0'><a href='/content/detail/1500438/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >消費生活</a></li><li last='1'><a href='/content/detail/3113417/' tabIndex='3010' class='lv3' lv='3'  last='1' first='0'  >空家等対策</a></li></ul></li><li last='0'><a href='/content/citizen/21/' tabIndex='3010' class='lv2' lv='2'  last='0' first='0'  >市民活動・国際交流</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600011/' tabIndex='3010' class='lv3' lv='3'  last='0' first='1'  >まちづくり</a></li><li last='1'><a href='/content/detail/2600012/' tabIndex='3010' class='lv3' lv='3'  last='1' first='0'  >国際交流</a></li></ul></li><li last='0'><a href='/content/citizen/22/' tabIndex='3010' class='lv2' lv='2'  last='0' first='0'  >子育て・教育</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/3155127/' tabIndex='3010' class='lv3' lv='3'  last='0' first='1'  >子ども・子育て</a></li><li last='0'><a href='/content/detail/2600014/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >学校教育情報</a></li><li last='0'><a href='/content/detail/2600015/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >学校給食</a></li><li last='0'><a href='/content/detail/2600016/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >各種申請・手続き</a></li><li last='0'><a href='/content/detail/2600017/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >表彰・教育長表敬訪問</a></li><li last='0'><a href='/content/detail/2600018/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >教育委員会の組織・施策</a></li><li last='1'><a href='/content/detail/2600019/' tabIndex='3010' class='lv3' lv='3'  last='1' first='0'  >案内その他</a></li></ul></li><li last='0'><a href='/content/citizen/23/' tabIndex='3010' class='lv2' lv='2'  last='0' first='0'  >医療・福祉</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/3100143/' tabIndex='3010' class='lv3' lv='3'  last='0' first='1'  >地域福祉</a></li><li last='0'><a href='/content/detail/2600020/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >健康・医療</a></li><li last='0'><a href='/content/detail/1500210/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >高齢者福祉</a></li><li last='0'><a href='/content/detail/1500241/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >障がい者福祉</a></li><li last='0'><a href='/content/detail/2600043/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >生活保護・生活困窮者</a></li><li last='1'><a href='/content/detail/2600021/' tabIndex='3010' class='lv3' lv='3'  last='1' first='0'  >社会福祉法人</a></li></ul></li><li last='1'><a href='/content/citizen/24/' tabIndex='3010' class='lv2' lv='2'  last='1' first='0'  >生涯学習・芸術・文化・スポーツ</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600022/' tabIndex='3010' class='lv3' lv='3'  last='0' first='1'  >生涯学習</a></li><li last='0'><a href='/content/detail/2600023/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >芸術</a></li><li last='0'><a href='/content/detail/2600024/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >文化</a></li><li last='0'><a href='/content/detail/2600025/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >スポーツ</a></li><li last='0'><a href='/content/detail/1506247/' tabIndex='3010' class='lv3' lv='3'  last='0' first='0'  >郷土科学館</a></li><li last='1'><a href='/content/detail/2600026/' tabIndex='3010' class='lv3' lv='3'  last='1' first='0'  >市立図書館</a></li></ul></li></ul>                </li>
+                <li id="business" class="main_menu_box"> <a id="tabIndex15" href="/content/business/" tabIndex="3011" class="lv1" lv="1" first="0"><span class="title">働く</span></a>
+                <ul class='lv2' lv='2' ><li last='0'><a href='/content/business/25/' tabIndex='3011' class='lv2' lv='2'  last='0' first='1'  >産業</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600027/' tabIndex='3011' class='lv3' lv='3'  last='0' first='1'  >商業・工業</a></li><li last='1'><a href='/content/detail/2600028/' tabIndex='3011' class='lv3' lv='3'  last='1' first='0'  >農業・林業</a></li></ul></li><li last='0'><a href='/content/business/26/' tabIndex='3011' class='lv2' lv='2'  last='0' first='0'  >雇用・労働</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600029/' tabIndex='3011' class='lv3' lv='3'  last='0' first='1'  >勤労者・事業者</a></li><li last='1'><a href='/content/detail/2600030/' tabIndex='3011' class='lv3' lv='3'  last='1' first='0'  >職員の募集</a></li></ul></li><li last='1'><a href='/content/detail/1508214/' tabIndex='3011' class='lv2' lv='2'  last='1' first='0'  >入札・契約</a></li></ul>                </li>
+                <li id="visit" class="main_menu_box"> <a id="tabIndex16" href="/content/visit/" tabIndex="3012" class="lv1" lv="1" first="0"><span class="title">訪れる</span></a>
+                <ul class='lv2' lv='2' ><li last='0'><a href='/content/visit/28/' tabIndex='3012' class='lv2' lv='2'  last='0' first='1'  >観る・遊ぶ・食べる</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600031/' tabIndex='3012' class='lv3' lv='3'  last='0' first='1'  >観光情報</a></li><li last='1'><a href='/content/detail/2600032/' tabIndex='3012' class='lv3' lv='3'  last='1' first='0'  >観光施策</a></li></ul></li><li last='0'><a href='/content/visit/29/' tabIndex='3012' class='lv2' lv='2'  last='0' first='0'  >住みたい・試したい</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600033/' tabIndex='3012' class='lv3' lv='3'  last='0' first='1'  >移住・定住</a></li><li last='1'><a href='/content/detail/2600034/' tabIndex='3012' class='lv3' lv='3'  last='1' first='0'  >地域おこし推進事業</a></li></ul></li><li last='1'><a href='/content/detail/1500655/' tabIndex='3012' class='lv2' lv='2'  last='1' first='0'  >いわみざわ動画サイト</a></li></ul>                </li>
+                <li id="facility" class="main_menu_box last"><a id="tabIndex17" href="/content/facility/" tabIndex="3013" class="lv1 .back_menu_top" lv="1" first="0"><span class="title">施設ガイド</span></a>
+                                </li>
+                <li id="information" class="main_menu_box main_menu_second_row"><a id="tabIndex18" href="/content/information/" tabIndex="3014" lv="1" first="0"><span class="title">市政情報</span></a>
+                <ul class='lv2' lv='2' ><li last='0'><a href='/content/information/30/' tabIndex='3014' class='lv2' lv='2'  last='0' first='1'  >岩見沢市の紹介</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600035/' tabIndex='3014' class='lv3' lv='3'  last='0' first='1'  >岩見沢市の概要</a></li><li last='0'><a href='/content/detail/2600036/' tabIndex='3014' class='lv3' lv='3'  last='0' first='0'  >市長の部屋</a></li><li last='1'><a href='/content/detail/2600037/' tabIndex='3014' class='lv3' lv='3'  last='1' first='0'  >岩見沢市の組織</a></li></ul></li><li last='0'><a href='/content/information/31/' tabIndex='3014' class='lv2' lv='2'  last='0' first='0'  >市の制度など</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/2600038/' tabIndex='3014' class='lv3' lv='3'  last='0' first='1'  >計画・取組・行政改革</a></li><li last='0'><a href='/content/detail/1500042/' tabIndex='3014' class='lv3' lv='3'  last='0' first='0'  >条例・規則</a></li><li last='0'><a href='/content/detail/2600040/' tabIndex='3014' class='lv3' lv='3'  last='0' first='0'  >行政手続・行政不服審査制度</a></li><li last='1'><a href='/content/detail/2600041/' tabIndex='3014' class='lv3' lv='3'  last='1' first='0'  >情報公開・個人情報保護</a></li></ul></li><li last='1'><a href='/content/information/32/' tabIndex='3014' class='lv2' lv='2'  last='1' first='0'  >議会・監査・選挙</a><ul class='lv3' lv='3' ><li last='0'><a href='/content/detail/1509184/' tabIndex='3014' class='lv3' lv='3'  last='0' first='1'  >議会</a></li><li last='0'><a href='/content/detail/3093282/' tabIndex='3014' class='lv3' lv='3'  last='0' first='0'  >監査</a></li><li last='1'><a href='/content/detail/1500092/' tabIndex='3014' class='lv3' lv='3'  last='1' first='0'  >選挙</a></li></ul></li></ul>                </li>
+                <li id="faq" class="main_menu_box main_menu_second_row"> <a id="tabIndex19" href="/content/faq/" tabIndex="3015" class="lv1" lv="1" first="0"><span class="title">よくある質問</span></a>
+                <ul class='lv2' lv='2' ><li last='0'><a href='/content/detail/1500670/' tabIndex='3015' class='lv2' lv='2'  last='0' first='1'  >住所等の異動関係</a></li><li last='0'><a href='/content/detail/1500671/' tabIndex='3015' class='lv2' lv='2'  last='0' first='0'  >戸籍関係</a></li><li last='0'><a href='/content/detail/1500672/' tabIndex='3015' class='lv2' lv='2'  last='0' first='0'  >印鑑登録関係</a></li><li last='0'><a href='/content/detail/1500673/' tabIndex='3015' class='lv2' lv='2'  last='0' first='0'  >各種証明書関係</a></li><li last='0'><a href='/content/detail/1500674/' tabIndex='3015' class='lv2' lv='2'  last='0' first='0'  >自動車の臨時運行許可</a></li><li last='0'><a href='/content/detail/1500675/' tabIndex='3015' class='lv2' lv='2'  last='0' first='0'  >年金関係</a></li><li last='0'><a href='/content/detail/1500676/' tabIndex='3015' class='lv2' lv='2'  last='0' first='0'  >生活保護関係</a></li><li last='0'><a href='/content/detail/1500677/' tabIndex='3015' class='lv2' lv='2'  last='0' first='0'  >相談ごとについて</a></li><li last='0'><a href='/content/detail/1500678/' tabIndex='3015' class='lv2' lv='2'  last='0' first='0'  >消費生活関係</a></li><li last='0'><a href='/content/detail/1500679/' tabIndex='3015' class='lv2' lv='2'  last='0' first='0'  >町会・自治会について</a></li><li last='0'><a href='/content/detail/1500499/' tabIndex='3015' class='lv2' lv='2'  last='0' first='0'  >市税について</a></li><li last='1'><a href='/content/detail/3100140/' tabIndex='3015' class='lv2' lv='2'  last='1' first='0'  >水道・下水道のこと</a></li></ul>                </li>
+                <li id="guidebook" class="main_menu_box main_menu_second_row"> <a id="tabIndex20" href="/?id=3146472" tabIndex="3016" class="lv1" lv="1" first="0"><span class="title">ガイドブック</span></a>
+                                </li>
+                <li id="gallery" class="main_menu_box main_menu_second_row last"> <a id="tabIndex21" href="/?id=3159177" tabIndex="3017" class="lv1 .back_menu_top" lv="1" first="0"><span class="title">ギャラリー</span></a>
+                                </li>
+              </ul>
+              <div class="sp_none">
+                <div class="main_menu_ie">
+                                </div>
+              </div>
+              <div class="sp_close">
+                <p><a id="tabIndex22" href="" tabIndex="3017">× 閉じる</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>              </div>
+    </div>
+      <div class="main_menu2">
+        <div class="main_menu_inner2 clearfix">
+          <div class="header_menu_set">
+            <div class="moduletable2">
+              <div class="header_text main_menu_inner_left" id="header_kye_word">
+                キーワード
+              </div>
+              <div class="custom">
+                <div class="search_center">
+                  <div id="search1_div">
+                    <script>
+                  (function() {
+                        var cx = '014342315340464774476:yjlfrafjmem';
+                        var gcse = document.createElement('script');
+                        gcse.type = 'text/javascript';
+                        gcse.async = true;
+                        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                          '//www.google.com/cse/cse.js?cx=' + cx;
+                        var s = document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(gcse, s);
+                      })();
+                    </script>
+                    <div class="gcse-searchbox-only"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>
+      </div>
+  </div>
+
+<script type="text/javascript">
+  function switchByWidth(){
+    if (window.matchMedia('(max-width: 990px)').matches) {
+        // スマホ・タブレット（縦）用
+        var element = document.getElementById("tabIndex1");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex2");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex3");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex4");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex5");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex6");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex7");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex8");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex9");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex10");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex11");
+        element.tabIndex = 1000;
+        var element = document.getElementById("tabIndex12");
+        element.tabIndex = 1001;
+        var element = document.getElementById("tabIndex13");
+        element.tabIndex = 1002;
+        var element = document.getElementById("tabIndex14");
+        element.tabIndex = 1002;
+        var element = document.getElementById("tabIndex15");
+        element.tabIndex = 1002;
+        var element = document.getElementById("tabIndex16");
+        element.tabIndex = 1002;
+        var element = document.getElementById("tabIndex17");
+        element.tabIndex = 1002;
+        var element = document.getElementById("tabIndex18");
+        element.tabIndex = 1002;
+        var element = document.getElementById("tabIndex19");
+        element.tabIndex = 1002;
+        var element = document.getElementById("tabIndex20");
+        element.tabIndex = 1002;
+        var element = document.getElementById("tabIndex21");
+        element.tabIndex = 1002;
+        var element = document.getElementById("tabIndex22");
+        element.tabIndex = 1002;
+      } else if (window.matchMedia('(min-width: 991px)').matches) {
+        // PC・タブレット（横）用
+        var element = document.getElementById("tabIndex1");
+        element.tabIndex = 3003;
+        var element = document.getElementById("tabIndex2");
+        element.tabIndex = 3004;
+        var element = document.getElementById("tabIndex3");
+        element.tabIndex = 3005;
+        var element = document.getElementById("tabIndex4");
+        element.tabIndex = 3006;
+        var element = document.getElementById("tabIndex5");
+        element.tabIndex = 3007;
+        var element = document.getElementById("tabIndex6");
+        element.tabIndex = 3007;
+        var element = document.getElementById("tabIndex7");
+        element.tabIndex = 3007;
+        var element = document.getElementById("tabIndex8");
+        element.tabIndex = 3007;
+        var element = document.getElementById("tabIndex9");
+        element.tabIndex = 3007;
+        var element = document.getElementById("tabIndex10");
+        element.tabIndex = 3007;
+        var element = document.getElementById("tabIndex11");
+        element.tabIndex = 3007;
+        var element = document.getElementById("tabIndex12");
+        element.tabIndex = 3008;
+        var element = document.getElementById("tabIndex13");
+        element.tabIndex = 3009;
+        var element = document.getElementById("tabIndex14");
+        element.tabIndex = 3010;
+        var element = document.getElementById("tabIndex15");
+        element.tabIndex = 3011;
+        var element = document.getElementById("tabIndex16");
+        element.tabIndex = 3012;
+        var element = document.getElementById("tabIndex17");
+        element.tabIndex = 3013;
+        var element = document.getElementById("tabIndex18");
+        element.tabIndex = 3014;
+        var element = document.getElementById("tabIndex19");
+        element.tabIndex = 3015;
+        var element = document.getElementById("tabIndex20");
+        element.tabIndex = 3016;
+        var element = document.getElementById("tabIndex21");
+        element.tabIndex = 3017;
+        var element = document.getElementById("tabIndex22");
+        element.tabIndex = 3017;
+    }
+  }
+  window.onload = switchByWidth;
+  window.onresize = switchByWidth;
+</script>
+
+</header>
+<!-- 緊急階層記事をトップページに表示 -->
+<!-- mod_php version 1.0.0.Alpha1-J1.5/ -->
+<h4 class="nodisp">スライダー</h4>
+<div>
+	<div class="sliderArea" style="overflow: hidden;">
+		<!-- <a class="stop" href="#" tabindex="3018">開始</a> -->
+		<div class="full-screen slider">
+						<div class="content" tabIndex="3020">
+				<a href="?id=3147217">
+				<img src="/cassette_content/content_20200528_213035.jpg" alt="緊急事態宣言の解除に伴う各施設の対応" title="緊急事態宣言の解除に伴う各施設の対応" />
+				</a>
+				<h2>緊急事態宣言の解除に伴う各施設の対応</h2>
+			</div>
+    					<div class="content" tabIndex="3020">
+				<a href="?id=3142582">
+				<img src="/cassette_content/content_20201211_114730.jpg" alt="企業応援テイクアウト・デリバリーを利用しよう！" title="企業応援テイクアウト・デリバリーを利用しよう！" />
+				</a>
+				<h2>企業応援テイクアウト・デリバリーを利用しよう！</h2>
+			</div>
+    					<div class="content" tabIndex="3020">
+				<a href="?id=3159222">
+				<img src="/cassette_content/content_20210219_170457.jpg" alt="新型コロナウイルス感染症 ワクチン接種について" title="新型コロナウイルス感染症 ワクチン接種について" />
+				</a>
+				<h2>新型コロナウイルス感染症 ワクチン接種について</h2>
+			</div>
+    					<div class="content" tabIndex="3020">
+				<a href="?id=3147232">
+				<img src="/cassette_content/content_20200528_210535.jpg" alt="緊急事態宣言の解除を受けて 市長からのメッセージ" title="緊急事態宣言の解除を受けて 市長からのメッセージ" />
+				</a>
+				<h2>緊急事態宣言の解除を受けて 市長からのメッセージ</h2>
+			</div>
+    					<div class="content" tabIndex="3020">
+				<a href="?id=3143897">
+				<img src="/cassette_content/content_20200528_215356.jpg" alt="新型コロナウイルス感染症 いろいろな支援" title="新型コロナウイルス感染症 いろいろな支援" />
+				</a>
+				<h2>新型コロナウイルス感染症 いろいろな支援</h2>
+			</div>
+    					<div class="content" tabIndex="3020">
+				<a href="?id=3160347">
+				<img src="/cassette_content/content_20210930_102005_357.jpg" alt="新型コロナウイルス感染症 感染拡大を防ごう" title="新型コロナウイルス感染症 感染拡大を防ごう" />
+				</a>
+				<h2>新型コロナウイルス感染症 感染拡大を防ごう</h2>
+			</div>
+    					<div class="content" tabIndex="3020">
+				<a href="?id=3172132">
+				<img src="/cassette_content/content_20210830_092010.jpg" alt="子育て支援のページ" title="子育て支援のページ" />
+				</a>
+				<h2>子育て支援のページ</h2>
+			</div>
+    					<div class="content" tabIndex="3020">
+				<a href="?id=3141077">
+				<img src="/cassette_content/content_20200528_212931.jpg" alt="新型コロナウイルス感染症に伴うイベントなどの中止・延期について" title="新型コロナウイルス感染症に伴うイベントなどの中止・延期について" />
+				</a>
+				<h2>新型コロナウイルス感染症に伴うイベントなどの中止・延期について</h2>
+			</div>
+    					<div class="content" tabIndex="3020">
+				<a href="?id=3141247">
+				<img src="/cassette_content/content_20200528_213302.jpg" alt="新型コロナウイルス感染症のページ" title="新型コロナウイルス感染症のページ" />
+				</a>
+				<h2>新型コロナウイルス感染症のページ</h2>
+			</div>
+    				</div>
+	</div>
+</div>
+<div class="main_menu_ie">
+  <center>左右のボタンで見たい記事を選択してください。</center>
+</div>
+<div id="warapper">
+  <div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve no-print">
+    <a href="//app-as.readspeaker.com/cgi-bin/rsent?customerid=10681&amp;lang=ja_jp&amp;readid=warapper&amp;url=" title="音声で読み上げる" rel="nofollow" class="rsbtn_play no-print" accesskey="L">
+      <span class="rsbtn_left rsimg rspart no-print"><span class="rsbtn_text no-print"><span class="no-print">読み上げる</span></span></span>
+      <span class="rsbtn_right rsimg rsplay rspart no-print"></span>
+    </a>
+  </div>
+  <div id="contents" class="clearfix">
+    <section>
+      <div class="info_area clearfix">
+        <div class="weather_box rs_skip"> <a href="http://www.agw.jp/iwamizawa/disaster/" target="blank" tabIndex="3021">
+           <span>Wed 3 Nov 8.9℃</span><img src="https://www.agw.jp/iwamizawa/disaster/yohou/img/kumori.jpg" border="0" alt="曇り 岩見沢市民気象情報、別ウィンドウで開きます" />           </a>
+        </div>
+        <div class="info_area_inn_rihgt clearfix_right">
+                              <div class="emergency_box clearfix">
+              <div class="emergency_box_title">
+                <h3 class="emg_head">緊急情報</h3>
+              </div>
+              <div class="emergency_box_text">
+                <ul>
+                                                                              <li>【新型コロナウイルス情報】</li>
+                                                                                    <li><a href="https://www.city.iwamizawa.hokkaido.jp//content/detail/3159222/" target="_blank" tabIndex="3022">ワクチン接種について</a></li>
+                                                                                    <li><a href="https://www.city.iwamizawa.hokkaido.jp//content/detail/3160347/" target="_blank" tabIndex="3022">感染拡大を防ごう！</a></li>
+                                                                                    <li><a href="https://www.city.iwamizawa.hokkaido.jp/content/detail/3139422/" target="_blank" tabIndex="3022">新型コロナウイルス感染症と予防</a></li>
+                                                                                    <li><a href="https://www.city.iwamizawa.hokkaido.jp/content/detail/3141282/" target="_blank" tabIndex="3022">こんなときは相談を</a></li>
+                                                                                    <li><a href="https://www.city.iwamizawa.hokkaido.jp/content/detail/3147342/" target="_blank" tabIndex="3022">市内での発生状況</a></li>
+                                                                                    <li><a href="https://www.city.iwamizawa.hokkaido.jp/content/detail/3140827/" target="_blank" tabIndex="3022">事業者の皆さんへ</a></li>
+                                                                        </ul>
+              </div>
+            </div>
+          <div class="iwa_weather"> <span class="arrow"></span><a href="http://www.agw.jp/iwamizawa/disaster/" target="blank" tabIndex="3022">岩見沢市の気象情報へ（別ウィンドウで開きます）</a> </div>
+        </div>
+      </div>
+    </section>
+  </div>
+<!-- スマホ閲覧時もしもの時は -->
+ <div id="qm_content" class="accordion01 is-active rs_skip">
+    <input id="menu_bar01" class="accordion" type="checkbox" checked>
+    <label class="menu_bar01" for="menu_bar01">もしもの時は</label>
+      <ul id="links01" class="side_font2">
+                <li> <a href="/content/detail/1500233/" tabIndex="3023">休日・夜間当番医</a> </li>
+                <li> <a href="/content/detail/3152092/" tabIndex="3024">避難所</a> </li>
+                <li> <a href="/content/detail/3151812/" tabIndex="3025">自分の身を守る</a> </li>
+                <li> <a href="/content/detail/3153747/" tabIndex="3026">AED設置場所</a> </li>
+
+      </ul>
+ </div>
+<!-- PC閲覧時もしもの時は -->
+  <div id="emergency_list">
+  <div id="pc_emergency_menu">
+   <div class="emergency_title">
+        <h3>もしもの時は</h3>
+   </div>
+  <div id="quick_menu" class="quick_menu emergency_menu">
+    <div class="qm_header"></div>
+      <div class="qm_body">
+        <div class="moduletable pc_cuick">
+
+          <ul class="side_font">
+                  <li> <a href="/content/detail/1500233/" tabIndex="3023">休日・夜間当番医</a> </li>
+                <li> <a href="/content/detail/3152092/" tabIndex="3024">避難所</a> </li>
+                <li> <a href="/content/detail/3151812/" tabIndex="3025">自分の身を守る</a> </li>
+                <li> <a href="/content/detail/3153747/" tabIndex="3026">AED設置場所</a> </li>
+
+          </ul>
+         </div>
+      </div>
+  </div>
+
+  </div>
+  <div id="contents2" class="clearfix">
+    <section>
+      <div class="news_tab">
+        <p class="change_elm_btn rs_preserve"><a href="#" tabIndex="3026"><span>お知らせ</span></a></p>
+        <p class="change_elm_btn rs_preserve"><a href="#" tabIndex="3029"><span>募集</span></a></p>
+        <p class="change_elm_btn rs_preserve"><a href="#" tabIndex="3032"><span>入札・契約</span></a></p>
+      </div>
+      <div class="change_elm_panel news_area rs_preserve">
+        <ul class="box_text">
+                                  <li>
+              <strong>              <span class="dt caution" >11月02日 </span>
+              <span class="dd"><a href="/content/detail/3141247/" class="caution" tabIndex="3027">新型コロナウイルス感染症のページ</a></span>
+              </strong>            </li>
+                                  <li>
+                            <span class="dt " >11月02日 </span>
+              <span class="dd"><a href="/content/detail/3162837/" class="" tabIndex="3027">【人数制限を撤廃します】岩見沢市内宿泊等割引事業支援金（通称：ザワ割）について</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " >11月01日 </span>
+              <span class="dd"><a href="/content/detail/1500069/" class="" tabIndex="3027">2021男女共同参画市民フォーラムの参加申込が始まりました</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " >11月01日 </span>
+              <span class="dd"><a href="/content/detail/3173472/" class="" tabIndex="3027">季節性インフルエンザの予防接種について</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " >11月01日 </span>
+              <span class="dd"><a href="/content/detail/3173457/" class="" tabIndex="3027">東山公園陸上競技場に円盤・ハンマー投囲いを設置しました</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " >11月01日 </span>
+              <span class="dd"><a href="/content/detail/3172687/" class="" tabIndex="3027">一般競争入札の中止について</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " >11月01日 </span>
+              <span class="dd"><a href="/content/detail/3156047/" class="" tabIndex="3027">ごみ情報紙『Think ECO』11月号を発行しました</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " >11月01日 </span>
+              <span class="dd"><a href="/content/detail/3153377/" class="" tabIndex="3027">新型コロナウイルス感染症に係る注意喚起について</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " >11月01日 </span>
+              <span class="dd"><a href="/content/detail/3173342/" class="" tabIndex="3027">「健康と生活に関する意識調査」にご協力をお願いします</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " >11月01日 </span>
+              <span class="dd"><a href="/content/detail/3173822/" class="" tabIndex="3027">衆議院議員総選挙の開票状況【確定】</a></span>
+                          </li>
+                    <li class="li_right">
+            <span class="dd readmore"><span class="arrow"></span><a href="/news/" tabIndex="3028">一覧へ</a></span>
+          </li>
+          <li  class="li_right">
+            <span class="dd"><a href="/common/rss/news.xml" tabIndex="3028"><img class="rss_img" src="/common/img/rss_icon.png" alt="お知らせRSS"></a></span>
+          </li>
+        </ul>
+      </div>
+      <div class="change_elm_panel recruit_area rs_preserve">
+        <ul class="box_text">
+                                  <li>
+                            <span class="dt " > 10月27日 </span>
+              <span class="dd"><a href="/content/detail/3173602/" class="" tabIndex="3030">いわみざわアートアカデミーを開催します</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " > 10月26日 </span>
+              <span class="dd"><a href="/content/detail/3113057/" class="" tabIndex="3030">広報クイズに応募しよう！</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " > 10月21日 </span>
+              <span class="dd"><a href="/content/detail/3173492/" class="" tabIndex="3030">「岩見沢市立栗沢病院給食業務」公募型プロポーザルを実施します</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " > 10月19日 </span>
+              <span class="dd"><a href="/content/detail/3136972/" class="" tabIndex="3030">会計年度任用職員を募集します</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " > 10月04日 </span>
+              <span class="dd"><a href="/content/detail/3172057/" class="" tabIndex="3030">令和4年度岩見沢市内認可保育所等入所児童を募集します</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " > 06月25日 </span>
+              <span class="dd"><a href="/content/detail/3096905/" class="" tabIndex="3030">創業塾の参加者を募集します</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " > 04月30日 </span>
+              <span class="dd"><a href="/content/detail/3162642/" class="" tabIndex="3030">令和3年度岩見沢市子どもの体験活動事業補助金を募集します</a></span>
+                          </li>
+                                  <li>
+                            <span class="dt " > 03月01日 </span>
+              <span class="dd"><a href="/content/detail/3158852/" class="" tabIndex="3030">令和3年度 留守家庭児童（放課後児童クラブ）の募集について</a></span>
+                          </li>
+                    <li class="li_right">
+            <span class="dd readmore"><span class="arrow"></span><a href="/arrival/" tabIndex="3031">一覧へ</a></span>
+          </li>
+          <li class="li_right">
+            <span class="dd"><a href="/common/rss/recruit.xml" tabIndex="3031"><img class="rss_img" src="/common/img/rss_icon.png" alt="募集RSS"></a></span>
+          </li>
+        </ul>
+      </div>
+      <div class="change_elm_panel change_elm_panel_bid bid_area rs_preserve">
+        <ul class="box_text">
+          <li>契約検査管理課からの入札・契約に関する新着情報</li>
+                      <li >
+                            <span class="dd"><a href="/content/detail/3152432/" tabIndex="3033">・令和3年度岩見沢市建設工事発注見通し（見直し後）の公表について（令和3年10月1日現在）</a></span>
+            </li>
+                      <li >
+                            <span class="dd"><a href="/content/detail/3172752/" tabIndex="3033">・入札・契約に関する書類の押印見直しについて(令和3年10月1日)</a></span>
+            </li>
+                      <li >
+                            <span class="dd"><a href="/content/detail/1508219/" tabIndex="3033">・一般競争入札の公告を掲載しました（令和3年10月19日）</a></span>
+            </li>
+                      <li  class="icon_pdf">
+                            <span class="dd"><a href="/cassette_content/content_20210408_145146.pdf" tabIndex="3033">建設工事における前払金使途拡大の継続について (PDF:74KB)</a></span>
+            </li>
+                      <li  class="icon_pdf">
+                            <span class="dd"><a href="/cassette_content/content_20210324_103558.pdf" tabIndex="3033">経常建設共同企業体の申請受付について（受付期間：令和3年4月1日～4月8日まで） (PDF:120KB)</a></span>
+            </li>
+                      <li >
+                            <span class="dd"><a href="/content/detail/3157302/" tabIndex="3033">【重要】設計図書等の頒布方法の変更について</a></span>
+            </li>
+                      <li >
+                            <span class="dd"><a href="/content/detail/2000306/" tabIndex="3033">・【重要】令和3・4年度の競争入札参加資格審査申請について</a></span>
+            </li>
+                      <li >
+                            <span class="dd"><a href="/content/detail/3143137/" tabIndex="3033">・【重要】新方式（脱Java）電子入札システムへの移行について（令和2年6月17日更新）</a></span>
+            </li>
+                      <li >
+                            <span class="dd"><a href="/content/detail/3145207/" tabIndex="3033">・新型コロナウイルス感染症に係る民間認証局の対応について（令和2年5月7日）</a></span>
+            </li>
+                      <li  class="icon_pdf">
+                            <span class="dd"><a href="/cassette_content/content_20200424_094123.pdf" tabIndex="3033">新型コロナウイルス感染拡大に伴う市発注工事等の対応について (PDF:65KB)</a></span>
+            </li>
+          
+          <li class="readmore_bid li_right"><span class="arrow"></span><a href="/content/detail/1508212" tabIndex="3034">新着情報一覧へ</a></li>
+          <li class="readmore_bid li_right"><span class="arrow"></span><a href="/content/detail/1508214" tabIndex="3035">入札・契約のページへ</a></li>
+          <li class="li_right"><a href="/common/rss/bid.xml" tabIndex="3035"><img class="rss_img" src="/common/img/rss_icon.png" alt="入札RSS"></a></li>
+
+        </ul>
+      </div>
+    </section>
+  </div>
+
+<!-- PC閲覧時早引き -->
+ <div class="quick_border pc_cuick">
+     <div class="quick_title">
+        <h3>早引きインデックス</h3>
+     </div>
+   <div id="quick_menu2" class="quick_menu">
+     <div class="qm_header"></div>
+       <div class="qm_body">
+        <div  class="moduletable pc_cuick">
+         <ul class="side_font">
+                <li> <a href="/content/detail/1500682/" tabIndex="3036">出産・子育て</a> </li>
+                <li> <a href="/content/detail/1500683/" tabIndex="3037">入園・入学</a> </li>
+                <li> <a href="/content/detail/1500684/" tabIndex="3038">引越し・住まい</a> </li>
+                <li> <a href="/content/detail/1500687/" tabIndex="3039">結婚・離婚</a> </li>
+                <li> <a href="/content/detail/1500689/" tabIndex="3040">おくやみ</a> </li>
+                <li> <a href="/content/detail/3093808/" tabIndex="3041">ごみ・リサイクル</a> </li>
+                <li> <a href="/content/detail/1500544/" tabIndex="3042">助成・手当・見舞金</a> </li>
+                <li> <a href="/content/detail/1500233/" tabIndex="3043">休日・夜間当番医</a> </li>
+                <li> <a href="/content/detail/3095118/" tabIndex="3044">広報いわみざわ</a> </li>
+                <li> <a href="/content/detail/1500545/" tabIndex="3045">申請書ダウンロード</a> </li>
+                <li> <a href="/content/sitemap/" tabIndex="3046">サイトマップ</a> </li>
+
+
+
+
+
+       </ul>
+        </div>
+       </div>
+   </div>
+
+ </div>
+</div>
+<!-- スマホ閲覧時早引き -->
+  <div id="qm_content2" class="accordion01 is-active rs_skip">
+  <input id="menu_bar02" class="accordion" type="checkbox">
+    <label class="menu_bar02" for="menu_bar02">早引きインデックス</label>
+      <ul id="links02" class="side_font2">
+                <li> <a href="/content/detail/1500682/" tabIndex="3036">出産・子育て</a> </li>
+                <li> <a href="/content/detail/1500683/" tabIndex="3037">入園・入学</a> </li>
+                <li> <a href="/content/detail/1500684/" tabIndex="3038">引越し・住まい</a> </li>
+                <li> <a href="/content/detail/1500687/" tabIndex="3039">結婚・離婚</a> </li>
+                <li> <a href="/content/detail/1500689/" tabIndex="3040">おくやみ</a> </li>
+                <li> <a href="/content/detail/3093808/" tabIndex="3041">ごみ・リサイクル</a> </li>
+                <li> <a href="/content/detail/1500544/" tabIndex="3042">助成・手当・見舞金</a> </li>
+                <li> <a href="/content/detail/1500233/" tabIndex="3043">休日・夜間当番医</a> </li>
+                <li> <a href="/content/detail/3095118/" tabIndex="3044">広報いわみざわ</a> </li>
+                <li> <a href="/content/detail/1500545/" tabIndex="3045">申請書ダウンロード</a> </li>
+                <li> <a href="/content/sitemap/" tabIndex="3046">サイトマップ</a> </li>
+
+
+
+
+
+    </ul>
+  </div>
+
+
+
+  <div id="contents3" class="clearfix">
+    <section>
+
+
+      <!-- 広告 -->
+      <div id="bn_body">
+        <div class="cm_top clearfix">
+          <div class="bannergroup cm_top clearfix">
+          <!-- banneritem 広告バナー-->
+                            <div class="banneritem">
+                  <ul>
+                    <span class="catItemImage"> <a href="/content/detail/1501908/" target="_blank" onclick="gtag('3000000');" tabIndex="3047"><img src="/cassette_content/content_20180709_183041.png" alt="広告主募集中（別ウィンドウで開く）" /></a> </span>
+                  </ul>
+                </div>
+                <div class="clr"></div>
+                            <div class="banneritem">
+                  <ul>
+                    <span class="catItemImage"> <a href="https://reiwahokkaido.com" target="_blank" onclick="gtag('3168857');" tabIndex="3047"><img src="/cassette_content/content_20210727_095638.gif" alt="広告 麗羽北海道株式会社ネットショップ 世界中の商品を皆様へお届け（別ウィンドウで開く）" /></a> </span>
+                  </ul>
+                </div>
+                <div class="clr"></div>
+                            <div class="banneritem">
+                  <ul>
+                    <span class="catItemImage"> <a href="https://dogfood-daihyakka.com" target="_blank" onclick="gtag('3146832');" tabIndex="3047"><img src="/cassette_content/content_20200526_083114.gif" alt="広告 ドッグフード大百科（別ウィンドウで開く）" /></a> </span>
+                  </ul>
+                </div>
+                <div class="clr"></div>
+                      </div>
+        </div>
+        <div class="cm_bottom clearfix">
+          <div class="bannergroup cm_bottom clearfix"> </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <!-- /contents -->
+</div>
+<!-- /warapper -->
+
+  <div id="article_pop" class="article_main">
+    <input id="item_sw" value="0" type="hidden">
+    <input id="menu_pop" value="0" type="hidden">
+    <div id="article_pop_contents" class="main_contents">
+        <div class="item_area">
+          <div class="item_area_header menu">
+            <div id="readspeaker_button3" class="rs_skip rsbtn rs_preserve  no-print">
+            <a href="//app-as.readspeaker.com/cgi-bin/rsent?customerid=10681&amp;lang=ja_jp&amp;readid=readMain&amp;url=" title="音声で読み上げる" rel="nofollow" class="rsbtn_play no-print" accesskey="O">
+              <span class="rsbtn_left rsimg rspart no-print"><span class="rsbtn_text no-print"><span calss="no-print">読み上げる</span></span></span>
+            <span class="rsbtn_right rsimg rsplay rspart no-print"></span>
+           </a>
+          </div>
+            <a href="#" title="閉じるボタン" tabIndex="1004" onclick="closePop(); return false;" class="close_btn_focus"><div class="close_btn"> <span>閉じる</span> </div></a>
+            <a href="#" title="戻るボタン" tabIndex="1003" onclick="hsBack(); return false;" class="close_btn_focus first"><div class="close_btn"> <span>戻る</span> </div></a>
+            <a href="javascript:void(0);" tabIndex="1005" class="read_btn_focus3  no-print"><div class="no-print"><img alt="読み上げボタン" src="/common/img/speaker_icon.png"></div></a>
+            <a href="#" alt="印刷ボタン" tabIndex="1005" onclick="print_pop()" class="print_btn_focus"><div class="print_btn"><img src="/common/img/print_icon.jpg"></div></a>
+
+            <p class="pan"> <a href="/" tabIndex="1002">トップ</a>  </p>
+          </div>
+
+          <div class="item_area_body">
+            <div class="itemBody" id="readMain">
+              <h2 id="article_title">新型コロナウイルス感染症 いろいろな支援</h2>
+          
+                                                         <div id="SNS">
+                <div class="right_box">
+                  <div class="SNS_facebook_share">
+                    <a tabIndex="1007" target="_blank" class="SNS_button SNS_button_facebook" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.city.iwamizawa.hokkaido.jp%2F%3Fid%3D3143897" title="この記事をFacebookにシェア（別ウィンドウで開く）">
+                      <img src="/common/img/f_logo_RGB-White_58.png" class="SNS_facebook_icon" alt="Facebookにシェア"> シェア
+                    </a>
+                  </div>
+                  <div class="SNS_facebook_share">
+                    <a tabIndex="1007" target="_blank" class="SNS_button SNS_button_twitter" href="https://twitter.com/share?url=https://www.city.iwamizawa.hokkaido.jp/?id=3143897&text=%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87+%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%E3%81%AA%E6%94%AF%E6%8F%B4" data-show-count="false" title="この記事をTwitterに投稿（別ウィンドウで開く）">
+                      <img src="/common/img/Twitter_Logo_WhiteOnBlue.png" class="SNS_twitter_icon" alt="Twitterに投稿"> ツイート
+                    </a>
+                  </div>
+                </div>
+              </div>
+                          <div class="menu_area_body" id="cassette-content">
+                <div class="cassette-inner">
+                                      <div class="casset-header">
+                      <p class="casset-info"><em>情報発信元</em><em>健康づくり推進課</em></p>
+                      <p class="casset-day"><em>最終更新日</em><em>
+                        2021年10月05日                        </em></p>
+                      <p class="casset-id"><em>ページID</em><em>3143897</em></p>
+                    </div>
+                    <div id=content-0 class="cassette-item img01">
+    	        <img src="/cassette_content/content_20200528_215356.jpg" alt="いろいろな支援">
+            </div>
+<div id=content-1 class="cassette-item">
+  <h3><span>新型コロナウイルス感染症に関する緊急経済対策</span></h3>
+  </div>
+<div id=content-2 class="cassette-item List01">
+  <ul>
+          <li class="link"><a href="/content/detail/3147072/" tabIndex="1006">緊急経済対策のページへ</a></li>
+        </ul>
+  </div><div id=content-3 class="cassette-item">
+  <h3><span>宿泊等割引支援事業（通称：ザワ割）</span></h3>
+  </div>
+<div id=content-4 class="cassette-item text01">
+<p>新型コロナウイルス感染症の影響により、岩見沢市内に観光や宿泊で訪れる方が減少したことから、その回復を図るため、市内宿泊施設を利用する方への宿泊料金の割引、また岩見沢市内のワイナリー見学や観光名所を巡る「そらちワインタクシーモニターツアー」の割引を行う、宿泊等割引支援事業（通称：ザワ割）を実施します。</p>
+
+</div><div id=content-5 class="cassette-item List01">
+  <ul>
+          <li class="link"><a href="/content/detail/3162837/" tabIndex="1006">宿泊等割引支援事業（通称：ザワ割）のページへ</a></li>
+        </ul>
+  </div><div id=content-6 class="cassette-item">
+  <h3><span>新型コロナウイルス感染症の拡大に伴う支援</span></h3>
+  </div>
+<div id=content-7 class="cassette-item definitionList02">
+          <dl>
+    <dt>
+              項目          </dt>
+    <dd>概要</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/3146702/" tabIndex="1006">住居確保給付金</a>
+          </dt>
+    <dd>休業等により収入が減少し、離職や廃業と同程度の状況にある方の家賃相当額を家主さんに支給します。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/3143817/" tabIndex="1006">市税・公共料金に関するご相談（支払い猶予・分割納付）</a>
+          </dt>
+    <dd>岩見沢市に支払う各種納入金の納付が困難な場合に、お支払いの猶予や分割納付に関する相談を受け付けます。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/3147307/" tabIndex="1006">国民健康保険料の減免</a>
+          </dt>
+    <dd>生計維持者が死亡または重篤な傷病を負った場合や収入の減少が見込まれる場合に、国民健康保険料の減免を受けることができます。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="https://iryokouiki-hokkaido.jp/hotnews/detail/00001987.html" tabIndex="1006">後期高齢者医療保険料の減免（北海道後期高齢者医療連合会のホームページへ）</a>
+          </dt>
+    <dd>生計維持者が死亡または重篤な傷病を負った場合や収入の減少が見込まれる場合に、後期高齢者医療保険料の減免を受けることができます。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/3147207/" tabIndex="1006">介護保険料の減免</a>
+          </dt>
+    <dd>生計維持者が死亡または重篤な傷病を負った場合や収入の減少が見込まれる場合に、介護保険料の減免を受けることができます。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="https://www.nenkin.go.jp/service/kokunen/menjo/0430.html" tabIndex="1006">国民年金保険料の免除</a>
+          </dt>
+    <dd>売り上げの減少などにより所得が相当程度まで下がった場合は、臨時特例措置として本人申告の所得見込額を用いた簡易な手続きにより、国民年金保険料の免除を申請することができます。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="http://www.iwamizawa-syakyo.or.jp/corona" tabIndex="1006">緊急小口資金・総合支援資金（生活費貸付）</a>
+          </dt>
+    <dd>休業などにより緊急かつ一時的に生計の維持が困難となった場合や、失業などにより日常生活の維持が困難となった場合に、必要な生活費の貸し付けを行います。</dd>
+  </dl>
+        <dl>
+    <dt>
+              ひとり親家庭生活支援資金（生活費貸付）          </dt>
+    <dd>ひとり親家庭（児童扶養手当を受給している方）を対象に、必要な生活費の貸し付けを行います。</dd>
+  </dl>
+        <dl>
+    <dt>
+              ひとり親家庭生活支援給付金          </dt>
+    <dd>経済的影響を大きく受けるひとり親家庭の収入減少による生活資金の不足を補うため、児童扶養手当の対象児童1人につき5万円を支給します。</dd>
+  </dl>
+        <dl>
+    <dt>
+              子育て世帯への臨時特別給付金          </dt>
+    <dd>児童手当を受給している方を対象に、児童1人につき1万円を支給します。</dd>
+  </dl>
+        <dl>
+    <dt>
+              ひとり親世帯臨時特別給付金          </dt>
+    <dd>子育てに対する負担の増加や収入の減少などにより特に大きな負担が生じている低所得のひとり親世帯を支援するため、1世帯あたり5万円、第2子以降の児童1人につき3万円を支給します。</dd>
+  </dl>
+        <dl>
+    <dt>
+              就学援助          </dt>
+    <dd>家計が急変した方に対し、学用品や給食などの費用を援助する、就学援助の追加申請を受け付けます。（終了しました）</dd>
+  </dl>
+        <dl>
+    <dt>
+              特別定額給付金          </dt>
+    <dd>令和2年4月27日に住民基本台帳に記録されている方を対象に、1人につき10万円を支給します。（終了しました）</dd>
+  </dl>
+        <dl>
+    <dt>
+              新生児特別定額給付金          </dt>
+    <dd>令和2年4月28日から令和3年4月1日の間に生まれ、出生により岩見沢市に住民登録をした新生児一人につき10万円を支給します。（終了しました）</dd>
+  </dl>
+        <dl>
+    <dt>
+              保育事業等従事者慰労金          </dt>
+    <dd>国の緊急事態宣言の発令中に、教育・保育施設等で勤務していた職員1人につき5万円を支給します。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/3163117/" tabIndex="1006">ひとり親に対する子育て世帯生活支援特別給付金</a>
+          </dt>
+    <dd>子育てに対する負担の増加や収入の減少などにより特に大きな負担が生じている低所得のひとり親世帯を支援するため、次のとおり「子育て世帯生活支援特別給付金」を支給します。</dd>
+  </dl>
+      </div>
+<div id=content-8 class="cassette-item">
+  <h4>仕事を休んだとき</h4>
+  </div>
+<div id=content-9 class="cassette-item definitionList02">
+          <dl>
+    <dt>
+              項目          </dt>
+    <dd>概要</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/3143497/" tabIndex="1006">傷病手当金（国民健康保険）</a>
+          </dt>
+    <dd>新型コロナウイルス感染症に感染し、その療養のために仕事を休んだ場合に支給します。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/3143672/" tabIndex="1006">傷病手当金（後期高齢者医療）</a>
+          </dt>
+    <dd>新型コロナウイルス感染症に感染し、その療養のために仕事を休んだ場合に支給します。</dd>
+  </dl>
+      </div>
+<div id=content-10 class="cassette-item">
+  <h4>売上が減少したときなど</h4>
+  </div>
+<div id=content-11 class="cassette-item">
+  <h5>給付金等</h5>
+  </div>
+<div id=content-12 class="cassette-item table02">
+  <table>
+	<tbody>
+					  <tr>
+		<th>
+		  		  <a href="/content/detail/3171057/" tabIndex="1006">小規模事業者等経営サポート給付金（岩見沢市）</a>
+		  		</th>
+		<td>売上が20%以上減少した中小企業等の事業継続と雇用の維持のため、経営サポート給付金を支給します。<br />
+申請期間<br />
+・卸・小売業対象 令和3年10月1日（金曜日）～令和3年11月30日（火曜日）</td>
+	  </tr>
+				  <tr>
+		<th>
+		  		  <a href="https://www.city.iwamizawa.hokkaido.jp/content/detail/3163727/" tabIndex="1006">【受付終了】小規模事業者等事業再構築促進補助金（岩見沢市）</a>
+		  		</th>
+		<td>ウィズコロナの経済社会の変化に対応するため、新分野展開などを目指す事業を支援します。<br />
+・事業費が50万円～150万円が対象<br />
+・申請期間 受付は終了しました。</td>
+	  </tr>
+				  <tr>
+		<th>
+		  		  <a href="https://elearning.hokkaido.jp/" tabIndex="1006">飲食事業者等感染防止対策補助金（北海道）</a>
+		  		</th>
+		<td>新型コロナウイルス感染症の拡大を防止するため、飲食店など対面でサービスを提供する事業者の皆さまが、感染防止対策の強化のために購入した備品等について支援します。</td>
+	  </tr>
+				  <tr>
+		<th>
+		  		  <a href="http://www.pref.hokkaido.lg.jp/kz/kks/inshokutenshien/top.htm" tabIndex="1006">緊急事態措置協力支援金（飲食店等）（北海道）</a>
+		  		</th>
+		<td>緊急事態宣言の措置地域に指定され、「営業時間20時まで」や「酒類提供19時まで」の時短営業に協力した事業者に支援金を支給します。</td>
+	  </tr>
+				  <tr>
+		<th>
+		  		  <a href="http://www.pref.hokkaido.lg.jp/kz/csk/tokubetsushienkin/01top.htm" tabIndex="1006">道特別支援金（北海道）</a>
+		  		</th>
+		<td>2020年秋以降の感染症の再拡大に伴い、全道の様々な事業者の皆様に経済的な影響が及んでいることから、売上が30％以上減少した事業者等の皆様に支援金を給付します。<br />
+※休業・時短等の協力支援金や国の月次支援金の受給者は申請できません。</td>
+	  </tr>
+				  <tr>
+		<th>
+		  		  <a href="http://jigyou-saikouchiku.jp/" tabIndex="1006">中小企業等事業再構築促進事業（経済産業省、中小企業庁）</a>
+		  		</th>
+		<td>新分野展開など、思い切った事業再構築に意欲を有する中小企業等の挑戦を支援します。<br />
+・事業費150万円以上が対象</td>
+	  </tr>
+				  <tr>
+		<th>
+		  		  <a href="https://www.meti.go.jp/covid-19/getsuji_shien/index.html" tabIndex="1006">月次支援金（経済産業省）</a>
+		  		</th>
+		<td>2021年の4月以降に実施される緊急事態措置又はまん延防止等重点措置に伴う「飲食店の休業・時短営業」や「外出自粛等」の影響により、売上が50％以上減少した中小法人・個人事業主等の皆様に月次支援金を給付します。</td>
+	  </tr>
+				  <tr>
+		<th>
+		  		  <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/pageL07.html" tabIndex="1006">雇用調整助成金（厚生労働省）</a>
+		  		</th>
+		<td>新型コロナウイルス感染症の影響を受け、事業活動の縮小を余儀なくされた場合に、従業員の雇用維持を図るために、「労使間の協定」に基づき、「雇用調整（休業）」を実施する事業者に対して、休業手当などの一部を助成します。</td>
+	  </tr>
+				  <tr>
+		<th>
+		  		  <a href="https://www.mhlw.go.jp/stf/kyugyoshienkin.html#gaiyou" tabIndex="1006">新型コロナウイルス感染症対応休業支援金・給付金（厚生労働省）</a>
+		  		</th>
+		<td>新型コロナウイルス感染症及びそのまん延防止の措置の影響により休業させられた労働者のうち、休業中に賃金（休業手当）を受けることができなかった方に対し、支援金・給付金を支給します。</td>
+	  </tr>
+			</tbody>
+  </table>
+  </div>
+<div id=content-13 class="cassette-item text01">
+<p>この他、経済産業省が展開する事業者向けの支援制度については下記リンクにてご確認ください。</p>
+
+</div><div id=content-14 class="cassette-item List01">
+  <ul>
+          <li class="link"><a href="https://www.meti.go.jp/covid-19/index.html" tabIndex="1006">【経済産業省】新型コロナウイルス感染症関連</a></li>
+        </ul>
+  </div><div id=content-15 class="cassette-item">
+  <h5>市の融資制度</h5>
+  </div>
+<div id=content-16 class="cassette-item table02">
+  <table>
+	<tbody>
+					  <tr>
+		<th>
+		  		  <a href="https://www.city.iwamizawa.hokkaido.jp/content/detail/1500641/" tabIndex="1006">新型コロナウイルス対策資金</a>
+		  		</th>
+		<td>新型コロナウイルス感染症の影響を受け、前年又は前々年同期比で売上が15％以上減少した中小企業は利子及び保証料の一部の補給を受けることができる岩見沢市中小企業等融資制度の「災害対策資金」の利用が可能です。</td>
+	  </tr>
+			</tbody>
+  </table>
+  </div>
+<div id=content-17 class="cassette-item text01">
+<p>この他、日本政策金融公庫、商工組合中央金庫、北海道においても利子等の負担が軽減された融資制度を用意しています。詳細は各機関のホームページによりご確認ください。</p>
+
+</div><div id=content-18 class="cassette-item List01">
+  <ul>
+          <li class="link"><a href="https://www.jfc.go.jp/n/finance/saftynet/covid_19.html" tabIndex="1006">【日本政策金融公庫】新型コロナウイルスに関する相談窓口</a></li>
+          <li class="link"><a href="https://www.shokochukin.co.jp/disaster/corona.html" tabIndex="1006">【商工組合中央金庫】新型コロナウイルス感染症に関する特別相談窓口</a></li>
+          <li class="link"><a href="http://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/index.htm" tabIndex="1006">【北海道】中小企業向け融資制度</a></li>
+        </ul>
+  </div><div id=content-19 class="cassette-item">
+  <h4>その他の困りごと</h4>
+  </div>
+<div id=content-20 class="cassette-item definitionList02">
+          <dl>
+    <dt>
+              項目          </dt>
+    <dd>概要</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="https://link-zawa.com/" tabIndex="1006">岩見沢市生活サポートセンターりんく</a>
+          </dt>
+    <dd>日々の生活や仕事のことなど、専門の相談員が解決に向けた提案や解決までのお手伝いをします。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/1500268/" tabIndex="1006">不妊治療費助成（一定期間治療を延期した場合）</a>
+          </dt>
+    <dd>新型コロナウイルス感染防止の観点から、一定期間治療を延期した場合、時限的に年齢要件を緩和します。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/3146272/" tabIndex="1006">電話・オンラインでの診療</a>
+          </dt>
+    <dd>新型コロナウイルス感染の懸念から、お手持ちの電話やスマートフォンで医療機関に相談や受診することができます。
+※実施していない医療機関もあります。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/3146427/" tabIndex="1006">市営住宅への入居の特例</a>
+          </dt>
+    <dd>新型コロナウイルス感染拡大の影響による解雇、離職などのやむを得ない理由により、住居の退去を余儀なくされる方を対象に、市営住宅の一時入居を受け付けます。</dd>
+  </dl>
+        <dl>
+    <dt>
+              <a href="/content/detail/3144952/" tabIndex="1006">DVの相談窓口の設置</a>
+          </dt>
+    <dd>新型コロナウイルス感染拡大に伴うDVの相談窓口を設置しました。1人で悩まず、ご相談ください。</dd>
+  </dl>
+      </div>
+<div id=content-21 class="cassette-item">
+  <h3><span>その他の市の対応など</span></h3>
+  </div>
+<div id=content-22 class="cassette-item">
+  <h5>感染を防ぐための特別な取り扱い</h5>
+  </div>
+<div id=content-23 class="cassette-item List02">
+  <ul>
+        
+    <li class="file"><a href="/cassette_content/content_20200302_173017.pdf" target="_blank" tabIndex="1006">感染を防ぐための特別な取り扱いについて (PDF:145KB)</a></li>
+        </ul>
+  </div><div id=content-24 class="cassette-item">
+  <h5>タクシー利用助成券の交付</h5>
+  </div>
+<div id=content-25 class="cassette-item List01">
+  <ul>
+          <li class="link"><a href="/content/detail/3163762/" tabIndex="1006">タクシー利用助成券の交付のページへ</a></li>
+        </ul>
+  </div><div id=content-26 class="cassette-item">
+  <h5>公共施設の利用キャンセルに伴う使用料の返金等について</h5>
+  </div>
+<div id=content-27 class="cassette-item text01">
+<p>市の施設の利用予定者が、新型コロナウイルスの感染拡大を防止する観点から利用をキャンセルした場合、使用料の全額返金等を行うこととしました。<br />
+対象期間：令和2年2月22日（土曜日）から令和2年8月31日（月曜日）まで<br />
+※ただし、令和2年5月31日（日曜日）までに予約を受け付けた利用に限ります。</p>
+
+</div><div id=content-28 class="cassette-item">
+  <h5>要介護認定の臨時的取り扱い</h5>
+  </div>
+<div id=content-29 class="cassette-item List01">
+  <ul>
+          <li class="link"><a href="/content/detail/3145237/" tabIndex="1006">要介護認定の臨時的な取り扱いのページへ</a></li>
+        </ul>
+  </div><div id=content-30 class="cassette-item">
+  <h5>特定健康診査、人間ドック等の再開</h5>
+  </div>
+<div id=content-31 class="cassette-item List01">
+  <ul>
+          <li class="link"><a href="/content/detail/3147287/" tabIndex="1006">特定健康診査、人間ドック等のページへ</a></li>
+        </ul>
+  </div><div id=content-32 class="cassette-item">
+  <h3><span>関連リンク</span></h3>
+  </div>
+<div id=content-33 class="cassette-item List01">
+  <ul>
+          <li class="link"><a href="/content/detail/3141247/" tabIndex="1006">新型コロナウイルス感染症のページ</a></li>
+          <li class="link"><a href="/content/detail/3159222/" tabIndex="1006">新型コロナウイルスワクチン接種について</a></li>
+          <li class="link"><a href="/content/detail/3139422/" tabIndex="1006">新型コロナウイルス感染症と予防</a></li>
+          <li class="link"><a href="/content/detail/3141282/" tabIndex="1006">こんなときは相談を</a></li>
+          <li class="link"><a href="/content/detail/3146352/" tabIndex="1006">「新北海道スタイル」を実践しよう！</a></li>
+          <li class="link"><a href="/content/detail/3147342/" tabIndex="1006">市内での発生状況</a></li>
+          <li class="link"><a href="/content/detail/3143897/" tabIndex="1006">いろいろな支援</a></li>
+          <li class="link"><a href="/content/detail/3142602/" tabIndex="1006">こんなときだからこそ</a></li>
+          <li class="link"><a href="/content/detail/3141707/" tabIndex="1006">保護者の皆さんへ</a></li>
+          <li class="link"><a href="/content/detail/3140827/" tabIndex="1006">事業者の皆さんへ</a></li>
+          <li class="link"><a href="/content/detail/3141077/" tabIndex="1006">イベントなどの対応状況</a></li>
+          <li class="link"><a href="/content/detail/3147217/" tabIndex="1006">施設の対応状況</a></li>
+          <li class="link"><a href="/content/detail/3147232/" tabIndex="1006">市長からのメッセージ</a></li>
+          <li class="link"><a href="/content/detail/3141242/" tabIndex="1006">対策本部</a></li>
+        </ul>
+  </div>                                                        </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+<footer class="home_ftr_area">
+  <div id="footer" class="home_ftr">
+    <div id="footer_area">
+      <div id="fotter_menu" style="width: 100%">
+        <div class="footer_area_inner">
+          <ul class="menu clearfix">
+            <li class="item-520"><a href="/content/detail/1509226/" tabIndex="3999">ホームページについて</a></li>
+            <li class="item-519"><a href="/content/detail/1509225/" tabIndex="3999">プライバシーポリシー</a></li>
+            <li class="item-521"><a href="/content/detail/3123782/" tabIndex="3999">ウェブアクセシビリティ</a></li>
+            <li class="item-521"><a href="/content/detail/1509227/" tabIndex="3999">リンク</a></li>
+          </ul>
+          <ul class="menu clearfix">
+            <li class="item-544"><a href="/content/detail/3093404/" tabIndex="3999">市政に対するご意見・ご要望</a></li>
+            <li class="item-544"><a href="/content/detail/3099917/" tabIndex="3999">ホームページに対するご意見・ご要望</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer_area_inner clearfix">
+        <address>
+        <dl>
+          <dt>岩見沢市役所</dt>
+          <dd>
+          〒068-8686 北海道岩見沢市鳩が丘1丁目1番1号<br>
+          電話0126-23-4111(代表)
+          FAX0126-23-9977<br>
+          開庁時間 9時～17時30分（土曜・日曜・祝日、年末年始を除く）
+          </dd>
+        </dl>
+        </address>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- /footer-area -->
+<!--- [tothetopfixed] -->
+<div id="back-top" style="display:none;"> <a href="#top_btn"><span></span>Back to Top</a> </div>
+<div id="page-top">
+  <p><a id="move-page-top" tabIndex="5000">▲上へ戻る</a></p>
+</div>
+<div id="work" style="display: none;"></div>
+
+<!--- end [tothetopfixed] -->
+</body>
+</html>

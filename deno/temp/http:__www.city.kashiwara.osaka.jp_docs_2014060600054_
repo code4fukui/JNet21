@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<title>セーフティネット保証５号認定 | 大阪府柏原市</title>
+<link href="/_layouts/00001083/style.css" media="all" rel="stylesheet" type="text/css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="initial-scale=1,width=device-width">
+<link rel="stylesheet" type="text/css" href="/_common/themes/material-green/base.css" />
+<link rel="stylesheet" type="text/css" href="/_common/themes/material-green/page.css" />
+<link rel="stylesheet" type="text/css" href="/_common/themes/material-green/white.css" title="white" />
+<link rel="alternate stylesheet" type="text/css" href="/_common/themes/material-green/blue.css" title="blue" />
+<link rel="alternate stylesheet" type="text/css" href="/_common/themes/material-green/black.css" title="black" />
+<link rel="shortcut icon" href="/_common/themes/images/favicon.ico" />
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-45494850-1', 'city.kashiwara.osaka.jp');
+ga('send', 'pageview');
+
+</script></head>
+<body id="page-docs-2014060600054-index" class="dir-docs-2014060600054 unitSangyo cateSangyo">
+
+<!-- ヘッダー -->
+<div class="pageHeader">
+<!-- skip reading -->
+<div id="accessibilityTools" class="piece">
+  <div class="pieceBody">
+    
+    <span id="nocssread"><a href="#main">本文へ移動</a></span>
+
+    <script type="text/javascript" src="/_common/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/_common/js/jquery/cookie.js"></script>
+    <script type="text/javascript" src="/_common/js/joruri/accessibility-navi.js"></script>
+    <script type="text/javascript" src="/_common/js/joruri/smart-switch.js"></script>
+    <script type="text/javascript">$(function() { new SmartSwitch('#smartSwitch', '表示の切り替え'); });</script>
+
+    <a href="/use.html" class="riyou" title="ご利用案内">ご利用案内</a>
+
+    <a href="#" class="showMenu">アクセシビリティメニューを表示</a>
+
+    <div class="menu stateOpen">
+
+      <h3>アクセシビリティメニュー</h3>
+
+      <span class="naviTheme menuItem">
+        <span class="label">背景色</span>
+        <span class="white raisedBtn" title="白背景">標準</span>
+        <span class="blue raisedBtn" title="青背景">青</span>
+        <span class="black raisedBtn" title="黒背景">黒</span>
+      </span>
+
+      <span class="naviFont menuItem">
+        <span class="label">文字サイズ</span>
+        <span class="small raisedBtn" title="文字を小さく">小</span>
+        <span class="base raisedBtn" title="標準サイズ">標準</span>
+        <span class="big raisedBtn" title="文字を大きく">大</span>
+      </span>
+
+      <span class="naviRuby menuItem">
+        <span class="ruby raisedBtn" title="ふりがなをつける">ふりがなをつける</span>
+      </span>
+      <span class="naviTalk menuItem">
+        <span class="talk raisedBtn" title="よみあげる">よみあげる</span>
+        <span class="player"></span>
+      </span>    
+    </div>
+    
+  </div>
+</div>
+
+<script>
+  $(function() {
+    $('#accessibilityTools .showMenu').on('click', function() {
+      var $menu = $('#accessibilityTools .menu'),
+          h = $menu.height();
+      if ($menu.hasClass('stateClosed')) {
+        // メニューを開く処理
+        $menu.height(0).removeClass('stateClosed');
+        setTimeout(function() {
+          $menu.addClass('stateOpen').height(h);
+        }, 10);
+        setTimeout(function() {
+          $menu.height('');
+        }, 300);
+      } else {
+        // メニューを閉じる処理
+        $menu.height(h);
+        setTimeout(function() {
+          $menu.removeClass('stateOpen').height(0);
+        }, 10);
+        setTimeout(function() {
+          $menu.addClass('stateClosed').height('');
+        }, 300);
+      }
+    });
+  });
+</script>
+<!-- /skip reading -->  <!-- アクセシビリティツール -->
+<div id="headerLogo" class="piece">
+  <div class="pieceBody">
+    <a href="/" title="柏原市"></a>
+  </div>
+</div>          <!-- ヘッダーロゴ --> 
+<div id="supportTools" class="piece">
+  <div class="pieceBody">
+    <div class="upper">
+      <a class="foreign raisedBtn" href="/docs/2016012100018/">Multilingual</a>
+      <!--<a class="soshiki" href="/soshiki/">組織から探す</a> -->
+      <a class="siteMap raisedBtn" href="/sitemap/">サイトマップ</a>
+      <a class="jigyosha raisedBtn" href="/docs/2014082500080/">事業者情報</a>
+    </div>
+    <div class="lower">
+      <div class="googleSearch">
+        <form action="/search.html">
+          <input type="hidden" value="009642020092740070552:ip5e7fz-go8" name="cx" />
+          <input type="hidden" value="FORID:10" name="cof" />
+          <input type="hidden" value="UTF-8" name="ie" />
+          <input type="hidden" name="hl" value="ja" />
+          <input name="q" type="text" size="40" id="search-box" class="text heightLine-search" title="サイト内検索" value="キーワード検索" onfocus="if (this.value == 'キーワード検索') this.value='';" onblur="if (this.value == '') this.value = 'キーワード検索';" />
+          <input type="submit" name="sa" value="検索" id="search-button" align="middle" class="heightLine-search raisedBtn" />
+        </form>
+      </div>
+    
+      <!-- PC/スマホ表示切替 -->
+      <div id="smartSwitch"></div>
+    </div>
+  </div>
+</div>    
+<script type="text/javascript" src="/_common/js/joruri/smart-switch.js"></script>
+<script type="text/javascript">
+  $(function() {
+    new SmartSwitch('#smartSwitch');
+    $('#smartSwitch a').addClass('raisedBtn');
+  });
+</script>
+        <!-- サポートツール -->
+<div id="globalNav" class="piece">
+  <div class="pieceBody">
+
+    <div class="category kurashi">
+      <h2><a href="/bunya/kurashi_tetsuzuki/">くらし</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryTodokede"><a href="/bunya/todokede/">届出</a></li>
+          <li class="categoryShomei"><a href="/bunya/shomei/">証明</a></li>
+          <li class="categoryMadoguchi"><a href="/bunya/madoguchi/">窓口案内</a></li>
+          <li class="categoryNenkin"><a href="/bunya/nenkin/">年金</a></li>
+          <li class="categoryzeikin"><a href="/bunya/zeikin/">税金</a></li>
+          <li class="categoryJogesuido"><a href="/bunya/jogesuido/">上下水道</a></li>
+          <li class="categoryGomi_recycle"><a href="/bunya/gomi_recycle/">ごみ・リサイクル</a></li>
+          <li class="categoryShisetsu_bus"><a href="/bunya/shisetsu_bus/">公共施設・循環バス</a></li>
+          <li class="categoryBunka_sports"><a href="/bunya/bunka_sports/">文化・スポーツ</a></li>
+          <li class="categorySangyo"><a href="/bunya/sangyo/">産業</a></li>
+          <li class="categorySonota"><a href="/bunya/sonota/">その他</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category midokoro">
+      <h2><a href="/bunya/machinomidokoro/">見どころ</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryGaiyo"><a href="/bunya/gaiyo/">まちの魅力</a></li>
+          <li class="categoryBudou"><a href="/bunya/budou/">柏原ぶどう情報ガイド</a></li>
+          <li class="categorySymbol"><a href="/bunya/symbol/">シンボル</a></li>
+          <li class="categoryEvent"><a href="/bunya/event/">イベント・教室講座</a></li>
+          <li class="categoryGuide"><a href="/bunya/guide/">案内</a></li>
+          <li class="categoryPublication"><a href="/bunya/publication/">刊行物</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category kosodateKyoiku">
+      <h2><a href="/bunya/kosodate_kyoiku/">子育て・教育</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryKosodate"><a href="/bunya/kosodate/">子育て</a></li>
+          <li class="categoryNinteikodomoen"><a href="/bunya/ninteikodomoen/">幼稚園、保育所、認定こども園等</a></li>
+          <li class="categoryKyoiku"><a href="/bunya/kyoiku/">教育</a></li>
+          <li class="categoryKodomoteate"><a href="/bunya/kodomoteate/">子どもの手当・医療費助成</a></li>
+          <li class="categoryOyako_kenko"><a href="/bunya/oyako_kenko/">親と子の健康づくり</a></li>
+          <li class="categoryOyako_kenko"><a href="/bunya/oyako_sodan/">親と子の相談窓口</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category fukushiKenko">
+      <h2><a href="/bunya/kenko_fukushi_iryo/">健康・福祉</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryKenkou"><a href="/bunya/kenkou/">健康</a></li>
+          <li class="categoryChikifukushi"><a href="/bunya/chikifukushi/">福祉</a></li>
+          <li class="categoryIryo"><a href="/bunya/iryo/">医療</a></li>
+          <li class="categoryHoken"><a href="/bunya/hoken/">保険</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category Machizukuri">
+      <h2><a href="/bunya/machizukuri_kankyo/">まちづくり・環境</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryChikimachizukuri"><a href="/bunya/chikimachizukuri/">まちづくり</a></li>
+          <li class="categoryKankyo"><a href="/bunya/kankyo/">環境</a></li>
+          <li class="categoryKouen"><a href="/bunya/kouen/">公園</a></li>
+          <li class="categoryDouro_koutsu"><a href="/bunya/douro_koutsu/">道路・交通</a></li>
+          <li class="categoryKasen_suiro"><a href="/bunya/kasen_suiro/">河川・水路</a></li>
+          <li class="categoryShiminsanka"><a href="/bunya/shiminsanka/">市民参加・男女共同参画・国際交流</a></li>
+          <li class="categoryKanminrenkei"><a href="/bunya/kanminrenkei/">公民連携</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category shisei">
+      <h2><a href="/bunya/shisei/">市政情報</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryKiko"><a href="/bunya/kiko/">機構</a></li>
+          <li class="categoryGyoseikaikaku"><a href="/bunya/gyoseikaikaku/">行政改革</a></li>
+          <li class="categoryZaisei"><a href="/bunya/zaisei/">財政</a></li>
+          <li class="categoryTokei"><a href="/bunya/tokei/">統計</a></li>
+          <li class="categoryJyohokokai"><a href="/bunya/jyohokokai/">情報公開</a></li>
+          <li class="categoryJinji"><a href="/bunya/jinji/">人事・採用</a></li>
+          <li class="categoryKeikaku_sesaku"><a href="/bunya/keikaku_sesaku/">計画・施策</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="category bosai">
+      <h2><a href="/bunya/bosaigai/">防災・防犯</a></h2>
+      <div class="children stateClosed">
+        <ul>
+          <li class="categoryBosai"><a href="/bunya/bosai/">防災</a></li>
+          <li class="/bunya/categorySaigai"><a href="/bunya/bohan/">防犯</a></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  $(function() {
+
+    // キーボード操作でカテゴリー名がフォーカスを受け取ったら、アクティブクラスを付与して
+    // サブカテゴリーを展開する。
+    $('#globalNav .category h2 a').on('focus', function() {
+      $('#globalNav .stateActive').removeClass('stateActive');
+      $(this).parents('.category').addClass('stateActive');
+    });
+
+    // 最後のカテゴリーのサブカテゴリーからフォーカスが外れたら、サブカテゴリーを閉じる
+    $('#globalNav .category.bosai a').last().on('blur', function() {
+      $('#globalNav .stateActive').removeClass('stateActive');
+    });
+
+    // マウス操作の場合は付与されているアクティブクラスを除去
+    $('#globalNav .category').on('mouseover', function() {
+      $('#globalNav .stateActive').removeClass('stateActive');
+    });
+
+  });
+</script>           <!-- グローバルナビ -->
+</div> <!-- end .pageHeader -->
+
+<!-- メイン -->
+<div id="main" class="pageBody contentDoc paper">
+<div id="snsShare">
+
+<!-- フェイスブック　シェアボタン -->
+<div class="child">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v3.2';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-like" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+</div>
+
+<!-- ライン　LINEで送る -->
+<div class="child">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-ver="2" data-url="https://social-plugins.line.me/ja/how_to_install#lineitbutton" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+</div>
+
+<!-- ツイッター　ツイートボタン -->
+<div class="child">
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="柏原市" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+</div>      <!-- SNSシェア -->
+<div id="breadCrumbs" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody"><ol><li><a href="/">TOP</a></li> 
+ <li><a href="/soshiki/">組織および各課のページ</a></li> 
+ <li><a href="/soshiki/sangyo/">産業振興課</a></li></ol><ol><li><a href="/">TOP</a></li> 
+ <li><a href="/bunya/">分野</a></li> 
+ <li><a href="/bunya/sangyo/">産業</a></li></ol>
+</div>
+</div>
+<!-- end .piece --></div>
+   <!-- パンくず -->
+<div class="contentArticleDoc">
+
+<div class="header">
+  <h1>セーフティネット保証５号認定</h1><div class="publishedAt">2021年8月2日</div>
+</div>
+
+<div class="body">
+  <h2>概要</h2>
+
+<p>全国的に業況の悪化している業種（＝指定業種※<sub>1</sub>）に属する中小企業者※<sub>2</sub>が、信用保証協会の通常の保証限度額とは別枠で保証を受けるために必要な認定です。</p>
+
+<p>この認定を取得すると、セーフティネット保証に対応した<a href="http://www.pref.osaka.lg.jp/kinyushien/seido001/menu.html#keian">大阪府制度融資「経営安定サポート資金」（大阪府のページへリンク）</a>を申し込むことが可能となります。</p>
+
+<h2>指定業種について</h2>
+
+<p>指定業種は令和3年8月1日（日）から令和3年12月31日（金）までの期間全業種から指定５５３業種に縮小されます。当該認定申請をされる際はご注意ください。</p>
+
+<p>※<sub>1</sub>指定業種については<a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_5gou.htm"><font color="#0066cc">こちら（中小企業庁のページへリンク）</font></a>。</p>
+
+<p>※<sub>2</sub>中小企業者とは、資本金又は従業員数のいずれかが、下表の要件を満たす法人及び個人事業者のことを表す。</p>
+
+<table border="1" frame="box" rules="all">
+	<tbody>
+		<tr>
+			<th align="center" colspan="2">業種</th>
+			<th align="center">資本金</th>
+			<th align="center">常時使用する従業員数</th>
+		</tr>
+		<tr>
+			<td colspan="2" style="border-bottom-style: none;">製造業、建設業、運輸業、以下に掲げる以外の業種</td>
+			<td align="center" rowspan="2">3億円以下</td>
+			<td align="center">300人以下</td>
+		</tr>
+		<tr>
+			<td style="border-top-style: none;">&nbsp;</td>
+			<td style="border-top-color: rgb(187, 187, 187); border-top-width: 1px; border-top-style: solid;">ゴム製品製造業（タイヤ製造業等を除く）</td>
+			<td align="center">900人以下</td>
+		</tr>
+		<tr>
+			<td colspan="2">卸売業</td>
+			<td align="center">1億円以下</td>
+			<td align="center">100人以下</td>
+		</tr>
+		<tr>
+			<td colspan="2">小売業（飲食業を含む）</td>
+			<td align="center">5,000万円以下</td>
+			<td align="center">50人以下</td>
+		</tr>
+		<tr>
+			<td colspan="2">サービス業</td>
+			<td align="center">5,000万円以下</td>
+			<td align="center">100人以下</td>
+		</tr>
+		<tr>
+			<td colspan="2">ソフトウェア業、情報サービス業</td>
+			<td align="center">3億円以下</td>
+			<td align="center">300人以下</td>
+		</tr>
+		<tr>
+			<td colspan="2">旅館業</td>
+			<td align="center">5,000万円以下</td>
+			<td align="center">200人以下</td>
+		</tr>
+		<tr>
+			<td colspan="2">医療法人等</td>
+			<td align="center">－</td>
+			<td align="center">300人以下</td>
+		</tr>
+	</tbody>
+</table>
+
+<h2>対象者</h2>
+
+<ul>
+	<li>柏原市に主たる事業実体がある事業所の個人事業主</li>
+	<li>柏原市に登記上の住所地又は事業実体がある法人</li>
+</ul>
+
+<h2>認定要件</h2>
+
+<p style="list-style: none;">対象者のうち、下表のいずれかに該当する事業所</p>
+
+<table border="1" frame="box" rules="all">
+	<tbody>
+		<tr>
+			<th align="center">業種に対する要件</th>
+			<th align="center">売上高等の減少に対する要件</th>
+			<th align="center">申請書</th>
+		</tr>
+		<tr>
+			<td>1つの指定業種に属する事業のみを行っている、又は兼業者※<sub>1</sub>であって、行っている事業が全て指定業種に属する　<span style="color:rgb(238, 0, 0)">★全事業が指定業種</span></td>
+			<td>
+			<p>最近3か月間の売上高等が前年同期比で5％以上減少していること</p>
+			</td>
+			<td>ｲ-1</td>
+		</tr>
+		<tr>
+			<td>兼業者であって、主たる事業※<sub>2</sub>が指定業種に該当する　<span style="color:rgb(238, 0, 0)">★主たる事業が指定業種</span></td>
+			<td>以下の条件のいずれも満たすこと。
+			<ol>
+				<li>主たる業種の最近3か月の売上高等が前年同期比で5％以上減少していること</li>
+				<li>企業全体の最近3か月の売上高等が前年同期比で5％以上減少していること</li>
+			</ol>
+			</td>
+			<td>ｲ-2</td>
+		</tr>
+		<tr>
+			<td>
+			<p>上記のいずれにも当てはまらず、兼業者であって、1以上の指定業種（主たる業種かどうかを問わない）に属する事業を行っている<br />
+			<span style="color:rgb(238, 0, 0)">★従たる事業が指定業種</span></p>
+			</td>
+			<td>以下の条件のいずれも満たすこと
+			<ol>
+				<li>指定業種の最近3か月の売上高等が前年同期比で減少していること</li>
+				<li>企業全体の最近3か月の前年同期の売上高等に対する、指定業種の売上高等の減少額等の割合が5％以上であること</li>
+				<li>企業全体の最近3か月の売上高等が前年同期比で5％以上減少していること</li>
+			</ol>
+			</td>
+			<td>
+			<p>ｲ-3</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>※<sub>1</sub>兼業者とは、2以上の細分類業種に属する事業を行っている中小企業者をいう。<br />
+※<sub>2</sub>主たる事業とは、最近1年間の売上高等が最も大きい事業をいう。<br />
+<span style="color:rgb(238, 0, 0)">※前年実績の無い創業者や、前年以降店舗や業容拡大してきた事業者の方についても、新型コロナウイルス感染症の影響を受けている場合には、セーフティネット保証４号・５号及び危機関連保証が利用できるように認定基準の運用を緩和しています。</span><br />
+<span style="color:rgb(238, 0, 0)">　【対象となる方】<br />
+　　新型コロナウイルス感染症の影響を受け、経営の安定に支障を生じている、次の方<br />
+　　１．業歴３ヶ月以上１年１ヶ月未満の事業者<br />
+　　２．前年以降の店舗増加等によって、単純な売上高等の前年比較では認定が困難な事業者</span></p>
+
+<p><span style="color:rgb(238, 0, 0)">詳しくは、<a href="https://www.meti.go.jp/press/2019/03/20200311007/20200311007-4.pdf">こちら</a>（新型コロナウイルス感染症に係る認定基準の運用緩和について）</span></p>
+
+<p><span style="color:rgb(238, 0, 0)">※運用緩和に関する認定基準は下表のとおり。</span></p>
+
+<table border="1" cellpadding="1" cellspacing="1">
+	<thead>
+		<tr>
+			<th scope="col">業種要件</th>
+			<th scope="col">売上減少要件</th>
+			<th scope="col">申請書</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>全事業が指定業種</td>
+			<td>最近1か月＋翌2か月（見込み）と前年同期を比較</td>
+			<td>ｲ-4</td>
+		</tr>
+		<tr>
+			<td>主たる事業が指定業種</td>
+			<td>最近1か月＋翌2か月（見込み）と前年同期を比較</td>
+			<td>ｲ-5</td>
+		</tr>
+		<tr>
+			<td>従たる事業が指定業種</td>
+			<td>最近1か月＋翌2か月（見込み）と前年同期を比較</td>
+			<td>ｲ-6</td>
+		</tr>
+		<tr>
+			<td>全事業が指定業種</td>
+			<td>最近1か月と最近3か月平均を比較</td>
+			<td>ｲ-7</td>
+		</tr>
+		<tr>
+			<td>全事業が指定業種</td>
+			<td>
+			<p>最近1か月と令和元年12月を比較<br />
+			＆最近1か月＋翌2か月（見込み）と前年同期を比較</p>
+			</td>
+			<td>ｲ-8</td>
+		</tr>
+		<tr>
+			<td>全事業が指定業種</td>
+			<td>最近1か月と令和元年10月～12月平均を比較<br />
+			＆最近1か月＋翌2か月（見込み）と前年同期を比較</td>
+			<td>ｲ-9</td>
+		</tr>
+		<tr>
+			<td>主たる事業が指定業種</td>
+			<td>最近1か月と最近3か月平均を比較</td>
+			<td>ｲ-10</td>
+		</tr>
+		<tr>
+			<td>主たる事業が指定業種</td>
+			<td>最近1か月と令和元年12月を比較<br />
+			＆最近1か月＋翌2か月（見込み）と前年同期を比較</td>
+			<td>ｲ-11</td>
+		</tr>
+		<tr>
+			<td>主たる事業が指定業種</td>
+			<td>最近1か月と令和元年10月～12月平均を比較<br />
+			＆最近1か月＋翌2か月（見込み）と前年同期を比較</td>
+			<td>ｲ-12</td>
+		</tr>
+		<tr>
+			<td>従たる事業が指定業種</td>
+			<td>最近1か月と最近3か月平均を比較</td>
+			<td>ｲ-13</td>
+		</tr>
+		<tr>
+			<td>従たる事業が指定業種</td>
+			<td>最近1か月と令和元年12月を比較<br />
+			＆最近1か月＋翌2か月（見込み）と前年同期を比較</td>
+			<td>ｲ-14</td>
+		</tr>
+		<tr>
+			<td>従たる事業が指定業種</td>
+			<td>最近1か月と令和元年10月～12月平均を比較＆最近1か月＋翌2か月（見込み）と<br />
+			前年同期を比較</td>
+			<td>ｲ-15</td>
+		</tr>
+	</tbody>
+</table>
+
+<h2>提出書類</h2>
+
+<p>（１）上表の要件に応じた認定申請書（２通）</p>
+
+<ul>
+	<li>認定申請書ｲ-1　<a class="iconDocx" href="/_files/00261883/henkousafetynet5gounintei_i_1.doc">Word</a>　<a class="iconPDF" href="/_files/00261890/henkousafetynet5gounintei_i_1.pdf">PDF</a></li>
+	<li>認定申請書ｲ-2　<a class="iconDoc" href="/_files/00252386/safetynet5gounintei_i_2.doc">Word</a>　<a class="iconPdf" href="/_files/00252409/safetynet5gounintei_i_2.pdf">PDF</a></li>
+	<li>認定申請書ｲ-3　<a class="iconDoc" href="/_files/00252423/safetynet5gounintei_i_3.doc">Word</a>　<a class="iconPdf" href="/_files/00252430/safetynet5gounintei_i_3.pdf">PDF</a></li>
+	<li>認定申請書ｲ-4　<a class="iconDoc" href="/_files/00252478/safetynet5gounintei_i_4.docx">Word</a>　<a class="iconPdf" href="/_files/00252485/safetynet5gounintei_i_4.pdf">PDF</a></li>
+	<li>認定申請書ｲ-5　<a class="iconDoc" href="/_files/00252492/safetynet5gounintei_i_5.docx">Word</a>　<a class="iconPdf" href="/_files/00252508/safetynet5gounintei_i_5.pdf">PDF</a></li>
+	<li>認定申請書ｲ-6　<a class="iconDoc" href="/_files/00252515/safetynet5gounintei_i_6.docx">Word</a>　<a class="iconPdf" href="/_files/00252522/safetynet5gounintei_i_6.pdf">PDF</a></li>
+	<li>認定申請書ｲ-7　<a class="iconDoc" href="/_files/00252539/safetynet5gounintei_i_7.docx">Word</a>　<a class="iconPdf" href="/_files/00252546/safetynet5gounintei_i_7.pdf">PDF</a></li>
+	<li>認定申請書ｲ-8　<a class="iconDoc" href="/_files/00252553/safetynet5gounintei_i_8.docx">Word</a>　<a class="iconPdf" href="/_files/00252560/safetynet5gounintei_i_8.pdf">PDF</a></li>
+	<li>認定申請書ｲ-9　<a class="iconDoc" href="/_files/00252577/safetynet5gounintei_i_9.docx">Word</a>　<a class="iconPdf" href="/_files/00252584/safetynet5gounintei_i_9.pdf">PDF</a></li>
+	<li>認定申請書ｲ-10　<a class="iconDoc" href="/_files/00252591/safetynet5gounintei_i_10.docx">Word</a>　<a class="iconPdf" href="/_files/00252607/safetynet5gounintei_i_10.pdf">PDF</a></li>
+	<li>認定申請書ｲ-11　<a class="iconDoc" href="/_files/00252614/safetynet5gounintei_i_11.docx">Word</a>　<a class="iconPdf" href="/_files/00252621/safetynet5gounintei_i_11.pdf">PDF</a></li>
+	<li>認定申請書ｲ-12　<a class="iconDoc" href="/_files/00252638/safetynet5gounintei_i_12.docx">Word</a>　<a class="iconPdf" href="/_files/00252645/safetynet5gounintei_i_12.pdf">PDF</a></li>
+	<li>認定申請書ｲ-13　<a class="iconDoc" href="/_files/00252652/safetynet5gounintei_i_13.docx">Word</a>　<a class="iconPdf" href="/_files/00252669/safetynet5gounintei_i_13.pdf">PDF</a></li>
+	<li>認定申請書ｲ-14　<a class="iconDoc" href="/_files/00252676/safetynet5gounintei_i_14.docx">Word</a>　<a class="iconPdf" href="/_files/00252683/safetynet5gounintei_i_14.pdf">PDF</a></li>
+	<li>認定申請書ｲ-15　<a class="iconDoc" href="/_files/00252690/safetynet5gounintei_i_15.docx">Word</a>　<a class="iconPdf" href="/_files/00252706/safetynet5gounintei_i_15.pdf">PDF</a></li>
+</ul>
+
+<p><span style="color:rgb(238, 0, 0)">（２）実在が確認できる資料　★NEW</span></p>
+
+<p><span style="color:rgb(238, 0, 0)">　【法人】法人については、次のいずれかの資料<br />
+　　１）　法人謄本（履歴事項全部証明書）又は抄本（現在事項全部証明書）<br />
+　　　※法人謄本及び抄本はそれぞれコピーでも可<br />
+　　２）　以下のような資料等のうち２種以上から確認できる場合<br />
+　　（例）<br />
+　　　〇事業活動上不可欠な支出に係る証明関係<br />
+　　　　・賃貸契約書、<br />
+　　　　・公共料金（水道光熱費）支払い領収書、 など<br />
+　　　〇出店証明や営業許認可書<br />
+　　　　・飲食店営業許可<br />
+　　　　・オンラインショッピングや食べログ等、公開情報で事業活動をおこなっていることが確認できるＵＲＬ</span></p>
+
+<p><span style="color:rgb(238, 0, 0)">　【個人】個人については、次のいずれかの資料<br />
+　　１）&nbsp;　確定申告書の写し<br />
+　　２）　１）に代替する資料（例：開業届、許認可証など）<br />
+　　３）　その他、１）及び２）に類するものとして、事業実態があるものとして市が認める資料</span></p>
+
+<p>（３）認定書の売上高等が確認できる書類（試算表、損益計算書、売上台帳等の写し）</p>
+
+<p>（４）<ins style="text-decoration:underline">営んでいる業種を確認できる資料※</ins>（確定申告書等の写し、許認可証等）</p>
+
+<p>（５）委任状（第3者が申請する場合のみ）<a class="iconDoc" href="/_files/00252720/safetynet5gounintei_ininjou.doc">Word</a>　<a class="iconPdf" href="/_files/00252713/safetynet5gounintei_ininjou.pdf">PDF</a></p>
+
+<p>※平成24年11月から細分類にて認定することになりましたので、営んでいる業種を確認できる資料を提出いただきますようよろしくお願いいたします。</p>
+
+<h2>提出先</h2>
+
+<p>柏原市　産業振興課</p>
+
+<p><ins><strong>柏原市堂島町１－２２</strong></ins>　教育センター１階</p>
+
+<p><strong><span style="color:rgb(238, 0, 0)">※新型コロナ感染拡大防止により、「郵送」での受付も可能です。</span></strong></p>
+
+<p><strong><span style="color:rgb(238, 0, 0)">※</span></strong><strong><span style="color:rgb(238, 0, 0)">庁舎建て替え工事に伴い、場所が移転していますのでご注意ください。</span></strong></p>
+
+<h2>ご注意</h2>
+
+<ul>
+	<li>申請された日の<ins><strong>２営業日後</strong></ins>に認定書の交付を行います。</li>
+	<li>認定を受けたことによって融資が確定するわけではありませんのでご了承ください。</li>
+	<li>認定書の有効期間は認定日から３０日です。有効期間内に融資申込を行うことが必要です。</li>
+	<li>認定後に認定内容と異なる事実が判明した場合には、認定書が無効になる場合があります。</li>
+</ul>
+
+</div>
+
+
+
+
+
+<div class="inquiry">
+  <h2>お問い合わせ</h2>
+  <div class="section"><strong>産業振興課</strong></div>
+  
+  <div class="tel"><span class="label">電話</span>：072-972-1554</div>
+  
+  <div class="email"><span class="label">E-Mail</span>：<a href="mailto:sangyo@city.kashiwara.osaka.jp">sangyo@city.kashiwara.osaka.jp</a></div>
+</div>
+
+
+<div class="back"><a href="javascript:history.back()">戻る</a></div>
+
+<!-- end .contentArticleDoc --></div>
+              <!-- コンテンツ -->
+</div> <!-- end .pageBody -->
+
+<!-- フッター -->
+<div class="pageFooter">
+<div id="address" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+〒582-8555　大阪府柏原市安堂町1番55号<br />
+電話：072-972-1501（代表）　午前8時45分から午後5時15分まで（土日祝、12月29日から1月3日を除く）<a href="/docs/2014062700202/">アクセスはこちら</a><br />
+</div>
+</div>
+</div>        <!-- 連絡先 -->
+<div id="footerNav" class="piece">
+<a href="/docs/2014062300044/">個人情報の取り扱い</a>
+<a href="/docs/2014062300020/">リンク</a>
+<a href="/docs/2014062300013/">著作権</a>
+<a href="/docs/2014062300037/">免責事項</a>
+<a href="/rss.html">RSSについて</a>
+<a href="/docs/2015022000080/">ウェブアクセシビリティ</a>
+<a href="/inquiry/10/">お問い合わせ</a>
+</div>     <!-- フッターナビ -->
+</div><!-- end .pageFooter -->
+
+
+</body>
+</html>

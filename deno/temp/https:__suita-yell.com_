@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+				<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168128865-1"></script>
+		<script>
+		 window.dataLayer = window.dataLayer || [];
+		 function gtag(){dataLayer.push(arguments);}
+		 gtag('js', new Date());
+
+		gtag('config', 'UA-168128865-1');
+		</script>
+	<title>吹田市事業者支援ポータルサイト すいたエール</title>
+
+<!-- All In One SEO Pack 3.6.2[517,570] -->
+<meta name="description"  content="「すいたエール」は、市内事業者向けの支援策情報の発信とニーズ等の情報収集を行い、市内事業者に対する既存支援策の活用促進、新規事業展開の促進、持続的な発展支援を図るものです。吹田エール スイタエール" />
+
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://suita-yell.com/#organization","url":"https://suita-yell.com/","name":"吹田市事業者支援ポータルサイト すいたエール","sameAs":[]},{"@type":"WebSite","@id":"https://suita-yell.com/#website","url":"https://suita-yell.com/","name":"吹田市事業者支援ポータルサイト すいたエール","publisher":{"@id":"https://suita-yell.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://suita-yell.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://suita-yell.com#webpage","url":"https://suita-yell.com","inLanguage":"ja","name":"吹田市事業者支援ポータルサイト すいたエール","isPartOf":{"@id":"https://suita-yell.com/#website"},"breadcrumb":{"@id":"https://suita-yell.com#breadcrumblist"},"description":"「すいたエール」は、市内事業者向けの支援策情報の発信とニーズ等の情報収集を行い、市内事業者に対する既存支援策の活用促進、新規事業展開の促進、持続的な発展支援を図るものです。吹田エール スイタエール","datePublished":"2020-05-23T10:51:38+09:00","dateModified":"2021-09-08T10:02:59+09:00","about":{"@id":"https://suita-yell.com/#organization"}},{"@type":"BreadcrumbList","@id":"https://suita-yell.com#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://suita-yell.com/","url":"https://suita-yell.com/","name":"吹田市事業者支援ポータルサイト すいたエール"}}]}]}</script>
+<link rel="canonical" href="https://suita-yell.com/" />
+<!-- All In One SEO Pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="吹田市事業者支援ポータルサイト すいたエール &raquo; フィード" href="https://suita-yell.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="吹田市事業者支援ポータルサイト すいたエール &raquo; コメントフィード" href="https://suita-yell.com/comments/feed" />
+<meta name="description" content="吹田市事業者支援のためのポータルサイトです" />		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/suita-yell.com\/next\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.7"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='vkExUnit_common_style-css'  href='https://suita-yell.com/next/wp-content/plugins/vk-all-in-one-expansion-unit/assets/css/vkExUnit_style.css?ver=9.19.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://suita-yell.com/next/wp-includes/css/dist/block-library/style.min.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://suita-yell.com/next/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-4-style-css'  href='https://suita-yell.com/next/wp-content/themes/lightning/library/bootstrap-4/css/bootstrap.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lightning-design-style-css'  href='https://suita-yell.com/next/wp-content/themes/lightning/design-skin/origin2/css/style.css?ver=9.9.0' type='text/css' media='all' />
+<style id='lightning-design-style-inline-css' type='text/css'>
+.tagcloud a:before { font-family: "Font Awesome 5 Free";content: "\f02b";font-weight: bold; }
+.media .media-body .media-heading a:hover { color:#86b2df; }@media (min-width: 768px){.gMenu > li:before,.gMenu > li.menu-item-has-children::after { border-bottom-color:#86b2df }.gMenu li li { background-color:#86b2df }.gMenu li li a:hover { background-color:#86b2df; }} /* @media (min-width: 768px) */.page-header { background-color:#86b2df; }h2,.mainSection-title { border-top-color:#86b2df; }h3:after,.subSection-title:after { border-bottom-color:#86b2df; }ul.page-numbers li span.page-numbers.current { background-color:#86b2df; }.pager li > a { border-color:#86b2df;color:#86b2df;}.pager li > a:hover { background-color:#86b2df;color:#fff;}.siteFooter { border-top-color:#86b2df; }dt { border-left-color:#86b2df; }
+</style>
+<link rel='stylesheet' id='vk-blocks-build-css-css'  href='https://suita-yell.com/next/wp-content/plugins/vk-all-in-one-expansion-unit/inc/vk-blocks/package/build/block-build.css?ver=0.27.0' type='text/css' media='all' />
+<link rel='stylesheet' id='lightning-common-style-css'  href='https://suita-yell.com/next/wp-content/themes/lightning/assets/css/common.css?ver=9.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='lightning-theme-style-css'  href='https://suita-yell.com/next/wp-content/themes/Suita-yell%20theme/style.css?ver=9.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vk-font-awesome-css'  href='https://suita-yell.com/next/wp-content/themes/lightning/inc/font-awesome/package/versions/5/css/all.min.css?ver=5.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://suita-yell.com/next/wp-content/tablepress-combined.min.css?ver=6' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='//suita-yell.com/next/wp-content/uploads/pum/pum-site-styles.css?generated=1592386670&#038;ver=1.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.lightbox.min.css-css'  href='https://suita-yell.com/next/wp-content/plugins/wp-jquery-lightbox/styles/lightbox.min.css?ver=1.4.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://suita-yell.com/next/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://suita-yell.com/next/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://suita-yell.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://suita-yell.com/next/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://suita-yell.com/next/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.7" />
+<link rel='shortlink' href='https://suita-yell.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://suita-yell.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsuita-yell.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://suita-yell.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsuita-yell.com%2F&#038;format=xml" />
+<!-- Analytics by WP-Statistics v12.6.13 - https://wp-statistics.com/ -->
+<style id="lightning-color-custom-for-plugins" type="text/css">/* ltg theme common */.color_key_bg,.color_key_bg_hover:hover{background-color: #86b2df;}.color_key_txt,.color_key_txt_hover:hover{color: #86b2df;}.color_key_border,.color_key_border_hover:hover{border-color: #86b2df;}.color_key_dark_bg,.color_key_dark_bg_hover:hover{background-color: #86b2df;}.color_key_dark_txt,.color_key_dark_txt_hover:hover{color: #86b2df;}.color_key_dark_border,.color_key_dark_border_hover:hover{border-color: #86b2df;}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<!-- [ VK All in one Expansion Unit OGP ] -->
+<meta property="og:site_name" content="吹田市事業者支援ポータルサイト すいたエール" />
+<meta property="og:url" content="https://suita-yell.com/" />
+<meta property="og:title" content="吹田市事業者支援ポータルサイト すいたエール" />
+<meta property="og:description" content="吹田市事業者支援のためのポータルサイトです" />
+<meta property="og:type" content="website" />
+<!-- [ / VK All in one Expansion Unit OGP ] -->
+<style id="lightning-common-style-custom" type="text/css">/* ltg common custom */ :root {--color-key:#86b2df;--color-key-dark:#86b2df;}.bbp-submit-wrapper .button.submit { background-color:#86b2df ; }.bbp-submit-wrapper .button.submit:hover { background-color:#86b2df ; }.veu_color_txt_key { color:#86b2df ; }.veu_color_bg_key { background-color:#86b2df ; }.veu_color_border_key { border-color:#86b2df ; }.btn-default { border-color:#86b2df;color:#86b2df;}.btn-default:focus,.btn-default:hover { border-color:#86b2df;background-color: #86b2df; }.btn-primary { background-color:#86b2df;border-color:#86b2df; }.btn-primary:focus,.btn-primary:hover { background-color:#86b2df;border-color:#86b2df; }</style><!-- [ VK All in one Expansion Unit twitter card ] -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="吹田市事業者支援のためのポータルサイトです">
+<meta name="twitter:title" content="吹田市事業者支援ポータルサイト すいたエール">
+<meta name="twitter:url" content="https://suita-yell.com">
+	<meta name="twitter:domain" content="suita-yell.com">
+	<!-- [ / VK All in one Expansion Unit twitter card ] -->
+	<link rel="icon" href="https://suita-yell.com/next/wp-content/uploads/2020/06/cropped-icon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://suita-yell.com/next/wp-content/uploads/2020/06/cropped-icon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://suita-yell.com/next/wp-content/uploads/2020/06/cropped-icon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://suita-yell.com/next/wp-content/uploads/2020/06/cropped-icon-270x270.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			*, *:before, *:after {
+    box-sizing: border-box;
+}
+.col_2{
+    width: 100%;
+    display: flex;
+    display: -ms-flexbox; /* IE10 */
+    flex-wrap: wrap;
+    -ms-flex-wrap: wrap; /* IE10 */
+}
+.col_2 > div{
+    width: 50%;
+    padding: 10px;
+}
+
+.blank{
+    /*margin-top:140px;*/
+    padding-top:145px;
+}
+@media screen and (max-width: 960px) {
+    .col_2 > div{
+        width: 100%;
+    }
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+.col_3{
+    width: 100%;
+    display: flex;
+    display: -ms-flexbox; /* IE10 */
+    flex-wrap: wrap;
+    -ms-flex-wrap: wrap; /* IE10 */
+}
+.col_3 > div{
+    width: 33.33333%;
+    padding: 10px;
+}
+@media screen and (max-width: 960px) {
+    .col_3 > div{
+        width: 50%;
+    }
+}
+@media screen and (max-width: 480px) {
+    .col_3 > div{
+        width: 100%;
+    }
+}
+
+/* パソコンで見たときは"pc"のclassが表示される */
+.pc { display: block !important; }
+.sp { display: none !important; }
+/* スマートフォンで見たときは"sp"のclassがが表示される */
+@media only screen and (max-width: 750px) {
+.pc { display: none !important; }
+.sp { display: block !important; }
+}
+
+footer .copySection p:nth-child(2) {
+    display:none !important;
+    }
+
+/*table design crw*/
+#main #mainBody .contBox {
+    padding-left: 21px;
+    padding-right: 21px;
+    clear: both;
+}
+
+.pb25 {
+    padding-bottom: 25px;
+}
+.mb25 {
+    margin-bottom: 25px;
+}
+
+/*div枠のデザイン*/
+.box14{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #d6ebff;
+    box-shadow: 0px 0px 0px 10px #d6ebff;
+    border: dashed 2px white;
+}
+.box14 p {
+    margin: 0; 
+    padding: 0;
+}
+
+.box26 {
+    position: relative;
+    margin: 2em 0;
+    padding: 0.5em 1em;
+    border: solid 3px #95ccff;
+    border-radius: 8px;
+}
+.box26 .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -13px;
+    left: 10px;
+    padding: 0 9px;
+    line-height: 1;
+    font-size: 19px;
+    background: #FFF;
+    color: #95ccff;
+    font-weight: bold;
+}
+.box26 p {
+    margin: 0; 
+    padding: 0;
+}
+
+/*トップ最新記事の文字サイズ*/
+.veu_postList .postList_miniThumb .postList_title {
+    font-size: 16px;
+}
+
+/* ロゴ右側のブロック */
+.logo-after {
+    display: block;
+    width: 200px;
+    float: right;
+}
+ 
+.logo-after img {
+    max-height: 60px;
+}
+ 
+/* ヘッダー幅を100%に */
+.navbar-header {
+    width: 100%;
+}
+ 
+@media (max-width: 991px) {
+    .logo-after {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+}
+ 
+/* 新バージョン対応 */
+@media (min-width: 1200px) {
+    .gMenu_outer,
+    .gMenu,
+    .gMenu > li {
+        width: 100%;
+    }
+}
+ 
+@media (max-width: 1199.98px) {
+    .siteHeader_logo {
+        width: unset;
+    }
+}
+
+.ctitle{
+text-align: center;
+border-top: 2px #a9a9a9 solid;
+border-bottom: 1px #a9a9a9 solid;
+padding: 10px; /* 帯内の余白 */
+line-height : 120%;
+font-size: 180%;
+margin: 20px 0px 50px 0px;
+color: #002665; /*0099cc;*/
+font-weight: bold;
+
+}
+.ctitle_150{
+text-align: center;
+padding: 20px; /* 帯内の余白 */
+line-height : 120%;
+font-size: 150%;
+margin: 20px 0px 10px 0px;
+color: #002665; /*0099cc;*/
+font-weight: bold;
+
+}
+.blue{
+color: #033355; 
+
+}		</style>
+		
+</head>
+<body class="home page-template page-template-page-onecolumn page-template-page-onecolumn-php page page-id-12 custom-background post-name-home post-type-page bootstrap4 device-pc fa_v5_css">
+<a class="skip-link screen-reader-text" href="#main">コンテンツへスキップ</a>
+<a class="skip-link screen-reader-text" href="#main">ナビゲーションに移動</a>
+<header class="siteHeader">
+		<div class="container siteHeadContainer">
+		<div class="navbar-header">
+						<h1 class="navbar-brand siteHeader_logo">
+			<a href="https://suita-yell.com/">
+				<span><img src="https://suita-yell.com/next/wp-content/uploads/2020/05/title.png" alt="吹田市事業者支援ポータルサイト すいたエール" /></span>
+			</a>
+			</h1>
+				
+
+				
+			<div class="logo-after">
+			<form role="search" method="get" id="searchform" class="searchform" action="https://suita-yell.com/">
+				<div>
+					<label class="screen-reader-text" for="s">検索:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="検索" />
+				</div>
+
+			</form>		
+				</div>					</div>
+
+		
+	</div>
+
+	
+</header>
+
+			<div id="top__fullcarousel" data-interval="4000" class="carousel slide slide-main" data-ride="carousel">
+
+
+				<!-- Indicators -->
+		<ol class="carousel-indicators">
+						<li data-target="#top__fullcarousel" data-slide-to="0"></li>
+							<li data-target="#top__fullcarousel" data-slide-to="1"></li>
+						</ol>
+		<div class="carousel-inner">
+									<div class="carousel-item item item-2													">
+
+										<a href="https://suita-yell.com/suita-ouenkin">
+				
+				<picture>
+											  <source media="(max-width: 767px)" srcset="https://suita-yell.com/next/wp-content/uploads/2020/05/slide_1_sp.png">
+										  <img src="https://suita-yell.com/next/wp-content/uploads/2020/05/slide_1.png" alt="" class="slide-item-img d-block w-100">
+					</picture>
+
+					
+											</a>
+					
+					<div class="slide-text-set mini-content">
+
+					
+					<div class="mini-content-container-2 container" style="text-align:left"></div>
+					</div><!-- .mini-content -->
+			  </div><!-- [ /.item ] -->
+
+											<div class="carousel-item item item-3													">
+
+				
+				<picture>
+											  <source media="(max-width: 767px)" srcset="https://suita-yell.com/next/wp-content/uploads/2020/08/slide_20200826_sp.jpg">
+										  <img src="https://suita-yell.com/next/wp-content/uploads/2020/09/head_pc_20200924.jpg" alt="" class="slide-item-img d-block w-100">
+					</picture>
+
+					
+					
+					<div class="slide-text-set mini-content">
+
+					
+					<div class="mini-content-container-3 container"></div>
+					</div><!-- .mini-content -->
+			  </div><!-- [ /.item ] -->
+
+														</div><!-- [ /.carousel-inner ] -->
+
+				<a class="carousel-control-prev" href="#top__fullcarousel" role="button" data-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	  </a>
+	  <a class="carousel-control-next" href="#top__fullcarousel" role="button" data-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	  </a>
+	
+	</div><!-- [ /#top__fullcarousel ] -->
+	
+<div class="section siteContent">
+<div class="container">
+<div class="row">
+
+			<div class="col mainSection mainSection-col-one mainSection-marginBottom-on">
+
+			
+							<div class="widget widget_text" id="text-2">			<div class="textwidget"><p>「すいたエール」は、市内事業者向けの支援策情報の発信とニーズ等の情報収集を行い、市内事業者に対する既存支援策の活用促進、新規事業展開の促進、持続的な発展支援を図るものです。</p>
+</div>
+		</div><div class="widget widget_vkexunit_post_list" id="vkexunit_post_list-2"><div class="veu_postList pt_0"><h2 class="mainSection-title">最新記事</h2><div class="postList postList_miniThumb"><div class="postList_item" id="post-2015">
+			<div class="postList_body">
+		<div class="postList_title entry-title"><a href="https://suita-yell.com/archives/2015">経済産業省　原油価格上昇に伴い関連中小企業・小規模事業者対策を行います</a></div><div class="published postList_date postList_meta_items">2021年11月2日</div>	</div><!-- [ /.postList_body ] -->
+</div>
+		<div class="postList_item" id="post-2009">
+			<div class="postList_body">
+		<div class="postList_title entry-title"><a href="https://suita-yell.com/archives/2009">大阪府　中小法人・個人事業者等に対する一時支援金の公募要領が公表されました。</a></div><div class="published postList_date postList_meta_items">2021年11月1日</div>	</div><!-- [ /.postList_body ] -->
+</div>
+		<div class="postList_item" id="post-2004">
+			<div class="postList_body">
+		<div class="postList_title entry-title"><a href="https://suita-yell.com/archives/2004">事業再構築補助金　第4回公募を開始いたしました。 申請の受付は、11月中に開始予定です。</a></div><div class="published postList_date postList_meta_items">2021年10月29日</div>	</div><!-- [ /.postList_body ] -->
+</div>
+		<div class="postList_item" id="post-2002">
+			<div class="postList_body">
+		<div class="postList_title entry-title"><a href="https://suita-yell.com/archives/2002">大阪府　（申請は１１月１日～）　第９期　飲食店等に対する営業時間短縮等協力金（令和３年１０月１日から１０月２４日）</a></div><div class="published postList_date postList_meta_items">2021年10月28日</div>	</div><!-- [ /.postList_body ] -->
+</div>
+		<div class="postList_item" id="post-1997">
+			<div class="postList_body">
+		<div class="postList_title entry-title"><a href="https://suita-yell.com/archives/1997">大阪府・大阪市　大阪いらっしゃいキャンペーン２０２１（大阪独自のGOTO事業）キャンペーン参加事業者（旅行事業者、宿泊事業者、クーポン加盟店舗【飲食店・小売店等】）募集開始</a></div><div class="published postList_date postList_meta_items">2021年10月22日</div>	</div><!-- [ /.postList_body ] -->
+</div>
+		</div><div class="postList_more"><a href="https://suita-yell.com/blog">最新記事一覧 &gt;&gt;</a></div></div></div>			
+			
+			
+				
+					
+						
+						<article id="post-12" class="post-12 page type-page status-publish hentry">
+						<div class="entry-body">
+							<p><span style="color: #161b61; font-size: 150%; text-align: crnter;"><strong>おすすめ支援策情報 9つを<br class="sp">ピックアップ！</strong></span></p>
+<div class="col_3">
+<div><a href="https://suita-yell.com/archives/1723"><img src="https://suita-yell.com/images/top_banner_digitalshift.jpg" alt="デジタルシフト特集" width="300" height="300" class="aligncenter pc" /><img src="https://suita-yell.com/images/top_banner_digitalshift.jpg" alt="デジタルシフト特集" width="250" height="250" class="aligncenter sp" /></a></div>
+<div><a href="https://www.jizokuka-post-corona.jp//" target="_blank" rel="noopener noreferrer"><img src="https://suita-yell.com/images/top_banner_zizokukahojokin_risk.jpg" alt="低リスク型小規模事業者持続化補助金" width="300" height="300" class="aligncenter pc" /><img src="https://suita-yell.com/images/top_banner_zizokukahojokin_risk.jpg" alt="低リスク型小規模事業者持続化補助金" width="250" height="250" class="aligncenter sp" /></a></div>
+<div><a href="https://r1.jizokukahojokin.info/" target="_blank" rel="noopener noreferrer"><img src="https://suita-yell.com/images/top_banner_zizokukahojokin.jpg" alt="一般型小規模事業者持続化補助金" width="300" height="300" class="aligncenter pc" /><img src="https://suita-yell.com/images/top_banner_zizokukahojokin.jpg" alt="一般型小規模事業者持続化補助金" width="250" height="250" class="aligncenter sp" /></a></div>
+<div><a href="https://jigyou-saikouchiku.jp/" target="_blank" rel="noopener noreferrer"><img src="https://suita-yell.com/images/top_banner_saikouchiku.jpg" alt="事業再構築補助金" width="300" height="300" class="aligncenter pc" /><img src="https://suita-yell.com/images/top_banner_saikouchiku.jpg" alt="事業再構築補助金" width="250" height="250" class="aligncenter sp" /></a></div>
+<div><a href="https://www.pref.osaka.lg.jp/keieishien/kyouryokukin_portal/index.html" target="_blank" rel="noopener noreferrer"><img src="https://suita-yell.com/images/top_banner_jitan.jpg" alt="大阪府営業時間短縮協力金" width="300" height="300" class="aligncenter pc" /><img src="https://suita-yell.com/images/top_banner_jitan.jpg" alt="大阪府営業時間短縮協力金" width="250" height="250" class="aligncenter sp" /></a></div>
+<div><a href="https://suita-yell.com/movie_suitach"><img src="https://suita-yell.com/images/top_banner_suitach.png" alt="YouTubeチャンネルすいたch（すいたっち）掲載動画の募集" width="300" height="300" class="aligncenter pc" /><img src="https://suita-yell.com/images/top_banner_suitach.png" alt="YouTubeチャンネルすいたch（すいたっち）掲載動画の募集" width="250" height="250" class="aligncenter sp" /></a></div>
+<div><a href="https://ichijishienkin.go.jp/getsujishienkin/" target="_blank" rel="noopener noreferrer"><img src="https://suita-yell.com/images/top_banner_getsujishienkin.jpg" alt="月次支援金" width="300" height="300" class="aligncenter pc" /><img src="https://suita-yell.com/images/top_banner_getsujishienkin.jpg" alt="月次支援金" width="250" height="250" class="aligncenter sp" /></a></div>
+<div><a href="https://suita-yell.com/matching" ><img src="https://suita-yell.com/images/top_banner_matching.jpg" alt="すいたエール事業者マッチング" width="300" height="300" class="aligncenter pc" /><img src="https://suita-yell.com/images/top_banner_matching.jpg" alt="すいたエール事業者マッチング" width="250" height="250" class="aligncenter sp" /></a></div>
+<div><a href="financing"><img src="https://suita-yell.com/images/top_banner4.jpg" alt="実質無利子で資金調達を図る" width="300" height="300" class="aligncenter pc" /><img src="https://suita-yell.com/images/top_banner4.jpg" alt="実質無利子で資金調達を図る" width="250" height="250" class="aligncenter sp" /></a></div>
+</div>
+<hr />
+<p>■<a href="movie">動画一覧</a>　■<a href="support-measure">中小企業支援施策検索サイト</a><br />
+■<a href="https://www.meti.go.jp/covid-19/pdf/pamphlet.pdf" target="_blank" rel="noopener noreferrer">事業者向け支援冊子「新型コロナウイルス感染症で影響を受ける事業者の皆様へ」</a></p>
+<h3>おすすめ動画</h3>
+<div class="col_2">
+<div>
+<p style="text-align: center;"><iframe width="448" height="252" src="https://www.youtube.com/embed/MYfyDpdsNjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align: center; color: #161b61; font-size: 120%;">吹田市長からの応援メッセージ</p>
+</div>
+<div>
+<p style="text-align: center;"><iframe width="448" height="252" src="https://www.youtube.com/embed/iRANu-lqWi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align: center; color: #161b61; font-size: 120%;">吹田商工会議所 柴田仁会頭からの応援メッセージ</p>
+</div>
+</div>
+<p><!--
+
+<div class="col_2">
+
+
+<div>
+
+<p style="text-align: center;"><iframe width="448" height="252" src="https://www.youtube.com/embed/iRANu-lqWi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+
+
+<p style="text-align: center; color: #161b61; font-size: 120%;">吹田商工会議所 柴田仁会頭からの応援メッセージ</p>
+
+</div>
+
+
+
+
+<div>
+
+<p style="text-align: center;"><iframe width="448" height="252" src="https://www.youtube.com/embed/PTv6igNUFko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+
+
+<p style="text-align: center; color: #161b61; font-size: 120%;">吹田商工会議所青年部 足立会長からの応援メッセージ</p>
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div><a href="suitameshi"><img src="https://suita-yell.com/images/top_banner7.jpg" alt="吹田エール飯" width="300" height="300" class="aligncenter pc" /><img src="https://suita-yell.com/images/top_banner7.jpg" alt="吹田エール飯" width="250" height="250" class="aligncenter sp" /></a></div>
+
+ --></p>
+						</div>
+													 </article><!-- [ /#post-12 ] -->
+
+					
+				
+			
+			
+						</div><!-- [ /.mainSection ] -->
+
+							<div class="col subSection sideSection sideSection-col-one">
+									</div><!-- [ /.subSection ] -->
+			
+</div><!-- [ /.row ] -->
+</div><!-- [ /.container ] -->
+</div><!-- [ /.siteContent ] -->
+<div class="section sectionBox siteContent_after">
+	<div class="container ">
+		<div class="row ">
+			<div class="col-md-12 ">
+			<aside class="widget widget_wp_widget_vkexunit_profile" id="wp_widget_vkexunit_profile-2">
+<div class="veu_profile">
+<h1 class="widget-title subSection-title">当サイトの運営・お問い合わせ</h1><div class="profile" >
+<p class="profile_text">【吹田商工会議所】<br />
+〒564-0041 大阪府吹田市泉町2丁目17-4<br />
+電話：06-6330-8001<br />
+Mail：suitacci@suita.cci.or.jp<br />
+<a href="contact">お問い合わせフォーム</a>はこちら</p>
+
+</div>
+<!-- / .site-profile -->
+</div>
+</aside>			</div>
+		</div>
+	</div>
+</div>
+
+
+<footer class="section siteFooter">
+	<div class="footerMenu">
+	   <div class="container">
+			<nav class="menu-global_menu-container"><ul id="menu-global_menu" class="menu nav"><li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-32"><a href="https://suita-yell.com/" aria-current="page">HOME</a></li>
+<li id="menu-item-898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-898"><a href="https://suita-yell.com/matching">吹田市×吹田商工会議所 すいたエール事業者マッチング</a></li>
+<li id="menu-item-1026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1026"><a href="https://suita-yell.com/matching_ichiran">吹田市×吹田商工会議所「すいたエール事業者マッチング」登録事業者一覧</a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://suita-yell.com/financing">実質無利子で資金調達を図る</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://suita-yell.com/consultation">創業・イノベーション オンライン相談</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="https://suita-yell.com/seminar">制度改正に関するＷＥＢセミナー</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://suita-yell.com/suitameshi">＃吹田エール飯</a></li>
+<li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396"><a href="https://suita-yell.com/jizokukahojokin">小規模事業者持続化補助金 コロナ特別対応型</a></li>
+<li id="menu-item-1260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1260"><a href="https://suita-yell.com/movie_support">吹田市中小企業動画制作支援事業</a></li>
+<li id="menu-item-1914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914"><a href="https://suita-yell.com/movie_suitach">YouTubeチャンネル『すいたch（すいたっち）』掲載動画の募集</a></li>
+<li id="menu-item-669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669"><a href="https://suita-yell.com/movie">動画一覧</a></li>
+<li id="menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-187"><a href="https://suita-yell.com/privacy-policy">個人情報保護方針</a></li>
+<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="https://suita-yell.com/blog">新着情報</a></li>
+<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="https://suita-yell.com/contact">お問い合わせ</a></li>
+</ul></nav>		</div>
+	</div>
+	<div class="container sectionBox">
+		<div class="row ">
+			<div class="col-md-4"></div><div class="col-md-4"></div><div class="col-md-4"></div>		</div>
+	</div>
+
+	
+	<div class="container sectionBox copySection text-center">
+			<p>Copyright &copy; 吹田市事業者支援ポータルサイト すいたエール All Rights Reserved.</p><p>Powered by <a href="https://wordpress.org/">WordPress</a> with <a href="https://lightning.nagoya/ja/" target="_blank" title="無料 WordPress テーマ Lightning"> Lightning Theme</a> &amp; <a href="https://ex-unit.nagoya/ja/" target="_blank">VK All in One Expansion Unit</a> by <a href="https://www.vektor-inc.co.jp/" target="_blank">Vektor,Inc.</a> technology.</p>	</div>
+</footer>
+<div id="pum-374" class="pum pum-overlay pum-theme-360 pum-theme-default-theme popmake-overlay click_open" data-popmake="{&quot;id&quot;:374,&quot;slug&quot;:&quot;popup_04&quot;,&quot;theme_id&quot;:360,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;\u9589\u3058\u308b&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_374">
+
+	<div id="popmake-374" class="pum-container popmake theme-360 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				            <div id="pum_popup_title_374" class="pum-title popmake-title">
+				Ｃ：テレワーク環境の整備			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content">
+			<p>従業員がテレワークを実践できるような環境を整備する。</p>
+<p><strong>＜例＞</strong></p>
+<ul>
+<li>WEB会議システムの導入</li>
+<li>クラウドサービスの導入</li>
+</ul>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			閉じる            </button>
+		
+	</div>
+
+</div>
+<div id="pum-383" class="pum pum-overlay pum-theme-360 pum-theme-default-theme popmake-overlay click_open" data-popmake="{&quot;id&quot;:383,&quot;slug&quot;:&quot;popup_05&quot;,&quot;theme_id&quot;:360,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_383">
+
+	<div id="popmake-383" class="pum-container popmake theme-360 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				            <div id="pum_popup_title_383" class="pum-title popmake-title">
+				取組事例			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content">
+			<ul>
+<li>新商品を陳列するための棚の購入</li>
+<li>新たな販促用チラシの作成、送付</li>
+<li>新たな販促用ＰＲ（マスコミ媒体での広告、ウェブサイトでの広告）</li>
+<li>新たな販促品の調達、配布</li>
+<li>ネット販売システムの構築</li>
+<li>国内外の展示会、見本市への出展、商談会への参加</li>
+<li>新商品の開発 ・新商品の開発にあたって必要な図書の購入</li>
+<li>新たな販促用チラシのポスティング ・国内外での商品ＰＲイベントの実施</li>
+<li>ブランディングの専門家から新商品開発に向けた指導、助言</li>
+<li>新商品開発にともなう成分分析の依頼</li>
+<li>店舗改装（小売店の陳列レイアウト改良、飲食店の店舗改修を含む。）</li>
+</ul>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			閉じる            </button>
+		
+	</div>
+
+</div>
+<div id="pum-370" class="pum pum-overlay pum-theme-360 pum-theme-default-theme popmake-overlay click_open" data-popmake="{&quot;id&quot;:370,&quot;slug&quot;:&quot;popup_02&quot;,&quot;theme_id&quot;:360,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;\u9589\u3058\u308b&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_370">
+
+	<div id="popmake-370" class="pum-container popmake theme-360 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				            <div id="pum_popup_title_370" class="pum-title popmake-title">
+				Ａ：サプライチェーンの毀損への対応			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content">
+			<p>顧客への製品供給を継続するために必要な設備投資や製品開発を行う。</p>
+<p><strong>＜例＞</strong></p>
+<ul>
+<li>外部からの部品調達が困難であるため、内製化するための設備投資</li>
+<li>製品の安定供給を継続するため、設備更新を行うための投資</li>
+<li>コロナの影響により、増産体制を強化するための設備投資</li>
+<li>他社が営業停止になったことに伴い、新たな製品の生産要請に応えるための投資</li>
+</ul>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			閉じる            </button>
+		
+	</div>
+
+</div>
+<div id="pum-372" class="pum pum-overlay pum-theme-360 pum-theme-default-theme popmake-overlay click_open" data-popmake="{&quot;id&quot;:372,&quot;slug&quot;:&quot;popup_03&quot;,&quot;theme_id&quot;:360,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;\u9589\u3058\u308b&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_372">
+
+	<div id="popmake-372" class="pum-container popmake theme-360 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				            <div id="pum_popup_title_372" class="pum-title popmake-title">
+				B：非対面型ビジネスモデルへの転換			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content">
+			<p>非対面・遠隔でサービス提供するためのビジネスモデルへ転換するための設備・システム投資を行う。</p>
+<p><strong>＜例＞</strong></p>
+<ul>
+<li>店舗販売をしている事業者が、新たにＥＣ販売に取り組むための投資</li>
+<li>店舗でサービスを提供している事業者が、新たにＶＲ等を活用してサービスを提供するための投資</li>
+<li>有人で窓口対応している事業者が、無人で対応するための設備投資</li>
+<li>有人でレジ対応をしている事業者が、無人で対応するための設備投資</li>
+</ul>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			閉じる            </button>
+		
+	</div>
+
+</div>
+<div id="pum-366" class="pum pum-overlay pum-theme-360 pum-theme-default-theme popmake-overlay click_open" data-popmake="{&quot;id&quot;:366,&quot;slug&quot;:&quot;popup_01&quot;,&quot;theme_id&quot;:360,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;300px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;0&quot;,&quot;position_left&quot;:&quot;10&quot;,&quot;position_bottom&quot;:&quot;10&quot;,&quot;position_right&quot;:&quot;10&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;bottom&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;\u9589\u3058\u308b&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_366">
+
+	<div id="popmake-366" class="pum-container popmake theme-360 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				            <div id="pum_popup_title_366" class="pum-title popmake-title">
+				補助対象経費			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content">
+			<p>【補助対象経費】<br />
+上記の事業の実施に必要となる経費で、以下が補助対象となります。</p>
+<ol>
+<li>機械装置等費：事業実施に必要な設備やソフトウェア費用。PCやタブレットなどは対象外。</li>
+<li>広報費：パンフレット・ポスター・チラシ、ホームページ等の作成費、広報媒体を活用する費用。</li>
+<li>展示会等出展費：展示会への出展、商談会に参加するための費用。</li>
+<li>旅費：事業の遂行に必要な情報収集や各種調査を行うため、販路開拓（展示会会場への移動など）のための旅費。</li>
+<li>開発費：新商品の試作品やパッケージの試作開発にともなう原材料、設計、デザイン、製造、改良、加工のための費用。</li>
+<li>資料購入費：事業遂行に必要な書籍などを購入するための費用。</li>
+<li>雑役務費：期間限定のアルバイトの人件費や交通費など。</li>
+<li>借料：機器・設備などのリース、レンタル料。</li>
+<li>専門家謝金：事業の遂行に必要な指導・助言を受けるための専門家への謝礼。</li>
+<li>専門家旅費：⑨の専門家の旅費。</li>
+<li>設備処分費：販路開拓の取組を行うための作業スペースを拡大する等の目的で、設備機器等を廃棄・処分する、または借りていた設備機器等を返却する際に修理・原状回復するのに必要な経費。</li>
+<li>委託費：事業遂行に必要な業務の一部を第三者に委託（委任）するために支払われる経費（市場調査等についてコンサルタント会社等を活用する等）</li>
+<li>外注費：事業遂行に必要な業務の一部を第三者に外注（請負）するために支払われる経費（店舗の改装等）</li>
+</ol>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			閉じる            </button>
+		
+	</div>
+
+</div>
+<div id="vk-mobile-nav-menu-btn" class="vk-mobile-nav-menu-btn">MENU</div><div class="vk-mobile-nav" id="vk-mobile-nav"><nav class="global-nav" role="navigation"><ul id="menu-global_menu-1" class="vk-menu-acc  menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-32"><a href="https://suita-yell.com/" aria-current="page">HOME</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-898"><a href="https://suita-yell.com/matching">吹田市×吹田商工会議所 すいたエール事業者マッチング</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1026"><a href="https://suita-yell.com/matching_ichiran">吹田市×吹田商工会議所「すいたエール事業者マッチング」登録事業者一覧</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://suita-yell.com/financing">実質無利子で資金調達を図る</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://suita-yell.com/consultation">創業・イノベーション オンライン相談</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="https://suita-yell.com/seminar">制度改正に関するＷＥＢセミナー</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://suita-yell.com/suitameshi">＃吹田エール飯</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396"><a href="https://suita-yell.com/jizokukahojokin">小規模事業者持続化補助金 コロナ特別対応型</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1260"><a href="https://suita-yell.com/movie_support">吹田市中小企業動画制作支援事業</a>
+<ul class="sub-menu">
+	<li id="menu-item-1262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1262"><a href="https://suita-yell.com/movie_support/make_video">動画を作りたい方</a></li>
+	<li id="menu-item-1261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1261"><a href="https://suita-yell.com/movie_support/movie_creator">動画制作事業者登録募集</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914"><a href="https://suita-yell.com/movie_suitach">YouTubeチャンネル『すいたch（すいたっち）』掲載動画の募集</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669"><a href="https://suita-yell.com/movie">動画一覧</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-187"><a href="https://suita-yell.com/privacy-policy">個人情報保護方針</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="https://suita-yell.com/blog">新着情報</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="https://suita-yell.com/contact">お問い合わせ</a></li>
+</ul></nav></div><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/suita-yell.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://suita-yell.com/next/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lightningOpt = {"header_scrool":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://suita-yell.com/next/wp-content/themes/lightning/assets/js/lightning.min.js?ver=9.9.0'></script>
+<script type='text/javascript' src='https://suita-yell.com/next/wp-content/themes/lightning/library/bootstrap-4/js/bootstrap.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://suita-yell.com/next/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://suita-yell.com/next/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.10.2","pm_dir_url":"https:\/\/suita-yell.com\/next\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/suita-yell.com\/next\/wp-admin\/admin-ajax.php","restapi":"https:\/\/suita-yell.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"360","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/suita-yell.com\/next\/wp-admin\/admin-ajax.php";
+var pum_sub_vars = {"ajaxurl":"https:\/\/suita-yell.com\/next\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-374":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_id":"360","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","triggers":[],"cookies":[],"theme_slug":"default-theme","id":374,"slug":"popup_04"},"pum-383":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_id":"360","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","triggers":[],"cookies":[],"theme_slug":"default-theme","id":383,"slug":"popup_05"},"pum-370":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_id":"360","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","triggers":[],"cookies":[],"theme_slug":"default-theme","id":370,"slug":"popup_02"},"pum-372":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_id":"360","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","triggers":[],"cookies":[],"theme_slug":"default-theme","id":372,"slug":"popup_03"},"pum-366":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":true,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"theme_id":"360","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"300px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"bottom","open_sound":"none","custom_sound":"","location":"center","position_top":"0","position_bottom":"10","position_left":"10","position_right":"10","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","cookies":[],"theme_slug":"default-theme","id":366,"slug":"popup_01"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//suita-yell.com/next/wp-content/uploads/pum/pum-site-scripts.js?defer&#038;generated=1592386671&#038;ver=1.10.2'></script>
+<script type='text/javascript' src='https://suita-yell.com/next/wp-content/plugins/wp-jquery-lightbox/jquery.touchwipe.min.js?ver=1.4.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JQLBSettings = {"showTitle":"0","showCaption":"0","showNumbers":"0","fitToScreen":"1","resizeSpeed":"400","showDownload":"0","navbarOnTop":"0","marginSize":"0","slideshowSpeed":"4000","prevLinkTitle":"\u524d\u306e\u753b\u50cf","nextLinkTitle":"\u6b21\u306e\u753b\u50cf","closeTitle":"\u30ae\u30e3\u30e9\u30ea\u30fc\u3092\u9589\u3058\u308b","image":"\u753b\u50cf ","of":"\u306e","download":"\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9","pause":"(\u30b9\u30e9\u30a4\u30c9\u30b7\u30e7\u30fc\u3092\u505c\u6b62\u3059\u308b)","play":"(\u30b9\u30e9\u30a4\u30c9\u30b7\u30e7\u30fc\u3092\u518d\u751f\u3059\u308b)"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://suita-yell.com/next/wp-content/plugins/wp-jquery-lightbox/jquery.lightbox.min.js?ver=1.4.8'></script>
+<script type='text/javascript' src='https://suita-yell.com/next/wp-includes/js/wp-embed.min.js?ver=5.4.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vkExOpt = {"ajax_url":"https:\/\/suita-yell.com\/next\/wp-admin\/admin-ajax.php","enable_smooth_scroll":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://suita-yell.com/next/wp-content/plugins/vk-all-in-one-expansion-unit/assets/js/all.min.js?ver=9.19.0.0'></script>
+</body>
+</html>

@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, shrink-to-fit=no">
+    <meta name="format-detection" content="telephone=no">
+
+    <title>宿泊事業者感染防止対策等支援事業</title>
+    <meta name="description" content="宿泊事業者感染防止対策等支援事業では、道内の宿泊事業者が行う感染症防止策の強化に取り組む際に必要な必需品､機器､備品の導入を支援することにより､道内観光産業における感染症に対する強靭な体制を構築し､また､宿泊事業者が実施するワークスペース整備によるテレワーク環境整備やマイクロツーリズムを始めとするポストコロナを見据えたニューノーマルな旅行に関する受入環境整備などの前向きな投資に対する支援を行います｡">
+    <meta name="keywords" content="宿泊事業,支援金,感染防止,ポストコロナ,北海道">
+    <link rel="canonical" href="https://syukuhakushien.visit-hokkaido.jp/">
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon.png" />
+
+    <!-- OGP/twitter -->
+    <meta property="og:title" content="宿泊事業者感染防止対策等支援事業" />
+    <meta property="og:description" content="宿泊事業者感染防止対策等支援事業では、道内の宿泊事業者が行う感染症防止策の強化に取り組む際に必要な必需品､機器､備品の導入を支援することにより､道内観光産業における感染症に対する強靭な体制を構築し､また､宿泊事業者が実施するワークスペース整備によるテレワーク環境整備やマイクロツーリズムを始めとするポストコロナを見据えたニューノーマルな旅行に関する受入環境整備などの前向きな投資に対する支援を行います｡" />
+    <meta property="og:image" content="https://syukuhakushien.visit-hokkaido.jp/assets/img/ogp.jpg" />
+    <meta property="og:image:secure_url" content="https://syukuhakushien.visit-hokkaido.jp/assets/img/ogp.jpg" />
+    <meta property="og:url" content="https://syukuhakushien.visit-hokkaido.jp/assets/img/ogp.jpg" />
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="宿泊事業者感染防止対策等支援事業" />
+
+    <!--CSS File-->
+    <link rel="stylesheet" href="/assets/css/common.css" media="screen,print">
+    <link rel="stylesheet" href="/assets/css/slick.css" media="all">
+    <link rel="stylesheet" href="/assets/css/slick-theme.css" media="all">
+
+</head>
+<body>
+    <header>
+        <div class="menu-trigger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#overview">支援事業の概要</a></li>
+                <li><a href="#flow">申請の流れ</a></li>
+                <li><a href="#form">各種申請フォーム</a></li>
+                <li><a href="#contact">お問い合わせ･相談窓口</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="contentWrap topPage">
+        <main>
+            <section class="mvBlock">
+                <div class="mvBlock__flex">
+                    <div class="left">
+                        <h1 class="leftTitle"><img src="/assets/img/title.svg" alt="宿泊事業者感染防止対策等支援事業"></h1>
+                        <p>【申請期間】令和3年10月1日(金) 10時から受付開始<span>※12月24日(金)締切</span></p>
+                        <p class="greenArea">先着受理順に随時採択決定<span>※必要書類が全て整った状態で受理</span></p>
+                        <img class="redImg pc" src="/assets/img/redImg.svg" alt="追加募集！">
+                        <img class="redImg sp" src="/assets/img/redImgSP.png" alt="追加募集！">
+                        <p class="memo">当事業は観光庁補助事業を活用しています。</p>
+                    </div>
+                    <div class="right">
+                        <img src="/assets/img/mv.png" alt="image">
+                    </div>
+                </div>
+                <div class="mvBlock__textArea">
+                    <p>
+                        本事業では､道内の宿泊事業者が行う感染症防止策の強化に取り組む際に必要な必需品､機器､備品の導入を支援することにより､<br class="pc">
+                        道内観光産業における感染症に対する強靭な体制を構築し､<br class="pc">
+                        また､宿泊事業者が実施するワークスペース整備によるテレワーク環境整備やマイクロツーリズムを始めとする<br class="pc">
+                        ポストコロナを見据えたニューノーマルな旅行に関する受入環境整備などの前向きな投資に対する支援を行います｡
+                    </p>
+                </div>
+            </section>
+            <section class="introArea">
+                <h2 class="introAreaTitle">宿泊事業者感染防止対策等支援金とは</h2>
+                <div class="introArea__flex">
+                    <div class="textBlock">
+                        <span>感染防止対策の強化</span>の<br>
+                        取り組みを<span>支援!</span>
+                    </div>
+                    <div class="textBlock">
+                        <span>ポストコロナ</span>を見据えた<br>
+                        前向きな取り組みを<span>支援!</span>
+                    </div>
+                </div>
+                <div class="introArea__text">
+                    <h2 class="introArea__textTitle">対象事業者</h2>
+                    <p>
+                        旅館業法(昭和23年法律第138号)の営業許可を得た者｡<br class="pc">
+                        (ただし､風俗営業等の規制及び業務の適正化に関する法律(昭和23年法律第122号)第2条第6項に規定する店舗型性風俗特殊営業を営む者は除く｡)
+                    </p>
+                </div>
+                <div class="introArea__text margin">
+                    <h2 class="introArea__textTitle">対象経費</h2>
+                    <p class="pc">
+                        ①宿泊事業者が､北海道内に所在する宿泊施設において実施する感染症防止策の強化に取り組む際に必要な必需品､機器､備品の導入｡<br>
+                        ②過去に国､都道府県､市町村等が実施した補助や支援事業で交付決定を受けた費用については､対象経費とすることはできません｡
+                    </p>
+                    <p class="indent sp">①北海道内に所在する宿泊事業者が当該宿泊施設において､感染症防止策の強化に取り組む際に必要な必需品､機器､備品の導入｡　※｢対象経費一覧｣をご確認ください｡</p>
+                    <p class="indent sp">②過去に国､都道府県､市町村等が実施した補助や支援事業で交付決定を受けた費用については､対象経費とすることはできません｡</p>
+                </div>
+                <div class="introArea__flex wide">
+                    <div class="exampleBlock">
+                        <h3 class="exampleBlockTitle">感染防止対策  (例)</h3>
+                        <div class="introArea__flex none">
+                            <ul>
+                                <li>消毒液､アルコール液</li>
+                                <li>マスク､フェイスシールド</li>
+                                <li>非接触型体温計､体温計</li>
+                                <li>サーモカメラ <span>間仕切り</span></li>
+                                <li>アクリル板､透明ビニールシート</li>
+                                <li>自動チェックイン機</li>
+                                <li>空気清浄機 　等</li>
+                            </ul>
+                            <img class="imgNone" src="/assets/img/introImg01.png" alt="image">
+                            <img class="tab" src="/assets/img/introImg01_sp.png" alt="image">
+                            <img class="sp" src="/assets/img/introImg01_sp.png" alt="image">
+                        </div>
+                    </div>
+                    <div class="exampleBlock">
+                        <h3 class="exampleBlockTitle">ポストコロナを見据えた取組  (例)</h3>
+                        <div class="introArea__flex position none">
+                            <ul>
+                                <li>ワーケーションの受入体制整備費</li>
+                                <li>マイクロツーリズムの受入体制整備費</li>
+                                <li>バリアフリー </li>
+                                <li>インバウンド対応</li>
+                                <li>防災･減災</li>
+                            </ul>
+                            <img class="pc" src="/assets/img/introImg02.png" alt="image">
+                            <img class="sp" src="/assets/img/introImg02_sp.png" alt="image">
+                        </div>
+                    </div>
+                </div>
+                <div class="innerBlock">
+                    <div class="label">
+                        <img class="imgNone" src="/assets/img/introImg03.png" alt="対象外になるもの">
+                        <p class="tab">対象外になるもの</p>
+                        <p class="sp">対象外になるもの</p>
+                    </div>
+                    <p class="inline">・人件費をはじめとする申請者の経常的な運営経費､公課公租費､中古品の購入に係る費用</p>
+                    <a href="/assets/pdf/keihi.pdf" class="linkBtn" target="_blank">対象経費一覧</a>
+                </div>
+            </section>
+            <section id="overview" class="overviewArea">
+                <h2 class="overviewAreaTitle">制度概要</h2>
+                <img class="table pc" src="/assets/img/table_pc.png" alt="image01">
+                <img class="table sp" src="/assets/img/table_sp.png" alt="image01">
+                <span>※ひとつの施設につき､特例･通常分合わせて1申請です｡</span>
+                <span class="indent">※通常分は､250万円を上限として､基本額の1/2を上乗せして補助します(最大750万円､実質補助率3/4以内)｡</span>
+                <div class="borderBlock">
+                    <h3 class="borderBlockTitle">
+                        <p class="pc">申請例／特例分と通常分あわせて申請した場合</p>
+                        <p class="sp">
+                            <span>申請例</span>特例分と通常分あわせて申請した場合
+                        </p>
+                    </h3>
+                    <div class="borderBlock__flex">
+                        <div class="textBlock">
+                            <div class="topBlock">
+                                <span>通常分</span>
+                                <p>ワーケーション整備経費800万円<br class="sp">(採択後に整備を実施)</p>
+                            </div>
+                            <div class="underBlock">
+                                <em>対象経費800万円×補助率3/4=</em><p>600<span>万円</span></p>
+                            </div>
+                        </div>
+                        <div class="textBlock">
+                            <div class="topBlock">
+                                <span>特例分</span>
+                                <p>必需品50万円､機器150万円<br class="sp">(昨年度に支出済)</p>
+                            </div>
+                            <div class="underBlock">
+                                <em>対象経費200万円×補助率1/2=</em><p>100<span>万円</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bottomBlock">
+                        <span>合計支援金額</span><p>700<em>万円</em></p>
+                    </div>
+                </div>
+                <a href="/assets/pdf/outline.pdf" class="linkBtn" target="_blank">宿泊事業者感染防止対策等<br>支援事業支援金交付要綱</a>
+                <div class="grayBlock">
+                    <p>支援金交付対象者は､道が定めた｢新北海道スタイル｣安心宣言を掲示し実践する事業者であり､かつ､道の｢感染拡大防止ガイドライン策定普及モデル事業｣により策定したガイドラインを遵守する事業者とします｡なお､本取組状況については､支援金交付対象者が確認するものとします｡</p>
+                    <a href="https://www.pref.hokkaido.lg.jp/kz/kks/newhokkaidostylecouncil.html" target="_blank"><img src="/assets/img/linkBanner.png" alt="｢新北海道スタイル｣について詳しくはこちらから"></a>
+                </div>
+            </section>
+            <section id="flow" class="flowArea">
+                <h2 class="flowAreaTitle">申請の流れ</h2>
+                <div class="grayArea">
+                    <article class="stepBlock">
+                        <img src="/assets/img/stepImg01.png" alt="step1">
+                        <div class="borderArea">
+                            <div class="innerBlock">
+                                <h3 class="stepBlockTitle">申請に必要な書類･情報を<br class="sp">ご準備ください｡</h3>
+                                <p>はじめに､<a href="/assets/pdf/keihi.pdf" target="_blank">｢対象経費一覧｣</a>をご確認いただき､本支援事業の対象となる経費かをご確認ください｡また､以下の申請用ファイルをダウンロードして入力し､応募フォームからの申請時にアップロードをしてください(EXCELファイルにてアップロード)｡</p>
+                                <div class="whiteArea">
+                                    <div class="flexArea center">
+                                        <dl class="dblock w100">
+                                            <dt class="none">
+                                                〈クリックしてダウンロード〉
+                                            </dt>
+                                            <dd>
+                                                <a href="/assets/excel/form2_6.xlsx">
+                                                    （様式第2号・第6号統一書式）>>
+                                                </a>
+                                                <ul>
+                                                    <li>※様式第2号・第6号共通の新しい様式となりました。</li>
+                                                    <li>※免税事業者様は、様式内シート1で必ずご選択をお願いします。</li>
+                                                    <li>※ご入力が終わりましたら同書式シート１【はじめに】の手順4に支援金申請額と、申請区分である</li>
+                                                    <li>『事前申請』または、『事後申請』のどちらかが表示されますので、その区分でSTEP2に進んでください。</li>
+                                                </ul>
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="whiteArea">
+                    <article class="stepBlock">
+                        <img src="/assets/img/stepImg02.png" alt="step2">
+                        <div class="borderArea">
+                            <div class="innerBlock">
+                                <h3 class="stepBlockTitle">
+                                    対象の申請フォームから必要事項の入力を行い､申請してください｡<br>
+                                    また､申請に必要な書類(証拠書類･旅館業許可証の写し等)も申請フォームからアップロードしてください｡<br>
+                                    申請完了後に申請受付メールを送付いたしますので､メール内の｢受付番号｣を保管してください｡
+                                </h3>
+                                <div class="flexArea">
+                                    <dl>
+                                        <dt>
+                                            <h4>事前申請の方</h4>
+                                        </dt>
+                                        <dd class="left">
+                                            <a href="https://form.run/@syukuhakushien-unpaid" class="lime" target="_blank">「事前申請フォーム（様式第1号・2号・3号・4号に該当）」</a>から申請後、内容の変更や取下げが発生した場合は<a href="https://form.run/@syukuhakushien-changecancel" class="lime" target="_blank">｢変更･中止申請フォーム｣</a>から手続きをしてください｡
+                                        </dd>
+                                    </dl>
+                                    <dl>
+                                        <dt>
+                                            <h4>事後申請の方</h4>
+                                        </dt>
+                                        <dd class="left">
+                                            実績報告に関わる項目も<a href="https://form.run/@syukuhakushien-paid" class="lime" target="_blank">「事後申請フォーム（様式第5号・6号・3号・4号に該当）」</a>から入力していただきます｡
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="grayArea">
+                    <article class="stepBlock">
+                        <img src="/assets/img/stepImg03.png" alt="step3">
+                        <div class="borderArea">
+                            <div class="innerBlock">
+                                <h3 class="stepBlockTitle">支援事業事務局にて申請内容を審査後､支援決定を通知します｡</h3>
+                                <p class="center margin">採択決定後､申請ご担当者様宛にEメールにて通知します｡申請から採択決定まで受付状況によりお時間を頂戴します｡</p>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="whiteArea">
+                    <article class="stepBlock">
+                        <img src="/assets/img/stepImg04.png" alt="step4">
+                        <div class="borderArea">
+                            <div class="innerBlock">
+                                <h3 class="stepBlockTitle center">
+                                    実績報告書を提出いただき､<br class="sp">事務局にて審査を行います｡
+                                    <span>
+                                        ※審査の際､事務局が必要と判断した場合は､現地調査に伺うことがございます｡<br>
+                                        [遅くとも令和3年12月31日(金)までに完了し､随時実績報告書を提出]
+                                    </span>
+                                </h3>
+                                <p class="padding"><a href="https://form.run/@syukuhakushien-report" class="lime" target="_blank">｢実績報告フォーム｣</a>から各項目を入力してください｡申請時に作成したエクセルシートを活用し修正の上、アップロードしてください｡また､必要な書類(支払証拠書類 等)も申請フォームからアップロードしてください｡</p>
+                                <span class="limeArea">事後申請の方は<br class="sp">STEP.2にて申請していただきます｡</span>
+                                <a href="/assets/pdf/evidence.pdf" class="linkBtn green" target="_blank">証拠書類一覧</a>
+                                <!--<div class="whiteArea padding">
+                                    <div class="flexArea center">
+                                        <dl class="dblock">
+                                            <dt class="none">
+                                                〈クリックしてダウンロード〉
+                                            </dt>
+                                            <dd>
+                                                <a href="/assets/excel/form2_6.xlsx">
+                                                    （様式第2号・第6号統一書式）>>
+                                                </a>
+                                                <ul>
+                                                    <li>※様式第2号・第6号共通の新しい様式となりました。</li>
+                                                    <li>※免税事業者様は、様式内で税率の選択が可能となりました。</li>
+                                                </ul>
+                                                <a href="/assets/pdf/evidence.pdf" class="linkBtn green" target="_blank">証拠書類一覧</a>
+
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                </div>-->
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="grayArea last">
+                    <article class="stepBlock last">
+                        <img src="/assets/img/stepImg05.png" alt="step5">
+                        <div class="borderArea">
+                            <div class="innerBlock">
+                                <h3 class="stepBlockTitle">支援額確定後､<br class="sp">お支払いをご報告します｡</h3>
+                                <p class="center margin">支援額確定後､ご指定の口座に支援金を振り込みます｡あわせて､申請ご担当者様宛にEメールにて通知します｡</p>
+                            </div>
+                        </div>
+                    </article>
+                    <a href="/assets/pdf/q_a.pdf" class="linkBtn" target="_blank">よくある質問はこちら</a>
+                </div>
+            </section>
+            <section id="form" class="formArea">
+                <h2 class="formAreaTitle">
+                    宿泊事業者感染防止対策等支援金<span>各種申請フォーム</span>
+                </h2>
+                <p>申請内容のボタンをクリックし､<br class="sp">各項目に入力してください｡</p>
+                <dl>
+                    <dt>
+                        対象経費の支払いが済んでいない場合<em>事前申請の方</em>
+                    </dt>
+                    <dd>
+                        <div class="whiteBox">
+                            <a href="https://form.run/@syukuhakushien-unpaid" class="borderBox" target="_blank">
+                                支援金を申請する<span>[申請フォーム]</span>
+                            </a>
+                        </div>
+                        <div class="flexArea">
+                            <a href="https://form.run/@syukuhakushien-changecancel" class="limeBtn" target="_blank">
+                                申請内容を変更する
+                                <span>[変更･中止フォーム]</span>
+                            </a>
+                            <a href="https://form.run/@syukuhakushien-report" class="orangeBtn" target="_blank">
+                                実績報告書を提出する
+                                <span>[実績報告書フォーム]</span>
+                            </a>
+                        </div>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt>
+                        対象経費の支払いが済んでいる場合<em>事後申請の方</em>
+                    </dt>
+                    <dd>
+                        <div class="whiteBox">
+                            <a href="https://form.run/@syukuhakushien-paid" class="borderBox" target="_blank">
+                                支援金を申請・報告する<span>[申請フォーム]</span>
+                            </a>
+                        </div>
+                    </dd>
+                </dl>
+            </section>
+            <section class="crimeArea">
+                <div class="innerBlock">
+                    <h2 class="limeTitle">不正受給は犯罪です</h2>
+                    <p class="bigCopy">
+                        書類の偽造により､公金を詐取しようとする<br class="sp">不正受給は詐欺罪(刑法第246号)に当たります｡<br>
+                        次のような話を持ち掛けられ申請を行った､<br class="sp">または､お心当たりがある方は､<br class="sp">至急､支援金事務局にご相談ください｡
+                    </p>
+                    <div class="borderArea">
+                        <h3>【具体例】</h3>
+                        <p>｢自己負担を少なくする｣､｢自己負担なしで購入できる｣などと､機器取扱業者から話を持ち掛けられ､購入金額を水増しした見積書を添付して申請を行った｡※このように､外部の者から促されたとしても､申請は宿泊事業者の責任において行うものであり､宿泊事業者が刑事告訴等の対象となることがあります｡</p>
+                    </div>
+                </div>
+            </section>
+            <section id="contact" class="contactArea">
+                <h2 class="contactAreaTitle">
+                    [お問い合わせ･相談窓口]
+                    <span>宿泊事業者感染防止対策等支援事務局</span>
+                </h2>
+                <p class="lime">宿泊施設の所在地によって<br class="sp">お問い合わせ・相談窓口が異なります。</p>
+                <div class="flexArea">
+                    <div class="borderBlock">
+                        <h3 class="borderBlockTitle">
+                            オホーツク管内／根室管内／釧路管内／<br class="sp">宗谷管内／上川管内／胆振管内／渡島管内の宿泊施設はこちら
+                        </h3>
+                        <a href="tel:0115228795" class="tel">011-522-8795</a>
+                        <p class="pc">受付時間／10:00～17:00(土･日･祝､年末年始除く)</p>
+                        <p class="sp">受付時間／10:00～17:00(年末年始除く)</p>
+                        <script type="text/javascript">
+                            <!--
+                            function converter02(M){
+                            var str="", str_as="";
+                            for(var i=0;i<M.length;i++){
+                            str_as = M.charCodeAt(i);
+                            str += String.fromCharCode(str_as + 1);
+                            }
+                            return str;
+                            }
+                            function mail_to02(k_1,k_2)
+                            {eval(String.fromCharCode(108,111,99,97,116,105,111,110,46,104,114,101,102,32,
+                            61,32,39,109,97,105,108,116,111,58)
+                            + escape(k_1) +
+                            converter02(String.fromCharCode(114,103,104,100,109,47,47,49,63,114,103,116,106,116,103,96,106,116,45,110,109,108,104,98,113,110,114,110,101,115,45,98,110,108,
+                            62,114,116,97,105,100,98,115,60))
+                            + escape(k_2) + "'");}
+                            document.write('<a href=JavaScript:mail_to02("","") class="mailBlock">Eメールでのお問い合わせ>><\/a>');
+                            //-->
+                        </script>
+                    </div>
+                    <div class="borderBlock">
+                        <h3 class="borderBlockTitle">
+                            石狩管内／檜山管内／後志管内／留萌管内／<br class="sp">空知管内／日高管内／十勝管内の<br class="sp">宿泊施設はこちら
+                        </h3>
+                        <a href="tel:0115228793" class="tel">011-522-8793</a>
+                        <p class="pc">受付時間／10:00～17:00(土･日･祝､年末年始除く)</p>
+                        <p class="sp">受付時間／10:00～17:00(年末年始除く)</p>
+                        <script type="text/javascript">
+                            <!--
+                            function converter01(M){
+                            var str="", str_as="";
+                            for(var i=0;i<M.length;i++){
+                            str_as = M.charCodeAt(i);
+                            str += String.fromCharCode(str_as + 1);
+                            }
+                            return str;
+                            }
+                            function mail_to01(k_1,k_2)
+                            {eval(String.fromCharCode(108,111,99,97,116,105,111,110,46,104,114,101,102,32,
+                            61,32,39,109,97,105,108,116,111,58)
+                            + escape(k_1) +
+                            converter01(String.fromCharCode(114,103,104,100,109,47,47,48,63,114,103,116,106,116,103,96,106,116,45,110,109,108,104,98,113,110,114,110,101,115,45,98,110,108,
+                            62,114,116,97,105,100,98,115,60))
+                            + escape(k_2) + "'");}
+                            document.write('<a href=JavaScript:mail_to01("","") class="mailBlock">Eメールでのお問い合わせ>><\/a>');
+                            //-->
+                            </script>
+                            <noscript><a href="mailto:shien001@shukuhaku.onmicrosoft.com" class="mailBlock">Eメールでのお問い合わせ>></a></noscript>
+
+                    </div>
+                </div>
+                <p class="attention pc">
+                    ※電話番号をお確かめの上､おかけ間違いのないようご注意ください｡<br>
+                    ※限られた回線での対応となりますので､混み合うことがございます｡メールでのお問い合わせにつきましては､順次ご返信させていただきます｡
+                </p>
+                <p class="attention sp">※電話番号をお確かめの上､おかけ間違いのないようご注意ください｡</p>
+                <p class="attention sp">※限られた回線での対応となりますので､混み合うことがございます｡メールでのお問い合わせにつきましては､順次ご返信させていただきます｡</p>
+            </section>
+        </main>
+    </div>
+    <footer>
+        <a href="#" class="pageTop"><img src="/assets/img/pageTop.png" alt="pageTop"></a>
+        <ul>
+            <li><a href="#overview">支援事業の概要</a></li>
+            <li><a href="#flow">申請の流れ</a></li>
+            <li><a href="#form">各種申請フォーム</a></li>
+            <li><a href="#contact">お問い合わせ･相談窓口</a></li>
+        </ul>
+        <small>©️2021 北海道観光振興機構</small>
+    </footer>
+    <!--JS File-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/object-fit-images/3.2.4/ofi.js" defer></script>
+    <script src="/assets/js/slick.min.js" defer></script>
+    <script src="/assets/js/custom.js" defer></script>
+</body>
+</html>
