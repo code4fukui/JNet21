@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<title>【新型コロナ感染症】セーフティネット認定申請書 | 小浜市公式ホームページ</title>
+<link rel="shortcut icon" href="/share/imgs/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/share/style/default.css" media="all">
+<link rel="stylesheet" type="text/css" href="/share/scripts/slick/slick-theme.css" media="all"><!--バナースライド用-->
+<link rel="stylesheet" type="text/css" href="/share/scripts/slick/slick.css" media="all"><!--バナースライド用-->
+<link rel="stylesheet" type="text/css" href="/share/style/style.css" media="all">
+
+<link rel="stylesheet" type="text/css" href="/share/style/sp.css" id="sp" media="only screen and (max-width:960px)">
+<link rel="stylesheet" type="text/css" href="/share/style/bg_white.css" id="color_change">
+<link rel="stylesheet" type="text/css" href="/share/style/print.css" media="print">
+<script type="text/javascript" src="/share/scripts/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="/share/scripts/ofi.min.js"></script>
+<script type="text/javascript" src="/share/scripts/jquery.cookie.js"></script>
+
+
+<script type="text/javascript" src="/share/scripts/slick/slick.min.js"></script><!--バナースライド用-->
+<script type="text/javascript" src="/share/scripts/tempfunctions.js"></script>
+	
+<script src="//cdn-eas.readspeaker.com/script/12586/webReader/webReader.js?pids=wr&amp;forceAdapter=ioshtml5&amp;disable=translation,lookup" type="text/javascript" id="rs_req_Init"></script>
+</head>
+<body id="pagetop" class=""><!-- 下層ページはクラス無し。-->
+<noscript>
+<p class="nojs">当サイトではJavaScriptを使用しています。<br>
+ブラウザの設定でJavaScriptの使用を無効にしている場合、一部の機能が正確に動作しない恐れがあります。<br>
+当サイトをご覧の際はJavaScriptの使用を有効にしてください。</p>
+</noscript>
+<!--詳細ページFacebookいいね用コード-->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v11.0&appId=131508378948941&autoLogAppEvents=1" nonce="4wCDMOPr"></script>
+<div id="general">
+<div id="header-sp">
+<div class="splogo"><!--スマホヘッダーのロゴは下層ページのみ-->
+<a href="/index.html">
+<img src="/share/imgs/header_logo.jpg" alt="福井県小浜市">
+</a>
+</div>
+<div class="spbtn __language">
+<a href="/news/p000000b.html">
+<span class="icon"><img src="/share/imgs/icon_language_sp.png" alt=""></span>
+<span class="text">Language</span>
+</a>
+</div>
+<div class="spbtn __search">
+<span class="icon"><img src="/share/imgs/icon_search_sp.png" alt=""></span>
+<span class="border num1"></span>
+<span class="border num2"></span>
+<span class="text">検索</span>
+</div>
+<div class="spbtn __menu">
+<span class="border"></span>
+<span class="border"></span>
+<span class="border"></span>
+<span class="text">メニュー</span>
+</div>
+</div><header id="header">
+<div id="header-1" class="wrapper clearfix">
+<div class="logo">
+<a href="/index.html" title="トップページに戻る">
+<img class="logo_img" src="/share/imgs/header_logo.jpg" alt="福井県小浜市">
+<p class="logo_text">公式行政サイト</p>
+</a>
+</div><div class="support-tool">
+<ul class="support-tool_textlink">
+<li><a href="#container">本文へスキップ</a></li>
+<li><div id="readspeaker_button1" class="rs_skip">
+  <a href="//app-eas.readspeaker.com/cgi-bin/rsent?customerid=12586&amp;lang=ja_jp&amp;readid=container&amp;url=" onclick="readpage(this.href, 'xp1'); return false;" class="rs_href" rel="nofollow" accesskey="L">
+    <img src="/share/imgs/icon_reading.png" alt="">音声読み上げ
+  </a>
+</div></li>
+<li><a href="/news/p000000b.html"><img src="/share/imgs/icon_language.png" alt="">Foreign Language</a></li>
+</ul>
+<button type="button" class="sp-switch_trigger">文字サイズ・背景色変更</button>
+<div class="support-tool_switch">
+<div class="switch btn_textsize">
+<div class="switch_label">
+<p>文字サイズ</p>
+</div>
+<div class="switch_btn">
+<ul>
+<li><button class="textsize_large" type="button"><span>拡大</span></button></li>
+<li><button class="textsize_normal" type="button"><span>元に戻す</span></button></li>
+</ul>
+</div>
+</div>
+<div class="switch btn_background">
+<div class="switch_label">
+<p>背景色</p>
+</div>
+<div class="switch_btn">
+<ul>
+<li><button class="background_white" type="button"><span>白</span></button></li>
+<li><button class="background_black" type="button"><span>黒</span></button></li>
+<li><button class="background_blue" type="button"><span>青</span></button></li>
+</ul>
+</div>
+
+
+
+</div>
+</div>
+<div id="xp1" class="rs_preserve rs_skip rs_splitbutton rs_addtools rs_exp"></div>
+</div>				
+
+				
+<div class="catchcopy"><img src="/share/imgs/header_cc.jpg" alt="みんなで描く、悠久の歴史と風土が活きるまち～新たな時代の御食国若狭おばま～"></div>
+</div><!--/#header-1-->
+<div id="header-2">
+<!-- <nav class="wrapper">
+<ul class="gnav" id="gnavHTML">
+<li><a href="/index.html"><span>ホーム</span></a></li>
+<li><a href="/kurashi/index.html" class="maincate cate01"><span>くらし</span></a></li>
+<li><a href="/shigoto/index.html" class="maincate cate02"><span>しごと</span></a></li>
+<li><a href="/kosodate-kyoiku/index.html" class="maincate cate03"><span>子育て・教育</span></a></li>
+<li><a href="/kanko-bunka/index.html" class="maincate cate04"><span>観光・文化</span></a></li>
+<li><a href="/shisei/index.html" class="maincate cate05"><span>市政</span></a></li>
+</ul>
+</nav>-->
+<nav id="gnav">
+<ul id="gnavHTML" class="gnav wrapper">
+</ul>
+</nav>
+
+</div><!--/#header-2-->
+			<div id="header-3">
+				<ul class="sp-subnav">
+					<li><a href="/index.html#top-allsearch">目的から探す</a></li>
+				</ul>
+			</div><!--/#header-3-->
+		</header>
+		<main id="maincont" class="__single"><!-- 詳細ページは"__single"クラスを付けます。-->
+<div class="searchbar">
+<div class="searchbar_flexwrap wrapper">
+<div class="searchbar_form">
+<form action="/etc/search.html" class="searchform">
+<input type="hidden" name="cof" value="FORID:10">
+<input type="hidden" name="ie" value="UTF-8">
+<div class="searchform_input">
+<input type="text" name="q" value="" title="" placeholder="検索したいキーワードを入力">
+</div>
+<div class="searchform_submit">
+<input type="submit" value="検索" onclick="pagesearch('pageall.json',true);return false;">
+</div>
+</form>
+</div>
+<div class="searchbar_keyword">
+<button class="searchbar_keyword_btn" type="button">よく検索されるキーワード</button>
+<ul class="searchbar_keyword_list">
+<li><a href="/news/covid-19/index.html">新型コロナ</a></li>
+<li><a href="/kurashi/kenko-iryo-nenkin/kyuukyuu/224.html">休日当番医</a></li>
+<li><a href="/kurashi/koho-kocho/kohoobama-h20nendo/626.html">ごみ収集カレンダー</a></li>
+</ul>
+</div>
+</div>
+</div><!--/.searchbar-->
+<div class="breadcrumb wrapper">
+<p class="breadcrumb_label">現在地</p>
+<ol class="breadcrumb_list" itemscope="" itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a itemprop="item" href="/index.html"><span itemprop="name">トップページ</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a itemprop="item" href="/shigoto/index.html"><span itemprop="name">しごと</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a itemprop="item" href="/shigoto/shigoto-sangyo/index.html"><span itemprop="name">しごと・産業</span></a><meta itemprop="position" content="3"></li><li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a itemprop="item" href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/index.html"><span itemprop="name">商工業・企業支援</span></a><meta itemprop="position" content="4"></li><li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="name">【新型コロナ感染症】セーフティネット認定申請書</span><meta itemprop="position" content="2147483647"></li></ol>
+</div><!--/.breadcrumb-->
+			<div id="container">
+				<div class="pagetitle wrapper">
+					<h1>【新型コロナ感染症】セーフティネット認定申請書</h1>
+				</div>
+        <div class="pagehead wrapper clearfix">
+					<p class="pagehead_update">最終更新日：2021年8月27日</p>
+					<p class="pagehead_id">ページID：5347</p>
+					<button class="pagehead_print" onclick="window.print();">印刷する</button>
+		</div>
+		<div class="wrapper clearfix">
+			<div class="Lcont">
+				<div id="content">
+					<div class="article">
+						<h2>申請書（様式）の説明</h2>
+
+<p>中小企業信用保険法第2条第5項第1号、第4号、第5号および第7号に規定する経営の安定に支障を生じている中小企業者として認定申請をする場合に使用します。</p>
+
+<ul>
+  <li>「セーフティネット保証5号」について、対象となる業種が中小企業庁HPにおいて公表されています。</li>
+  <li>申請について（提出部数および必要書類など）は申請様式Word内の案内をご確認ください。</li>
+  <li>第1号、第4号、第5号、第7号以外の申請書が必要な方は、商工観光課へお問合せください。</li>
+  <li>行政手続きにおける、事業者の負担軽減および利便性の向上を図るため、押印の見直しを行い、申請者の押印欄を削除しました。</li>
+</ul>
+
+<h2>新型コロナウイルス感染症の影響を受ける事業者の皆様へ（セーフティネット保証4号・5号、危機関連保証の認定について）</h2>
+
+<ol>
+  <li><span>&nbsp;</span>下記のとおり、認定や運用の緩和等が行われています。詳しくは、対応する様式として、添付の「新型コロナウイルス感染症に係る認定申請書様式集」をご活用ください。<br />
+    &rarr;令和2年3月、前年実績の無い創業者や前年以降店舗や業容拡大してきた事業者の方についても、制度が利用できるよう認定基準が緩和されています。<br />
+    &rarr;セーフティネット保証5号において、直近3カ月間の売上等実績の前年比較が適当でない場合、直近1カ月間とその後2カ月の見込みで比較できるなど認定基準が緩和されています<br />
+    &rarr;令和2年12月、「直近1か月」の要件が緩和されています。<br />
+    &rarr;売上高等の前年同期比較時に、新型コロナウイルス感染症の影響を受けている場合の取り扱いについて</li>
+  <li>指定期間について<br />
+    セーフティネット保証4号・5号：指定期間内に認定申請を行ってください。<br />
+    危機関連保証：認定書の有効期間は、認定書に記載された日と指定期間の終期のいずれか先に到来する日となります。</li>
+</ol>	
+					</div><!--/.article-->
+					<p style="clear:both;"></p>
+					<div class="aside __blue" id="aside-document">
+<h2 class="aside_title">関連文書ダウンロード</h2>
+<div class="aside_inner">
+									<ul class="document"><li><a href="1777_d/fil/27.docx" class="word" target="_blank" rel="noopener">新型コロナウイルス感染症に係る認定申請書様式集（4号・5号・危機関連保証）（ワード形式86キロバイト）</a></li>
+<li><a href="1777_d/fil/1.doc" class="word" target="_blank" rel="noopener">中小企業信用保険法第2条第5項第1号の規定による認定申請書（ワード形式38キロバイト）</a></li>
+<li><a href="1777_d/fil/14.doc" class="word" target="_blank" rel="noopener">中小企業信用保険法第2条第5項第5号の規定による認定申請書（イ）（ワード形式126キロバイト）</a></li>
+<li><a href="1777_d/fil/2.doc" class="word" target="_blank" rel="noopener">中小企業信用保険法第2条第5項第5号の規定による認定申請書（ロ）（ワード形式186キロバイト）</a></li>
+<li><a href="1777_d/fil/4.doc" class="word" target="_blank" rel="noopener">中小企業信用保険法第2条第5項第7号の規定による認定申請書（ワード形式44キロバイト）</a></li>
+<li><a href="1777_d/fil/21.doc" class="word" target="_blank" rel="noopener">中小企業信用保険法第2条第5項第4号の規定による認定申請書（ワード形式42キロバイト）</a></li>
+<li><a href="1777_d/fil/23.pdf" class="pdf" target="_blank" rel="noopener">セーフティネット保証4号概要（ＰＤＦ形式361キロバイト）</a></li>
+<li><a href="1777_d/fil/24.pdf" class="pdf" target="_blank" rel="noopener">セーフティネット保証5号概要（ＰＤＦ形式478キロバイト）</a></li>
+<li><a href="1777_d/fil/25.pdf" class="pdf" target="_blank" rel="noopener">危機関連保証概要（ＰＤＦ形式337キロバイト）</a></li>
+</ul>
+<hr>
+<div class="bnr"><a href="https://get.adobe.com/jp/reader/" target="_blank" rel="noopener"><img src="/share/imgs/adobe_acrobat_reader.jpg" alt="Adobe Acrobat Reader"></a></div>
+									<p>ファイルリンクをクリックするか、右クリックして「名前を付けてリンク先を保存」からダウンロードしてください。PDFファイルをパソコンで閲覧するには、<a href="https://get.adobe.com/jp/reader/" target="_blank" rel="noopener">Adobe Acrobat Reader（無料）が必要です。</a></p>
+</div>
+</div>
+					<div class="aside __blue" id="aside-link">
+<h2 class="aside_title">関連リンク</h2>
+<div class="aside_inner">
+<ul class="link"><li><a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_1gou.htm" target="_blank" rel="noopener">中小企業庁（セーフティネット保証１号の説明）</a></li><li><a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_4gou.htm" target="_blank" rel="noopener">中小企業庁（セーフティネット保証４号の説明）</a></li><li><a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_5gou.htm" target="_blank" rel="noopener">中小企業庁（セーフティネット保証５号の説明）</a></li><li><a href="https://www.chusho.meti.go.jp/kinyu/sefu_net_7gou.htm" target="_blank" rel="noopener">中小企業庁（セーフティネット保証７号の説明）</a></li></ul>
+</div>
+</div>
+					
+					
+					<div class="aside __gray" id="aside-contact">
+<h2 class="aside_title">このページに関するお問い合わせ先</h2>
+<div class="aside_inner">
+<p class="groupname">商工振興・雇用推進グループ</p>
+<ul class="groupaddress">
+<li id="tel"><span class="label">電話番号</span><span id="tel-val">0770-53-9705</span></li>
+<li id="fax"><span class="label">ファックス</span><span id="fax-val"></span></li>
+<li id="email"><a href="/inquiry/mailform410_412.html?PAGE_NO=5347" class="mail"><span id="email-val">お問い合わせ</span></a></li>
+</ul>
+</div>
+</div>
+<script>
+if($("#tel-val")[0].outerText == ''){
+  $("#tel").empty();
+}
+if($("#fax-val")[0].outerText == ''){
+  $("#fax").empty();
+}
+if($("#email-val")[0].outerText == ''){
+  $("#email").empty();
+}
+</script>
+
+					<div class="aside __gray" id="aside-question">
+<h2 class="aside_title">このページに関するアンケート</h2>
+<div class="aside_inner">
+<fieldset>
+<legend>このページの感想をお聞かせください。</legend>
+<form name="" method="post" action="/cgi-bin/rating/rating.cgi" target="_blank">
+<input name="PAGE_NO" type="hidden" value="5347">
+<ul class="radioarea">
+												<li><input id="quest1" name="RATING" type="radio" value="10"><label for="quest1">役に立った</label></li>
+												<li><input id="quest2" name="RATING" type="radio" value="20"><label for="quest2">情報が足りなかった</label></li>
+												<li><input id="quest3" name="RATING" type="radio" value="30"><label for="quest3">わかりにくかった</label></li>
+												<li><input id="quest4" name="RATING" type="radio" value="40"><label for="quest4">たどり着きにくかった</label></li>
+</ul>
+<p class="submit"><button name="" type="submit" value="送信する">送信する</button></p>
+</form>
+</fieldset>
+</div>
+</div>
+					<div class="aside" id="aside-sharelink">
+<ul class="sharelink">
+<li>
+<div class="fb-like" data-href="https://www1.city.obama.fukui.jp/shigoto/shigoto-sangyo/syokogyo-kigyoshien/1777.html" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
+</li>
+<li>
+<a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</li>
+</ul>
+</div>
+				</div><!--/#content-->
+			</div>
+			<div class="Rcont">
+				<div class="sidemenu">
+<p class="sidemenu_title">同じ「商工業・企業支援」の記事</p>
+<ul class="sidemenu_list"><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/1856.html">小浜市での立地をお考えの皆様へ・・・企業立地のご案内</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/2544.html">「小浜市空き店舗等活用企業誘致モデル事業」のお知らせ</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/2550.html">事業所新増設の税制上優遇措置</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/3073.html">小浜市内で創業を考えている皆さまへ</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/3765.html">遊休地や空き倉庫などを探しています</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/3785.html">Facebookにて創業者・中小企業向け支援情報を配信します！</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/304.html">企業振興助成金制度</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/3907.html">小浜市が「ふるさと名物応援宣言」をしました！</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/4527.html">テイクアウトなどにおける食中毒予防について</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/4574.html">公有地売却公告</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/4672.html">GoToおばまバスツアー補助金について</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/256.html">その他　融資・保証料補給制度</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/1288.html">工場立地法の届出</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/263.html">電源地域の企業優遇制度</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/3499.html">創業者向けの補助金を募集します！【拡充】</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/1095.html">小浜市中小企業景況調査</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/4854.html">コロナ時代のイベント事業補助金について</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/3986.html">中小企業の新規投資を支援します！-新規取得設備・事業用家屋の固定資産税特例措置-</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/4144.html">市街地で飲食店・土産物店を開始する方を支援します！</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/4886.html">「宿泊事業者による感染防止対策等支援補助金」のお知らせ</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/4178.html">ふるさと納税返礼品開発事業補助金の対象事業を募集します</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/1777.html">【新型コロナ感染症】セーフティネット認定申請書</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/4966.html">キッチンカー（移動販売車）支援等事業補助金募集のお知らせ</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/942.html">最低賃金について</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/p000000.html">「買いたくなるお土産」デザイン開発事業補助金募集のお知らせ</a></li><li class="detail"><a href="/shigoto/shigoto-sangyo/syokogyo-kigyoshien/p000000b.html">「テイクアウト」キャンペーンの実施について</a></li></ul>
+</div><!--/.sidemenu-->
+				
+				<div class="side-slideshow">
+<div class="bnrslider">
+<ul class="bnrslider_slick">
+<!--サイト内リンクはデータ移行後リンク先を変更する。-->
+<li><a href="https://www.covid19-vaccine.mrso.jp/182044/VisitNumbers/visitnoAuth/" target="_blank" rel="noopener"><img src="/share/imgs/mainbnr05.jpg" alt="新型コロナワクチン接種の予約"></a></li>
+<li><a href="/kurashi/bosai-anzen/shingatakoronauirusu/4452.html"><img src="/share/imgs/banner_covid19.jpg" alt="新型コロナウイルス感染症関連情報"></a></li>
+<li><a href="/kurashi/bosai-anzen/shingatakoronauirusu/4801.html"><img src="/share/imgs/mainbnr02.jpg" alt="新型コロナワクチンについて"></a></li>
+<li><a href="/tomiko/p000000b.html" rel="noopener" target="_blank"><img alt="" src="/share/imgs/obamaticket.jpg" /></a></li>
+<li><a href="http://www1.city.obama.fukui.jp/obm/kikaku/furusato_kifu/" target="_blank" rel="noopener"><img src="/share/imgs/mainbnr03_3.jpg" alt="ふるさと納税特設ページ"></a></li>
+
+</ul>
+<div class="bnrslider_control">
+<button type="button" class="bnrslider_button is_stop">停止/開始</button>
+</div>
+</div>
+</div><!--/#sideslider-->
+				<!--「もしものとき・安全のために」のリンクは"moshimo"クラスを付ける。-->
+<div class="sidelink moshimo">
+<ul class="moshimo_link">
+<!--サイト内リンクはデータ移行後リンク先を変更する。-->
+<!--外部リンクは"blank"クラスを付ける。-->
+<li><a href="/kurashi/kenko-iryo-nenkin/kyuukyuu/224.html">休日当番医</a></li>
+<li><a href="/kurashi/bosai-anzen/hinan/4324.html">避難所</a></li>
+<li><a href="http://www.fukui.med.or.jp/aedhp/ichiran/obama.htm" target="_blank" rel="noopener" class="blank">AED設置場所一覧</a></li>
+<li><a href="/kurashi/bosai-anzen/3742.html">弾道ミサイル落下時の行動等について</a></li>
+<li><a href="/kurashi/bosai-anzen/bosaitaisaku/1488.html">小浜市防災メールについて</a></li>
+</ul>
+</div>
+
+
+
+				<div class="sidelink">
+<!--外部リンクは"blank"クラスを付ける。-->
+<a href="/news/covid-19/index.html">新型コロナウイルス感染症関連情報</a>
+</div>
+				<div class="sidelink">
+<!--外部リンクは"blank"クラスを付ける。-->
+<a href="/index.html#top-allsearch">目的から探す</a>
+</div>
+				<div class="sidelink">
+<!--外部リンクは"blank"クラスを付ける。-->
+<a href="/index.html#top-allsearch">便利なサービス</a>
+</div>
+						
+			
+					</div><!--/.Rcont-->
+				</div>
+			</div><!--/#container-->
+
+
+<div class="wrapper">
+<div class="switch btn-viewmode">
+<div class="switch_label">
+<p>表示切替</p>
+</div>
+<div class="switch_btn">
+<ul>
+<li class="pc"><a href="javascript:;"><span>パソコン版</span></a></li>
+<li class="sp"><a href="javascript:;"><span>スマートフォン版</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+		</main>
+<footer id="footer">
+<div id="footer-1">
+<div class="wrapper clearfix">
+<div class="officeinfo">
+<div class="officeinfo_logo">
+<img src="/share/imgs/footer_logo.png" alt="福井県小浜市">
+<span>小浜市役所</span>
+</div>
+<div class="officeinfo_address">
+<p>〒917-8585　福井県小浜市大手町6番3号<br>
+電話番号：0770-53-1111(代)　<br class="sp">ファックス：0770-53-0742<br>
+開庁時間：8時30分　<br class="sp">閉庁時間：17時15分（金曜日は1階窓口のみ18時30分まで）<br>
+開庁日：平日の月曜日から金曜日まで</p>
+</div>
+</div>
+<ul class="footermenu-1">
+<li><a href="/shisei/obamashinitsuite/300.html">交通アクセス</a></li>
+<li><a href="/shisei/obamashinitsuite/132.html">市のプロフィール</a></li>
+<li><a href="/shisei/obamashinitsuite/p000000a.html">ご意見・お問い合わせ</a></li>
+</ul>
+<ul class="footersns">
+<li><a href="https://www.facebook.com/city.obama/" target="_blank" rel="noopener"><img src="/share/imgs/sns_facebook.png" alt="小浜市公式フェイスブック"></a></li>
+<li><a href="https://twitter.com/obama_city" target="_blank" rel="noopener"><img src="/share/imgs/sns_twitter.png" alt="小浜市公式ツイッター"></a></li>
+</ul>
+<ul class="footermenu-2">
+<li><a href="/news/p000000a.html">このホームページについて</a></li>
+<li><a href="/news/p000000.html">個人情報の取り扱い</a></li>
+<li><a href="/news/p000000c.html">ウェブアクセシビリティ方針</a></li>
+<li><a href="/sitemap.html">サイトマップ</a></li>
+<li><a href="/news/p000000d.html">リンク集</a></li>
+</ul>
+</div>
+</div>
+<div id="footer-2">
+<small class="copyright">&copy; 2021 Obama City.</small>
+</div>
+<div id="footer-3" class="wrapper">
+<div class="pagetop"><a href="#pagetop"><img src="/share/imgs/pagetop.png" alt="ページの先頭へ"></a></div>
+</div>
+</footer>
+<img src="/cgi-bin/view/pageview.cgi?PAGE_KIND_CD=3&PAGE_NO=5347&OUTPUT_FG=1" style="display:none;" alt="" width="1" height="1" />
+	</div><!--/#general-->
+</body>
+</html>

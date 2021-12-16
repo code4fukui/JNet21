@@ -1,0 +1,401 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 1.0 Strict//EN" "http://www.w3.org/TR/html1/DTD/html1-strict.dtd">
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=SHIFT_JIS">
+	<meta http-equiv="Content-Style-type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta name="description" content="福井県 若狭町 公式サイト">
+	<meta name="keywords" content="福井県,嶺南,三方町,上中町,若狭町">
+	<link rel="stylesheet" type="text/css" href="/town/css/import.css">
+	<link rel="alternate stylesheet" type="text/css" href="/town/css/style_small.css" title="small">
+	<link rel="alternate stylesheet" type="text/css" href="/town/css/style_mid.css" title="mid">
+	<link rel="alternate stylesheet" type="text/css" href="/town/css/style_big.css" title="big">
+	<script type="text/javascript" src="../js/ccs.js"></script>
+	<script type="text/javascript" src="../js/ruby.js"></script>
+	<script type="text/javascript" src="../../js/Addzero.js"></script>
+	<script type="text/javascript" src="../../js/ErrMsg.js"></script>
+	<script type="text/javascript" src="../../js/InpChk.js"></script>
+	<script type="text/javascript" src="../../js/IsDate.js"></script>
+	<script type="text/javascript" src="../../js/keyctl.js"></script>
+	<script type="text/javascript" src="../../js/LenB.js"></script>
+	<script type="text/javascript" src="../../js/winOpen.js"></script>
+	<script type="text/javascript" src="../../js/movOpen.js"></script>
+
+<title>産業　SN保証５号の認定申請書類等について　　若狭町</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/town/css/style_default.css">
+<SCRIPT TYPE="text/javascript" src="../js/print.js"></SCRIPT>
+
+	<!--暮らしの窓口-->
+	<style type="text/css">
+	<!--
+	.h3_title{
+		margin-top:10px;
+		margin-bottom:10px;
+		padding-top:5px;
+		padding-bottom:5px;
+		background-color:#F9FFF2;
+		border-top:dotted 1px #318F41;
+		border-bottom:dotted 1px #318F41;
+		padding-left:10px;
+		padding-right:10px;
+	}
+	#page .h4_page{
+	width:518px;
+	background-color:#F9FFF2;
+	border-bottom:solid 1px #318F41;
+	padding-top:15px;
+	padding-bottom:15px;
+	background-image:url(../category/img/ico_pageh4.gif);
+	background-repeat:no-repeat;
+	padding-left:40px;
+	}
+	#page .h4_qa{
+		width:448px;
+		background-color:#F9FFF2;
+		border-bottom:solid 1px #318F41;
+		padding-top:15px;
+		padding-bottom:15px;
+		background-image:url(../qa/img/ico_q.gif);
+		background-repeat:no-repeat;
+		padding-left:110px;
+	}
+	#page{
+		width:558px;
+		border:solid 1px #318F41;
+		margin-top:5px;
+		margin-bottom:20px;
+	}
+	#page .page_date{
+		background-color:#318F41;
+		width:558px;
+		color:#FFFFFF;
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+	#qa_list h3{
+		margin-top:10px;
+		margin-bottom:10px;
+		padding-top:5px;
+		padding-bottom:5px;
+		background-color:#F9FFF2;
+		border-top:dotted 1px #669999;
+		border-bottom:dotted 1px #669999;
+		width:670px;
+		padding-left:10px;
+		padding-right:10px;
+	}
+	#categorylist_s h3{
+		background-color:#F9FFF2;
+		border-top:dotted 1px #318F41;
+		border-bottom:dotted 1px #318F41;
+		padding-top:5px;
+		padding-bottom:5px;
+		font-size:1.3em;
+		padding-left:5px;
+		padding-right:5px;
+		margin-bottom:5px;
+		text-decoration:none;
+	}
+	-->
+	</style>
+
+<link rel="stylesheet" type="text/css" media="print" href="../css/style_print.css">
+<link href="../css/DropDownMenu.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../js/DropDownMenu.js"></script>
+</head>
+<body>
+<!--div id="body"-->
+<!--begin header-->
+  <div id="top_header">
+	<div class="head_top clearfix">
+          <p class="btn_kanko r"><a href="../../kankou/"><img src="/town/category/img/btn_event.gif" width="138" height="24" alt="観光・イベント情報" /></a></p>
+        <h1 title="福井県 若狭町" class="l"><a href="../../"><span>福井県 若狭町</span></a></h1>
+	</div>
+    <div class="top_green c_b clearfix">
+     	 <p class="l"><a href="http://weather.yahoo.co.jp/weather/jp/18/5720/18501.html" target="_blank"><img src="/town/category/img/btn_wether.gif" width="100" height="20" alt="若狭町の天気" /></a> <a href="../access"><img src="/town/category/img/btn_acc.gif" width="100" height="20" alt="交通アクセス" /></a></p>
+        
+        <div class="right_font clearfix r">
+            <p class="l">文字サイズ<a href="#" onClick="setCSS('Default'); return false;"><img src="/town/category/img/font_s.gif" width="21" height="21" alt="小" /></a> <a href="#" onClick="setCSS('mid'); return false;"><img src="/town/category/img/font_m.gif" width="22" height="21" alt="中" /></a> <a href="#" onClick="setCSS('big'); return false;"><img src="/town/category/img/font_b.gif" width="21" height="21" alt="大" /></a></p>
+				　サイト内検索
+            <form action="http://www.google.com/cse" id="cse-search-box" class="r">
+            <input type="hidden" name="cx" value="012865577671127967383:nsk7getqgqa" />
+            <input type="hidden" name="ie" value="Shift_JIS" />
+            <input type="text" name="q" size="18" />
+            <input align="top" type="image" name="submit" alt="検索" src="/town/category/img/btn_kensaku.gif" class="typeimg" />
+          </form>
+        <div>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=ja"></script></div>
+        </div>
+    </div><!--/top_green-->
+    
+    
+  </div><!--/header-->
+  
+  <div id="contents" class="c_b">
+  <ol id="nav" class="clearfix">
+    <li class="nav1"><p class="menuimg"><a href="../../" title="ホーム"><span>ホーム</span></a></p></li>
+    <li class="nav2"><p class="menuimg"><a href="../category/?Cate1=1" id="mmenu9" name="mmenu9" onMouseOver="mopen(9);" onMouseOut="mclosetime();"><span>暮らしの窓口</span></a></p>
+    <div class="clearfix" id="menu9" onMouseOver="mcancelclosetime()" onMouseOut="mclosetime();">
+		<a href="../category/category_list.asp?Cate1=1&Cate2=1">届出・証明</a><a href="../category/category_list.asp?Cate1=1&Cate2=2">税金</a><a href="../category/category_list.asp?Cate1=1&Cate2=3">生活・衛生</a><a href="../category/category_list.asp?Cate1=1&Cate2=4">産業</a><a href="../category/category_list.asp?Cate1=1&Cate2=5">保健・医療</a><a href="../category/category_list.asp?Cate1=1&Cate2=6">福祉・介護</a><a href="../category/category_list.asp?Cate1=1&Cate2=7">消防・防災</a><a href="../category/category_list.asp?Cate1=1&Cate2=8">まちづくり・財政</a><a href="../category/category_list.asp?Cate1=1&Cate2=9">広報・統計・情報</a><a href="../category/category_list.asp?Cate1=1&Cate2=10">建設・住宅</a><a href="../category/category_list.asp?Cate1=1&Cate2=11">教育・文化・スポーツ</a><a href="../category/category_list.asp?Cate1=1&Cate2=12">施設案内</a><a href="../category/category_list.asp?Cate1=1&Cate2=29">広報わかさ</a><a href="../category/category_list.asp?Cate1=1&Cate2=46">新型コロナウイルスに関すること</a>
+    </div></li>
+    <li class="nav3"><p class="menuimg"><a href="../kouza/" title="イベント・募集" id="mmenu10" name="mmenu10" onMouseOver="mopen(10);" onMouseOut="mclosetime();"><span>イベント・募集</span></a></p>
+    <div class="clearfix" id="menu10" onMouseOver="mcancelclosetime()" onMouseOut="mclosetime();">
+		<a href="../kouza/?Cnt=1&Page=2478">デービッド・アトキンソン氏講演会</a><a href="../kouza/?Cnt=1&Page=2482">今川裕代＆高井敏弘デュオコンサート</a><a href="../kouza/?Cnt=1&Page=2477">ふるさと納税事務補助職員募集</a><a href="../kouza/?Cnt=1&Page=2468">令和４年若狭町成人式のお知らせ</a><a href="../kouza/?Cnt=1&Page=2448">三方五湖サイクルピクニックを開催します</a><a href="../kouza/?Cnt=1&Page=2440">オクトーバー・ラン＆ウォーク福井県大会</a><a href="../kouza/?Cnt=1&Page=1510">令和5年（2023年）以降の成人式について</a><a href="../kouza/?Cnt=1&Page=2422">パレア哲学カフェ延期のお知らせ</a><a href="../kouza/?Cnt=1&Page=2398">企画展 「熊川御用日記」 展示解説</a><a href="../kouza/?Cnt=1&Page=2334">パレア若狭公演　古関裕而名曲集</a>
+    </div></li>
+    <li class="nav4"><p class="menuimg"><a href="../category/?Cate1=2" id="mmenu11" name="mmenu11" onMouseOver="mopen(11);" onMouseOut="mclosetime();"><span>プロフィール</span></a></p>
+    <div class="clearfix" id="menu11" onMouseOver="mcancelclosetime()" onMouseOut="mclosetime();">
+		<a href="../category/category_list.asp?Cate1=2&Cate2=42">町の紹介</a><a href="../category/category_list.asp?Cate1=2&Cate2=43">町長プロフィール</a><a href="../category/category_list.asp?Cate1=2&Cate2=15">町の組織</a><a href="../category/category_list.asp?Cate1=2&Cate2=38">若狭町議会</a><a href="../category/category_list.asp?Cate1=2&Cate2=16">役場庁舎のご案内</a><a href="../category/category_list.asp?Cate1=2&Cate2=19">選挙</a><a href="../category/category_list.asp?Cate1=2&Cate2=18">集落名一覧</a><a href="../category/category_list.asp?Cate1=2&Cate2=17">統計</a><a href="../category/category_list.asp?Cate1=2&Cate2=32">祭り・イベント</a><a href="../category/category_list.asp?Cate1=2&Cate2=28">名誉町民</a><a href="../category/category_list.asp?Cate1=2&Cate2=30">交流都市</a><a href="../category/category_list.asp?Cate1=2&Cate2=39">関係機関</a>
+    </div></li>
+    <li class="nav5"><p class="menuimg"><a href="../category/?Cate1=3" id="mmenu12" name="mmenu12" onMouseOver="mopen(12);" onMouseOut="mclosetime();"><span>自然と環境保全</span></a></p>
+    <div class="clearfix" id="menu12" onMouseOver="mcancelclosetime()" onMouseOut="mclosetime();">
+		<a href="../category/category_list.asp?Cate1=3&Cate2=44">環境基本計画</a><a href="../category/category_list.asp?Cate1=3&Cate2=21">里山保全</a><a href="../category/category_list.asp?Cate1=3&Cate2=24">環境宣言</a><a href="../category/category_list.asp?Cate1=3&Cate2=22">三方五湖のまわりの生き物</a><a href="../category/category_list.asp?Cate1=3&Cate2=23">三方五湖のまわりの田んぼ</a><a href="../category/category_list.asp?Cate1=3&Cate2=25">町の名水</a><a href="../category/category_list.asp?Cate1=3&Cate2=26">ラムサール条約</a><a href="../category/category_list.asp?Cate1=3&Cate2=27">名勝三方五湖保存管理計画</a>
+    </div></li>
+  </ol>
+
+
+  <p class="bread"><a href="../">ホーム</a>&gt;<a href="./?Cate1=1">暮らしの窓口</a>&gt;<a href="category_list.asp?Cate1=1&Cate2=4">産業</a>&gt;SN保証５号の認定申請書類等について</p>
+
+
+	<div id="main" class="clearfix">
+
+	<!--begin h2_title-->
+	<div id="h2_title">
+		<h2 title="暮らしの窓口タイトル" style="height:30px;"><img src="/file/cate1/1/title/stt_life.gif" alt="暮らしの窓口タイトル"></h2>
+	</div>
+	<!--end h2_title-->
+
+	<!--begin left-->
+	<div id="left">
+	<form name="frmMenu" method="get">
+		<ul class="cate_left">
+		
+				<li><a href="./category_list.asp?Cate1=1&Cate2=1">届出・証明</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=2">税金</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=3">生活・衛生</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=4"><strong>産業</strong></a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=5">保健・医療</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=6">福祉・介護</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=7">消防・防災</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=8">まちづくり・財政</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=9">広報・統計・情報</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=10">建設・住宅</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=11">教育・文化・スポーツ</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=12">施設案内</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=29">広報わかさ</a></li>
+			
+				<li><a href="./category_list.asp?Cate1=1&Cate2=46">新型コロナウイルスに関すること</a></li>
+			
+		</ul>
+		<input type="hidden" name="Cate1" value="1">
+	</form>
+	</div>
+	<!--end left-->
+
+
+	<!--end pankuzu-->
+
+	<!--begin right-->
+		<div id="right">
+			<!--begin h3_title-->
+			<div class="h3_title" id="h3_title">
+				<h3>産業</h3>
+			</div>
+			<!--end  h3_titles-->
+			<!--begin page-->
+			<div id="page">
+				<div class="page_date">
+					<ul>
+						<li class="touroku">登録日：2020年4月7日</li>
+						<li class="koushin">最終更新日：2021年8月25日</li>
+					</ul>
+					<a href="javascript:PrintPage();" class="noprint"><img src="img/bt_print.gif" alt="印刷する" align="left"></a>
+					<br class="c-both">
+				</div>
+				<h4 class="h4_page">SN保証５号の認定申請書類等について</h4>
+				<div class="page_photo">
+					<table>
+						<tr valign="top" align="left">
+						<!--##### 画像表示 #####-->
+						
+						</tr>
+					</table>
+					
+					<div class="c-both"></div>
+				</div>
+				<!--##### ページ本文 #####-->
+				<div class="page_p">●セーフティーネット保証５号<BR>特に重大な影響が生じている業種の経営の安定に支障を生じている中小企業者への資金供給の円滑化を図るために、信用保証協会が通常の保証限度額とは別枠で借入債務の80％を保証する制度。<BR>＜指定業種＞<BR>新型コロナウイルス感染症の影響によるセーフティーネット保証5号に指定されている業種は、下記関連文書ダウンロードの「ＳＮ保証５号の指定業種（2021.8.1～2021.12.31）」をご参照ください。<BR>＜指定期間＞<BR>R3.12.31まで<BR>※指定期間とは…事業者のみなさんが若狭町長に対して、認定申請をすることができる期間<BR>＜対象事業者＞<BR>次のいずれかに該当する若狭町内の中小事業者（個人の場合は事業実態のある事業所、法人の場合は登記上の住所地または事業実態のある事業所が、若狭町内にある中小事業者）<BR>イ．経済産業大臣が指定する業種に属する事業を行っており、最近3か月間の売上高等が前年同期と比較して5％以上減少している。<BR>ロ．経済産業大臣が指定する業種に属する事業を行っており、製品原価のうち20％以上を占める原油等の仕入れ価格が20％以上上昇しているにもかかわらず、製品等に転嫁が困難なため、最近3か月間の売上高に占める原油等の仕入価格の割合が、前年同期の売上高に占める原油等の仕入価格の割合を上回っている。<BR>＜申請様式＞<BR>使用する申請書は、行っている事業と指定業種の関係により、上記（イ）（ロ）につき、それぞれ次のとおり3つに分かれます。<BR>1.１つの指定業種のみを行っている、または兼業者であって行っている事業が全て指定業種に属する。<BR>2.兼業者であって、主たる事業が属する業種（主たる業種）が指定業種に該当する。<BR>3.兼業者であって、１つ以上の指定業種（主たる業種かどうかは問わない）に属する事業を行っている。</div>
+			</div>
+			<!--end page-->
+
+			<!--begin kanren_pdf-->
+			<div id="kanren_pdf">
+				<h4>関連文書ダウンロード</h4>
+				<ul>
+
+					<li class="pdf"><a href="/file/page/2039/doc/1.pdf" target="_blank">SN保証５号の概要</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/36.pdf" target="_blank">運用緩和について</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/41.pdf" target="_blank">SN保証５号の指定業種（２０２１．８．１～２０２１．１２．３１）</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/40.pdf" target="_blank">SN保証５号の指定業種（２０２１．７．１～２０２１．７．３１）</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/39.pdf" target="_blank">SN保証５号の指定業種（２０２１．２．１～２０２１．６．３０）</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/38.pdf" target="_blank">SN保証５号の指定業種（２０２０．５．１～２０２１．１．３１）</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/37.pdf" target="_blank">SN保証5号の指定業種追加（２０２０．４．１０～６．３０）</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/2.pdf" target="_blank">SN保証５号の指定業種（２０２０．４．１～６．３０）</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/3.pdf" target="_blank">SN保証５号の認定申請について</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/4.pdf" target="_blank">１．SN保証５号（イー１）の認定申請様式について</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/5.pdf" target="_blank">２．SN保証５号（イー１）「申請書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/6.pdf" target="_blank">３．SN保証５号（イー１）「認定チェックシート」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/7.pdf" target="_blank">４．SN保証５号（イー１）「誓約書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/8.pdf" target="_blank">５．SN保証５号（イー１）「委任状」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/9.pdf" target="_blank">１．SN保証５号（イー２）の認定申請様式について</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/12.pdf" target="_blank">２．SN保証５号（イー２）「申請書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/13.pdf" target="_blank">３．SN保証５号（イー２）「認定チェックシート」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/14.pdf" target="_blank">４．SN保証５号（イー２）「誓約書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/15.pdf" target="_blank">５．SN保証５号（イー２）「委任状」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/16.pdf" target="_blank">１．SN保証５号（イー３）の認定申請様式について</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/17.pdf" target="_blank">２．SN保証５号（イー３）「申請書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/18.pdf" target="_blank">３．SN保証５号（イー３）「認定チェックシート」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/19.pdf" target="_blank">４．SN保証５号（イー３）「誓約書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/20.pdf" target="_blank">５．SN保証５号（イー３）「委任状」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/21.pdf" target="_blank">１．SN保証５号（ロー１）の認定申請様式について</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/22.pdf" target="_blank">２．SN保証５号（ロー１）「申請書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/23.pdf" target="_blank">３．SN保証５号（ロー１）「認定チェックシート」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/24.pdf" target="_blank">４．SN保証５号（ロー１）「誓約書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/25.pdf" target="_blank">５．SN保証５号（ロー１）「委任状」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/26.pdf" target="_blank">１．SN保証５号（ロー２）の認定申請様式について</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/27.pdf" target="_blank">２．SN保証５号（ロー２）「申請書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/28.pdf" target="_blank">３．SN保証５号（ロー２）「認定チェックシート」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/29.pdf" target="_blank">４．SN保証５号（ロー２）「誓約書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/30.pdf" target="_blank">５．SN保証５号（ロー２）「委任状」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/31.pdf" target="_blank">１．SN保証５号（ロー３）の認定申請様式について</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/32.pdf" target="_blank">２．SN保証５号（ロー３）「申請書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/33.pdf" target="_blank">３．SN保証５号（ロー３）「認定チェックシート」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/34.pdf" target="_blank">４．SN保証５号（ロー３）「誓約書」</a></li>
+
+					<li class="pdf"><a href="/file/page/2039/doc/35.pdf" target="_blank">５．SN保証５号（ロー３）「委任状」</a></li>
+
+				</ul>
+				<p class="pdf_down">※右クリック（Macintosh の場合はしばらくクリック）をして、「対象をファイルに保存」等のメニューを選択し、資料をダウンロードしてください。<br>
+				Adobe Readerは，下記の「Get Adobe Reader」のボタンから入手（ダウンロード）できます。<a href="http://www.adobe.com/jp/products/acrobat/readstep2.html" target="_blank"><img src="../img/bn_getreader.gif" width="88" height="31" border="0" align="absmiddle" alt="get Adobe Rader"></a> </p>
+			</div>
+			<!--end kanren_pdf-->
+<!--begin ID-->
+		<div id="ID">
+			<p>ページNO：002039</p>
+		</div>
+		<!--end  ID-->
+			<!--begin page_toiawase-->
+			<div id="page_toiawase">
+				<h4>お問い合わせ</h4>
+				<p>
+					観光未来創造課　特産振興室<br>
+						
+							TEL 0770-45-9111<br>
+						
+							<a href="mailto:tokusan@town.fukui-wakasa.lg.jp">tokusan@town.fukui-wakasa.lg.jp</a>
+						
+				</p>
+				<p>
+					
+				</p>
+			</div>
+			<!--end page_toiawase-->
+	 
+			<br class="c-both">
+		</div>
+
+	<!--end right-->
+	<br class="c-both">
+	<div class="page_top"><a href="#top_header">△ページのトップへ </a></div>
+
+	</div>
+	<div class="bottom_main"></div>
+</div>
+<!--end main-->
+
+<!--begin fotter_menu-->
+<div id="footer">
+<div id="footerIn">
+<ul class="clearfix">
+<li><a href="/town/use/">サイトの便利な使い方</a><img src="/town/category/img/icon_dotto.gif" alt="" width="4" height="16" /></li>
+<li><a href="/town/otoiawase/">お問い合わせ先</a><img src="/town/category/img/icon_dotto.gif"  alt="" width="4" height="16" /></li>
+<li><a href="/town/privacypolicy/">個人情報の取扱い</a><img src="/town/category/img/icon_dotto.gif"  alt="" width="4" height="16" /></li>
+<li><a href="/town/copyright/">著作権・リンク</a><img src="/town/category/img/icon_dotto.gif"  alt="" width="4" height="16" /></li>
+<li><a href="/town/goiken/">町やホームページのご意見</a></li>
+</ul>
+</div>
+
+<address class="c_b">
+若狭町三方庁舎　〒919-1393   福井県三方上中郡若狭町中央第1号1番地    TEL : 0770-45-1111(代)　FAX : 0770-45-1115 <br />
+若狭町上中庁舎　〒919-1592   福井県三方上中郡若狭町市場第20号18番地    TEL : 0770-62-1111(代)　FAX : 0770-62-2710
+</address>
+<ul class="eigyo_ul">
+<li>開庁時間／月曜日から金曜日の朝8時30分から17時15分<br />(土曜日、日曜日、祝日及び、12月29日から翌年1月3日までは除く)</li>
+<li><span class="txt_orange">平成17年3月31日、三方町と上中町が合併して若狭町が誕生しました。</span></li>
+<li><img src="/town/category/img/txt_copy.gif" width="254" height="12" alt="copyright &copy; WAKASA TOWN.All Rights Reserved." /></li>
+</ul>
+
+</div><!--/footer-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20334779-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
