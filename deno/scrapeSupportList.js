@@ -33,7 +33,11 @@ for (const d of data) {
   //d.longtitle = a.querySelector("h1")?.text; // same
   d.date = a.querySelector("p.txt-right")?.text.trim();
   if (d.date) {
-    d.date = new Day(d.date).toString();
+    try {
+      d.date = new Day(d.date).toString();
+    } catch (e) {
+      console.log("invalid", e)
+    }
   }
   d.body = a.text.replace(/\s/g, ""); // for search
   console.log(d.url, d.date, d.tags);
