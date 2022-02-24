@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="ja" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>交野市企業立地促進条例について | 交野市</title>
+  <meta name="viewport" content="width=device-width" />
+<meta name="format-detection" content="telephone=yes" />
+<link rel="stylesheet" href="/_themes/city/css/normalize.css" />
+<link rel="stylesheet" href="/_themes/city/css/common.css" />
+<link rel="alternate stylesheet" href="/_themes/city/css/colors/white.css" title="white" />
+<link rel="alternate stylesheet" href="/_themes/city/css/colors/blue.css" title="blue" />
+<link rel="alternate stylesheet" href="/_themes/city/css/colors/black.css" title="black" />
+<link rel="stylesheet" href="/_themes/city/css/print.css" media="print" />
+<script src="/_themes/city/js/jquery.min.js"></script>
+<script src="/_themes/city/js/jquery-migrate.min.js"></script>
+<script src="/_themes/city/js/jquery.cookie.min.js"></script>
+<script src="/_themes/city/js/navigation.js"></script>
+<script src="/_themes/city/js/slick.min.js"></script>
+<script src="/_themes/city/js/common.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114682568-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114682568-1');
+</script>
+    
+<link rel="stylesheet" media="screen" href="/_common/js/flatpickr/themes/light.min.css" />
+<link rel="stylesheet" media="screen" href="/_common/js/flatpickr/themes/ja.css" />
+<script src="/_common/js/flatpickr/flatpickr.min.js"></script>
+<script src="/_common/js/flatpickr/l10n/ja.js"></script>
+<script src="/_common/js/flatpickr/plugins/scrollPlugin.js"></script>
+<script src="/_common/js/bowser.min.js"></script>
+
+</head>
+<body id="page-docs-2020021200027-index" class="dir-docs-2020021200027">
+  <div id="container">
+
+<header id="pageHeader">
+<div id="pageHeaderContainer">
+<div id="pageHeaderBody">
+
+<!-- skip reading -->
+<div id="accessibilityTool" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody clearfix">
+
+<a id="nocssread" href="#main">本文へ</a>
+
+<div class="tools clearfix">
+<ul id="accessibility_tool">
+  <li class="tool-ruby"><a href="#navigationRuby" id="navigationRuby">ふりがなをつける</a></li>
+  <li class="tool-talk"><a href="#navigationTalk" id="navigationTalk">よみあげる</a><span id="navigationTalkPlayer"></span></li>
+  <li class="tool-size">文字の大きさ
+  <ul class="fontSize">
+    <li><a href="#fontLarge" id="fontLarge" title="文字のサイズを大きくする">拡大</a></li>
+    <li><a href="#fontMiddle" id="fontMiddle" title="標準の文字サイズに戻す">標準</a></li>
+    <li><a href="#fontSmall" id="fontSmall" title="文字のサイズを小さくする">縮小</a></li>
+  </ul>
+  </li>
+  <li class="tool-color">背景色
+  <ul class="themeColor">
+    <li><a href="#themeBlack" id="themeBlack" title="背景色を黒にする" class="black">黒</a></li>
+    <li><a href="#themeBlue" id="themeBlue" title="背景色を青にする" class="blue">青</a></li>
+    <li><a href="#themeWhite" id="themeWhite" title="背景色を元に戻す" class="white">標準</a></li>
+  </ul>
+  </li>
+</ul>
+
+<div id="google_translate_element"></div>
+<script>
+  function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'ja', includedLanguages: 'en,ko,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</div>
+</div>
+</div>
+</div>
+<!-- /skip reading -->
+<div id="commonHeader" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+
+<h1><a href="/"><img src="/_themes/city/images/header-id.png" srcset="/_themes/city/images/header-id.png 1x, /_themes/city/images/header-id_s.png 2x" alt="交野市" /></a></h1>
+
+<div class="menu-btn">
+  <ul>
+    <li class="menu-btn1"><a href="javascript:void(0);">検索</a></li>
+    <li class="menu-btn2"><a href="javascript:void(0);">支援ツール</a></li>
+  </ul>
+</div>
+
+<div class="menu">
+  <ul>
+    <li class="menu1">
+      <div class="cse-search-box">
+        <form action="https://www.google.com/cse" id="cse-search-box" target="_blank">
+        <input type="hidden" name="cx" value="008838789820683127002:ybpfkjjan7a">
+        <input type="hidden" name="ie" value="UTF-8" />
+        <!--<input type="hidden" value="FORID:10" name="cof" />-->
+        <input type="text" name="q" size="12" id="search-box" />
+        <input type="submit" name="sa" value="サイト内検索" id="search-button" />
+        </form>
+        <script type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+        <a href="/docs/search/">検索方法</a>
+      </div>
+      <ul>
+      <li><a href="/categories/bunya/">分野から探す</a></li>
+      <li><a href="/sitemap.html">サイトマップ</a></li>
+      </ul>
+    </li>
+    <li class="menu2">
+      <div class="accessibility_tool"><p class="message">ふりがなと読み上げ音声は，人名，地名，用語等が正確に発音されない場合があります。</p></div>
+      <div class="google_translate"><p class="message">ページの言語を翻訳</p></div>
+    </li>
+  </ul>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+<!-- end #pageHeaderContainer --></div>
+<!-- end #pageHeader --></header>
+
+<nav id="pageNav">
+<div id="pageNavContainer">
+<div id="pageNavBody">
+
+<div id="globalNavi" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+<ul>
+<li><a href="/navi/kurashi/">くらし</a></li>
+<li><a href="/navi/kosodate/">子育て・教育</a></li>
+<li><a href="/navi/kenko/">健康・福祉</a></li>
+<li><a href="/navi/kanko/">観光・文化・スポーツ</a></li>
+<li><a href="/navi/jigyosha/">事業者の方へ</a></li>
+<li><a href="/navi/shisei/">市政について</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="breadCrumbs" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody"><ol><li><a href="/">ホーム</a></li><li><a href="/categories/">カテゴリ</a></li><li><a href="/categories/kubun/">記事区分</a></li><li><a href="/categories/kubun/seido/">制度・業務</a></li></ol><ol><li><a href="/">ホーム</a></li><li><a href="/categories/">カテゴリ</a></li><li><a href="/categories/bunya/">分野</a></li><li><a href="/categories/bunya/chiikishinko/">地域振興</a></li><li><a href="/categories/bunya/chiikishinko/sangyo/">産業振興</a></li></ol><ol><li><a href="/">ホーム</a></li><li><a href="/categories/">カテゴリ</a></li><li><a href="/categories/bunya/">分野</a></li><li><a href="/categories/bunya/chiikishinko/">地域振興</a></li></ol><ol><li><a href="/">ホーム</a></li><li><a href="/soshiki/">組織</a></li><li><a href="/soshiki/somubu/">総務部</a></li><li><a href="/soshiki/somubu/tiikisinkou/">地域振興課</a></li></ol>
+</div>
+</div>
+<!-- end .piece --></div>
+
+
+</div>
+<!-- end #pageNavContainer --></div>
+<!-- end #pageNav --></nav>
+
+<div id="main">
+<div id="mainContainer">
+
+<div id="wrapper" class="col2">
+
+<div id="content">
+<div id="contentContainer">
+<div id="contentBody">
+
+<div id="pageTitle" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody"><h1>交野市企業立地促進条例について</h1>
+</div>
+</div>
+<!-- end .piece --></div>
+
+<article class="contentGpArticleDoc">
+<div class="date">
+  <p class="publishedAt">公開日 2020年04月01日</p>
+  <p class="updatedAt">更新日 2022年02月09日</p>
+</div>
+
+
+<div class="body">
+  <div class="text-beginning"><p>●<a href="#katanoshi">交野市企業立地促進条例について</a><br />
+●<a href="#oosakafu">大阪府産業集積促進税制について</a><br />
+●<a href="#sonota">その他の補助制度について</a></p>
+
+<p>&nbsp;</p>
+
+<h2><span id="katanoshi" name="katanoshi">交野市企業立地促進条例について</span></h2>
+
+<p>対象地域に事業所等の新増築及び建て替えをする事業者に対して奨励金を交付することで、企業立地を促進し、住工混在の防止、産業集積・促進及び雇用創出を図ります。</p>
+
+<p><span style="color:#ee0000"><strong>制度の利用を希望される方は、必ず交野市地域振興課まで、事前にご相談ください。また、こちらの</strong></span><a class="iconFile iconPdf" href="file_contents/katano-ricchi.pdf">パンフレット</a><span style="color:#ee0000"><strong>も併せてご確認ください。</strong></span></p>
+
+<h3>対象者</h3>
+
+<p>下記の（１）〜（５）のいずれにも該当する事業者であること。<br />
+（１）中小企業者又は本社機能を有する事業所等を市内へ新設し、本店として登記する事業者であること。<br />
+（２）産業集積促進地域で製造業、情報通信業又は学術・開発研究機関を営むこと。<br />
+（３）市税の滞納がない法人又は個人であること。<br />
+（４）騒音、公害防止等について、法令で定める適正な措置を講じること。<br />
+（５）暴力団、暴力団員又は暴力団関係者に該当しないこと。</p>
+
+<h3>対象地域</h3>
+
+<p>工業地域及び準工業地域のうち、次の地域<br />
+・幾野３丁目の一部<br />
+・幾野４丁目の一部<br />
+・幾野５丁目<br />
+・幾野６丁目の一部<br />
+・郡津２丁目の一部<br />
+・私部西５丁目の一部<br />
+・星田北１丁目<br />
+・星田北４丁目の一部<br />
+・星田北５丁目の一部<br />
+・星田北６丁目の一部<br />
+・星田北８丁目<br />
+・星田北９丁目<br />
+（<a class="iconFile iconPdf" href="file_contents/area-katano.pdf">対象エリア（交野市）</a>）</p>
+
+<p>&nbsp;</p>
+
+<h3>対象事業</h3>
+
+<p>（１）事業所等の購入又は新築<br />
+（２）事業所等の増築<br />
+（３）事業所等の建替え<br />
+（４）償却資産の購入<br />
+（５）本市民の新規雇用</p>
+
+<h3>奨励金額</h3>
+
+<p>（１）購入又は新築した事業所等にかかる固定資産税相当額及び都市計画税相当額の1/2を補助<br />
+（２）増築した事業所等にかかる固定資産税相当額及び都市計画税相当額の1/2を補助　※増築部分のみ補助<br />
+（３）建替えした事業所等にかかる固定資産税相当額及び都市計画税相当額の1/2を補助<br />
+（４）購入した償却資産にかかる固定資産税相当額の1/2を補助<br />
+（５）新規雇用した市民１人につき、１０万円を補助</p>
+
+<p><strong><span style="color:#ee0000">※（１）〜（３）については１対象事業者につき５００万円、（４）については１対象事業者につき４００万円、（５）については１対象事業者につき１００万円を上限とする。</span></strong><strong><span style="color:#ee0000">また（４）と（５）は、（１）〜（３）のいずれかと一体で行う場合のみ申請が可能です。</span></strong></p>
+
+<h3>交付対象期間</h3>
+
+<p>対象事業にかかる資産を取得した日または対象事業所等が操業を開始した日以後、初めて固定資産税及び都市計画税を課されることとなった年度から起算して５年。</p>
+
+<p>&nbsp;</p>
+
+<h2><span id="oosakafu" name="oosakafu">大阪府産業集積促進税制について</span></h2>
+
+<p>交野市の下記地域は、大阪府の「産業集積促進地域」に指定されています。当該地域で企業立地する場合は、市の企業立地優遇制度とともに、大阪府の不動産取得税を軽減する特例措置を活用することができます。詳しくは大阪府HPをご確認ください。また大阪府が実施しているその他の企業立地促進に関する補助制度はこちらのページをご確認ください。なお、交野市企業立地促進条例で対象としている地域は異なりますので、ご注意ください。</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td style="text-align:center; width:150px">地域名称</td>
+			<td style="text-align:center">面積</td>
+			<td style="text-align:center">図面</td>
+		</tr>
+		<tr>
+			<td style="width:150px">交野市幾野工業地域地区</td>
+			<td>25.8ha</td>
+			<td colspan="1" rowspan="2"><a class="iconFile iconPdf" href="file_contents/area-osaka.pdf">対象エリア（大阪府産業集積促進地域）</a></td>
+		</tr>
+		<tr>
+			<td>交野市星田北地域地区</td>
+			<td>34.5ha</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h2>&nbsp;<span id="sonota" name="sonota">その他の補助制度等のお知らせ</span></h2>
+
+<p>経済産業省より、「サプライチェーン対策のための国内投資促進事業費補助金（3次公募）」を次のとおり実施する旨の周知がありましたので、お知らせいたします。<br />
+【公募期間】令和4年2月中旬～4月下旬<br />
+※こちらは、1月28日時点での予定となっており、変更する場合がございますので、詳細については必ず下の【問い合わせ先】をご確認ください。<br />
+【問い合わせ先】みずほリサーチ＆テクノロジーズ（株）<br />
+03-6825-5476<br />
+【関連ホームページ】<a href="https://www.meti.go.jp/information/publicoffer/kobo_yokoku/2022/ky220128002.html">経済産業省HP</a></p>
+</div>
+
+</div>
+
+
+
+
+
+
+<div class="inquiry">
+  <h2>この記事に関するお問い合わせ</h2>
+    <address>
+      <div class="section">地域振興課</div><div class="tel"><span class="label">TEL</span>：072-892-0121</div><div class="email"><span class="label">E-Mail</span>：<a href="mailto:sinkou@city.katano.osaka.jp">sinkou@city.katano.osaka.jp</a></div>
+    </address>
+</div>
+
+<div class="adobeReader">
+  <p>PDFの閲覧にはAdobe System社の無償のソフトウェア「Adobe Acrobat Reader」が必要です。下記のAdobe Acrobat Readerダウンロードページから入手してください。</p>
+  <a href="http://get.adobe.com/jp/reader/" target="_blank" title="Adobe Acrobat Readerダウンロード">Adobe Acrobat Readerダウンロード</a>
+</div>
+
+<!-- end .contentGpArticleDoc --></article>
+
+
+</div>
+<!-- end #contentContainer --></div>
+<!-- end #content --></div>
+
+<aside id="links">
+<div id="linksContainer">
+<div id="linksBody">
+
+
+<div id="usefulNavi" class="piece">
+<div class="pieceContainer">
+<div class="pieceHeader"><h2>便利情報ナビ</h2></div>
+<div class="pieceBody">
+<ul>
+<li><a href="/soshiki/"><img src="/_themes/city/images/useful/ic-soshiki.png" alt="" />組織案内</a></li>
+<li><a href="/map/index_kubun@shiyakusho.html"><img src="/_themes/city/images/useful/ic-shisetsu.png" alt="" />施設マップ</a></li>
+<li><a href="/shisetsuyoyaku/"><img src="/_themes/city/images/useful/ic-yoyaku.png" alt="" />施設予約<br />システム</a></li>
+<li><a href="/categories/kubun/kyujin/"><img src="/_themes/city/images/useful/ic-kyujin.png" alt="" />職員等募集</a></li>
+<li><a href="/docs/2017041000041/"><img src="/_themes/city/images/useful/ic-gomi.png" alt="" />ごみの収集</a></li>
+<li><a href="/contents/2019062400084/"><img src="/_themes/city/images/useful/ic-shohi.png" alt="" />市民相談</a></li>
+<li><a href="https://www.katanotoshokan.jp/" target="_blank"><img src="/_themes/city/images/useful/ic-library.png" alt="" />図書館</a></li>
+<li><a href="/reiki_int/reiki_menu.html"><img src="/_themes/city/images/useful/ic-reiki.png" alt="" />条例・規則<br />（例規集）</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="lifeeventList" class="piece">
+<div class="pieceContainer">
+<div class="pieceHeader"><h2>ライフイベント</h2></div>
+<div class="pieceBody">
+<ul>
+<li><a href="/categories/lifeevent/ninshin/"><img src="/_themes/city/images/life/ic-ninshin.png" alt="" />妊娠・出産</a></li>
+<li><a href="/categories/lifeevent/kosodate/"><img src="/_themes/city/images/life/ic-kosodate.png" alt="" />子育て</a></li>
+<li><a href="/categories/lifeevent/gakko/"><img src="/_themes/city/images/life/ic-school.png" alt="" />学校・教育</a></li>
+<li><a href="/categories/lifeevent/hikkoshi/"><img src="/_themes/city/images/life/ic-hikkoshi.png" alt="" />引越し・住まい</a></li>
+<li><a href="/categories/lifeevent/shushoku/"><img src="/_themes/city/images/life/ic-shushoku.png" alt="" />就職・退職</a></li>
+<li><a href="/categories/lifeevent/kekkon/"><img src="/_themes/city/images/life/ic-kekkon.png" alt="" />結婚・離婚</a></li>
+<li><a href="/categories/lifeevent/korei/"><img src="/_themes/city/images/life/ic-korei.png" alt="" />高齢・介護</a></li>
+<li><a href="/categories/lifeevent/okuyami/"><img src="/_themes/city/images/life/ic-okuyami.png" alt="" />おくやみ</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+<!-- end #linksContainer --></div>
+<!-- end #links --></aside>
+
+<!-- end #wrapper --></div>
+
+<!-- end #mainContainer --></div>
+<!-- end #main --></div>
+
+<footer id="pageFooter">
+<div id="pageFooterContainer">
+<div id="pageFooterBody">
+
+<div id="footerNavi" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+<ul>
+<li><a href="/docs/about-site/">サイトの利用について</a></li>
+<li><a href="/docs/privacy/">個人情報の取扱い</a></li>
+<li><a href="/docs/link/">リンクについて</a></li>
+<li><a href="/docs/copyright/">著作権・免責事項</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="commonFooter" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+
+<div>
+<div class="information">
+<div class="logo"><img src="/_themes/city/images/footer-id.png" alt="交野市" /></div>
+<ul>
+<li><a href="/map/index_kubun@shiyakusho.html">市役所のご案内</a></li>
+<li><a href="/contact/toiawase">ご意見・ご提案・お問い合わせ</a></li>
+</ul>
+</div>
+<address>
+〒576-8501 大阪府交野市私部1丁目1番1号<br />
+<span>電話：<a href="tel:072-892-0121">072-892-0121</a>（代表）</span><br />
+<span>開庁時間：9時00分から17時30分まで</span><span>（土曜日・日曜日・祝日・休日・年末年始を除く）</span>
+</address>
+</div>
+<div class="map"><img src="/_themes/city/images/map.png" alt="交野市所在地" /></div>
+</div>
+</div>
+</div>
+<div id="copyright" class="piece">
+<div class="pieceContainer">
+<div class="pieceBody">
+
+<small>Copyright &copy; Katano City, All rights reserved.</small>
+
+</div>
+</div>
+</div>
+
+</div>
+<!-- end #pageFooterContainer --></div>
+<!-- end #pageFooter --></footer>
+
+</div>
+</body>
+</html>
