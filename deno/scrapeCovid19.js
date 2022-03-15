@@ -12,7 +12,7 @@ import { JAPAN_PREF, JAPAN_PREF_EN } from "https://js.sabae.cc/JAPAN_PREF.js";
 const scrapeCovid19Support = async (pref, bodyfetch) => {
   const prefen = JAPAN_PREF_EN[JAPAN_PREF.indexOf(pref)];
   if (!prefen) {
-    throw new Error("都道府県不正!");
+    throw new Error("都道府県不正!" + pref);
   }
   const url = "https://j-net21.smrj.go.jp/support/covid-19/regional/" + prefen.toLowerCase() + ".html";
 
@@ -21,7 +21,10 @@ const scrapeCovid19Support = async (pref, bodyfetch) => {
   const dom = HTMLParser.parse(html);
   const main = dom.querySelector("main");
   const data = {};
-  data.info = main.querySelector("p.h1-subTitle").text;
+  data.info = main?.querySelector("p.h1-subTitle")?.text;
+  if (!data.info) {
+    throw new Error("not found title " + pref);
+  }
   data.type = main.querySelector("h1").text;
   data.sections = main.querySelectorAll("section").map(section => {
     const d = {};
@@ -92,8 +95,13 @@ const scrapeCovid19Support = async (pref, bodyfetch) => {
   //await mergeCSV(mfn, list, "url");
 
   const areas = ArrayUtil.toUnique(list.map(d => d.area));
-  for (const area of areas) {
+  for (let area of areas) {
     let lgcode = null;
+    //
+    if (area == "西興部町") {
+      area = "西興部村";
+    }
+    //
     if (area == pref) {
       lgcode = LGCode.encode(area);
     } else {
@@ -103,6 +111,9 @@ const scrapeCovid19Support = async (pref, bodyfetch) => {
       throw new Error("can't encode LGCode:" + area);
     }
     console.log(lgcode);
+    if (Array.isArray(lgcode)) {
+      lgcode = lgcode[0]; // todo! 同名市区町村、違っているかも
+    }
     const pcode = lgcode.substring(0, 2);
 
     const path = "../j-net21_covid19/" + pcode;
@@ -113,6 +124,10 @@ const scrapeCovid19Support = async (pref, bodyfetch) => {
 };
 
 for (const pref of JAPAN_PREF) {
-  await scrapeCovid19Support(pref, pref == "福井県" || pref == "大阪府");
+  try {
+    await scrapeCovid19Support(pref, pref == "福井県" || pref == "大阪府");
+  } catch (e) {
+    console.log("**" + e);
+  }
 }
 //await scrapeCovid19Support("福井県");
