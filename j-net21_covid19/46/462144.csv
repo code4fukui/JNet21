@@ -1,4 +1,5 @@
-﻿area,url,category,title,date
-垂水市,https://www.city.tarumizu.lg.jp/shokogyo/kurashi/sanngyo/hanro/safetynet4.html, 融資,セーフティネット保証制度・危機関連保証 ,2022-03-30
-垂水市,https://www.city.tarumizu.lg.jp/shokogyo/kurashi/sanngyo/hanro/corona/shien/index.html, 支援情報,新型コロナウイルス感染症対策に関する働く人等への支援 ,2022-03-30
-垂水市,https://www.city.tarumizu.lg.jp/kenko/kurashi/kenko/kensa/korona/index.html, 支援情報,新型コロナウイルス感染症 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+垂水市,https://www.city.tarumizu.lg.jp/shokogyo/kurashi/sanngyo/hanro/safetynet4.html, 融資,セーフティネット保証制度・危機関連保証 ,2022-03-30,,,
+垂水市,https://www.city.tarumizu.lg.jp/shokogyo/kurashi/sanngyo/hanro/corona/shien/index.html, 支援情報,新型コロナウイルス感染症対策に関する働く人等への支援 ,2022-03-30,,,
+垂水市,https://www.city.tarumizu.lg.jp/kenko/kurashi/kenko/kensa/korona/index.html, 支援情報,新型コロナウイルス感染症 ,2022-03-30,,,
+垂水市,http://www.city.tarumizu.lg.jp/shokogyo/kurashi/sanngyo/corona_sien/bukkakotosien.html,,【垂水市】補助金：「商工業者支援金給付事業について」,2022-08-15,82150,※2022年7月9日更新　申請期限2022年8月31日,

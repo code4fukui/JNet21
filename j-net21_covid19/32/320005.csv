@@ -1,9 +1,11 @@
-﻿area,url,category,title,date
-島根県,https://www.pref.shimane.lg.jp/industry/suisan/shinkou/suisangyousei/r2korona.html, 融資,令和3年度新型コロナウイルス感染症対策資金 ,2022-03-30
-島根県,https://www.pref.shimane.lg.jp/industry/norin/nougyo/sikin/R3inasakukeieiantei.html, 融資,稲作経営安定緊急対策資金 ,2022-03-30
-島根県,https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/safetynet20210702.html, 融資,【取扱期間延長】セーフティネット資金(新型コロナウイルス感染症対応枠) ,2022-03-30
-島根県,https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/tyusyo.html, 融資,島根県中小企業制度融資 （経営安定化対策資金） ,2022-03-30
-島根県,https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/safety4gou.html, 融資,新型コロナウイルス感染症に係るセーフティネット保証4号指定について ,2022-03-30
-島根県,https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chusho/support.html,, 事業継続力強化アドバイザー派遣事業 ,2022-03-30
-島根県,https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/koronamadoguchi.html, 相談,経営相談窓口 ,2022-03-30
-島根県,https://www.pref.shimane.lg.jp/bousai_info/bousai/kikikanri/shingata_taisaku/kigyou_jigyousha.html, 相談,県内企業・事業者のみなさまへ（相談・助言等） ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+島根県,https://www.pref.shimane.lg.jp/industry/suisan/shinkou/suisangyousei/r2korona.html, 融資,令和3年度新型コロナウイルス感染症対策資金 ,2022-03-30,,,
+島根県,https://www.pref.shimane.lg.jp/industry/norin/nougyo/sikin/R3inasakukeieiantei.html, 融資,稲作経営安定緊急対策資金 ,2022-03-30,,,
+島根県,https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/safetynet20210702.html, 融資,【取扱期間延長】セーフティネット資金(新型コロナウイルス感染症対応枠) ,2022-03-30,,,
+島根県,https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/tyusyo.html, 融資,島根県中小企業制度融資 （経営安定化対策資金） ,2022-03-30,,,
+島根県,https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/safety4gou.html, 融資,新型コロナウイルス感染症に係るセーフティネット保証4号指定について ,2022-03-30,,,
+島根県,https://www.pref.shimane.lg.jp/industry/syoko/sangyo/chusho/support.html,, 事業継続力強化アドバイザー派遣事業 ,2022-03-30,,,
+島根県,https://www.pref.shimane.lg.jp/industry/syoko/sangyo/yuushi/koronamadoguchi.html, 相談,経営相談窓口 ,2022-03-30,,,
+島根県,https://www.pref.shimane.lg.jp/bousai_info/bousai/kikikanri/shingata_taisaku/kigyou_jigyousha.html, 相談,県内企業・事業者のみなさまへ（相談・助言等） ,2022-03-30,,,
+島根県,http://shoko-shimane.or.jp/?p=15139&pr=1,,【島根県】補助金：「原油価格・物価高騰対策事業　飲食･商業･サービス業新事業展開支援事業」,2022-07-28,81032,※申請期限2022年8月31日,
+島根県,https://www.joho-shimane.or.jp/news/wanted_subsidy/6908,,「【島根県】助成金：しまね海外展開支援助成金＜グローバル人材確保育成事業＞」,2022-03-29,73928,,

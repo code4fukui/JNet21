@@ -18,7 +18,7 @@ jobs:
         run: |
           cd deno
           deno run -A scrapeSupportList.js
-          deno run -A scrapeCovid19.js
+          deno run -A fetchCovid19.js
       - name: commit and push
         run: |
           git config --global user.email "workflow@example.com"

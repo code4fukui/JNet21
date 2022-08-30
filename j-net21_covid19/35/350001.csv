@@ -1,13 +1,20 @@
-﻿area,url,category,title,date
-山口県,https://www.pref.yamaguchi.lg.jp/cms/a10900/corona/corona_jitan4.html, 協力金,第4期・飲食店等への営業時間短縮要請協力金 ,2022-03-30
-山口県,https://www.pref.yamaguchi.lg.jp/press/202202/051644.html, 補助金,山口県中小企業PCR検査補助金 期間延長 ,2022-03-30
-山口県,https://www.pref.yamaguchi.lg.jp/cms/a16300/kinyuu/seido-yuushi.html, 融資,山口県中小企業制度融資 ,2022-03-30
-山口県,https://www.pref.yamaguchi.lg.jp/cms/a10700/saigaikeigenn/corona_yuyo.html, 税制,山口県税における徴収の猶予 ,2022-03-30
-山口県,https://www.pref.yamaguchi.lg.jp/cms/a16300/kinyuu/safetynet.html, 融資,セーフティネット保証制度について ,2022-03-30
-山口県,https://www.pref.yamaguchi.lg.jp/cms/a16300/kinyuu/202002210001.html, 支援情報,新型コロナウイルス感染症の影響を受けている中小企業者の皆様へ ,2022-03-30
-山口県,https://www.pref.yamaguchi.lg.jp/cms/a18200/doro-s4/202006120001.html, 支援情報,新型コロナウイルス感染症の影響に対応するための沿道飲食店等の路上利用に伴う道路占用の取扱い ,2022-03-30
-山口県,https://www.pref.yamaguchi.lg.jp/cms/a11000/sodan/koronasoudan.html, 相談,新型コロナウイルスに関連する各種相談窓口について ,2022-03-30
-山口県,https://www.pref.yamaguchi.lg.jp/cms/a16300/kinyuu/20200318soudan.html, 相談,＜中小企業・小規模事業者向け＞新型コロナウイルス感染症に関する県内相談窓口 ,2022-03-30
-山口県,https://www.pref.yamaguchi.lg.jp/cms/a15900/soudan/koronaroudou.html#1, 相談,新型コロナウィルスに関する労働者支援の相談窓口～山口県商工労働部～ ,2022-03-30
-山口県,http://axis.or.jp/fix-consultation, 相談,特別相談窓口～山口県中小企業団体中央会～ ,2022-03-30
-山口県,https://y-yorozu.jp/consultation/, 相談,出張相談会～山口県よろず支援拠点～ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+山口県,https://www.pref.yamaguchi.lg.jp/cms/a10900/corona/corona_jitan4.html, 協力金,第4期・飲食店等への営業時間短縮要請協力金 ,2022-03-30,,,
+山口県,https://www.pref.yamaguchi.lg.jp/press/202202/051644.html, 補助金,山口県中小企業PCR検査補助金 期間延長 ,2022-03-30,,,
+山口県,https://www.pref.yamaguchi.lg.jp/cms/a16300/kinyuu/seido-yuushi.html, 融資,山口県中小企業制度融資 ,2022-03-30,,,
+山口県,https://www.pref.yamaguchi.lg.jp/cms/a10700/saigaikeigenn/corona_yuyo.html, 税制,山口県税における徴収の猶予 ,2022-03-30,,,
+山口県,https://www.pref.yamaguchi.lg.jp/cms/a16300/kinyuu/safetynet.html, 融資,セーフティネット保証制度について ,2022-03-30,,,
+山口県,https://www.pref.yamaguchi.lg.jp/cms/a16300/kinyuu/202002210001.html, 支援情報,新型コロナウイルス感染症の影響を受けている中小企業者の皆様へ ,2022-03-30,,,
+山口県,https://www.pref.yamaguchi.lg.jp/cms/a18200/doro-s4/202006120001.html, 支援情報,新型コロナウイルス感染症の影響に対応するための沿道飲食店等の路上利用に伴う道路占用の取扱い ,2022-03-30,,,
+山口県,https://www.pref.yamaguchi.lg.jp/cms/a11000/sodan/koronasoudan.html, 相談,新型コロナウイルスに関連する各種相談窓口について ,2022-03-30,,,
+山口県,https://www.pref.yamaguchi.lg.jp/cms/a16300/kinyuu/20200318soudan.html, 相談,＜中小企業・小規模事業者向け＞新型コロナウイルス感染症に関する県内相談窓口 ,2022-03-30,,,
+山口県,https://www.pref.yamaguchi.lg.jp/cms/a15900/soudan/koronaroudou.html#1, 相談,新型コロナウィルスに関する労働者支援の相談窓口～山口県商工労働部～ ,2022-03-30,,,
+山口県,http://axis.or.jp/fix-consultation, 相談,特別相談窓口～山口県中小企業団体中央会～ ,2022-03-30,,,
+山口県,https://y-yorozu.jp/consultation/, 相談,出張相談会～山口県よろず支援拠点～ ,2022-03-30,,,
+山口県,https://www.pref.yamaguchi.lg.jp/soshiki/37/167729.html,,【山口県】セミナー：「男性管理職セミナーのご案内」,2022-08-03,81480,※2022年8月1日更新　申請期限2022年9月8日,
+山口県,https://www.pref.yamaguchi.lg.jp/soshiki/86/165783.html,,【山口県】セミナー：「オンラインインターンシップWebセミナーの開催について」,2022-07-21,80570,※2022年7月15日更新　申請期限2022年9月12日,
+山口県,https://www.pref.yamaguchi.lg.jp/press/169971.html,,【山口県】イベント出展者募集：【研修+展示会出展支援（食品：スーパーマーケットトレードショー2023）】参加企業の募集について,2022-08-19,82471,※2022年8月18日更新　申請期限2022年9月22日,
+山口県,http://axis.or.jp/kankeikikan/16191.html,,補助金：「外国人材受入緊急支援事業補助金について（山口県）」,2022-06-06,77726,※2022年6月6日更新　申請期限2023年3月10日,
+山口県,https://www.pref.yamaguchi.lg.jp/soshiki/86/157682.html,,【山口県】補助金：「外国人材受入緊急支援事業補助金について」,2022-06-03,77602,※2022年6月1日更新　申請期限2023年3月10日,
+山口県,https://www.pref.yamaguchi.lg.jp/press/202201/051456.html,,融資：「山口県 経営安定資金(伴走支援枠)」,2022-02-01,63929,,
+山口県,https://www.pref.yamaguchi.lg.jp/soshiki/19/11480.html,,【山口県】コロナに関する情報提供：「新型コロナウイルス感染症関連情報・事業者の皆さまへ」,2022-08-03,77536,※2022年7月1日更新,

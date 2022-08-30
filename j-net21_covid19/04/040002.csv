@@ -1,12 +1,17 @@
-﻿area,url,category,title,date
-宮城県,https://www.pref.miyagi.jp/soshiki/syokokin/shingatacorona-kinyuu.html, 融資,新型コロナウイルス感染症に伴う中小企業者に対する金融支援について ,2022-03-30
-宮城県,https://www.pref.miyagi.jp/soshiki/kikisom/vtp/teityaku.html, 支援情報,ワクチン・検査パッケージ等定着促進事業 ,2022-03-30
-宮城県,https://miyagi-pref.covid19.supportnavi.jp/, 支援情報,宮城県新型コロナウィルス感染症支援情報ナビ ,2022-03-30
-宮城県,https://www.pref.miyagi.jp/soshiki/suishin/gyogyousya-shien.html, 支援情報,新型コロナウイルス感染症の影響を受ける漁業者への主な支援策 ,2022-03-30
-宮城県,https://www.pref.miyagi.jp/soshiki/suishin/suisankakou-shien.html, 支援情報,新型コロナウイルス感染症の影響を受ける水産加工・流通業者への主な支援策 ,2022-03-30
-宮城県,https://www.pref.miyagi.jp/soshiki/nosin/keieisodan.html, 相談,「新型コロナウイルスに関する農業経営相談窓口」の設置 ,2022-03-30
-宮城県,https://www.pref.miyagi.jp/soshiki/chukisi/corona.html, 相談,新型コロナウイルス感染症に関する中小企業者等向け相談窓口 ,2022-03-30
-宮城県,https://www.pref.miyagi.jp/soshiki/suishin/suisanonestop.html, 相談,水産加工業ワンストップ相談窓口 ,2022-03-30
-宮城県,https://www.pref.miyagi.jp/soshiki/tiroui/korona-sodan.html, 相談,新型コロナウィルス感染症に関する労働相談 ,2022-03-30
-宮城県,https://miyagi-ninsho.jp/, 認証制度,飲食店認証制度「選ぶ！選ばれる!!みやぎ飲食店コロナ対策認証制度」 ,2022-03-30
-宮城県,https://www.pref.miyagi.jp/soshiki/syahuku/jyukyokakuho.html, 給付金,住居確保給付金（個人向け） ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+宮城県,https://www.pref.miyagi.jp/soshiki/syokokin/shingatacorona-kinyuu.html, 融資,新型コロナウイルス感染症に伴う中小企業者に対する金融支援について ,2022-03-30,,,
+宮城県,https://www.pref.miyagi.jp/soshiki/kikisom/vtp/teityaku.html, 支援情報,ワクチン・検査パッケージ等定着促進事業 ,2022-03-30,,,
+宮城県,https://miyagi-pref.covid19.supportnavi.jp/, 支援情報,宮城県新型コロナウィルス感染症支援情報ナビ ,2022-03-30,,,
+宮城県,https://www.pref.miyagi.jp/soshiki/suishin/gyogyousya-shien.html, 支援情報,新型コロナウイルス感染症の影響を受ける漁業者への主な支援策 ,2022-03-30,,,
+宮城県,https://www.pref.miyagi.jp/soshiki/suishin/suisankakou-shien.html, 支援情報,新型コロナウイルス感染症の影響を受ける水産加工・流通業者への主な支援策 ,2022-03-30,,,
+宮城県,https://www.pref.miyagi.jp/soshiki/nosin/keieisodan.html, 相談,「新型コロナウイルスに関する農業経営相談窓口」の設置 ,2022-03-30,,,
+宮城県,https://www.pref.miyagi.jp/soshiki/chukisi/corona.html, 相談,新型コロナウイルス感染症に関する中小企業者等向け相談窓口 ,2022-03-30,,,
+宮城県,https://www.pref.miyagi.jp/soshiki/suishin/suisanonestop.html, 相談,水産加工業ワンストップ相談窓口 ,2022-03-30,,,
+宮城県,https://www.pref.miyagi.jp/soshiki/tiroui/korona-sodan.html, 相談,新型コロナウィルス感染症に関する労働相談 ,2022-03-30,,,
+宮城県,https://miyagi-ninsho.jp/, 認証制度,飲食店認証制度「選ぶ！選ばれる!!みやぎ飲食店コロナ対策認証制度」 ,2022-03-30,,,
+宮城県,https://www.pref.miyagi.jp/soshiki/syahuku/jyukyokakuho.html, 給付金,住居確保給付金（個人向け） ,2022-03-30,,,
+宮城県,https://www.tohoku.meti.go.jp/s_sangi_jinza/topics/220620.html,,イベント情報：「人材確保等総合支援事業イベント情報（2022年度）のお知らせ」,2022-08-02,78677,※2022年8月1日更新,
+宮城県,https://www.pref.miyagi.jp/release/nosei/ho20220822.html,,【宮城県】補助金：「【第2次】県産品販売会等開催支援事業補助金の募集について」,2022-08-23,82727,※2022年8月22日更新　申請期限2022年9月30日,
+宮城県,https://www.joho-miyagi.or.jp/hazard_information/25237,,新型コロナウイルス感染症関連：「新型コロナウイルスの感染拡大の影響を受けた中小企業者に対する支援について」,2022-07-13,74821,※2022年7月11日更新,
+宮城県,https://www.city.kakuda.lg.jp/soshiki/14/8607.html,,【宮城県】補助金：「宮城県中小企業等事業再構築支援補助金について」,2022-06-03,77650,※2022年5月13日更新　申請期限2023年1月31日,
+宮城県,https://www.town.onagawa.miyagi.jp/kankou_zigyousya.html,, 【宮城県】補助金：「宮城県宿泊施設感染防止対策等強化事業補助金」,2022-04-14,74700,※2022年4月1日更新　申請期限2022年10月31日,

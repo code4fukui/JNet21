@@ -1,12 +1,16 @@
-﻿area,url,category,title,date
-京都府,http://www.pref.kyoto.jp/sanroso/news/coronavirus-kyoryokukin21.html, 協力金,まん延防止等重点措置協力金（延長分）【飲食店等への協力金】(京都府全域：3月7日～3月21日実施分) ,2022-03-30
-京都府,http://www.pref.kyoto.jp/sanroso/news/coronavirus-kyoryokukin20.html, 協力金,まん延防止等重点措置協力金（延長分）(京都府全域：2月21日～3月6日実施分) ,2022-03-30
-京都府,http://www.pref.kyoto.jp/sanroso/news/coronavirus-kyoryokukin19.html, 協力金,まん延防止等重点措置協力金(京都府全域：1月27日～2月20日実施分) ,2022-03-30
-京都府,https://www.pref.kyoto.jp/sanroso/news/press/2020/7/sticker.html,, 「ガイドライン推進宣言事業所ステッカー」の交付について ,2022-03-30
-京都府,http://www.pref.kyoto.jp/kinyu/seido.html, 融資,京都府中小企業制度融資一覧 ,2022-03-30
-京都府,https://www.pref.kyoto.jp/koho/corona/detail/detail_b_03_4.html, 融資,新型コロナウイルス感染症対応資金 ,2022-03-30
-京都府,https://www.pref.kyoto.jp/sanroso/news/shienseido.html#yuushi, 融資,災害対策緊急資金・セーフティネット4号保証 ,2022-03-30
-京都府,https://www.pref.kyoto.jp/kikikanri/corona_3rdninsho.html, 認証制度,京都府新型コロナウイルス感染防止対策認証制度 ,2022-03-30
-京都府,http://www.pref.kyoto.jp/sanroso/news/shienseido.html, 支援情報,新型コロナウイルスに関する事業者向け支援制度 ,2022-03-30
-京都府,https://www.pref.kyoto.jp/rosei/14600009.html, 相談,無料労働相談窓口 ,2022-03-30
-京都府,http://www.pref.kyoto.jp/rosei/20200301roudousoudan.html, 相談,新型コロナウイルス感染症に関する労働相談窓口 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+京都府,http://www.pref.kyoto.jp/sanroso/news/coronavirus-kyoryokukin21.html, 協力金,まん延防止等重点措置協力金（延長分）【飲食店等への協力金】(京都府全域：3月7日～3月21日実施分) ,2022-03-30,,,
+京都府,http://www.pref.kyoto.jp/sanroso/news/coronavirus-kyoryokukin20.html, 協力金,まん延防止等重点措置協力金（延長分）(京都府全域：2月21日～3月6日実施分) ,2022-03-30,,,
+京都府,http://www.pref.kyoto.jp/sanroso/news/coronavirus-kyoryokukin19.html, 協力金,まん延防止等重点措置協力金(京都府全域：1月27日～2月20日実施分) ,2022-03-30,,,
+京都府,https://www.pref.kyoto.jp/sanroso/news/press/2020/7/sticker.html,, 「ガイドライン推進宣言事業所ステッカー」の交付について ,2022-03-30,,,
+京都府,http://www.pref.kyoto.jp/kinyu/seido.html, 融資,京都府中小企業制度融資一覧 ,2022-03-30,,,
+京都府,https://www.pref.kyoto.jp/koho/corona/detail/detail_b_03_4.html, 融資,新型コロナウイルス感染症対応資金 ,2022-03-30,,,
+京都府,https://www.pref.kyoto.jp/sanroso/news/shienseido.html#yuushi, 融資,災害対策緊急資金・セーフティネット4号保証 ,2022-03-30,,,
+京都府,https://www.pref.kyoto.jp/kikikanri/corona_3rdninsho.html, 認証制度,京都府新型コロナウイルス感染防止対策認証制度 ,2022-03-30,,,
+京都府,http://www.pref.kyoto.jp/sanroso/news/shienseido.html, 支援情報,新型コロナウイルスに関する事業者向け支援制度 ,2022-03-30,,,
+京都府,https://www.pref.kyoto.jp/rosei/14600009.html, 相談,無料労働相談窓口 ,2022-03-30,,,
+京都府,http://www.pref.kyoto.jp/rosei/20200301roudousoudan.html, 相談,新型コロナウイルス感染症に関する労働相談窓口 ,2022-03-30,,,
+京都府,https://www.kansai.meti.go.jp/2kokuji/glocal_PT/sesakuguide/sesakuguide2022.html,,支援情報：「近畿地域の中小企業のための海外展開支援施策ガイド2022」が完成しました！ ～こんなときどんな支援があるの？にお答えします～,2022-06-21,78668,※2022年6月17日更新,
+京都府,https://www.pref.kyoto.jp/rosei/news/gaikoku.html,,「【京都府】補助金：京都府中小企業等外国人材受入緊急支援補助金」,2022-03-31,74038,※申請期限：令和5年2月28日(火)消印有効,
+京都府,https://www.sr-kyoto.or.jp/business/hatarakikata.html,,専門家による支援：「働き方安心社会実現事業」,2022-06-01,77362,※申込締切2022年3月10日,
+京都府,https://www.pref.kyoto.jp/sanroso/news/shienseido.html,,【京都府】コロナに関する情報提供：「新型コロナウイルスに関する事業者向け支援制度」,2022-08-03,77534,※2022年7月15日更新,

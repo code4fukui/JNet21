@@ -1,5 +1,6 @@
-﻿area,url,category,title,date
-伊賀市,https://www.city.iga.lg.jp/0000007860.html, 補助金,農産物販売価格低下対策事業費補助金 ,2022-03-30
-伊賀市,https://www.city.iga.lg.jp/0000000523.html, 融資,セーフティネット保証制度 ,2022-03-30
-伊賀市,https://www.city.iga.lg.jp/0000007592.html, 支援情報,新型コロナウイルス感染症に関するお知らせ ,2022-03-30
-伊賀市,https://www.city.iga.lg.jp/0000007401.html, 相談,新型コロナウイルスに関する市内中小企業者向けの経営相談窓口 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+伊賀市,https://www.city.iga.lg.jp/0000007860.html, 補助金,農産物販売価格低下対策事業費補助金 ,2022-03-30,,,
+伊賀市,https://www.city.iga.lg.jp/0000000523.html, 融資,セーフティネット保証制度 ,2022-03-30,,,
+伊賀市,https://www.city.iga.lg.jp/0000007592.html, 支援情報,新型コロナウイルス感染症に関するお知らせ ,2022-03-30,,,
+伊賀市,https://www.city.iga.lg.jp/0000007401.html, 相談,新型コロナウイルスに関する市内中小企業者向けの経営相談窓口 ,2022-03-30,,,
+伊賀市,https://www.city.iga.lg.jp/0000010344.html,,【伊賀市】補助金：「空き家活用テレワーク施設整備事業補助金　事業者を募集します！　」,2022-07-20,80516,※2022年7月15日更新　申請期限2022年9月9日,

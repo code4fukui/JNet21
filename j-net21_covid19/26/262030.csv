@@ -1,6 +1,7 @@
-﻿area,url,category,title,date
-綾部市,https://www.city.ayabe.lg.jp/syogyo/sangyo/sangyo/shorei.html, 奨励金,京都府の認証を受けた飲食店に奨励金を交付します ,2022-03-30
-綾部市,http://www.city.ayabe.lg.jp/kogyo/sangyo/kogyo/syodoku.html, 補助金,綾部市新型コロナウイルスに係る中小企業等消毒費補助金 ,2022-03-30
-綾部市,https://www.city.ayabe.lg.jp/syogyo/sangyo/sangyo/yushi.html, 利子補給,綾部市中小企業振興利子補給制度 ,2022-03-30
-綾部市,https://www.city.ayabe.lg.jp/syogyo/sangyo/sangyo/safetynet.html, 融資,セーフティネット保証、危機関連保証（新型コロナウイルス感染症関連）  ,2022-03-30
-綾部市,http://www.city.ayabe.lg.jp/syogyo/sangyo/sangyo/covid19.html, 支援情報,新型コロナウイルス関連情報（事業者向け） ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+綾部市,https://www.city.ayabe.lg.jp/syogyo/sangyo/sangyo/shorei.html, 奨励金,京都府の認証を受けた飲食店に奨励金を交付します ,2022-03-30,,,
+綾部市,http://www.city.ayabe.lg.jp/kogyo/sangyo/kogyo/syodoku.html, 補助金,綾部市新型コロナウイルスに係る中小企業等消毒費補助金 ,2022-03-30,,,
+綾部市,https://www.city.ayabe.lg.jp/syogyo/sangyo/sangyo/yushi.html, 利子補給,綾部市中小企業振興利子補給制度 ,2022-03-30,,,
+綾部市,https://www.city.ayabe.lg.jp/syogyo/sangyo/sangyo/safetynet.html, 融資,セーフティネット保証、危機関連保証（新型コロナウイルス感染症関連）  ,2022-03-30,,,
+綾部市,http://www.city.ayabe.lg.jp/syogyo/sangyo/sangyo/covid19.html, 支援情報,新型コロナウイルス関連情報（事業者向け） ,2022-03-30,,,
+綾部市,http://www.city.ayabe.lg.jp/kogyo/sangyo/kogyo/monodukurikigyoutokubetuouen.html,,【綾部市】補助金：「綾部市ものづくり企業特別応援補助金」,2022-04-18,74888,※2022年4月1日更新　申請期限2023年1月16日,

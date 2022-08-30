@@ -1,9 +1,17 @@
-﻿area,url,category,title,date
-熊本県,https://www.pref.kumamoto.jp/soshiki/58/125606.html, 協力金,【3月21日まで延長します】まん延防止等重点措置の延長に伴う熊本県時短要請協力金（第8回）の概要について ,2022-03-30
-熊本県,https://www.pref.kumamoto.jp/soshiki/62/87216.html, 奨励金,【延長】熊本県新型コロナウイルス感染症対応雇用維持奨励金（受付期間延長） ,2022-03-30
-熊本県,https://www.pref.kumamoto.jp/soshiki/61/64889.html, 補助金,熊本県新型コロナウイルス感染症対応資金利子補給補助金 ,2022-03-30
-熊本県,https://www.pref.kumamoto.jp/kiji_31770.html, 補助金,熊本県農業制度資金利子補給費補助金 ,2022-03-30
-熊本県,https://www.pref.kumamoto.jp/kiji_31524.html, 融資,新型コロナウイルス感染拡大に伴う農林漁業者向け金融支援制度 ,2022-03-30
-熊本県,https://www.pref.kumamoto.jp/soshiki/1/51186.html,, 新型コロナウイルス感染症に伴う主な支援 ,2022-03-30
-熊本県,https://www.pref.kumamoto.jp/kiji_30638.html, 相談,【中小企業・小規模事業者】新型コロナウイルス感染症に関する相談窓口 ,2022-03-30
-熊本県,https://www.pref.kumamoto.jp/soshiki/58/99646.html,, 熊本県飲食店感染防止対策認証制度 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+熊本県,https://www.pref.kumamoto.jp/soshiki/58/125606.html, 協力金,【3月21日まで延長します】まん延防止等重点措置の延長に伴う熊本県時短要請協力金（第8回）の概要について ,2022-03-30,,,
+熊本県,https://www.pref.kumamoto.jp/soshiki/62/87216.html, 奨励金,【延長】熊本県新型コロナウイルス感染症対応雇用維持奨励金（受付期間延長） ,2022-03-30,,,
+熊本県,https://www.pref.kumamoto.jp/soshiki/61/64889.html, 補助金,熊本県新型コロナウイルス感染症対応資金利子補給補助金 ,2022-03-30,,,
+熊本県,https://www.pref.kumamoto.jp/kiji_31770.html, 補助金,熊本県農業制度資金利子補給費補助金 ,2022-03-30,,,
+熊本県,https://www.pref.kumamoto.jp/kiji_31524.html, 融資,新型コロナウイルス感染拡大に伴う農林漁業者向け金融支援制度 ,2022-03-30,,,
+熊本県,https://www.pref.kumamoto.jp/soshiki/1/51186.html,, 新型コロナウイルス感染症に伴う主な支援 ,2022-03-30,,,
+熊本県,https://www.pref.kumamoto.jp/kiji_30638.html, 相談,【中小企業・小規模事業者】新型コロナウイルス感染症に関する相談窓口 ,2022-03-30,,,
+熊本県,https://www.pref.kumamoto.jp/soshiki/58/99646.html,, 熊本県飲食店感染防止対策認証制度 ,2022-03-30,,,
+熊本県,https://www.pref.kumamoto.jp/soshiki/69/144176.html,,【熊本県】補助金：「宿泊事業者による環境に配慮した受入環境整備支援補助金」,2022-07-25,80729,※2022年7月21日更新　申請期限2022年10月31日,
+熊本県,https://www.pref.kumamoto.jp/soshiki/88/143103.html,,【熊本県】補助金：「令和4年度（2022年度）都市農村交流対策事業補助金の二次募集を開始します。」,2022-07-21,80588,※2022年7月13日更新　申請期限2022年8月31日,
+熊本県,https://www.pref.kumamoto.jp/soshiki/69/143107.html,,【熊本県】助成金：「民間活力によるくまもと誘客加速化事業について」,2022-07-13,80085,※2022年7月8日更新　申請期限2022年9月16日,
+熊本県,https://www.pref.kumamoto.jp/soshiki/61/136147.html,,【熊本県】補助金：「令和4年度（第3回）まちなかにぎわい回復支援事業費補助金の公募開始について」,2022-07-11,79793,※2022年7月6日更新　申請期限2023年1月13日,
+熊本県,https://www.pref.kumamoto.jp/soshiki/72/50483.html,,【熊本県】資金：「新型コロナウイルス感染拡大に伴う農林漁業者向け金融支援制度の拡充について」,2022-06-30,79263,※2022年6月21日更新,
+熊本県,http://kumachu.or.jp/r4-gaikokujin-ginou/,,補助金：「令和４年度熊本県外国人技能実習生等入国時待機費用支援補助金のご案内」,2022-05-26,76969,※申請期限2022年9月30日,
+熊本県,https://www.pref.kumamoto.jp/soshiki/62/135760.html,,【熊本県】補助金：「(5月20日～)令和4年度外国人技能実習生等入国時待機費用支援補助金の募集を開始します！」,2022-05-18,76284,※2022年5月16日更新　申請期限2022年9月30日,
+熊本県,https://www.city.kumamoto.jp/corona/hpKiji/pub/detail.aspx?c_id=5&id=27359&class_set_id=22&class_id=3268,,【熊本県】コロナに関する情報提供：「テレワーク導入支援について」,2022-08-12,82115,※2022年8月9日更新,

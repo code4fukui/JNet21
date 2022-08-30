@@ -1,23 +1,31 @@
-﻿area,url,category,title,date
-神奈川県,https://www.pref.kanagawa.jp/docs/jf2/coronavirus/kyoryokukin_18th.html, 協力金,新型コロナウイルス感染症拡大防止協力金（第18弾）＜3月7日から3月21日まで＞ ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/jf2/coronavirus/kyoryokukin_17th.html, 協力金,新型コロナウイルス感染症拡大防止協力金（第17弾）＜2月14日から3月6日まで＞ ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/jf2/coronavirus/kyoryokukin_16th.html, 協力金,新型コロナウイルス感染症拡大防止協力金（第16弾）＜1月21日から2月13日まで＞ ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/pw3/cnt/f537049/index.html, 補助金,企業誘致促進賃料補助金 ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/m6c/cnt/f5782/p844438.html, 融資,中小企業制度融資のしおり・ご案内・チラシ ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/m6c/prs/r5118881.html,, 新型コロナウイルス関連融資の信用保証料を最大ゼロに引き下げ ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/r5k/mask_nisho.html,, 「マスク飲食実施店」認証制度 ,2022-03-30
-神奈川県,https://kanagawa.en-jine.com/, クラウドファンディング,かながわベンチャー限定クラウドファンディング ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/m6c/cnt/f5782/corona.html, 融資,新型コロナウイルス関連融資 ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/ga4/covid19/vaccines/free_pcr.html, 支援情報,PCR等検査無料化事業について ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/ga4/covid19/fukushi_kensa2.html,, 高齢者施設等における従事者の皆様への無料PCR検査 ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/zei/kenzei/a010/038.html#nouzei_yuuyo, 税制,新型コロナウイルス関連＜県税に関してのお知らせ＞ ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/r4a/ryoukingaido/singatacorona.html,, 新型コロナウイルスの感染拡大に伴う上下水道料金の支払い猶予について ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/jf2/coronavirus2020/index.html,, 新型コロナウイルス感染症の流行により影響を受けている事業者の皆様へ ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/ga4/corona/osirase.html,, 感染防止対策取組書・LINEコロナお知らせシステム ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/r5k/covid19_line_jigyoshasupport.html,, LINE公式アカウント「神奈川県新型コロナ対策事業者サポート」 ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/jf2/cnt/f39000.html,, BCP作成等支援専門家派遣事業 ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/jf2/korona.html, 相談,新型コロナウイルスの流行により影響を受ける県内中小企業に対する「経営相談窓口」 ,2022-03-30
-神奈川県,https://www.pref.kanagawa.jp/docs/k5n/soudan/corona110ban.html, 相談,コロナ労働相談110番 ,2022-03-30
-神奈川県,https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/madoguchi_annai/20200625_00001.html, 相談,【神奈川労働局】新型コロナ感染症の影響による特別労働相談窓口 ,2022-03-30
-神奈川県,https://www.kipc.or.jp/blog/post-14/, 相談,【神奈川産業振興センター】経営に関するお悩みなど、お気軽にご相談ください ,2022-03-30
-神奈川県,https://www.kana-gyosei.or.jp/news/8076.php, 相談,給付金等に関する相談・申請支援窓口の設置～神奈川県行政書士会～ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+神奈川県,https://www.pref.kanagawa.jp/docs/jf2/coronavirus/kyoryokukin_18th.html, 協力金,新型コロナウイルス感染症拡大防止協力金（第18弾）＜3月7日から3月21日まで＞ ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/jf2/coronavirus/kyoryokukin_17th.html, 協力金,新型コロナウイルス感染症拡大防止協力金（第17弾）＜2月14日から3月6日まで＞ ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/jf2/coronavirus/kyoryokukin_16th.html, 協力金,新型コロナウイルス感染症拡大防止協力金（第16弾）＜1月21日から2月13日まで＞ ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/pw3/cnt/f537049/index.html, 補助金,企業誘致促進賃料補助金 ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/m6c/cnt/f5782/p844438.html, 融資,中小企業制度融資のしおり・ご案内・チラシ ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/m6c/prs/r5118881.html,, 新型コロナウイルス関連融資の信用保証料を最大ゼロに引き下げ ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/r5k/mask_nisho.html,, 「マスク飲食実施店」認証制度 ,2022-03-30,,,
+神奈川県,https://kanagawa.en-jine.com/, クラウドファンディング,かながわベンチャー限定クラウドファンディング ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/m6c/cnt/f5782/corona.html, 融資,新型コロナウイルス関連融資 ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/ga4/covid19/vaccines/free_pcr.html, 支援情報,PCR等検査無料化事業について ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/ga4/covid19/fukushi_kensa2.html,, 高齢者施設等における従事者の皆様への無料PCR検査 ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/zei/kenzei/a010/038.html#nouzei_yuuyo, 税制,新型コロナウイルス関連＜県税に関してのお知らせ＞ ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/r4a/ryoukingaido/singatacorona.html,, 新型コロナウイルスの感染拡大に伴う上下水道料金の支払い猶予について ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/jf2/coronavirus2020/index.html,, 新型コロナウイルス感染症の流行により影響を受けている事業者の皆様へ ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/ga4/corona/osirase.html,, 感染防止対策取組書・LINEコロナお知らせシステム ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/r5k/covid19_line_jigyoshasupport.html,, LINE公式アカウント「神奈川県新型コロナ対策事業者サポート」 ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/jf2/cnt/f39000.html,, BCP作成等支援専門家派遣事業 ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/jf2/korona.html, 相談,新型コロナウイルスの流行により影響を受ける県内中小企業に対する「経営相談窓口」 ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/k5n/soudan/corona110ban.html, 相談,コロナ労働相談110番 ,2022-03-30,,,
+神奈川県,https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/madoguchi_annai/20200625_00001.html, 相談,【神奈川労働局】新型コロナ感染症の影響による特別労働相談窓口 ,2022-03-30,,,
+神奈川県,https://www.kipc.or.jp/blog/post-14/, 相談,【神奈川産業振興センター】経営に関するお悩みなど、お気軽にご相談ください ,2022-03-30,,,
+神奈川県,https://www.kana-gyosei.or.jp/news/8076.php, 相談,給付金等に関する相談・申請支援窓口の設置～神奈川県行政書士会～ ,2022-03-30,,,
+神奈川県,https://www.pref.kanagawa.jp/docs/sr4/prs/r6250177.html,,【神奈川県】補助金：「公募型『ロボット実証実験支援事業』」後期募集を開始します！ ～最大50万円で実証実験を支援します～,2022-08-18,82408,※2022年8月17日更新　申請期限2022年9月30日,
+神奈川県,https://www.pref.kanagawa.jp/docs/b6m/prs/r5891094.html,,【神奈川県】補助金：「国内外からの観光客の受入や新たな観光需要に対応するための環境整備を支援します！」,2022-06-22,78788,※2022年6月21日更新　申請期限2022年8月31日,
+神奈川県,https://www.pref.kanagawa.jp/docs/sr4/prs/r9234635.html,,【神奈川県】補助金：「ロボット導入支援補助金の申請受付を開始します ～新型コロナ対策にも有効なロボットを導入してみませんか～」,2022-06-02,77445,※2022年5月31日更新　申請期限2023年1月31日,
+神奈川県,https://www.city.sagamihara.kanagawa.jp/sangyo/sangyo/1019826/1025354.html,,【相模原市】補助金：「令和4年度がんばる商店街等応援補助金」,2022-05-26,76884,※2022年5月12日更新　申請期限2022年11月30日,
+神奈川県,https://www.pref.kanagawa.jp/docs/jf2/keieishigenhikitugi.html,,【神奈川県】補助金：「神奈川県経営資源引継・事業再編事業費補助金について」,2022-05-20,76637,※2022年5月19日更新　申請期限2022年12月28日,
+神奈川県,https://www.pref.kanagawa.jp/docs/m2w/r4meisanpr.html,,【神奈川県】補助金：「神奈川県商店街等名産PR事業費補助金」,2022-04-22,75224,※2022年4月21日更新　申請期限2023年1月27日,
+神奈川県,https://www.pref.kanagawa.jp/docs/sr4/prs/r9592036.html,,【神奈川県】募集：「施設の課題を解決するロボットを募集（第2弾） -開発したロボットを施設で活躍させるチャンス！-」,2022-08-18,82407,※2022年8月17日更新　申請期限2022年9月9日,
+神奈川県,https://www.b-audition.jp/,,ビジネスプラン募集：「かながわビジネスオーディション2023 ビジネスプラン募集（応募期間：8/1〜31）」,2022-07-01,79376,※申込期限2022年8月31日,

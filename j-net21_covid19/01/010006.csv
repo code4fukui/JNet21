@@ -1,13 +1,23 @@
-﻿area,url,category,title,date
-北海道,https://www.pref.hokkaido.lg.jp/kz/kks/inshokutenshien/104807.html, 支援金,飲食店向け支援金(まん延防止等重点措置協力支援金)について 3月分 ,2022-03-30
-北海道,https://www.pref.hokkaido.lg.jp/kz/kks/inshokutenshien/102556.html, 支援金,飲食店向け支援金(まん延防止等重点措置協力支援金)について 2～3月分 ,2022-03-30
-北海道,https://www.pref.hokkaido.lg.jp/kz/kks/inshokutenshien/100070.html, 支援金,飲食店向け支援金（まん延防止等重点措置協力支援金）について 1～2月分 ,2022-03-30
-北海道,https://www.pref.hokkaido.lg.jp/kz/rkr/rsf/03teleworkhozyo.html, 補助金,令和3年度テレワーク環境整備事業費補助金 ,2022-03-30
-北海道,https://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/ninteikigyoukorona-yuushi.html, 融資,新型コロナウイルス感染症の影響を受けた事業者の方々向け融資制度（認定企業） ,2022-03-30
-北海道,https://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/, 融資,北海道の中小企業向け融資制度（中小企業総合振興資金） ,2022-03-30
-北海道,https://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/05nintei.html, 融資,経営環境変化対応貸付(3)【認定企業】 ,2022-03-30
-北海道,https://www.pref.hokkaido.lg.jp/covid-19/kensa_muryouka.html, 支援情報,PCR等検査無料化事業について ,2022-03-30
-北海道,https://www.shindan-hkd.org/corona/, 専門家派遣,新型コロナウイルス感染症で影響を受けた中小企業・小規模企業への専門家派遣 ,2022-03-30
-北海道,https://www.pref.hokkaido.lg.jp/sm/zim/topics/coronaviruskigen.html,, 新型コロナウイルス感染症に係る道税の申告期限の延長・納税の猶予等について ,2022-03-30
-北海道,https://www.pref.hokkaido.lg.jp/kz/csk/onestop.html, 相談,新型コロナウイルス感染症対策支援総合相談窓口 ,2022-03-30
-北海道,https://www.h-chuokai.or.jp/oshirase/organization/2020-0203-1720-1.html, 相談,新型コロナウイルス関連肺炎に係る融資の取扱と相談窓口～北海道中小企業団体中央会～ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+北海道,https://www.pref.hokkaido.lg.jp/kz/kks/inshokutenshien/104807.html, 支援金,飲食店向け支援金(まん延防止等重点措置協力支援金)について 3月分 ,2022-03-30,,,
+北海道,https://www.pref.hokkaido.lg.jp/kz/kks/inshokutenshien/102556.html, 支援金,飲食店向け支援金(まん延防止等重点措置協力支援金)について 2～3月分 ,2022-03-30,,,
+北海道,https://www.pref.hokkaido.lg.jp/kz/kks/inshokutenshien/100070.html, 支援金,飲食店向け支援金（まん延防止等重点措置協力支援金）について 1～2月分 ,2022-03-30,,,
+北海道,https://www.pref.hokkaido.lg.jp/kz/rkr/rsf/03teleworkhozyo.html, 補助金,令和3年度テレワーク環境整備事業費補助金 ,2022-03-30,,,
+北海道,https://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/ninteikigyoukorona-yuushi.html, 融資,新型コロナウイルス感染症の影響を受けた事業者の方々向け融資制度（認定企業） ,2022-03-30,,,
+北海道,https://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/, 融資,北海道の中小企業向け融資制度（中小企業総合振興資金） ,2022-03-30,,,
+北海道,https://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/05nintei.html, 融資,経営環境変化対応貸付(3)【認定企業】 ,2022-03-30,,,
+北海道,https://www.pref.hokkaido.lg.jp/covid-19/kensa_muryouka.html, 支援情報,PCR等検査無料化事業について ,2022-03-30,,,
+北海道,https://www.shindan-hkd.org/corona/, 専門家派遣,新型コロナウイルス感染症で影響を受けた中小企業・小規模企業への専門家派遣 ,2022-03-30,,,
+北海道,https://www.pref.hokkaido.lg.jp/sm/zim/topics/coronaviruskigen.html,, 新型コロナウイルス感染症に係る道税の申告期限の延長・納税の猶予等について ,2022-03-30,,,
+北海道,https://www.pref.hokkaido.lg.jp/kz/csk/onestop.html, 相談,新型コロナウイルス感染症対策支援総合相談窓口 ,2022-03-30,,,
+北海道,https://www.h-chuokai.or.jp/oshirase/organization/2020-0203-1720-1.html, 相談,新型コロナウイルス関連肺炎に係る融資の取扱と相談窓口～北海道中小企業団体中央会～ ,2022-03-30,,,
+北海道,https://kinkyushien-r4-hokkaido.jp/,,【北海道】支援金：「道内事業者等 事業継続緊急支援金」,2022-07-26,80819,※2022年7月22日更新　申請期限2022年10月31日,
+北海道,https://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/115975.html,,【北海道】融資：「北海道の融資制度を利用した方で毎月の返済が負担となっている事業者の方へ」,2022-07-13,80079,※2022年7月12日更新,
+北海道,https://www.hkd.meti.go.jp/hokic/financing/index.htm?rss=true&date=20220419,,新型コロナウイルス感染症関連：「新型コロナウイルス感染症で影響を受ける事業者への資金繰り支援制度」,2022-06-21,75058,※2022年6月16日更新,
+北海道,https://www.career-bank.co.jp/gtk-info/,,【北海道】補助金：「北海道海外人材待機費用緊急補助金」,2022-05-18,76438,※2022年04月01日更新　申請期限2023年3月17日,
+北海道,https://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/ninteikigyoukorona-yuushi2.html,,【北海道】融資：「新型コロナウイルス感染症の影響を受けた事業者の方々向け融資制度（認定企業：伴走支援型）」,2022-07-13,80123,※2022年5月11日更新,
+北海道,https://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/shihonseironkyouchou.html,,【北海道】融資：「新型コロナウイルス感染症の影響を受けた事業者の方々向け融資制度（企業体質強化貸付（資本性ローン協調））」,2022-07-13,80121,※2022年4月1日更新,
+北海道,https://www.pref.hokkaido.lg.jp/kz/csk/kny/yuushi/107893.html,,融資：新型コロナウイルス感染症の影響を受けた事業者の方々向け融資制度（コロナ克服サポート貸付）,2022-04-01,74123,2022年4月1日更新,
+北海道,https://www.pref.hokkaido.lg.jp/kz/csk/109069.html,,【北海道】専門家による支援：「水産加工関連事業者向け伴走型集中支援事業」,2022-04-13,74612,※2022年4月12日更新　申請期限2023年1月31日,
+北海道,https://www.h-chuokai.or.jp/oshirase/news/2022-0329-1437-18.html,,専門家による支援：「経営環境変化対応支援事業における 【専門家派遣の募集】について」,2022-04-01,74147,※申請期限令和５年３月17日（金）,
+北海道,https://www.pref.hokkaido.lg.jp/kz/kks/kyuugyouyousei.html,,【北海道】コロナに関する情報提供：「新型コロナウイルス感染症に係る休業要請等について」,2022-08-02,79070,※2022年7月15日更新,

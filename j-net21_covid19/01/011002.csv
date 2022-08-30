@@ -1,21 +1,23 @@
-﻿area,url,category,title,date
-札幌市,https://www.city.sapporo.jp/keizai/chusho/manenboshi_0307iko.html, 支援金,＜3月7日～3月21日＞北海道から札幌市内飲食店等への要請に係る協力支援金について ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/chusho/manenboshi_0221iko.html, 支援金,＜2月21日～3月6日＞北海道から札幌市内飲食店等への要請に係る協力支援金について ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/chusho/manenboshi_0127iko.html, 支援金,＜1月27日～2月20日＞北海道から札幌市内飲食店等への要請に係る協力支援金 ,2022-03-30
-札幌市,https://www.city.sapporo.jp/shimin/bunka/corona/saikai.html, 支援金,令和3年度「札幌市文化芸術活動再開支援事業」 ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/chusho/saikouchiku.html, 補助金,札幌市事業再構築サポート補助金 ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/chusho/syokibosapo-to.html, 補助金,札幌市小規模事業者持続化サポート補助金 ,2022-03-30
-札幌市,https://www.city.sapporo.jp/hokenjo/f4imuyaku/f77tuuti/tuutilistimu/3/hojo_i.html, 交付金・補助金,令和3年度各種交付金・補助金（医療機関向け） ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/center/tokubetsu/syokuikisessyu.html, 融資・利子補給,職域接種促進資金 ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/center/marusatsu/corona.html, 融資,新型コロナ対応サポート資金 ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/center/, 融資,札幌市中小企業融資制度のご案内 ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/center/safetynet/4-2.html, 融資,第4号：突発的災害（自然災害等）　※新型コロナウイルス関連 ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/center/safetynet/5.html, 融資,第5号：業況の悪化している業種（全国的） ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/top/keizai/coronasien.html,, 新型コロナウイルス感染症に関する市内事業者向け支援について ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/telework/telesapo.html,, 【札幌市】札幌市テレワーク推進サポートセンター（テレサポ） ,2022-03-30
-札幌市,https://www.city.sapporo.jp/citytax/topics/corona_shinkoku.html,, 新型コロナウイルス感染症の影響による法人市民税等の申告・納付等の期限延長について ,2022-03-30
-札幌市,https://www.city.sapporo.jp/citytax/topics/singatakorona.html,, 新型コロナウイルス感染症に伴う市税の取り扱い ,2022-03-30
-札幌市,https://www.sapporo-cci.or.jp/web/business/details/koyoushare.html,, 在籍型出向制度～雇用を守る出向支援プログラム～　札幌商工会議所・産業雇用安定センター ,2022-03-30
-札幌市,https://www.city.sapporo.jp/keizai/center/gosoudan.html, 相談,各種ご相談・認定申請窓口 ,2022-03-30
-札幌市,https://www.sapporo-cci.or.jp/web/manage/details/post-19.html, 相談,新型コロナウイルスに関する経営相談窓口、持続化補助金・給付金等特設サポートセンター～札幌商工会議所～ ,2022-03-30
-札幌市,https://www.sapporo-cci.or.jp/web/video_collection/,, 新型コロナウイルス感染症に係る経営支援動画～札幌商工会議所・札幌市～ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+札幌市,https://www.city.sapporo.jp/keizai/chusho/manenboshi_0307iko.html, 支援金,＜3月7日～3月21日＞北海道から札幌市内飲食店等への要請に係る協力支援金について ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/chusho/manenboshi_0221iko.html, 支援金,＜2月21日～3月6日＞北海道から札幌市内飲食店等への要請に係る協力支援金について ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/chusho/manenboshi_0127iko.html, 支援金,＜1月27日～2月20日＞北海道から札幌市内飲食店等への要請に係る協力支援金 ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/shimin/bunka/corona/saikai.html, 支援金,令和3年度「札幌市文化芸術活動再開支援事業」 ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/chusho/saikouchiku.html, 補助金,札幌市事業再構築サポート補助金 ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/chusho/syokibosapo-to.html, 補助金,札幌市小規模事業者持続化サポート補助金 ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/hokenjo/f4imuyaku/f77tuuti/tuutilistimu/3/hojo_i.html, 交付金・補助金,令和3年度各種交付金・補助金（医療機関向け） ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/center/tokubetsu/syokuikisessyu.html, 融資・利子補給,職域接種促進資金 ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/center/marusatsu/corona.html, 融資,新型コロナ対応サポート資金 ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/center/, 融資,札幌市中小企業融資制度のご案内 ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/center/safetynet/4-2.html, 融資,第4号：突発的災害（自然災害等）　※新型コロナウイルス関連 ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/center/safetynet/5.html, 融資,第5号：業況の悪化している業種（全国的） ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/top/keizai/coronasien.html,, 新型コロナウイルス感染症に関する市内事業者向け支援について ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/telework/telesapo.html,, 【札幌市】札幌市テレワーク推進サポートセンター（テレサポ） ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/citytax/topics/corona_shinkoku.html,, 新型コロナウイルス感染症の影響による法人市民税等の申告・納付等の期限延長について ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/citytax/topics/singatakorona.html,, 新型コロナウイルス感染症に伴う市税の取り扱い ,2022-03-30,,,
+札幌市,https://www.sapporo-cci.or.jp/web/business/details/koyoushare.html,, 在籍型出向制度～雇用を守る出向支援プログラム～　札幌商工会議所・産業雇用安定センター ,2022-03-30,,,
+札幌市,https://www.city.sapporo.jp/keizai/center/gosoudan.html, 相談,各種ご相談・認定申請窓口 ,2022-03-30,,,
+札幌市,https://www.sapporo-cci.or.jp/web/manage/details/post-19.html, 相談,新型コロナウイルスに関する経営相談窓口、持続化補助金・給付金等特設サポートセンター～札幌商工会議所～ ,2022-03-30,,,
+札幌市,https://www.sapporo-cci.or.jp/web/video_collection/,, 新型コロナウイルス感染症に係る経営支援動画～札幌商工会議所・札幌市～ ,2022-03-30,,,
+札幌市,https://www.sec.jp/news/2312,,補助金：「令和４年度新型コロナウイルス感染症対策テレワーク導入補助金」募集のご案内,2022-05-17,76258,※2022年5月16日更新　申請期限2022年12月16日,
+札幌市,https://www.city.sapporo.jp/keizai/inshokutenouen/index4.html,,【札幌市】事業者募集：「令和4年度札幌市飲食店の未来応援クラウドファンディングについて」,2022-06-08,77745,※2022年6月3日更新　申請期限2022年11月9日,

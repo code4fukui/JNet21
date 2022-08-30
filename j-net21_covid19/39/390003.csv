@@ -1,12 +1,15 @@
-﻿area,url,category,title,date
-高知県,https://www.pref.kochi.lg.jp/soshiki/150401/rinjikyufukin.html, 給付金,新型コロナウイルス感染症緊急対策として実施する令和4年1～3月を対象にした事業者向け給付金制度 ,2022-03-30
-高知県,https://www.pref.kochi.lg.jp/soshiki/150401/jitanyousei_manenkyouryokukin2.html, 協力金,高知県営業時間短縮要請協力金（第2期 まん延防止分：2/12～3/6） ,2022-03-30
-高知県,https://www.pref.kochi.lg.jp/soshiki/040101/2021030300128.html, 融資,高知県漁業近代化資金 ,2022-03-30
-高知県,https://www.pref.kochi.lg.jp/soshiki/152001/2020051300124.html,, 県内企業の皆さまのテレワーク導入に向けて、県内の導入支援企業や活用できる国の支援制度等をご案内 ,2022-03-30
-高知県,https://www.pref.kochi.lg.jp/soshiki/152001/2021060900275.html,, 高知家シェアオフィス活用のススメ！ ,2022-03-30
-高知県,https://www.pref.kochi.lg.jp/soshiki/131901/anshinkaisyoku.html, 認証制度,高知家あんしん会食推進の店認証制度 ,2022-03-30
-高知県,http://www.pref.kochi.lg.jp/soshiki/151301/2020041500107.html,, 事業主・労働者のみなさまへ（新型コロナウイルスに関する助成金など） ,2022-03-30
-高知県,https://www.pref.kochi.lg.jp/soshiki/040601/2020030600207.html, 相談,新型コロナウイルス感染症で影響を受ける事業者向けの資金支援策等の窓口について ,2022-03-30
-高知県,https://www.pref.kochi.lg.jp/soshiki/150401/2020031300090.html, 専門家派遣,事業経営アドバイザー派遣事業 ,2022-03-30
-高知県,https://www.kochi-cgc.or.jp/202001/2975/, 相談,「新型コロナウイルスに関する経営相談窓口」～高知県信用保証協会～ ,2022-03-30
-高知県,https://jsite.mhlw.go.jp/kochi-roudoukyoku/newpage_00459.html, 相談,新型コロナウイルス感染症による労働相談窓口～高知労働局～ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+高知県,https://www.pref.kochi.lg.jp/soshiki/150401/rinjikyufukin.html, 給付金,新型コロナウイルス感染症緊急対策として実施する令和4年1～3月を対象にした事業者向け給付金制度 ,2022-03-30,,,
+高知県,https://www.pref.kochi.lg.jp/soshiki/150401/jitanyousei_manenkyouryokukin2.html, 協力金,高知県営業時間短縮要請協力金（第2期 まん延防止分：2/12～3/6） ,2022-03-30,,,
+高知県,https://www.pref.kochi.lg.jp/soshiki/040101/2021030300128.html, 融資,高知県漁業近代化資金 ,2022-03-30,,,
+高知県,https://www.pref.kochi.lg.jp/soshiki/152001/2020051300124.html,, 県内企業の皆さまのテレワーク導入に向けて、県内の導入支援企業や活用できる国の支援制度等をご案内 ,2022-03-30,,,
+高知県,https://www.pref.kochi.lg.jp/soshiki/152001/2021060900275.html,, 高知家シェアオフィス活用のススメ！ ,2022-03-30,,,
+高知県,https://www.pref.kochi.lg.jp/soshiki/131901/anshinkaisyoku.html, 認証制度,高知家あんしん会食推進の店認証制度 ,2022-03-30,,,
+高知県,http://www.pref.kochi.lg.jp/soshiki/151301/2020041500107.html,, 事業主・労働者のみなさまへ（新型コロナウイルスに関する助成金など） ,2022-03-30,,,
+高知県,https://www.pref.kochi.lg.jp/soshiki/040601/2020030600207.html, 相談,新型コロナウイルス感染症で影響を受ける事業者向けの資金支援策等の窓口について ,2022-03-30,,,
+高知県,https://www.pref.kochi.lg.jp/soshiki/150401/2020031300090.html, 専門家派遣,事業経営アドバイザー派遣事業 ,2022-03-30,,,
+高知県,https://www.kochi-cgc.or.jp/202001/2975/, 相談,「新型コロナウイルスに関する経営相談窓口」～高知県信用保証協会～ ,2022-03-30,,,
+高知県,https://jsite.mhlw.go.jp/kochi-roudoukyoku/newpage_00459.html, 相談,新型コロナウイルス感染症による労働相談窓口～高知労働局～ ,2022-03-30,,,
+高知県,https://www.kbiz.or.jp/%e4%bb%a4%e5%92%8c%ef%bc%94%e5%b9%b4%e5%ba%a6%e3%80%80%e7%b5%8c%e5%96%b6%e5%8a%9b%e5%90%91%e4%b8%8a%e8%a3%9c%e5%8a%a9%e9%87%91%e3%80%90%ef%bc%92%e6%ac%a1%e5%85%ac%e5%8b%9f%e3%80%91%e9%96%8b%e5%a7%8b/,,【高知県】補助金：「令和４年度　経営力向上補助金【２次公募】開始のお知らせ」,2022-07-07,79705,※2022年7月5日更新,
+高知県,https://www.pref.kochi.lg.jp/soshiki/111301/2020051200202.html,,【高知県】コロナに関する情報提供：「事業者向け融資・給付等」,2022-08-03,66817,※2022年7月27日更新,
+高知県,https://www.pref.kochi.lg.jp/soshiki/151301/2020041500107.html,,【高知県】コロナ関連情報：「事業主のみなさまへ（新型コロナウイルスに関する助成金など）」,2022-06-16,72730,※ 2022年6月15日更新,

@@ -1,16 +1,25 @@
-﻿area,url,category,title,date
-宮崎県,https://www.pref.miyazaki.lg.jp/eiseikanri/covid-19/jigyosha/20220119_manbou_inshokutenzitan.html, 協力金,＜県下全域＞まん延防止等重点措置適用に係る飲食店に対する要請について(1月21日～3月6日) ,2022-03-30
-宮崎県,https://www.pref.miyazaki.lg.jp/eiseikanri/covid-19/jigyosha/20220116_zitanyousei.html, 協力金,＜都城市・三股町＞新型コロナウイルス感染症対策に関する営業時間短縮要請（1月16日～1月20日） ,2022-03-30
-宮崎県,https://www.pref.miyazaki.lg.jp/allmiyazaki/covid-19/jigyosha/20220225162652.html, 支援金,酒類販売事業者等緊急支援金（1月～3月影響分） ,2022-03-30
-宮崎県,https://hinatamafin.pref.miyazaki.lg.jp/soshiki/chikusanshinkoka/hiikukeieitaisitukyoka.html, 支援金,肉用牛肥育経営体質強化緊急対策事業 ,2022-03-30
-宮崎県,https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/jigyosha/20210812114830.html,, 新型コロナウイルス感染症患者の転院受入支援事業について ,2022-03-30
-宮崎県,https://www.pref.miyazaki.lg.jp/noseikikaku/shigoto/nogyo/20200417213351.html#A02,, 【農林水産業等の皆さまへ】新型コロナウイルス感染症の関連情報 ,2022-03-30
-宮崎県,https://www.pref.miyazaki.lg.jp/keieikinyushien/shigoto/chushokigyo/20200501_1.html,, 新型コロナウイルス感染症に対応した貸付制度 ,2022-03-30
-宮崎県,https://www.pref.miyazaki.lg.jp/nogyofukyugijutsu/shigoto/nogyo/20200311102522.html,, 新型コロナウイルス感染症に対する農業者向け金融支援について ,2022-03-30
-宮崎県,https://www.pref.miyazaki.lg.jp/kenko/hoken/kansensho/covid19/index_business.html, 支援情報,新型コロナウイルス感染症に関する情報（事業者向け） ,2022-03-30
-宮崎県,https://www.pref.miyazaki.lg.jp/eiseikanri/covid-19/jigyosha/hinataninsho.html,, 飲食店における新型コロナ対策認証制度（ひなた飲食店認証制度） ,2022-03-30
-宮崎県,https://www.pref.miyazaki.lg.jp/keieikinyushien/shigoto/chushokigyo/20200131131631.html, 相談,新型コロナウイルスの流行に関する商工業者向け「特別相談窓口」の設置について ,2022-03-30
-宮崎県,https://yorozu-miyazaki.go.jp/, 相談,新型コロナウイルスに関する経営相談を、土・日・祝日にも対応いたします～宮崎県よろず支援拠点～ ,2022-03-30
-宮崎県,https://www.miyazakigeibun.jp/artscouncil-contact/, 相談,新型コロナウイルスの影響における相談窓口～アーツカウンシルみやざき～ ,2022-03-30
-宮崎県,https://jsite.mhlw.go.jp/miyazaki-roudoukyoku/_120352/_120581/_120643/_120654_00001.html, 相談,新型コロナ感染症の影響による特別労働相談窓口～宮崎労働局～ ,2022-03-30
-宮崎県,https://www.pref.miyazaki.lg.jp/rodoseisaku/shigoto/rodo/mado01.html, 相談,労働相談窓口～宮崎県中小企業労働相談所～ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+宮崎県,https://www.pref.miyazaki.lg.jp/eiseikanri/covid-19/jigyosha/20220119_manbou_inshokutenzitan.html, 協力金,＜県下全域＞まん延防止等重点措置適用に係る飲食店に対する要請について(1月21日～3月6日) ,2022-03-30,,,
+宮崎県,https://www.pref.miyazaki.lg.jp/eiseikanri/covid-19/jigyosha/20220116_zitanyousei.html, 協力金,＜都城市・三股町＞新型コロナウイルス感染症対策に関する営業時間短縮要請（1月16日～1月20日） ,2022-03-30,,,
+宮崎県,https://www.pref.miyazaki.lg.jp/allmiyazaki/covid-19/jigyosha/20220225162652.html, 支援金,酒類販売事業者等緊急支援金（1月～3月影響分） ,2022-03-30,,,
+宮崎県,https://hinatamafin.pref.miyazaki.lg.jp/soshiki/chikusanshinkoka/hiikukeieitaisitukyoka.html, 支援金,肉用牛肥育経営体質強化緊急対策事業 ,2022-03-30,,,
+宮崎県,https://www.pref.miyazaki.lg.jp/kansensho-taisaku/covid-19/jigyosha/20210812114830.html,, 新型コロナウイルス感染症患者の転院受入支援事業について ,2022-03-30,,,
+宮崎県,https://www.pref.miyazaki.lg.jp/noseikikaku/shigoto/nogyo/20200417213351.html#A02,, 【農林水産業等の皆さまへ】新型コロナウイルス感染症の関連情報 ,2022-03-30,,,
+宮崎県,https://www.pref.miyazaki.lg.jp/keieikinyushien/shigoto/chushokigyo/20200501_1.html,, 新型コロナウイルス感染症に対応した貸付制度 ,2022-03-30,,,
+宮崎県,https://www.pref.miyazaki.lg.jp/nogyofukyugijutsu/shigoto/nogyo/20200311102522.html,, 新型コロナウイルス感染症に対する農業者向け金融支援について ,2022-03-30,,,
+宮崎県,https://www.pref.miyazaki.lg.jp/kenko/hoken/kansensho/covid19/index_business.html, 支援情報,新型コロナウイルス感染症に関する情報（事業者向け） ,2022-03-30,,,
+宮崎県,https://www.pref.miyazaki.lg.jp/eiseikanri/covid-19/jigyosha/hinataninsho.html,, 飲食店における新型コロナ対策認証制度（ひなた飲食店認証制度） ,2022-03-30,,,
+宮崎県,https://www.pref.miyazaki.lg.jp/keieikinyushien/shigoto/chushokigyo/20200131131631.html, 相談,新型コロナウイルスの流行に関する商工業者向け「特別相談窓口」の設置について ,2022-03-30,,,
+宮崎県,https://yorozu-miyazaki.go.jp/, 相談,新型コロナウイルスに関する経営相談を、土・日・祝日にも対応いたします～宮崎県よろず支援拠点～ ,2022-03-30,,,
+宮崎県,https://www.miyazakigeibun.jp/artscouncil-contact/, 相談,新型コロナウイルスの影響における相談窓口～アーツカウンシルみやざき～ ,2022-03-30,,,
+宮崎県,https://jsite.mhlw.go.jp/miyazaki-roudoukyoku/_120352/_120581/_120643/_120654_00001.html, 相談,新型コロナ感染症の影響による特別労働相談窓口～宮崎労働局～ ,2022-03-30,,,
+宮崎県,https://www.pref.miyazaki.lg.jp/rodoseisaku/shigoto/rodo/mado01.html, 相談,労働相談窓口～宮崎県中小企業労働相談所～ ,2022-03-30,,,
+宮崎県,https://www.sbic-wj.co.jp/allseminar/?seq=3754,,セミナー：「 SNSを活用した海外マーケティング」,2022-08-08,81692,※2022年8月4日更新　申請期限2022年9月22日,
+宮崎県,https://www.pref.miyazaki.lg.jp/keieikinyushien/shigoto/chushokigyo/tokubetsusoudan_genyu2021.html,,【宮崎県】相談窓口：原油価格・物価高騰の影響を受けている商工業者向け「特別相談窓口」について,2022-08-24,82818,※2022年8月22日更新,
+宮崎県,http://www.pref.miyazaki.lg.jp/sangyoseisaku/shigoto/foodbusiness/20220721174756.html,,【宮崎県】補助金：「地域の産業資源を活用した新たな雇用の場創出事業補助金について〈2次募集〉＿,2022-08-17,82293,※2022年8月16日更新　申請期限2022年9月16日,
+宮崎県,https://www.pref.miyazaki.lg.jp/allmiyazaki/shigoto/shokogyo/20220606101823.html,,【宮崎県】補助金：「【募集】地域商社等による県産品輸出強化支援補助金対象事業の募集について」,2022-08-04,81565,※2022年8月4日更新　申請期限2022年8月31日,
+宮崎県,https://www.pref.miyazaki.lg.jp/sogokotsu/shigoto/butsuryu/20220628161845.html,,【宮崎県】補助金：「交通・物流事業者燃料高騰等対策事業費補助金について」,2022-08-02,81392,※2022年8月1日更新,
+宮崎県,https://www.pref.miyazaki.lg.jp/koyorodoseisaku/shigoto/rodo/20210831131158.html,,【宮崎県】補助金：「外国人技能実習生等受入事業者支援事業費補助金の御案内」,2022-07-01,79384,※2022年7月1日更新　申請期限2022年2月20日,
+宮崎県,https://www.pref.miyazaki.lg.jp/miyazaki-sugi/shigoto/ringyo/20220527143136.html,,【宮崎県】補助金：「令和4年度みやざきスギ快適空間創出事業の募集について」,2022-06-29,79156,※2022年6月27日更新　申請期限2022年10月31日,
+宮崎県,http://cms.himuka.or.jp/display.php?cont=220331151310,,専門家による支援：「制度改正等の課題解決環境整備事業の募集について」,2022-05-06,75806,申請期限2022年12月28日,
+宮崎県,http://www.pref.miyazaki.lg.jp/shokoseisaku/covid-19/jigyosya/20200826174519.html,,【宮崎県】コロナに関する情報提供：「新型コロナウイルス感染症に伴う相談窓口のご案内～事業者の皆様へ～」,2022-06-20,77538,※2022年6月17日更新,

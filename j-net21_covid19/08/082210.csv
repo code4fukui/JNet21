@@ -1,4 +1,6 @@
-﻿area,url,category,title,date
-ひたちなか市,https://www.city.hitachinaka.lg.jp/business/chushokigyo/1002743.html, 融資,特定中小企業者認定 ,2022-03-30
-ひたちなか市,https://www.city.hitachinaka.lg.jp/fukushi/kansensho/1003348/1003361/1003363/index.html, 支援情報,企業・個人事業主向けの給付金・補助金一覧【新型コロナウイルス】 ,2022-03-30
-ひたちなか市,https://www.city.hitachinaka.lg.jp/fukushi/kansensho/1003348/1003361/1003363/1003365.html, 相談・融資,経営相談・融資一覧 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+ひたちなか市,https://www.city.hitachinaka.lg.jp/business/chushokigyo/1002743.html, 融資,特定中小企業者認定 ,2022-03-30,,,
+ひたちなか市,https://www.city.hitachinaka.lg.jp/fukushi/kansensho/1003348/1003361/1003363/index.html, 支援情報,企業・個人事業主向けの給付金・補助金一覧【新型コロナウイルス】 ,2022-03-30,,,
+ひたちなか市,https://www.city.hitachinaka.lg.jp/fukushi/kansensho/1003348/1003361/1003363/1003365.html, 相談・融資,経営相談・融資一覧 ,2022-03-30,,,
+ひたちなか市,https://www.city.hitachinaka.lg.jp/business/sangyo/1007213/1009983.html,,【ひたちなか市】補助金：「新型コロナウイルス感染症対策チャレンジ事業支援補助金（令和4年度）」,2022-06-16,78060,※2022年6月1日更新,
+ひたちなか市,https://www.city.hitachinaka.lg.jp/business/sangyo/1007213/1009982.html,, 【ひたちなか市】補助金：「新型コロナウイルス感染症対策デジタル技術活用促進補助金（令和4年度）」,2022-06-16,78059,※2022年6月1日更新　申請期限2022年8月31日,

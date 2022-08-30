@@ -1,8 +1,13 @@
-﻿area,url,category,title,date
-秋田県,https://www.pref.akita.lg.jp/pages/archive/60907, 補助金,冬季旅行商品造成支援事業費補助金 ,2022-03-30
-秋田県,https://www.pref.akita.lg.jp/pages/archive/480, 融資,中小企業振興資金(一般資金) ,2022-03-30
-秋田県,https://www.pref.akita.lg.jp/pages/archive/495, 融資,経営安定資金(通常枠) ,2022-03-30
-秋田県,https://www.pref.akita.lg.jp/pages/archive/59370, 融資,経営安定資金（ウィズ・アフターコロナ枠） ,2022-03-30
-秋田県,https://www.pref.akita.lg.jp/pages/archive/47822, 融資,経営安定資金（新型コロナウイルス感染症対策枠） ,2022-03-30
-秋田県,https://www.pref.akita.lg.jp/pages/archive/47723, 融資,セーフティネット保証・危機関連保証の指定について(新型コロナウイルス感染症に係る中小企業者対策) ,2022-03-30
-秋田県,https://www.pref.akita.lg.jp/pages/archive/47236, 支援情報,新型コロナウィルス感染症の影響でお困りの事業者の皆様へ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+秋田県,https://www.pref.akita.lg.jp/pages/archive/60907, 補助金,冬季旅行商品造成支援事業費補助金 ,2022-03-30,,,
+秋田県,https://www.pref.akita.lg.jp/pages/archive/480, 融資,中小企業振興資金(一般資金) ,2022-03-30,,,
+秋田県,https://www.pref.akita.lg.jp/pages/archive/495, 融資,経営安定資金(通常枠) ,2022-03-30,,,
+秋田県,https://www.pref.akita.lg.jp/pages/archive/59370, 融資,経営安定資金（ウィズ・アフターコロナ枠） ,2022-03-30,,,
+秋田県,https://www.pref.akita.lg.jp/pages/archive/47822, 融資,経営安定資金（新型コロナウイルス感染症対策枠） ,2022-03-30,,,
+秋田県,https://www.pref.akita.lg.jp/pages/archive/47723, 融資,セーフティネット保証・危機関連保証の指定について(新型コロナウイルス感染症に係る中小企業者対策) ,2022-03-30,,,
+秋田県,https://www.pref.akita.lg.jp/pages/archive/47236, 支援情報,新型コロナウィルス感染症の影響でお困りの事業者の皆様へ ,2022-03-30,,,
+秋田県,https://www.tohoku.meti.go.jp/s_sangi_jinza/topics/220620.html,,イベント情報：「人材確保等総合支援事業イベント情報（2022年度）のお知らせ」,2022-08-02,78677,※2022年8月1日更新,
+秋田県,https://www.pref.akita.lg.jp/pages/archive/67125,,【秋田県】補助金：「観光事業者燃料高騰等対策支援事業費補助金」（二次募集）の公募について,2022-08-10,81889,※2022年8月9日更新　申請期限2022年8月31日,
+秋田県,http://www.ata.or.jp/shien/,,【秋田県】支援金：「トラック運送燃料高騰緊急支援金」,2022-07-04,79452,※2022年7月1日更新　申請期限2022年10月28日,
+秋田県,https://www.town.fujisato.akita.jp/sangyo/c649/c659/2512,,【秋田県】補助金：「M＆A支援事業について」,2022-06-15,78379,※2022年5月9日更新,
+秋田県,https://www.pref.akita.lg.jp/pages/archive/56013,,【秋田県】補助金：「新型コロナウイルス感染防止対策飲食店認証　を取得するための設備導入を支援します」,2022-06-15,78376,※2022年4月1日更新,

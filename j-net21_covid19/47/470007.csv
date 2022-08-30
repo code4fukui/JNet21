@@ -1,14 +1,19 @@
-﻿area,url,category,title,date
-沖縄県,https://www.pref.okinawa.jp/site/shoko/keiei/covid19/jitan_10/kyouryokukin.html, 協力金,【第10期】まん延防止等重点措置に係る要請(令和4年1月9日～2月20日)に伴う協力金 ,2022-03-30
-沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/koyo/koyokeizoku.html, 助成金,沖縄県雇用継続助成金（雇用調整助成金等の上乗せ助成） ,2022-03-30
-沖縄県,https://www.pref.okinawa.jp/site/kodomo/korei/shido/shingatakorona-virusservisecontinue.html, 補助金,令和3年度新型コロナウイルス感染症流行下における介護サービス事業所等のサービス提供体制確保事業【第6波分】 ,2022-03-30
-沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/keiei/kinyu/r03_koronataioubansougatasiensikin.html, 融資,新型コロナウイルス感染症対応伴走型支援資金 ,2022-03-30
-沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/keiei/kinyu/r03_chusyoukigyousaiseisienkikin_koronataioukasituke.html, 融資,中小企業再生支援基金（新型コロナウィルス感染症対応貸付） ,2022-03-30
-沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/keiei/kinyu/safety.html, 融資,中小企業セーフティネット資金 ,2022-03-30
-沖縄県,https://www.pref.okinawa.lg.jp/site/hoken/kansen/taisaku/okininsho.html, 認証制度,沖縄県感染防止対策認証制度（第三者認証） ,2022-03-30
-沖縄県,https://www.pref.okinawa.jp/site/shoko/koyo/koyotaisaku/r2/r2_smile/jyoseikinn.html, 支援情報,雇用に関する助成金等 ,2022-03-30
-沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/marketing/new_corona/index.html, 認証制度,シーサーステッカー（沖縄県感染防止対策徹底宣言ステッカー）について ,2022-03-30
-沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/keiei/kinyu/singatakorona.html, 支援情報,新型コロナウイルス感染症で影響を受けた事業者に対する支援等について ,2022-03-30
-沖縄県,http://www.ogb.go.jp/nousui/topikku/soudanmadoguchi, 相談,新型コロナウイルス感染症に関する農業者、食品事業者等向け相談窓口～沖縄総合事務局農林水産部～ ,2022-03-30
-沖縄県,http://www.ogb.go.jp/zaimu/zaimu_kinyuu_shouken/20180829/20200310, 相談,新型コロナウイルスに関する沖縄総合事務局金融相談ダイヤル～沖縄総合事務局財務部～ ,2022-03-30
-沖縄県,http://www.ogb.go.jp/keisan/tyusyou/202001291000_01, 相談,新型コロナウイルスに関する経営相談窓口～沖縄総合事務局経済産業部～ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+沖縄県,https://www.pref.okinawa.jp/site/shoko/keiei/covid19/jitan_10/kyouryokukin.html, 協力金,【第10期】まん延防止等重点措置に係る要請(令和4年1月9日～2月20日)に伴う協力金 ,2022-03-30,,,
+沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/koyo/koyokeizoku.html, 助成金,沖縄県雇用継続助成金（雇用調整助成金等の上乗せ助成） ,2022-03-30,,,
+沖縄県,https://www.pref.okinawa.jp/site/kodomo/korei/shido/shingatakorona-virusservisecontinue.html, 補助金,令和3年度新型コロナウイルス感染症流行下における介護サービス事業所等のサービス提供体制確保事業【第6波分】 ,2022-03-30,,,
+沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/keiei/kinyu/r03_koronataioubansougatasiensikin.html, 融資,新型コロナウイルス感染症対応伴走型支援資金 ,2022-03-30,,,
+沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/keiei/kinyu/r03_chusyoukigyousaiseisienkikin_koronataioukasituke.html, 融資,中小企業再生支援基金（新型コロナウィルス感染症対応貸付） ,2022-03-30,,,
+沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/keiei/kinyu/safety.html, 融資,中小企業セーフティネット資金 ,2022-03-30,,,
+沖縄県,https://www.pref.okinawa.lg.jp/site/hoken/kansen/taisaku/okininsho.html, 認証制度,沖縄県感染防止対策認証制度（第三者認証） ,2022-03-30,,,
+沖縄県,https://www.pref.okinawa.jp/site/shoko/koyo/koyotaisaku/r2/r2_smile/jyoseikinn.html, 支援情報,雇用に関する助成金等 ,2022-03-30,,,
+沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/marketing/new_corona/index.html, 認証制度,シーサーステッカー（沖縄県感染防止対策徹底宣言ステッカー）について ,2022-03-30,,,
+沖縄県,https://www.pref.okinawa.lg.jp/site/shoko/keiei/kinyu/singatakorona.html, 支援情報,新型コロナウイルス感染症で影響を受けた事業者に対する支援等について ,2022-03-30,,,
+沖縄県,http://www.ogb.go.jp/nousui/topikku/soudanmadoguchi, 相談,新型コロナウイルス感染症に関する農業者、食品事業者等向け相談窓口～沖縄総合事務局農林水産部～ ,2022-03-30,,,
+沖縄県,http://www.ogb.go.jp/zaimu/zaimu_kinyuu_shouken/20180829/20200310, 相談,新型コロナウイルスに関する沖縄総合事務局金融相談ダイヤル～沖縄総合事務局財務部～ ,2022-03-30,,,
+沖縄県,http://www.ogb.go.jp/keisan/tyusyou/202001291000_01, 相談,新型コロナウイルスに関する経営相談窓口～沖縄総合事務局経済産業部～ ,2022-03-30,,,
+沖縄県,https://www.pref.okinawa.jp/site/shoko/seisaku/kikaku/genyubukka.html,,【沖縄県】支援金：「原油・物価高対策緊急支援事業に係る企画提案の募集について」,2022-08-17,82296,※2022年8月15日更新　申請期限2022年8月31日,
+沖縄県,https://www.pref.okinawa.lg.jp/site/chijiko/kohokoryu/shienjoho.html,,【沖縄県】ご案内：「支援情報」,2022-08-12,77540,※2022年8月3日更新,
+沖縄県,https://www.pref.okinawa.lg.jp/site/bunka-sports/kankoshinko/ukeire/r4contactless.html,,【沖縄県】補助金：「令和４年度コンタクトレス決済端末機導入整備事業補助金について」,2022-07-01,79372,※2022年6月30日更新　申請期限2022年8月31日,
+沖縄県,https://okinawa-ric.jp/news/others/post-174.html,,支援金：【沖縄県】おきなわ事業者復活支援金について,2022-05-30,77284,※2022年5月30日更新　申請期限2022年8月31日,
+沖縄県,https://www.pref.okinawa.lg.jp/site/bunka-sports/kankoshien/2022-5-24.html,,【沖縄県】支援金：「おきなわ事業者復活支援金について」,2022-05-26,76990,※2022年5月26日更新　申請期限2022年8月31日,

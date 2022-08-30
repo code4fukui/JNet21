@@ -2,7 +2,7 @@ import { CSV } from "https://js.sabae.cc/CSV.js";
 
 const loadCSV = async (fn) => {
   try {
-    return CSV.toJSON(await CSV.fetch(mfn));
+    return CSV.toJSON(await CSV.fetch(fn));
   } catch (e) {
   }
   return [];
@@ -10,6 +10,7 @@ const loadCSV = async (fn) => {
 
 export const mergeCSV = async (fn, data, key) => {
   const mdata = await loadCSV(fn);
+  console.log(fn, mdata);
   data.forEach(d => {
     if (mdata.find(m => m[key] == d[key])) {
       return;

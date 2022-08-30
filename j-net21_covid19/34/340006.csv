@@ -1,15 +1,23 @@
-﻿area,url,category,title,date
-広島県,https://hiroshima-kansenboushi-shien.jp/s9/, 支援金,【第9期】広島県感染症拡大防止協力支援金(令和3年度) ,2022-03-30
-広島県,https://hiroshima-kansenboushi-shien.jp/s8/, 支援金,【第8期】広島県感染症拡大防止協力支援金(令和3年度) ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/site/2019-ncov/covid19-support.html, 支援金,広島県感染症拡大防止協力支援金 ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/soshiki/67/ganbaru-getsuji.html, 支援金,頑張る中小事業者月次支援金 ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/soshiki/93/kensetsu-support.html, 助成金,新型コロナウイルス感染症対策建設労働者雇用促進助成金 ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/soshiki/79/koronashien200508.html, 支援情報,新型コロナウイルス感染症の影響を受ける農林漁業者向け支援策 ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/site/police/koronauirusudourosiyou.html, 支援情報,新型コロナウイルス感染症の影響に対応するための沿道飲食店等の路上利用に係る道路使用許可申請手数料の免除 ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/soshiki/269/hiroshimapcrcenter.html, 支援情報,PCRセンターの全県展開 ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/soshiki/58/inshokusengenten.html, 支援情報,新型コロナウイルス感染症対策取組宣言店 ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/site/2019-ncov/, 支援情報,新型コロナウイルス感染症 まとめサイト ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/site/covid-support/jigyosha-all.html, 支援情報,新型コロナウイルスに関わる「事業者の方向け支援」 ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/site/zei/covid19-tax-extnsion.html, 税制,新型コロナウイルス感染症の影響により納税が困難となった方へ ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/soshiki/67/covid-syoko.html, 相談,新型コロナウイルス感染症の影響による中小企業者・労働者の方等に対する相談窓口等 ,2022-03-30
-広島県,https://www.pref.hiroshima.lg.jp/soshiki/68/ncov2020-soudan.html, 相談,社会保険労務士による電話相談窓口 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+広島県,https://hiroshima-kansenboushi-shien.jp/s9/, 支援金,【第9期】広島県感染症拡大防止協力支援金(令和3年度) ,2022-03-30,,,
+広島県,https://hiroshima-kansenboushi-shien.jp/s8/, 支援金,【第8期】広島県感染症拡大防止協力支援金(令和3年度) ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/site/2019-ncov/covid19-support.html, 支援金,広島県感染症拡大防止協力支援金 ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/67/ganbaru-getsuji.html, 支援金,頑張る中小事業者月次支援金 ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/93/kensetsu-support.html, 助成金,新型コロナウイルス感染症対策建設労働者雇用促進助成金 ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/79/koronashien200508.html, 支援情報,新型コロナウイルス感染症の影響を受ける農林漁業者向け支援策 ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/site/police/koronauirusudourosiyou.html, 支援情報,新型コロナウイルス感染症の影響に対応するための沿道飲食店等の路上利用に係る道路使用許可申請手数料の免除 ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/269/hiroshimapcrcenter.html, 支援情報,PCRセンターの全県展開 ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/58/inshokusengenten.html, 支援情報,新型コロナウイルス感染症対策取組宣言店 ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/site/2019-ncov/, 支援情報,新型コロナウイルス感染症 まとめサイト ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/site/covid-support/jigyosha-all.html, 支援情報,新型コロナウイルスに関わる「事業者の方向け支援」 ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/site/zei/covid19-tax-extnsion.html, 税制,新型コロナウイルス感染症の影響により納税が困難となった方へ ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/67/covid-syoko.html, 相談,新型コロナウイルス感染症の影響による中小企業者・労働者の方等に対する相談窓口等 ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/68/ncov2020-soudan.html, 相談,社会保険労務士による電話相談窓口 ,2022-03-30,,,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/70/keizoku2022.html,,【広島県】セミナー：「会社の未来を創る！ ポストコロナを生き抜くための 新事業展開・事業継続セミナー」,2022-08-22,82571,※2022年8月18日更新,
+広島県,https://www.hiwave.or.jp/news/29994/,,補助金：「新型コロナウィルスの影響による経営相談・支援施策について」,2022-08-23,74304,※令和4年8月23日更新,
+広島県,http://www.chuokai-hiroshima.or.jp/sai-challenge-hojokin.php,,補助金：【令和4年度6月補正予算】経営革新再チャレンジ応援補助金,2022-08-03,81381,※申請期限2022年11月30日,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/67/04ecotire.html,,【広島県】支援金：「エコタイヤ等導入支援金について（トラック事業者への省エネ・CO2削減緊急対策支援事業）」,2022-08-02,81410,※2022年8月1日更新　申請期限2023年1月13日,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/75/sai-challenge-keiei.html,,【広島県】補助金：「経営革新再チャレンジ応援補助金のご案内」,2022-07-29,81217,※2022年7月29日更新　申請期限2022年11月30日,
+広島県,https://www.pref.hiroshima.lg.jp/site/shidoukensa/servicekeizoku.html,,【広島県】補助金：「新型コロナウイルス感染症に係る障害福祉サービス事業所等のサービス継続事業補助金について」,2022-07-29,81195,※2022年7月28日更新,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/75/syoutengai.html,,【広島県】補助金：「商店街組織の運営支援事業の公募開始について」,2022-05-13,76151,※2022年5月13日更新　申請期限2022年11月30日,
+広島県,https://www.pref.hiroshima.lg.jp/soshiki/75/after-keikaku.html,,「【広島県】補助金：アフターコロナ対応経営革新推進事業補助金(第2回)」,2022-03-29,73930,公募期限8月31日(水)、ページ最終更新日3月28日(月)です。,

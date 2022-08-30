@@ -1,11 +1,14 @@
-﻿area,url,category,title,date
-茨城県,https://www.pref.ibaraki.jp/sangyo/chusho/kikaku/r4_1_jitan_kyoryokukin.html, 協力金,茨城県新型コロナウイルス感染症拡大防止営業時間短縮要請協力金（飲食店向け：令和4年1月～3月） ,2022-03-30
-茨城県,https://www.pref.ibaraki.jp/hokenfukushi/fukushi/hogo/konkyuusya/jyuukyokakuhokyuuhukin.html, 給付金,住居確保給付金のご案内 ,2022-03-30
-茨城県,https://www.pref.ibaraki.jp/shokorodo/sansei/kinyu/shosei/yushi/power_up.html, 融資,パワーアップ融資 ,2022-03-30
-茨城県,http://icgc.or.jp/hoshou/page/ct10_6.html, 保証制度,伴走支援型特別保証 ,2022-03-30
-茨城県,https://www.pref.ibaraki.jp/shokorodo/sansei/kinyu/shosei/yushi/yushitop.html, 融資,中小企業向け融資制度のご案内 ,2022-03-30
-茨城県,https://www.pref.ibaraki.jp/shokorodo/sansei/20200408.html, 支援情報,新型コロナウイルス感染症に関する中小企業支援策 ,2022-03-30
-茨城県,https://www.pref.ibaraki.jp/hokenfukushi/yobo/yobo/muryokensa.html, 支援情報,感染不安を感じる方へのPCR等無料検査のご案内について ,2022-03-30
-茨城県,https://www.pref.ibaraki.jp/somu/zeimu/kikaku/documents/korona.html, 税制,新型コロナウイルス感染症緊急経済対策における税制上の措置について ,2022-03-30
-茨城県,https://www.pref.ibaraki.jp/shokorodo/chusho/keiei/singatakorona1.html, 相談,新型コロナウイルス感染症に係る支援策及び相談窓口について ,2022-03-30
-茨城県,http://icgc.or.jp/hoshou/ct10.html, 相談,新型コロナウイルスに関する経営相談窓口～茨城県信用保証協会～ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+茨城県,https://www.pref.ibaraki.jp/sangyo/chusho/kikaku/r4_1_jitan_kyoryokukin.html, 協力金,茨城県新型コロナウイルス感染症拡大防止営業時間短縮要請協力金（飲食店向け：令和4年1月～3月） ,2022-03-30,,,
+茨城県,https://www.pref.ibaraki.jp/hokenfukushi/fukushi/hogo/konkyuusya/jyuukyokakuhokyuuhukin.html, 給付金,住居確保給付金のご案内 ,2022-03-30,,,
+茨城県,https://www.pref.ibaraki.jp/shokorodo/sansei/kinyu/shosei/yushi/power_up.html, 融資,パワーアップ融資 ,2022-03-30,,,
+茨城県,http://icgc.or.jp/hoshou/page/ct10_6.html, 保証制度,伴走支援型特別保証 ,2022-03-30,,,
+茨城県,https://www.pref.ibaraki.jp/shokorodo/sansei/kinyu/shosei/yushi/yushitop.html, 融資,中小企業向け融資制度のご案内 ,2022-03-30,,,
+茨城県,https://www.pref.ibaraki.jp/shokorodo/sansei/20200408.html, 支援情報,新型コロナウイルス感染症に関する中小企業支援策 ,2022-03-30,,,
+茨城県,https://www.pref.ibaraki.jp/hokenfukushi/yobo/yobo/muryokensa.html, 支援情報,感染不安を感じる方へのPCR等無料検査のご案内について ,2022-03-30,,,
+茨城県,https://www.pref.ibaraki.jp/somu/zeimu/kikaku/documents/korona.html, 税制,新型コロナウイルス感染症緊急経済対策における税制上の措置について ,2022-03-30,,,
+茨城県,https://www.pref.ibaraki.jp/shokorodo/chusho/keiei/singatakorona1.html, 相談,新型コロナウイルス感染症に係る支援策及び相談窓口について ,2022-03-30,,,
+茨城県,http://icgc.or.jp/hoshou/ct10.html, 相談,新型コロナウイルスに関する経営相談窓口～茨城県信用保証協会～ ,2022-03-30,,,
+茨城県,https://www.pref.ibaraki.jp/shokorodo/sansei/kinyu/shosei/yushi/kakushin.html,,【茨城県】融資：「新分野進出等支援融資」,2022-04-13,74611,※2022年4月7日更新,
+茨城県,https://www.ibarakiken.or.jp/pdf/220518%E3%82%A4%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9%E5%88%B6%E5%BA%A6%E5%B0%8E%E5%85%A5%E3%81%AB%E4%BF%82%E3%82%8B%E5%B0%82%E9%96%80%E5%AE%B6%E6%B4%BE%E9%81%A3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E4%BA%8B%E6%A5%AD%E7%92%B0%E5%A2%83%E5%A4%89%E5%8C%96%E5%AF%BE%E5%BF%9C%E5%9E%8B%E6%94%AF%E6%8F%B4%E4%BA%8B%E6%A5%AD%EF%BC%89.pdf,,専門家による支援：「インボイス制度導入に係る専門家を派遣します」,2022-05-18,76456,,
+茨城県,https://www.ibarakiken.or.jp/pdf/220518%E5%88%B6%E5%BA%A6%E6%94%B9%E6%AD%A3%E7%AD%89%E3%81%AB%E4%BC%B4%E3%81%86%E5%B0%82%E9%96%80%E5%AE%B6%E6%B4%BE%E9%81%A3%E7%AD%89%E4%BA%8B%E6%A5%AD.pdf,,専門家による支援：「制度改正等の課題解決環境整備事業のご案内」,2022-05-18,76455,,

@@ -1,6 +1,9 @@
-﻿area,url,category,title,date
-鹿児島市,https://www.city.kagoshima.lg.jp/san-shien/2021yachin.html, 支援金,鹿児島市家賃支援金 ,2022-03-30
-鹿児島市,http://www.city.kagoshima.lg.jp/san-shien/sangyo/shokogyo/yushi/sedo.html, 融資,鹿児島市中小企業融資制度 ,2022-03-30
-鹿児島市,http://www.city.kagoshima.lg.jp/san-shien/singatakorona.html, 融資,新型コロナウイルス感染症により事業活動に影響を受けている中小企業者の方へ ,2022-03-30
-鹿児島市,http://www.city.kagoshima.lg.jp/soumu/shichoshitu/kouhou/covid-19/soudan.html, 支援情報,鹿児島市新型コロナウイルス感染症対策 支援・相談事業一覧 ,2022-03-30
-鹿児島市,https://www.city.kagoshima.lg.jp/shimin/shiminbunka/soudan/kurashi/sodan/jisshi.html, 相談,市役所各課実施の相談（金融相談等） ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+鹿児島市,https://www.city.kagoshima.lg.jp/san-shien/2021yachin.html, 支援金,鹿児島市家賃支援金 ,2022-03-30,,,
+鹿児島市,http://www.city.kagoshima.lg.jp/san-shien/sangyo/shokogyo/yushi/sedo.html, 融資,鹿児島市中小企業融資制度 ,2022-03-30,,,
+鹿児島市,http://www.city.kagoshima.lg.jp/san-shien/singatakorona.html, 融資,新型コロナウイルス感染症により事業活動に影響を受けている中小企業者の方へ ,2022-03-30,,,
+鹿児島市,http://www.city.kagoshima.lg.jp/soumu/shichoshitu/kouhou/covid-19/soudan.html, 支援情報,鹿児島市新型コロナウイルス感染症対策 支援・相談事業一覧 ,2022-03-30,,,
+鹿児島市,https://www.city.kagoshima.lg.jp/shimin/shiminbunka/soudan/kurashi/sodan/jisshi.html, 相談,市役所各課実施の相談（金融相談等） ,2022-03-30,,,
+鹿児島市,http://www.city.kagoshima.lg.jp/kikakuzaisei/kikaku/kotuseisaku/hojokin.html,,【鹿児島市】補助金：「令和4年度鹿児島市公共交通利用喚起支援事業補助金」,2022-08-09,81809,※2022年8月9日更新,
+鹿児島市,https://www.city.kagoshima.lg.jp/san-shien/sangyo/shokogyo/shogyo/premium2022.html,,【鹿児島市】助成金：「プレミアム付商品券等発行支援事業」,2022-04-28,75544,※2022年4月27日更新　申請期限2022年9月30日,
+鹿児島市,http://www.city.kagoshima.lg.jp/san-sousyutu/shinsangyobansogatashien.html,,【鹿児島市】専門家による支援：「専門家による事業化に向けた伴走型の支援」,2022-07-26,80860,※2022年7月26日更新　申請期限2022年8月31日,

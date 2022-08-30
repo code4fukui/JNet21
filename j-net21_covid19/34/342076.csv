@@ -1,6 +1,9 @@
-﻿area,url,category,title,date
-福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/hokenshosomu/195754.html, 助成金,福山市医療従事者宿泊費助成金 ,2022-03-30
-福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/sangyou/176877.html, 融資,【新型コロナウイルス関連】セーフティネット保証4号の認定について ,2022-03-30
-福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/sangyou/41730.html, 融資,セーフティネット保証5号の認定について ,2022-03-30
-福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/hokenyobo/173298.html#5, 支援情報,【まとめ】新型コロナウィルス感染症対策に関する事業者への支援策について ,2022-03-30
-福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/sangyou/191263.html, 相談,事業者向け相談窓口について ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/hokenshosomu/195754.html, 助成金,福山市医療従事者宿泊費助成金 ,2022-03-30,,,
+福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/sangyou/176877.html, 融資,【新型コロナウイルス関連】セーフティネット保証4号の認定について ,2022-03-30,,,
+福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/sangyou/41730.html, 融資,セーフティネット保証5号の認定について ,2022-03-30,,,
+福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/hokenyobo/173298.html#5, 支援情報,【まとめ】新型コロナウィルス感染症対策に関する事業者への支援策について ,2022-03-30,,,
+福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/sangyou/191263.html, 相談,事業者向け相談窓口について ,2022-03-30,,,
+福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/kaigo/208485.html,,【福山市】支援策：「介護事業者向け支援策」,2022-08-02,81331,※2022年7月29日更新,
+福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/sangyou/265986.html,,【福山市】補助金：「福山市生産性向上設備等導入支援事業補助金」,2022-07-11,79907,※2022年7月8日更新　申請期限2022年9月30日,
+福山市,https://www.city.fukuyama.hiroshima.jp/soshiki/sangyou/258893.html,,【福山市】補助金：「Web（自社採用ページ，採用動画）採用活動支援事業補助金」,2022-04-13,74624,※2022年4月12日更新　申請期限2023年1月31日,

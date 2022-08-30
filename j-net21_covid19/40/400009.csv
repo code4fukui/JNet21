@@ -1,14 +1,18 @@
-﻿area,url,category,title,date
-福岡県,https://www.pref.fukuoka.lg.jp/contents/fukuoka-kansenkakudaiboushi-kyouryokukin-15th.html, 協力金,【第15期】福岡県感染拡大防止協力金 ,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/fukuoka-kansenkakudaiboushi-kyouryokukin-14th.html, 協力金,【第14期】福岡県感染拡大防止協力金 ,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/postcorona-hojyokin.html, 補助金,新需要獲得のための技術・製品開発支援補助金 ,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/iryoutekikeajisienjinzaiikusei.html, 補助金,【喀痰吸引等研修(3号研修)】福岡県医療的ケア児支援人材育成研修費補助金,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/telework-shien.html, 補助金,テレワーク活用のための支援事業のご案内,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/syuunyuuhoken.html, 補助金,収入保険の保険料に対する補助（農業者向け） ,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/corona-020130.html, 融資,新型コロナウイルス感染症に係る福岡県制度融資による資金繰り支援,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/covid-19-business.html, 支援情報,新型コロナウイルス感染症で影響を受ける事業者向け支援策 ,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/korona-kenzeimatomepe-ji.html,, 新型コロナウイルス感染症に関連する県税の取扱い(期限延長、徴収猶予など),2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/covid-19sticker.html,, 「感染防止宣言ステッカー」の申請・検索 ,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/covid-19-support-corporation.html, 相談,事業者向け支援・相談窓口 ,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/covid19roudousoudan.html, 相談,新型コロナウイルス感染症の影響による特別労働相談窓口 ,2022-03-30
-福岡県,https://www.pref.fukuoka.lg.jp/contents/200311shiensaku.html, 相談,新型コロナウイルスに関する農林漁業者の相談窓口 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+福岡県,https://www.pref.fukuoka.lg.jp/contents/fukuoka-kansenkakudaiboushi-kyouryokukin-15th.html, 協力金,【第15期】福岡県感染拡大防止協力金 ,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/fukuoka-kansenkakudaiboushi-kyouryokukin-14th.html, 協力金,【第14期】福岡県感染拡大防止協力金 ,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/postcorona-hojyokin.html, 補助金,新需要獲得のための技術・製品開発支援補助金 ,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/iryoutekikeajisienjinzaiikusei.html, 補助金,【喀痰吸引等研修(3号研修)】福岡県医療的ケア児支援人材育成研修費補助金,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/telework-shien.html, 補助金,テレワーク活用のための支援事業のご案内,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/syuunyuuhoken.html, 補助金,収入保険の保険料に対する補助（農業者向け） ,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/corona-020130.html, 融資,新型コロナウイルス感染症に係る福岡県制度融資による資金繰り支援,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/covid-19-business.html, 支援情報,新型コロナウイルス感染症で影響を受ける事業者向け支援策 ,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/korona-kenzeimatomepe-ji.html,, 新型コロナウイルス感染症に関連する県税の取扱い(期限延長、徴収猶予など),2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/covid-19sticker.html,, 「感染防止宣言ステッカー」の申請・検索 ,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/covid-19-support-corporation.html, 相談,事業者向け支援・相談窓口 ,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/covid19roudousoudan.html, 相談,新型コロナウイルス感染症の影響による特別労働相談窓口 ,2022-03-30,,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/200311shiensaku.html, 相談,新型コロナウイルスに関する農林漁業者の相談窓口 ,2022-03-30,,,
+福岡県,https://www.sbic-wj.co.jp/allseminar/?seq=3755,,セミナー：「《福岡開催》業績向上のための自社データ活用」,2022-08-08,81694,※2022年8月4日更新,
+福岡県,https://jsite.mhlw.go.jp/fukuoka-roudoukyoku/news_topics/event/00693.html,,説明会：「雇用シェア」 及び 「産業雇用安定助成金」 説明会を開催します!,2022-07-01,79334,,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/shiensaku20220608.html,,【福岡県】ご案内：「原油価格・物価高騰に関する農林漁業者の支援制度について」,2022-06-14,78144,※2022年6月8日更新,
+福岡県,https://www.pref.fukuoka.lg.jp/contents/syoukibojigyousya-hannrokaitaku-ouenn-hojyokinn.html,,【福岡県】補助金：「県内小規模事業者の販路開拓の取り組みを応援！～国の小規模事業者持続化補助金＜一般型＞の事業者負担を軽減します～」,2022-06-13,78148,※2022年6月10日更新,

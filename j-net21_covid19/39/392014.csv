@@ -1,7 +1,8 @@
-﻿area,url,category,title,date
-高知市,https://www.city.kochi.kochi.jp/soshiki/29/bgatakoutinhojyo.html, 補助金,高知市就労継続支援事業費補助金 ,2022-03-30
-高知市,https://www.city.kochi.kochi.jp/soshiki/128/akitenpo.html, 補助,高知市空き店舗活用創業支援事業 ,2022-03-30
-高知市,https://www.city.kochi.kochi.jp/soshiki/40/yuusi-20210401.html, 融資,高知市産業活性化融資制度 ,2022-03-30
-高知市,https://www.city.kochi.kochi.jp/site/kochi-corona/yoshiki.html, 融資,新型コロナウイルス感染症に関する信用保証制度まとめ（様式集あり） ,2022-03-30
-高知市,https://www.city.kochi.kochi.jp/site/kochi-corona/kochijobch.html, 支援情報,高知市JOBチャンネル(求人と求職のマッチング) ,2022-03-30
-高知市,https://www.city.kochi.kochi.jp/site/kochi-corona/corona-support-forbusiness.html, 支援情報,【事業者の皆さんへ】新型コロナウイルス感染症に伴う支援一覧 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+高知市,https://www.city.kochi.kochi.jp/soshiki/29/bgatakoutinhojyo.html, 補助金,高知市就労継続支援事業費補助金 ,2022-03-30,,,
+高知市,https://www.city.kochi.kochi.jp/soshiki/128/akitenpo.html, 補助,高知市空き店舗活用創業支援事業 ,2022-03-30,,,
+高知市,https://www.city.kochi.kochi.jp/soshiki/40/yuusi-20210401.html, 融資,高知市産業活性化融資制度 ,2022-03-30,,,
+高知市,https://www.city.kochi.kochi.jp/site/kochi-corona/yoshiki.html, 融資,新型コロナウイルス感染症に関する信用保証制度まとめ（様式集あり） ,2022-03-30,,,
+高知市,https://www.city.kochi.kochi.jp/site/kochi-corona/kochijobch.html, 支援情報,高知市JOBチャンネル(求人と求職のマッチング) ,2022-03-30,,,
+高知市,https://www.city.kochi.kochi.jp/site/kochi-corona/corona-support-forbusiness.html, 支援情報,【事業者の皆さんへ】新型コロナウイルス感染症に伴う支援一覧 ,2022-03-30,,,
+高知市,https://www.city.kochi.kochi.jp/site/kochi-corona/clean-energy.html,,【高知市】支援金：「高知市事業用クリーンエネルギー自動車等導入支援事業」のお知らせ,2022-08-22,82666,※2022年8月22日更新,
