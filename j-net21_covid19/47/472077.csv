@@ -1,3 +1,9 @@
-﻿area,url,category,title,date
-石垣市,https://www.city.ishigaki.okinawa.jp/soshiki/shoko_shinko/1_1/1067.html, 融資,石垣市小口資金融資制度 ,2022-03-30
-石垣市,https://www.city.ishigaki.okinawa.jp/about_covid19_ishigaki/jigyosha/index.html, 支援情報,事業者向け情報 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+石垣市,https://www.city.ishigaki.okinawa.jp/soshiki/shoko_shinko/1_1/1067.html, 融資,石垣市小口資金融資制度 ,2022-03-30,,,
+石垣市,https://www.city.ishigaki.okinawa.jp/about_covid19_ishigaki/jigyosha/index.html, 支援情報,事業者向け情報 ,2022-03-30,,,
+石垣市,https://www.city.ishigaki.okinawa.jp/soshiki/shogai_fukushi/whatsNew/7751.html,,【石垣市】補助金：「石垣市障害福祉施設等燃料費負担軽減支援補助金について」,2022-09-07,83900,※2022年9月1日更新　申請期限2022年9月30日,
+石垣市,https://www.city.ishigaki.okinawa.jp/soshiki/chikusan/covid19/7716.html,,【石垣市】補助金：「養鶏農家経営支援事業」,2022-09-07,83899,※2022年9月1日更新,
+石垣市,https://www.city.ishigaki.okinawa.jp/soshiki/chikusan/covid19/7711.html,,【石垣島】補助金：「学乳生産安定供給対策事業」,2022-09-07,83898,※2022年9月1日更新,
+石垣市,https://www.city.ishigaki.okinawa.jp/soshiki/chikusan/covid19/7715.html,,【石垣市】補助金：「母豚輸送費等補助事業」,2022-09-07,83896,※2022年9月1日更新,
+石垣市,https://www.city.ishigaki.okinawa.jp/soshiki/chikusan/covid19/7708.html,,【石垣市】補助金：「と畜費支援事業」,2022-09-07,83895,※2022年9月1日更新,
+石垣市,https://www.city.ishigaki.okinawa.jp/soshiki/chikusan/covid19/siennjigyou.html,,【石垣市】補助金：「畜家畜セリ上場牛の削蹄費補助」,2022-09-07,83892,※2022年9月1日更新,
