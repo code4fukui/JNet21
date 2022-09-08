@@ -1,3 +1,5 @@
-﻿area,url,category,title,date
-釧路町,http://www.town.kushiro.lg.jp/living-guide/41003/00019/170427090612.html, 融資,中小企業振興資金融資 ,2022-03-30
-釧路町,http://www.town.kushiro.lg.jp/information/41003/00043/200907250416.html, 支援情報,新型コロナウイルス感染症拡大により経営に影響を受けている事業者さまへ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+釧路町,http://www.town.kushiro.lg.jp/living-guide/41003/00019/170427090612.html, 融資,中小企業振興資金融資 ,2022-03-30,,,
+釧路町,http://www.town.kushiro.lg.jp/information/41003/00043/200907250416.html, 支援情報,新型コロナウイルス感染症拡大により経営に影響を受けている事業者さまへ ,2022-03-30,,,
+釧路町,http://www.town.kushiro.lg.jp/information/41003/00043/222625100817.html,,【釧路町】補助金：「釧路町新型コロナウイルス対策経営維持支援助成金（第2弾）のお知らせ」,2022-09-08,84026,※2022年9月1日更新　申請期限2022年12月28日,
+釧路町,http://www.town.kushiro.lg.jp/information/41003/00043/225225470816.html,,【釧路町】融資：「釧路町新型コロナウイルス感染症特別融資のお知らせ」,2022-09-08,84027,※2022年9月1日更新　申請期限2022年12月30日,
