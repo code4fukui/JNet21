@@ -1,5 +1,6 @@
-﻿area,url,category,title,date
-志木市,https://www.city.shiki.lg.jp/news/index.cfm/detail.51.112689.html, 助成金,志木市雇用調整助成金 ,2022-03-30
-志木市,"https://www.city.shiki.lg.jp/index.cfm/51,109126,395,1460,html",, 志木市新型コロナウイルス緊急対策（第8弾） ,2022-03-30
-志木市,"https://www.city.shiki.lg.jp/index.cfm/37,16003,155,604,html", 融資,セーフティネット保証5号認定について ,2022-03-30
-志木市,"https://www.city.shiki.lg.jp/index.cfm/51,94730,395,1443,html",, 新型コロナウイルス感染症に係る中小企業への支援措置について ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+志木市,https://www.city.shiki.lg.jp/news/index.cfm/detail.51.112689.html, 助成金,志木市雇用調整助成金 ,2022-03-30,,,
+志木市,"https://www.city.shiki.lg.jp/index.cfm/51,109126,395,1460,html",, 志木市新型コロナウイルス緊急対策（第8弾） ,2022-03-30,,,
+志木市,"https://www.city.shiki.lg.jp/index.cfm/37,16003,155,604,html", 融資,セーフティネット保証5号認定について ,2022-03-30,,,
+志木市,"https://www.city.shiki.lg.jp/index.cfm/51,94730,395,1443,html",, 新型コロナウイルス感染症に係る中小企業への支援措置について ,2022-03-30,,,
+志木市,"https://www.city.shiki.lg.jp/index.cfm/37,117103,155,606,html",, 【志木市】補助金：「志木市営農燃油等価格高騰対策支援金」,2022-09-14,84401,※2022年9月2日更新　申請期限2022年12月28日,
