@@ -17,6 +17,7 @@ jobs:
       - name: fetch
         run: |
           cd deno
+          rm -rf temp/
           deno run -A scrapeSupportList.js
           deno run -A fetchCovid19.js
           deno run -A packlist.js
