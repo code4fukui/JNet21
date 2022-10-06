@@ -1,4 +1,5 @@
-﻿area,url,category,title,date
-南九州市,https://www.city.minamikyushu.lg.jp/syoukou/documents/sinngatakoronazyouhou.html, 融資,セーフティネット4号、5号、危機関連について ,2022-03-30
-南九州市,https://www.city.minamikyushu.lg.jp/syoukou/documents/zizokukakyuufukin.html, 支援情報,新型コロナウイルス感染症に関する支援（事業者向け） ,2022-03-30
-南九州市,https://www.city.minamikyushu.lg.jp/syoukou/documents/documents/documents/documents/corona.html, 相談,南九州市内の事業者の皆さまへ（各種支援相談窓口） ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+南九州市,https://www.city.minamikyushu.lg.jp/syoukou/documents/sinngatakoronazyouhou.html, 融資,セーフティネット4号、5号、危機関連について ,2022-03-30,,,
+南九州市,https://www.city.minamikyushu.lg.jp/syoukou/documents/zizokukakyuufukin.html, 支援情報,新型コロナウイルス感染症に関する支援（事業者向け） ,2022-03-30,,,
+南九州市,https://www.city.minamikyushu.lg.jp/syoukou/documents/documents/documents/documents/corona.html, 相談,南九州市内の事業者の皆さまへ（各種支援相談窓口） ,2022-03-30,,,
+南九州市,https://www.city.minamikyushu.lg.jp/syoukou/sangyo/shokogyo/shogyo/keieijizokukasienkin.html,,【南九州市】補助金：「南九州市商工水産業経営持続化支援金」,2022-10-06,85886,※2022年10月1日更新　申請期限2023年1月20日,
