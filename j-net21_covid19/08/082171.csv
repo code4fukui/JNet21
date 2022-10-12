@@ -1,7 +1,9 @@
-﻿area,url,category,title,date
-取手市,https://www.city.toride.ibaraki.jp/sanshin/jigyosha/shokogyo/hojokin/tyuusyoukigyoutaisaku.html, 融資,新型コロナウイルス感染症に係る中小企業向け融資制度 ,2022-03-30
-取手市,https://www.city.toride.ibaraki.jp/sanshin/jigyosha/shokogyo/oshirase/sefutei4gou.html, 融資,セーフティネット保証制度4号の認定（新型コロナウイルス感染症関連） ,2022-03-30
-取手市,https://www.city.toride.ibaraki.jp/sanshin/jigyosha/shokogyo/oshirase/safety5gou.html, 融資,セーフティネット保証制度5号の認定（新型コロナウイルス感染症関連） ,2022-03-30
-取手市,https://www.city.toride.ibaraki.jp/wellness/kurashi/kenko/coronavirus/kinkyushien3.html, 支援情報,取手市独自の緊急支援対策（第3次） ,2022-03-30
-取手市,https://www.city.toride.ibaraki.jp/kurashi/kenko/coronavirus/jigyosha-index.html, 支援情報,事業者のかたが利用できる支援制度 ,2022-03-30
-取手市,https://www.toride.or.jp/kinyu/, 相談,金融相談～取手市商工会～ ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+取手市,https://www.city.toride.ibaraki.jp/sanshin/jigyosha/shokogyo/hojokin/tyuusyoukigyoutaisaku.html, 融資,新型コロナウイルス感染症に係る中小企業向け融資制度 ,2022-03-30,,,
+取手市,https://www.city.toride.ibaraki.jp/sanshin/jigyosha/shokogyo/oshirase/sefutei4gou.html, 融資,セーフティネット保証制度4号の認定（新型コロナウイルス感染症関連） ,2022-03-30,,,
+取手市,https://www.city.toride.ibaraki.jp/sanshin/jigyosha/shokogyo/oshirase/safety5gou.html, 融資,セーフティネット保証制度5号の認定（新型コロナウイルス感染症関連） ,2022-03-30,,,
+取手市,https://www.city.toride.ibaraki.jp/wellness/kurashi/kenko/coronavirus/kinkyushien3.html, 支援情報,取手市独自の緊急支援対策（第3次） ,2022-03-30,,,
+取手市,https://www.city.toride.ibaraki.jp/kurashi/kenko/coronavirus/jigyosha-index.html, 支援情報,事業者のかたが利用できる支援制度 ,2022-03-30,,,
+取手市,https://www.toride.or.jp/kinyu/, 相談,金融相談～取手市商工会～ ,2022-03-30,,,
+取手市,https://www.city.toride.ibaraki.jp/sanshin/jigyosha/shokogyo/hojokin/unsoujigyousyasienkin.html,,【取手市】補助金：「取手市運送事業者等事業継続支援金」,2022-10-12,86321,※2022年10月7日更新　申請期限2023年1月31日,
+取手市,https://www.city.toride.ibaraki.jp/koreifukushi/kurashi/kenko/fukushi/kaigoservice/shisetsu_bukka_shienkin.html,,【取手市】補助金：「取手市高齢者福祉施設等物価高騰対策支援金」,2022-10-12,86319,※2022年10月6日更新　申請期限2022年11月30日,

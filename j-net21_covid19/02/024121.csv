@@ -1,4 +1,5 @@
-﻿area,url,category,title,date
-おいらせ町,https://www.town.oirase.aomori.jp/site/singatakorona/jigyousyamukedokujisien.html, 助成金,事業者向け町独自支援事業（商工観光課分）のお知らせ ,2022-03-30
-おいらせ町,https://www.town.oirase.aomori.jp/site/singatakorona/safetynethosho.html,, セーフティーネット保証制度 ,2022-03-30
-おいらせ町,https://www.town.oirase.aomori.jp/site/singatakorona/korona-soudanmadoguchi.html, 相談,新型コロナウイルス感染症に係る相談窓口一覧 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+おいらせ町,https://www.town.oirase.aomori.jp/site/singatakorona/jigyousyamukedokujisien.html, 助成金,事業者向け町独自支援事業（商工観光課分）のお知らせ ,2022-03-30,,,
+おいらせ町,https://www.town.oirase.aomori.jp/site/singatakorona/safetynethosho.html,, セーフティーネット保証制度 ,2022-03-30,,,
+おいらせ町,https://www.town.oirase.aomori.jp/site/singatakorona/korona-soudanmadoguchi.html, 相談,新型コロナウイルス感染症に係る相談窓口一覧 ,2022-03-30,,,
+おいらせ町,https://www.town.oirase.aomori.jp/site/singatakorona/r4genyukakakutaisaku-unsoujigyousyasien.html,,【おいらせ町】補助金：「原油価格対策運送事業者等支援金交付事業」,2022-10-12,86354,※2022年9月27日更新　申請期限2022年11月11日,
