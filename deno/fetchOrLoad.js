@@ -13,6 +13,11 @@ const fetchText = async (url) => {
   return text;
 };
 export const fetchOrLoad = async (url, forcefetch) => {
+  try {
+    await Deno.mkdir("temp");
+  } catch (e) {
+    //console.log(e);
+  }
   const fn = "temp/" + escapeURL(url);
   if (!forcefetch) {
     try {

@@ -27,32 +27,36 @@ const data = lls.map(ll => {
 console.log(data);
 
 for (const d of data) {
-  const html = await fetchOrLoad(d.url);
-  const dom = HTMLParser.parse(html);
-  const a = dom.querySelector("article");
-  d.tags = a.querySelectorAll(".h1-labels li").map(li => li.text.trim()).join(",");
-  //d.longtitle = a.querySelector("h1")?.text; // same
-  d.date = a.querySelector("p.txt-right")?.text.trim();
-  if (d.date) {
-    try {
-      d.date = new Day(d.date).toString();
-    } catch (e) {
-      const ym = d.date.match(/(\d+)年(\d+)月/);
-      if (ym) {
-        const s = ym[1] + "-" + fix0(ym[2], 2) + "-01";
-        //console.log(ym, s);
-        d.date = new Day(s).toString();
-      } else {
-        console.log("invalid", d.date);
-        //Deno.exit(0);
-        d.date = new Day().toString();
+  try {
+    const html = await fetchOrLoad(d.url);
+    const dom = HTMLParser.parse(html);
+    const a = dom.querySelector("article");
+    d.tags = a.querySelectorAll(".h1-labels li").map(li => li.text.trim()).join(",");
+    //d.longtitle = a.querySelector("h1")?.text; // same
+    d.date = a.querySelector("p.txt-right")?.text.trim();
+    if (d.date) {
+      try {
+        d.date = new Day(d.date).toString();
+      } catch (e) {
+        const ym = d.date.match(/(\d+)年(\d+)月/);
+        if (ym) {
+          const s = ym[1] + "-" + fix0(ym[2], 2) + "-01";
+          //console.log(ym, s);
+          d.date = new Day(s).toString();
+        } else {
+          console.log("invalid", d.date);
+          //Deno.exit(0);
+          d.date = new Day().toString();
+        }
       }
+    } else {
+      d.date = new Day().toString();
     }
-  } else {
-    d.date = new Day().toString();
+    d.body = a.text.replace(/\s/g, ""); // for search
+    //console.log(d.url, d.date, d.tags);
+  } catch (e) {
+    console.log(e);
   }
-  d.body = a.text.replace(/\s/g, ""); // for search
-  //console.log(d.url, d.date, d.tags);
 }
 data.sort((a, b) => a.date?.localeCompare(b?.date));
 //await Deno.writeTextFile("data.csv", CSV.stringify(data));
