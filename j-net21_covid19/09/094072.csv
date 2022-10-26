@@ -1,4 +1,5 @@
-﻿area,url,category,title,date
-那須町,https://www.town.nasu.lg.jp/0209/info-0000000457-1.html, 補助金,那須町空き店舗等リフォーム補助金 ,2022-03-30
-那須町,https://www.town.nasu.lg.jp/0208/info-0000001897-1.html, 融資,那須町中小企業振興資金融資制度 ,2022-03-30
-那須町,https://www.town.nasu.lg.jp/0214/info-0000000423-1.html,, セーフティネット保証制度 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+那須町,https://www.town.nasu.lg.jp/0209/info-0000000457-1.html, 補助金,那須町空き店舗等リフォーム補助金 ,2022-03-30,,,
+那須町,https://www.town.nasu.lg.jp/0208/info-0000001897-1.html, 融資,那須町中小企業振興資金融資制度 ,2022-03-30,,,
+那須町,https://www.town.nasu.lg.jp/0214/info-0000000423-1.html,, セーフティネット保証制度 ,2022-03-30,,,
+那須町,http://www.town.nasu.lg.jp/0037/info-0000002958-1.html,,【那須町】補助金：「那須町交通事業者燃料価格高騰対策支援金のお知らせ」,2022-10-26,87224,※2022年10月24日更新　申請期限2022年12月28日,
