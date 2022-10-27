@@ -1,4 +1,5 @@
-﻿area,url,category,title,date
-大多喜町,http://www.town.otaki.chiba.jp/news/index.cfm/detail.6.21974.html, 給付金,大多喜町新型コロナウイルス感染症対応農業者支援給付金 ,2022-03-30
-大多喜町,"http://www.town.otaki.chiba.jp/index.cfm/9,14561,26,106,html",, 生産性向上特別措置法に基づく先端設備等導入計画について ,2022-03-30
-大多喜町,http://www.town.otaki.chiba.jp/news/index.cfm/detail.1.15693.html, 支援情報,新型コロナウイルスに関する情報 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+大多喜町,http://www.town.otaki.chiba.jp/news/index.cfm/detail.6.21974.html, 給付金,大多喜町新型コロナウイルス感染症対応農業者支援給付金 ,2022-03-30,,,
+大多喜町,"http://www.town.otaki.chiba.jp/index.cfm/9,14561,26,106,html",, 生産性向上特別措置法に基づく先端設備等導入計画について ,2022-03-30,,,
+大多喜町,http://www.town.otaki.chiba.jp/news/index.cfm/detail.1.15693.html, 支援情報,新型コロナウイルスに関する情報 ,2022-03-30,,,
+大多喜町,"http://www.town.otaki.chiba.jp/index.cfm/6,24490,26,193,html",, 【大多喜町】補助金：「大多喜町農業生産費高騰対策支援給付金」,2022-10-27,87290,※2022年10月5日更新　申請期限2023年1月31日,
