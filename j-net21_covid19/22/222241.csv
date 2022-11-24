@@ -1,5 +1,6 @@
-﻿area,url,category,title,date
-菊川市,https://www.city.kikugawa.shizuoka.jp/shoukoukankou/keizaihendoutaisaku.html, 補給金,菊川市経済変動対策貸付金利子補給制度 ,2022-03-30
-菊川市,http://www.city.kikugawa.shizuoka.jp/shoukoukankou/tyuusyoukigyou/safetynethosyou.html, 融資,セーフティネット保証制度 ,2022-03-30
-菊川市,https://www.city.kikugawa.shizuoka.jp/shoukoukankou/dounyusokushin.html,, 導入促進基本計画について ,2022-03-30
-菊川市,http://www.city.kikugawa.shizuoka.jp/shoukoukankou/ivent/korona.html, 支援情報,新型コロナウイルス感染症に関する情報提供(企業の方向け) ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+菊川市,https://www.city.kikugawa.shizuoka.jp/shoukoukankou/keizaihendoutaisaku.html, 補給金,菊川市経済変動対策貸付金利子補給制度 ,2022-03-30,,,
+菊川市,http://www.city.kikugawa.shizuoka.jp/shoukoukankou/tyuusyoukigyou/safetynethosyou.html, 融資,セーフティネット保証制度 ,2022-03-30,,,
+菊川市,https://www.city.kikugawa.shizuoka.jp/shoukoukankou/dounyusokushin.html,, 導入促進基本計画について ,2022-03-30,,,
+菊川市,http://www.city.kikugawa.shizuoka.jp/shoukoukankou/ivent/korona.html, 支援情報,新型コロナウイルス感染症に関する情報提供(企業の方向け) ,2022-03-30,,,
+菊川市,http://www.city.kikugawa.shizuoka.jp/suidou/suidoryokinkeigenhojokin.html,, 【菊川市】補助金・助成金：「菊川市水道料金等軽減補助金交付制度について（大井上水道企業団・掛川市・御前崎市の水道使用者様向け）」,2022-11-24,89422,※2022年11月18日更新　申請期限2023年1月6日,
