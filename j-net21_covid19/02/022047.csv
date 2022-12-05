@@ -1,4 +1,5 @@
-﻿area,url,category,title,date
-黒石市,http://www.city.kuroishi.aomori.jp/news/sangyou/corona_yushi.html, 融資,融資関連情報 ,2022-03-30
-黒石市,http://www.city.kuroishi.aomori.jp/sangyou/seido/hoshou.html,, 経営安定関連保証制度(セーフティネット保証制度) ,2022-03-30
-黒石市,http://www.city.kuroishi.aomori.jp/news/sangyou/corona_jigyousya_shien.html, 支援情報,新型コロナウイルス感染症の影響を受ける事業者等への支援策 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+黒石市,http://www.city.kuroishi.aomori.jp/news/sangyou/corona_yushi.html, 融資,融資関連情報 ,2022-03-30,,,
+黒石市,http://www.city.kuroishi.aomori.jp/sangyou/seido/hoshou.html,, 経営安定関連保証制度(セーフティネット保証制度) ,2022-03-30,,,
+黒石市,http://www.city.kuroishi.aomori.jp/news/sangyou/corona_jigyousya_shien.html, 支援情報,新型コロナウイルス感染症の影響を受ける事業者等への支援策 ,2022-03-30,,,
+黒石市,http://www.city.kuroishi.aomori.jp/news/sangyou/2022-1115-1434-57.html,,【黒石市】補助金・助成金：「黒石市農業経営収入保険加入促進事業費補助金について」,2022-12-05,90145,,
