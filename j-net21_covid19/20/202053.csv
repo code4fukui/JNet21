@@ -1,7 +1,8 @@
-﻿area,url,category,title,date
-飯田市,https://www.city.iida.lg.jp/soshiki/24/02syougyousinkou.html, 補助金,飯田市商業振興事業補助金 ,2022-03-30
-飯田市,https://www.city.iida.lg.jp/site/covid19/sinseisienhojokin.html, 助成金,飯田市雇用調整助成金等申請支援事業補助金（市独自の申請手続き費用補助） ,2022-03-30
-飯田市,https://www.city.iida.lg.jp/soshiki/21/kinyuu12-covid19.html, 支援情報,新型コロナウイルス感染症の影響を受けている事業者への資金繰り支援（借入）と経営相談 ,2022-03-30
-飯田市,https://www.city.iida.lg.jp/site/covid19/support-info-for-businesses.html, 支援情報,事業者向け支援情報一覧 ,2022-03-30
-飯田市,https://www.city.iida.lg.jp/site/covid19/iidaanshinkit.html, 支援情報,信州の安心なお店向け抗原検査簡易キット配布事業 ,2022-03-30
-飯田市,https://www.city.iida.lg.jp/site/covid19/covid19-consultation.html, 相談,相談窓口一覧 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+飯田市,https://www.city.iida.lg.jp/soshiki/24/02syougyousinkou.html, 補助金,飯田市商業振興事業補助金 ,2022-03-30,,,
+飯田市,https://www.city.iida.lg.jp/site/covid19/sinseisienhojokin.html, 助成金,飯田市雇用調整助成金等申請支援事業補助金（市独自の申請手続き費用補助） ,2022-03-30,,,
+飯田市,https://www.city.iida.lg.jp/soshiki/21/kinyuu12-covid19.html, 支援情報,新型コロナウイルス感染症の影響を受けている事業者への資金繰り支援（借入）と経営相談 ,2022-03-30,,,
+飯田市,https://www.city.iida.lg.jp/site/covid19/support-info-for-businesses.html, 支援情報,事業者向け支援情報一覧 ,2022-03-30,,,
+飯田市,https://www.city.iida.lg.jp/site/covid19/iidaanshinkit.html, 支援情報,信州の安心なお店向け抗原検査簡易キット配布事業 ,2022-03-30,,,
+飯田市,https://www.city.iida.lg.jp/site/covid19/covid19-consultation.html, 相談,相談窓口一覧 ,2022-03-30,,,
+飯田市,https://www.city.iida.lg.jp/site/covid19/tyouju22.html,,【飯田市】補助金・助成金：「飯田市社会福祉施設等感染予防対策支援事業交付金の交付申請について」,2022-12-12,90660,※2022年12月5日更新　申請期限2022年12月28日,
