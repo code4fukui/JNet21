@@ -1,4 +1,7 @@
-﻿area,url,category,title,date
-鈴鹿市,https://www.city.suzuka.lg.jp/cgi-bin/kinkyu.cgi?mode=detail&no=425, 融資,鈴鹿市緊急雇用サポート事業【事業者向け】 ,2022-03-30
-鈴鹿市,https://www.city.suzuka.lg.jp/cgi-bin/kinkyu.cgi?mode=detail&no=202, 融資,新型コロナウイルス感染症に係る中小企業者対策（セーフティネット保証4号の指定）についてお知らせします ,2022-03-30
-鈴鹿市,https://www.city.suzuka.lg.jp/cgi-bin/kinkyu.cgi?mode=detail&no=203, 融資,新型コロナウイルス感染症に係る中小企業者対策（セーフティネット保証5号の指定）についてお知らせします ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+鈴鹿市,https://www.city.suzuka.lg.jp/cgi-bin/kinkyu.cgi?mode=detail&no=425, 融資,鈴鹿市緊急雇用サポート事業【事業者向け】 ,2022-03-30,,,
+鈴鹿市,https://www.city.suzuka.lg.jp/cgi-bin/kinkyu.cgi?mode=detail&no=202, 融資,新型コロナウイルス感染症に係る中小企業者対策（セーフティネット保証4号の指定）についてお知らせします ,2022-03-30,,,
+鈴鹿市,https://www.city.suzuka.lg.jp/cgi-bin/kinkyu.cgi?mode=detail&no=203, 融資,新型コロナウイルス感染症に係る中小企業者対策（セーフティネット保証5号の指定）についてお知らせします ,2022-03-30,,,
+鈴鹿市,https://www.city.suzuka.lg.jp/topics/files/6077.html,,【鈴鹿市】補助金・助成金：「物価高騰対策のための高齢者施設等運営支援給付金の申請を受け付けています（12月1日）」,2022-12-13,90822,※2022年12月1日更新,
+鈴鹿市,https://www.city.suzuka.lg.jp/topics/files/6078.html,,【鈴鹿市】補助金・助成金：「物価高騰対策のための障害福祉サービス事業所等運営支援給付金の申請を受け付けています（12月1日）」,2022-12-13,90821,※2022年12月1日更新,
+鈴鹿市,https://www.city.suzuka.lg.jp/topics/files/6095.html,,【鈴鹿市】補助金・助成金：「肥料価格高騰対策事業費補助金について（12月7日）」,2022-12-13,90819,※2022年12月7日更新,
