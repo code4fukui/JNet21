@@ -1,4 +1,8 @@
-﻿area,url,category,title,date
-坂出市,https://www.city.sakaide.lg.jp/soshiki/kigyou/tyusyoukigyou-yuushi.html, 融資,坂出市の中小企業融資制度 ,2022-03-30
-坂出市,https://www.city.sakaide.lg.jp/soshiki/kigyou/safetynet.html, 融資,セーフティネット保証の認定（中小企業信用保険法第2条第5項） ,2022-03-30
-坂出市,https://www.city.sakaide.lg.jp/soshiki/kigyou/colona-info.html, 支援情報,新型コロナウイルス感染症により影響を受ける企業の支援策 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+坂出市,https://www.city.sakaide.lg.jp/soshiki/kigyou/tyusyoukigyou-yuushi.html, 融資,坂出市の中小企業融資制度 ,2022-03-30,,,
+坂出市,https://www.city.sakaide.lg.jp/soshiki/kigyou/safetynet.html, 融資,セーフティネット保証の認定（中小企業信用保険法第2条第5項） ,2022-03-30,,,
+坂出市,https://www.city.sakaide.lg.jp/soshiki/kigyou/colona-info.html, 支援情報,新型コロナウイルス感染症により影響を受ける企業の支援策 ,2022-03-30,,,
+坂出市,https://www.city.sakaide.lg.jp/soshiki/sangyoukankou/kamotsu.html,,【坂出市】補助金・助成金：「坂出市貨物運送事業者支援給付金について」,2023-01-18,93015,※2022年12月22日更新　申請期限2023年2月17日,
+坂出市,https://www.city.sakaide.lg.jp/soshiki/nourinsuisan/sien.html,,【坂出市】補助金・助成金：「坂出市農林業者支援給付金について」,2023-01-18,93013,※2023年1月4日更新　申請期限2023年2月28日,
+坂出市,https://www.city.sakaide.lg.jp/soshiki/kaigo/bukkakoutou.html,,【坂出市】補助金・助成金：「坂出市社会福祉施設等物価高騰対策支援給付金（介護分）」,2023-01-18,93012,※2022年12月20日更新　申請期限2023年1月31日,
+坂出市,https://www.city.sakaide.lg.jp/soshiki/fukusi/shisetsu-kyufu.html,,【坂出市】補助金・助成金：「坂出市社会福祉施設等物価高騰対策支援給付金（ふくし課分）」,2023-01-18,93011,※2022年12月20日更新　申請期限2023年1月31日,
