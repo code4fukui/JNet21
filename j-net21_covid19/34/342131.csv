@@ -1,5 +1,7 @@
-﻿area,url,category,title,date
-廿日市市,https://www.city.hatsukaichi.hiroshima.jp/soshiki/25/63967.html, 融資,信用保証制度（セーフティネット保証4号） ,2022-03-30
-廿日市市,https://www.city.hatsukaichi.hiroshima.jp/soshiki/25/56586.html, 融資,信用保証制度（セーフティネット保証5号） ,2022-03-30
-廿日市市,https://www.city.hatsukaichi.hiroshima.jp/life/6/52/, 支援情報,事業者向け支援 ,2022-03-30
-廿日市市,http://www.city.hatsukaichi.hiroshima.jp/site/coronavirus/52778.html, 支援情報,新型コロナウイルス 中小企業への支援措置 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+廿日市市,https://www.city.hatsukaichi.hiroshima.jp/soshiki/25/63967.html, 融資,信用保証制度（セーフティネット保証4号） ,2022-03-30,,,
+廿日市市,https://www.city.hatsukaichi.hiroshima.jp/soshiki/25/56586.html, 融資,信用保証制度（セーフティネット保証5号） ,2022-03-30,,,
+廿日市市,https://www.city.hatsukaichi.hiroshima.jp/life/6/52/, 支援情報,事業者向け支援 ,2022-03-30,,,
+廿日市市,http://www.city.hatsukaichi.hiroshima.jp/site/coronavirus/52778.html, 支援情報,新型コロナウイルス 中小企業への支援措置 ,2022-03-30,,,
+廿日市市,https://imakoso.jp/sogyo2023/,,【廿日市市】補助金・助成金：「廿日市市創業支援補助金」,2023-05-19,102231,※申請期限2023年5月31日,
+廿日市市,https://imakoso.jp/renkei2023/,,【廿日市市】補助金・助成金：「廿日市市産業連携支援補助金」,2023-05-19,102232,※申請期限2023年5月31日,
