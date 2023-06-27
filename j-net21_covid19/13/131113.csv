@@ -1,7 +1,9 @@
-﻿area,url,category,title,date
-大田区,https://www.city.ota.tokyo.jp/sangyo/topics/rishihokyuukasann.html, 融資,大田区中小企業融資あっせん制度「一般運転資金(利子補給加算)」 ,2022-03-30
-大田区,https://www.city.ota.tokyo.jp/sangyo/yushi/safu/safety-net_corona.html, 融資,セーフティネット保証4号認定　(新型コロナウイルス感染症の影響に伴う保証) ,2022-03-30
-大田区,https://www.city.ota.tokyo.jp/sangyo/yushi/safu/safety-nethosyou_5gou.html, 融資,セーフティネット保証5号認定 ,2022-03-30
-大田区,https://www.city.ota.tokyo.jp/cyuumokujoho/infection/kansensyou_chushousien/index.html, 支援情報,中小企業支援 ,2022-03-30
-大田区,https://www.city.ota.tokyo.jp/sangyo/topics/covid-19_other_goverments.html, 支援情報,中小企業・小規模事業者向けの補助金・給付金(新型コロナウイルス感染症関連) ,2022-03-30
-大田区,https://www.city.ota.tokyo.jp/sangyo/topics/covid-19_keieisoudan.html, 相談,中小企業・小規模事業者向けの経営相談（新型コロナウイルス感染症関連） ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+大田区,https://www.city.ota.tokyo.jp/sangyo/topics/rishihokyuukasann.html, 融資,大田区中小企業融資あっせん制度「一般運転資金(利子補給加算)」 ,2022-03-30,,,
+大田区,https://www.city.ota.tokyo.jp/sangyo/yushi/safu/safety-net_corona.html, 融資,セーフティネット保証4号認定　(新型コロナウイルス感染症の影響に伴う保証) ,2022-03-30,,,
+大田区,https://www.city.ota.tokyo.jp/sangyo/yushi/safu/safety-nethosyou_5gou.html, 融資,セーフティネット保証5号認定 ,2022-03-30,,,
+大田区,https://www.city.ota.tokyo.jp/cyuumokujoho/infection/kansensyou_chushousien/index.html, 支援情報,中小企業支援 ,2022-03-30,,,
+大田区,https://www.city.ota.tokyo.jp/sangyo/topics/covid-19_other_goverments.html, 支援情報,中小企業・小規模事業者向けの補助金・給付金(新型コロナウイルス感染症関連) ,2022-03-30,,,
+大田区,https://www.city.ota.tokyo.jp/sangyo/topics/covid-19_keieisoudan.html, 相談,中小企業・小規模事業者向けの経営相談（新型コロナウイルス感染症関連） ,2022-03-30,,,
+大田区,https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=201997,,セミナー・イベント：「2023年から2024年までに 中小企業がやるべき7つのこと！！」,2023-06-27,104997,※申込期限2023年7月3日,
+大田区,https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=202016,,セミナー・イベント：「こうすれば業績が上げる、チームリーダーのコミュニケーション術」,2023-06-27,105008,※申込期限2023年7月3日,

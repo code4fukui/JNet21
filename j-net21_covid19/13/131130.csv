@@ -1,8 +1,10 @@
-﻿area,url,category,title,date
-渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/yushijosei/sb_yushi1.html, 融資,区の中小企業事業資金融資あっせん制度 ,2022-03-30
-渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/yushijosei/corona_yushi.html, 融資,緊急経営支援特別資金（新型コロナウイルス感染症対応） ,2022-03-30
-渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/sogyoshien/corona_shien.html, 融資,セーフティネット4号認定について ,2022-03-30
-渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/shindan.html, 支援情報,【事業者向け】補助金・助成金自動診断システム ,2022-03-30
-渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/yushijosei/shomeisho.html, 支援情報,「小規模事業者持続化補助金・新型コロナウイルス感染症の影響による売上減少の証明書」の申請受付 ,2022-03-30
-渋谷区,https://www.city.shibuya.tokyo.jp/assets/jigyosha/000058895.pdf, 支援情報,令和3年度 渋谷区中小企業事業資金融資取扱金融機関一覧 ,2022-03-30
-渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/syoko_soudan.html, 相談,商工相談 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/yushijosei/sb_yushi1.html, 融資,区の中小企業事業資金融資あっせん制度 ,2022-03-30,,,
+渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/yushijosei/corona_yushi.html, 融資,緊急経営支援特別資金（新型コロナウイルス感染症対応） ,2022-03-30,,,
+渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/sogyoshien/corona_shien.html, 融資,セーフティネット4号認定について ,2022-03-30,,,
+渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/shindan.html, 支援情報,【事業者向け】補助金・助成金自動診断システム ,2022-03-30,,,
+渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/yushijosei/shomeisho.html, 支援情報,「小規模事業者持続化補助金・新型コロナウイルス感染症の影響による売上減少の証明書」の申請受付 ,2022-03-30,,,
+渋谷区,https://www.city.shibuya.tokyo.jp/assets/jigyosha/000058895.pdf, 支援情報,令和3年度 渋谷区中小企業事業資金融資取扱金融機関一覧 ,2022-03-30,,,
+渋谷区,https://www.city.shibuya.tokyo.jp/jigyosha/syoko_rodo_soudan/syoko_soudan.html, 相談,商工相談 ,2022-03-30,,,
+渋谷区,https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=201997,,セミナー・イベント：「2023年から2024年までに 中小企業がやるべき7つのこと！！」,2023-06-27,104997,※申込期限2023年7月3日,
+渋谷区,https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=202016,,セミナー・イベント：「こうすれば業績が上げる、チームリーダーのコミュニケーション術」,2023-06-27,105008,※申込期限2023年7月3日,

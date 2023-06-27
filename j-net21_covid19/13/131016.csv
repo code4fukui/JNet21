@@ -1,7 +1,9 @@
-﻿area,url,category,title,date
-千代田区,https://www.city.chiyoda.lg.jp/koho/shigoto/jigyosho/yushi/assen/index.html, 融資,【受付期限の延長】千代田区商工融資あっせん制度 ,2022-03-30
-千代田区,https://www.city.chiyoda.lg.jp/koho/shigoto/jigyosho/yushi/qa.html, 融資,商工融資・セーフティネット保証・危機関連保証に関するよくある質問 ,2022-03-30
-千代田区,https://www.city.chiyoda.lg.jp/koho/shigoto/jigyosho/yushi/safety-net.html, 融資,セーフティネット保証制度（中小企業信用保険法第2条第5項） ,2022-03-30
-千代田区,https://www.city.chiyoda.lg.jp/koho/shigoto/jigyosho/shien-coronavirus.html, 支援情報,新型コロナウイルス感染症に関する中小企業支援 ,2022-03-30
-千代田区,https://www.city.chiyoda.lg.jp/koho/shigoto/jigyosho/sodan/koyo.html, 相談,中小企業診断士・社会保険労務士によるワンストップ無料経営相談窓口 ,2022-03-30
-千代田区,https://www.mm-chiyoda.or.jp/business/management_support.html, 相談,マネジメント・サポートデスク ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+千代田区,https://www.city.chiyoda.lg.jp/koho/shigoto/jigyosho/yushi/assen/index.html, 融資,【受付期限の延長】千代田区商工融資あっせん制度 ,2022-03-30,,,
+千代田区,https://www.city.chiyoda.lg.jp/koho/shigoto/jigyosho/yushi/qa.html, 融資,商工融資・セーフティネット保証・危機関連保証に関するよくある質問 ,2022-03-30,,,
+千代田区,https://www.city.chiyoda.lg.jp/koho/shigoto/jigyosho/yushi/safety-net.html, 融資,セーフティネット保証制度（中小企業信用保険法第2条第5項） ,2022-03-30,,,
+千代田区,https://www.city.chiyoda.lg.jp/koho/shigoto/jigyosho/shien-coronavirus.html, 支援情報,新型コロナウイルス感染症に関する中小企業支援 ,2022-03-30,,,
+千代田区,https://www.city.chiyoda.lg.jp/koho/shigoto/jigyosho/sodan/koyo.html, 相談,中小企業診断士・社会保険労務士によるワンストップ無料経営相談窓口 ,2022-03-30,,,
+千代田区,https://www.mm-chiyoda.or.jp/business/management_support.html, 相談,マネジメント・サポートデスク ,2022-03-30,,,
+千代田区,https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=201997,,セミナー・イベント：「2023年から2024年までに 中小企業がやるべき7つのこと！！」,2023-06-27,104997,※申込期限2023年7月3日,
+千代田区,https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=202016,,セミナー・イベント：「こうすれば業績が上げる、チームリーダーのコミュニケーション術」,2023-06-27,105008,※申込期限2023年7月3日,
