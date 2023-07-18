@@ -1,6 +1,7 @@
-﻿area,url,category,title,date
-久留米市,http://www.city.kurume.fukuoka.jp/1090sangyou/2020shoukougyou/3010shienseido/2020-0316-1140-74.html, 融資,商工業者向け新型コロナウイルス感染症対応融資制度 ,2022-03-30
-久留米市,https://www.city.kurume.fukuoka.jp/1070sangyou/2030shoukougyou/3010shienseido/2020-0316-1140-74.html, 融資,商工業者向け新型コロナウイルス感染症対応融資制度,2022-03-30
-久留米市,https://www.city.kurume.fukuoka.jp/1090sangyou/2020shoukougyou/3015yushijosei/2020-0701-1025-74.html, 融資,セーフティネット保証4号、5号、危機関連保証について（新型コロナウイルス感染症関連） ,2022-03-30
-久留米市,https://www.city.kurume.fukuoka.jp/1090sangyou/2020shoukougyou/3010shienseido/2021-0422-1514-74.html, 支援情報,新型コロナウイルス感染症の影響を受ける事業者の皆様への支援 ,2022-03-30
-久留米市,https://www.city.kurume.fukuoka.jp/1500soshiki/9089syoko/3010oshirase/2020-0218-1210-74.html, 相談,新型コロナウイルス感染症に関する商工業者相談窓口について ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+久留米市,http://www.city.kurume.fukuoka.jp/1090sangyou/2020shoukougyou/3010shienseido/2020-0316-1140-74.html, 融資,商工業者向け新型コロナウイルス感染症対応融資制度 ,2022-03-30,,,
+久留米市,https://www.city.kurume.fukuoka.jp/1070sangyou/2030shoukougyou/3010shienseido/2020-0316-1140-74.html, 融資,商工業者向け新型コロナウイルス感染症対応融資制度,2022-03-30,,,
+久留米市,https://www.city.kurume.fukuoka.jp/1090sangyou/2020shoukougyou/3015yushijosei/2020-0701-1025-74.html, 融資,セーフティネット保証4号、5号、危機関連保証について（新型コロナウイルス感染症関連） ,2022-03-30,,,
+久留米市,https://www.city.kurume.fukuoka.jp/1090sangyou/2020shoukougyou/3010shienseido/2021-0422-1514-74.html, 支援情報,新型コロナウイルス感染症の影響を受ける事業者の皆様への支援 ,2022-03-30,,,
+久留米市,https://www.city.kurume.fukuoka.jp/1500soshiki/9089syoko/3010oshirase/2020-0218-1210-74.html, 相談,新型コロナウイルス感染症に関する商工業者相談窓口について ,2022-03-30,,,
+久留米市,https://www.city.kurume.fukuoka.jp/1070kenkou/2040hokeneisei/3006vaccine/2023-0629-0932-366.html,,【久留米市】補助金・助成金：【医療機関向け】新型コロナウイルスワクチン個別接種促進のための支援について,2023-07-18,106515,※2023年7月14日更新　申請期限2023年9月20日,
