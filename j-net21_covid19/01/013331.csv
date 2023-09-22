@@ -1,4 +1,5 @@
-﻿area,url,category,title,date
-知内町,http://www.town.shiriuchi.hokkaido.jp/kanko/sangyo/shokogyo/corona2020_taisaku.html,, 知内町新型コロナウイルス感染症対策事業について ,2022-03-30
-知内町,http://www.town.shiriuchi.hokkaido.jp/kanko/sangyo/shokogyo/safety_net.html, 融資,セーフティネット保証制度について ,2022-03-30
-知内町,http://www.town.shiriuchi.hokkaido.jp/kurashi/covid-19/action_list.html, 支援情報,各種支援のご案内 ,2022-03-30
+﻿area,url,category,title,date,id,comment,body
+知内町,http://www.town.shiriuchi.hokkaido.jp/kanko/sangyo/shokogyo/corona2020_taisaku.html,, 知内町新型コロナウイルス感染症対策事業について ,2022-03-30,,,
+知内町,http://www.town.shiriuchi.hokkaido.jp/kanko/sangyo/shokogyo/safety_net.html, 融資,セーフティネット保証制度について ,2022-03-30,,,
+知内町,http://www.town.shiriuchi.hokkaido.jp/kurashi/covid-19/action_list.html, 支援情報,各種支援のご案内 ,2022-03-30,,,
+知内町,https://www.oshima.pref.hokkaido.lg.jp/ss/srk/121870.html,,専門家による支援 ：「アフターコロナイノベーション力強化プロジェクト事業」,2023-09-22,111475,※2023年6月7日更新　申込期限2024年1月31日,
