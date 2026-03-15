@@ -1,0 +1,30 @@
+# JNet21
+
+[J-Net21[中小企業ビジネス支援サイト]](https://j-net21.smrj.go.jp/)のオープンデータ化
+
+## デモ
+
+- [JNet21支援オープンデータ 検索 サンプルアプリ](https://code4fukui.github.io/JNet21/)
+- [JNet21支援オープンデータ https://code4fukui.github.io/JNet21/j-net21_support-list.csv](https://code4fukui.github.io/JNet21/j-net21_support-list.csv)
+
+## 機能
+
+- J-Net21の支援情報をオープンデータ化
+- 自治体別の支援情報を個別に公開
+- CSV形式でデータをダウンロード可能
+
+## 必要環境
+
+特に必要なし。Webブラウザがあれば利用できます。
+
+## 使い方
+
+WebブラウザでサンプルアプリやCSVデータにアクセスしてください。
+
+## データ・API
+
+J-Net21公開のオープンデータを活用しています。
+
+## ライセンス
+
+MIT License
