@@ -1,5 +1,7 @@
 # JNet21
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Open sourcing of open data from [J-Net21[Site for Supporting Small and Medium Enterprises]](https://j-net21.smrj.go.jp/).
 
 ## Apps
