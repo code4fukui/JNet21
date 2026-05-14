@@ -1,16 +1,22 @@
 # JNet21
 
-[J-Net21[中小企業ビジネス支援サイト]](https://j-net21.smrj.go.jp/)のオープンデータ化
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-## アプリ
+Open sourcing of open data from [J-Net21[Site for Supporting Small and Medium Enterprises]](https://j-net21.smrj.go.jp/).
 
-- [JNet21支援オープンデータ 検索 サンプルアプリ](https://code4fukui.github.io/JNet21/)
-- [JNet21支援オープンデータ https://code4fukui.github.io/JNet21/j-net21_support-list.csv](https://code4fukui.github.io/JNet21/j-net21_support-list.csv)
+## Apps
 
-## 自治体別（例)
+- [JNet21 Support Open Data Search Sample App](https://code4fukui.github.io/JNet21/)
+- [JNet21 Support Open Data](https://code4fukui.github.io/JNet21/j-net21_support-list.csv)
 
-- [JNet21自治体別支援オープンデータ 検索 サンプルアプリ](https://code4fukui.github.io/JNet21/area.html)
-- [JNet21支援オープンデータ 大阪府](https://github.com/code4fukui/JNet21/blob/main/j-net21_covid19/27/270008.csv)
-- [JNet21支援オープンデータ 大阪府堺市](https://github.com/code4fukui/JNet21/blob/main/j-net21_covid19/27/271403.csv)
-- [JNet21支援オープンデータ 福井県](https://github.com/code4fukui/JNet21/blob/main/j-net21_covid19/18/180009.csv)
-- [JNet21支援オープンデータ 福井県鯖江市](https://github.com/code4fukui/JNet21/blob/main/j-net21_covid19/18/182079.csv)
+## By Local Government (Example)
+
+- [JNet21 Local Government Support Open Data Search Sample App](https://code4fukui.github.io/JNet21/area.html)
+- [JNet21 Support Open Data Osaka Prefecture](https://github.com/code4fukui/JNet21/blob/main/j-net21_covid19/27/270008.csv)
+- [JNet21 Support Open Data Sakai City, Osaka](https://github.com/code4fukui/JNet21/blob/main/j-net21_covid19/27/271403.csv)
+- [JNet21 Support Open Data Fukui Prefecture](https://github.com/code4fukui/JNet21/blob/main/j-net21_covid19/18/180009.csv)
+- [JNet21 Support Open Data Sabae City, Fukui](https://github.com/code4fukui/JNet21/blob/main/j-net21_covid19/18/182079.csv)
+
+## License
+
+MIT License
